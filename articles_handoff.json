@@ -1,20 +1,400 @@
 {
-  "date": "2026-07-05",
+  "date": "2026-07-06",
   "articles": [
     {
-      "title": "The Croman name is back in the deal flow, featuring the next generation",
-      "source": "The Real Deal \u2014 New York",
-      "link": "https://therealdeal.com/new-york/2026/07/04/croman-name-is-back-in-the-flow-featuring-next-generation/",
-      "published": "Sat, 04 Jul 2026 13:00:00 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-05-001.html",
-      "transaction_type": "Acquisition",
+      "title": "RREAF Holdings CEO Kip Sowden Drives Southeast Real Estate",
+      "source": "Commercial Observer",
+      "link": "https://commercialobserver.com/2026/07/rreaf-holdings-ceo-kip-sowden/",
+      "published": "Mon, 06 Jul 2026 10:30:04 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-06-001.html",
+      "transaction_type": null,
+      "article_type": "Feature / Profile",
+      "market": null,
+      "narrative": "This article profiles Kip Sowden, CEO of RREAF Holdings, a vertically integrated real estate firm with $4.8 billion in assets under management. Sowden discusses his 40-year career, from real estate investment banking and brokerage to founding RREAF in 2010. The firm operates across five main divisions: multifamily, beachfront hospitality and resorts, master-planned communities, extended-stay hospitality, and RV communities, primarily in the South and Southeastern United States. Sowden emphasizes RREAF's in-house capabilities, including property management, acquisitions, underwriting, due diligence, and construction, which allows them to manage 23,000 units across 90 assets.",
+      "data_points": null,
+      "companies_people": [
+        {
+          "label": "OWNER",
+          "firm_name": "RREAF Holdings",
+          "people": [
+            {
+              "name": "Kip Sowden",
+              "title": "CEO"
+            }
+          ]
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Sunday Summary: The Deals Lit Up Like a Fireworks Display",
+      "source": "Commercial Observer",
+      "link": "https://commercialobserver.com/2026/07/sunday-summary-the-deals-lit-up-like-a-fireworks-display/",
+      "published": "Sun, 05 Jul 2026 13:00:51 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-06-002.html",
+      "transaction_type": null,
+      "article_type": "Market Research / Weekly Summary",
+      "market": null,
+      "narrative": "This article provides a summary of significant commercial real estate activity, highlighting major transactions and market trends. It covers Bridgepoint Group's $1.4 billion acquisition of Kayne Anderson Real Estate and Blackstone's $3.5 billion sale of three data centers to Digital Realty Trust. The piece also notes Starwood's closing of a $10.2 billion opportunistic fund for data center investment. Additionally, it details robust office leasing activity in New York City, Los Angeles, and Miami, with specific examples of large leases and rising rents, while also touching on challenges in the D.C. office market and the impact of rent freezes on New York City landlords.",
+      "data_points": null,
+      "companies_people": [
+        {
+          "label": "BUYER",
+          "firm_name": "Bridgepoint Group",
+          "people": []
+        },
+        {
+          "label": "SELLER",
+          "firm_name": "Kayne Anderson Real Estate",
+          "people": []
+        },
+        {
+          "label": "SELLER",
+          "firm_name": "Blackstone",
+          "people": []
+        },
+        {
+          "label": "BUYER",
+          "firm_name": "Digital Realty Trust",
+          "people": []
+        },
+        {
+          "label": "SPONSOR",
+          "firm_name": "Starwood",
+          "people": []
+        },
+        {
+          "label": "TENANT",
+          "firm_name": "Cerberus Capital Management",
+          "people": []
+        },
+        {
+          "label": "LANDLORD",
+          "firm_name": "Global Holdings",
+          "people": [
+            {
+              "name": "Eyal Ofer",
+              "title": null
+            }
+          ]
+        },
+        {
+          "label": "TENANT",
+          "firm_name": "Target",
+          "people": []
+        },
+        {
+          "label": "TENANT",
+          "firm_name": "Cleary Gottlieb Steen & Hamilton",
+          "people": []
+        },
+        {
+          "label": "TENANT",
+          "firm_name": "Simpson Thacher & Bartlett",
+          "people": []
+        },
+        {
+          "label": "LANDLORD",
+          "firm_name": "Extell",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Simon Property Group",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Harrison Street Asset Management",
+          "people": [
+            {
+              "name": "Christopher Merrill",
+              "title": null
+            }
+          ]
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "HSF Kramer",
+          "people": [
+            {
+              "name": "Seth Niedermayer",
+              "title": null
+            }
+          ]
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Mitsui Fudosan America",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Hudson Bay Capital Management",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "BlackRock",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Vici Properties",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "LCN Capital Partners",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Blue Owl",
+          "people": []
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": "New York City office market shows strongest leasing velocity since 2002, with volume doubling and asking rents increasing. Law firms accounted for approximately 30% of the leasing activity in NYC. Los Angeles office market saw a 15% uptick in leasing from the previous quarter, totaling 4 million square feet, an 8% increase year-over-year. Miami's office leasing volume surged 45% quarter-over-quarter, with rents 57% higher than five years ago. The D.C. office market continues to struggle with high availability, except for trophy buildings."
+    },
+    {
+      "title": "KIRE Group Receives $13.3M Loan for Refinancing of Multifamily Community Near San Diego",
+      "source": "REBusinessOnline",
+      "link": "https://rebusinessonline.com/kire-group-receives-13-3m-loan-for-refinancing-of-multifamily-community-near-san-diego/",
+      "published": "Mon, 06 Jul 2026 12:32:46 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-06-003.html",
+      "transaction_type": "Refinance",
       "article_type": null,
-      "market": "New York City, NY",
-      "narrative": "Jake and Adam Croman, operating independently from their father, have acquired a five-story, half rent-stabilized apartment building at 118 Mulberry Street in Chinatown, New York City. This acquisition reflects their strategy of investing in smaller multifamily buildings with commercial storefronts, a departure from traditional value-add approaches in the current rent-stabilized market. The transaction highlights a generational shift in investment philosophy within the Croman family, focusing on assets that many other investors are currently avoiding.",
+      "market": "National City, CA",
+      "narrative": "KIRE Group has secured a $13.3 million permanent fixed-rate loan to refinance Talas Apartments, a recently built multifamily community in National City, southeast of San Diego. The financing, arranged by Northmarq, features a five-year term with full-term interest-only payments. The property offers modern studio, one-, and two-bedroom units.",
       "data_points": {
         "property_type": "multifamily",
+        "property_name": "Talas Apartments",
+        "address": "2114 E. 7th St., National City, CA",
+        "address_sourced_separately": false,
+        "size_sf": null,
+        "size_units": 48,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": 13300000.0,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": 2025,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": "Units feature modern finishes, in-unit washers/dryers, and private balconies/patios.",
+        "project_notes": null
+      },
+      "companies_people": [
+        {
+          "label": "SPONSOR",
+          "firm_name": "KIRE Group",
+          "people": []
+        },
+        {
+          "label": "LENDER",
+          "firm_name": "Fannie Mae DUS",
+          "people": []
+        },
+        {
+          "label": "MORTGAGE BROKER",
+          "firm_name": "Northmarq",
+          "people": [
+            {
+              "name": "Aaron Beck",
+              "title": null
+            },
+            {
+              "name": "Bryce Quezada",
+              "title": null
+            }
+          ]
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Serac Capital, WalshDupart Develop 180-Unit Dual-Branded Marriott Hotels in Steamboat Springs, Colorado",
+      "source": "REBusinessOnline",
+      "link": "https://rebusinessonline.com/serac-capital-walshdupart-develop-180-unit-dual-branded-marriott-hotels-in-steamboat-springs-colorado/",
+      "published": "Mon, 06 Jul 2026 12:32:10 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-06-004.html",
+      "transaction_type": "Development",
+      "article_type": null,
+      "market": "Steamboat Springs, CO",
+      "narrative": "Serac Capital Partners and WalshDupart have completed the development of a 180-unit, dual-branded Marriott hotel property in Steamboat Springs, CO. The project combines a SpringHill Suites and a TownePlace Suites, offering a range of accommodations from traditional suites to apartment-style units with in-suite kitchens. The two hotels are connected by a shared lounge, and Midas Hospitality will manage the properties.",
+      "data_points": {
+        "property_type": "hotel",
+        "property_name": "SpringHill Suites by Marriott and TownePlace Suites by Marriott",
+        "address": "1750 Central Park Drive, Steamboat Springs, CO",
+        "address_sourced_separately": false,
+        "size_sf": null,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": 180,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": "Dual-branded hotel featuring SpringHill Suites and TownePlace Suites, connected by The Crawford Lounge with a fireplace, billiards, and local food/cocktails.",
+        "project_notes": null
+      },
+      "companies_people": [
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Serac Capital Partners",
+          "people": []
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "WalshDupart",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Midas Hospitality",
+          "people": []
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "PSRS Arranges $6.5M in Refinancing for Shopping Center in Dana Point, California",
+      "source": "REBusinessOnline",
+      "link": "https://rebusinessonline.com/psrs-arranges-6-5m-in-refinancing-for-shopping-center-in-dana-point-california/",
+      "published": "Mon, 06 Jul 2026 12:30:09 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-06-005.html",
+      "transaction_type": "Refinance",
+      "article_type": null,
+      "market": "Dana Point, CA",
+      "narrative": "PSRS has secured $6.5 million in cash-out refinancing for a 31,801-square-foot shopping center in Dana Point, California. The non-recourse loan, obtained through a bank relationship, features a sub-30 percent loan-to-value ratio and a three-year, full-term interest-only structure.",
+      "data_points": {
+        "property_type": "retail",
         "property_name": null,
-        "address": "118 Mulberry Street, New York City, NY",
+        "address": null,
+        "address_sourced_separately": false,
+        "size_sf": 31801.0,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": 6500000.0,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": null,
+        "project_notes": null
+      },
+      "companies_people": [
+        {
+          "label": "MORTGAGE BROKER",
+          "firm_name": "PSRS",
+          "people": [
+            {
+              "name": "Michael Presser",
+              "title": null
+            }
+          ]
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Target to Open 128,000 SF Store at Firestone City Centre in Colorado",
+      "source": "REBusinessOnline",
+      "link": "https://rebusinessonline.com/target-to-open-128000-sf-store-at-firestone-city-centre-in-colorado/",
+      "published": "Mon, 06 Jul 2026 12:29:32 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-06-006.html",
+      "transaction_type": "Lease",
+      "article_type": null,
+      "market": "Firestone, CO",
+      "narrative": "Target is set to open a 128,000-square-foot store at Firestone City Centre in Firestone, Colorado, this month. The Staenberg Group is the developer of the mixed-use project, which includes extensive retail and restaurant space, alongside a multifamily community.",
+      "data_points": {
+        "property_type": "retail",
+        "property_name": "Firestone City Centre",
+        "address": null,
+        "address_sourced_separately": false,
+        "size_sf": 128000.0,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": "Part of a larger mixed-use development featuring over 600,000 square feet of retail and restaurant space, and a 300-unit multifamily community.",
+        "project_notes": null
+      },
+      "companies_people": [
+        {
+          "label": "LANDLORD",
+          "firm_name": "The Staenberg Group",
+          "people": []
+        },
+        {
+          "label": "TENANT",
+          "firm_name": "Target",
+          "people": []
+        }
+      ],
+      "tenants": [
+        "Target"
+      ],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Texas Icon Mehrdad Moayedi: Developing communities with long-term civic responsibility",
+      "source": "REJournals",
+      "link": "https://rejournals.com/texas-icon-mehrdad-moayedi-developing-communities-with-long-term-civic-responsibility/?utm_source=rss&utm_medium=rss&utm_campaign=texas-icon-mehrdad-moayedi-developing-communities-with-long-term-civic-responsibility",
+      "published": "Mon, 06 Jul 2026 10:02:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-06-007.html",
+      "transaction_type": null,
+      "article_type": "Feature / Profile",
+      "market": "Texas",
+      "narrative": "This article profiles Mehrdad Moayedi, President and CEO of Centurion American Development Group, highlighting his four-decade career in real estate development across North Texas and Colorado. Moayedi's approach emphasizes long-term community building, civic responsibility, and collaboration with municipalities to shape growth and redevelop key urban sites. His work is characterized by a commitment to philanthropy and a personal drive to give back to the community, stemming from his own immigrant experience.",
+      "data_points": {
+        "property_type": null,
+        "property_name": null,
+        "address": null,
         "address_sourced_separately": false,
         "size_sf": null,
         "size_units": null,
@@ -32,43 +412,19 @@
         "original_plan": null,
         "land_area_acres": null,
         "multi_asset_purchase": false,
-        "notable_features": "Approximately half of the units are rent-stabilized.",
+        "notable_features": null,
         "project_notes": null
       },
       "companies_people": [
         {
-          "label": "BUYER",
-          "firm_name": "Croman",
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Centurion American Development Group",
           "people": [
             {
-              "name": "Jake Croman",
-              "title": null
-            },
-            {
-              "name": "Adam Croman",
-              "title": null
+              "name": "Mehrdad Moayedi",
+              "title": "President and CEO"
             }
           ]
-        },
-        {
-          "label": "BUYER",
-          "firm_name": "Centennial Properties",
-          "people": []
-        },
-        {
-          "label": "BUYER",
-          "firm_name": "Tahari",
-          "people": [
-            {
-              "name": "Jeremy Tahari",
-              "title": null
-            }
-          ]
-        },
-        {
-          "label": "BUYER",
-          "firm_name": "Mo Bamba",
-          "people": []
         }
       ],
       "tenants": [],
@@ -76,77 +432,462 @@
       "market_intelligence": null
     },
     {
-      "title": "Alexander brothers swept into contraband probe at Brooklyn detention center",
-      "source": "The Real Deal \u2014 New York",
-      "link": "https://therealdeal.com/new-york/2026/07/04/jailed-fraudster-in-brooklyn-jail-charged-over-illegal-phone/",
-      "published": "Sat, 04 Jul 2026 12:00:00 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-05-002.html",
+      "title": "A stable market? That\u2019s how Colliers refers to Twin Cities industrial sector in latest research",
+      "source": "REJournals",
+      "link": "https://rejournals.com/a-stable-market-thats-how-colliers-refers-to-twin-cities-industrial-sector-in-latest-research/?utm_source=rss&utm_medium=rss&utm_campaign=a-stable-market-thats-how-colliers-refers-to-twin-cities-industrial-sector-in-latest-research",
+      "published": "Mon, 06 Jul 2026 09:53:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-06-008.html",
       "transaction_type": null,
-      "article_type": "Non-CRE / Political & Crime News",
-      "market": "New York City, NY",
-      "narrative": "This article reports on a contraband cellphone probe at a Brooklyn detention center involving the Alexander brothers, formerly prominent residential real estate brokers. Federal prosecutors charged another inmate with possessing an illegal phone, which was allegedly used by Oren Alexander and others. The report also revealed that all three Alexander brothers were found to have used contraband cellphones, though they have not been charged with related crimes. The article also touches on Tal Alexander's divorce proceedings, which revealed communications from him while in detention, and allegations that he orchestrated an early lease termination for the apartment he shared with his estranged wife at 432 Park Avenue.",
+      "article_type": "Market Research / Industrial Report",
+      "market": "Minneapolis-St. Paul, MN",
+      "narrative": "The Minneapolis-St. Paul industrial market demonstrated stability in the second quarter of 2026, characterized by sustained tenant demand, particularly from large users and third-party logistics companies. While new supply has led to a slight increase in vacancy rates as recently completed projects lease up, the market recorded 1.05 million square feet of net absorption in Q2, bringing the year-to-date total to over 2.1 million square feet. A significant portion of the expanding development pipeline, which now exceeds 6.7 million square feet under construction, consists of pre-leased build-to-suit projects, mitigating concerns about oversupply. Average asking rents remained stable at $9.43 per square foot, supported by high replacement costs and limited competition among newer properties, while investment sales activity remained active and selective, totaling $282 million across 58 transactions.",
       "data_points": null,
-      "companies_people": [],
+      "companies_people": [
+        {
+          "label": "OWNER",
+          "firm_name": "Amazon",
+          "people": []
+        },
+        {
+          "label": "LEASING AGENT",
+          "firm_name": "Colliers",
+          "people": []
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": "The Twin Cities industrial market benefits from strong tenant demand, particularly from larger users and third-party logistics companies. Vacancy rates are ticking higher due to new supply outpacing leasing activity in some submarkets, with South Central and Southwest submarkets experiencing more pronounced pressures. Conversely, North Central and Northwest submarkets show stable fundamentals with lower available space and limited construction. Sublease availability reached its highest level in the current market cycle at 4.3 million square feet. Investment activity remains selective, favoring well-located logistics facilities, while older buildings face pricing pressure."
+    },
+    {
+      "title": "How multifamily can thrive in the middle of the action: The success story of Arlington\u2019s One Rangers Way",
+      "source": "REJournals",
+      "link": "https://rejournals.com/how-multifamily-can-thrive-in-the-middle-of-the-action-the-success-story-of-arlingtons-one-rangers-way/?utm_source=rss&utm_medium=rss&utm_campaign=how-multifamily-can-thrive-in-the-middle-of-the-action-the-success-story-of-arlingtons-one-rangers-way",
+      "published": "Mon, 06 Jul 2026 09:37:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-06-009.html",
+      "transaction_type": null,
+      "article_type": "Opinion / Market Commentary",
+      "market": "Arlington, TX",
+      "narrative": "One Rangers Way, an eight-story, 299-unit apartment building in Arlington, Texas, has achieved full occupancy, demonstrating the success of residential development within sports-and-entertainment districts. Developed through a partnership between Cordish Living, the City of Arlington, and the Texas Rangers, the project is the first residential component of the Texas Live! district, which includes AT&T Stadium and Globe Life Field. The design by HCM focused on creating a dynamic living environment that also offers residents privacy and tranquility, leveraging extensive amenities and a natural setting overlooking ponds and trails to balance the high-energy surroundings.",
+      "data_points": {
+        "property_type": "multifamily",
+        "property_name": "One Rangers Way",
+        "address": null,
+        "address_sourced_separately": false,
+        "size_sf": null,
+        "size_units": 299,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": "First residential development within the Texas Live! sports-and-entertainment district, located near AT&T Stadium and Globe Life Field, with extensive amenities including a swim-up pool bar and a two-story amenity space that cantilevers over a floodplain, overlooking ponds and running trails.",
+        "project_notes": "Developed as a 50/50 venture between Cordish Living and the Texas Rangers, in a public-private partnership with the City of Arlington."
+      },
+      "companies_people": [
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Cordish Living",
+          "people": []
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "The Cordish Companies",
+          "people": []
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Texas Rangers",
+          "people": []
+        },
+        {
+          "label": "ARCHITECT",
+          "firm_name": "HCM",
+          "people": [
+            {
+              "name": "Chris Harvey",
+              "title": "Principal and Director of Design"
+            }
+          ]
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "City of Arlington",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Texas Rangers",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Cordish Living",
+          "people": [
+            {
+              "name": "Nicholle Soendker",
+              "title": "Director of Residential Marketing"
+            }
+          ]
+        }
+      ],
       "tenants": [],
       "financing": null,
       "market_intelligence": null
     },
     {
-      "title": "What we learned from Zillow\u2019s courtroom clash with Chicago MLS and Compass",
-      "source": "The Real Deal \u2014 Chicago",
-      "link": "https://therealdeal.com/chicago/2026/07/04/what-we-learned-from-zillows-courtroom-clash-with-chicago-mls-and-compass/",
-      "published": "Sat, 04 Jul 2026 13:30:00 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-05-003.html",
+      "title": "How a courtroom showdown in Chicago could reshape residential real estate",
+      "source": "The Real Deal \u2014 National",
+      "link": "https://therealdeal.com/national/2026/07/05/zillow-mred-compass-face-off/",
+      "published": "Sun, 05 Jul 2026 13:00:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-06-010.html",
       "transaction_type": null,
       "article_type": "CRE Legal / Regulatory",
       "market": "Chicago, IL",
-      "narrative": "A federal judge is deliberating a dispute between Zillow, Compass, and Chicago's multiple listing service (MLS), Midwest Real Estate Data (MRED), regarding control over residential real estate listings. Zillow alleges that MRED's decision to cut off its data feed in May was a coordinated boycott to protect Compass's private exclusive listings, which Zillow claims create a 'velvet rope' effect in the market. Compass and MRED, however, assert that Zillow failed to comply with objective criteria rules for listing filtering, with MRED's CEO defending the decision as an enforcement of fair listing practices. The outcome of this case could significantly impact the future of residential inventory control and the traditional MLS ecosystem nationwide.",
+      "narrative": "A federal courtroom in Chicago is the battleground for a significant legal dispute between Zillow, Compass, and Midwest Real Estate Data (MRED), which could redefine residential real estate practices. The core issue revolves around Zillow's policy of excluding listings that were publicly marketed elsewhere before appearing on the MLS, a move seen as a counter to Compass's strategy of private listings. Zillow argues that Compass and MRED are attempting to restrict inventory access, while Compass and MRED contend that Zillow is leveraging its market dominance to dictate listing practices. The outcome of this case is expected to have a profound impact on how brokerages, MLSs, and portals nationwide approach private listings and inventory access.",
       "data_points": null,
       "companies_people": [
         {
           "label": "OWNER",
           "firm_name": "Zillow",
-          "people": [
-            {
-              "name": "Errol Samuelson",
-              "title": null
-            }
-          ]
-        },
-        {
-          "label": "OWNER",
-          "firm_name": "Compass",
-          "people": [
-            {
-              "name": "Robert Reffkin",
-              "title": "CEO"
-            }
-          ]
-        },
-        {
-          "label": "OWNER",
-          "firm_name": "Midwest Real Estate Data (MRED)",
-          "people": [
-            {
-              "name": "Rebecca Jensen",
-              "title": "CEO"
-            }
-          ]
-        },
-        {
-          "label": "OWNER",
-          "firm_name": "Bright MLS",
           "people": []
         },
         {
           "label": "OWNER",
-          "firm_name": "Realtracs",
+          "firm_name": "Compass",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Midwest Real Estate Data (MRED)",
           "people": []
         }
       ],
       "tenants": [],
       "financing": null,
       "market_intelligence": null
+    },
+    {
+      "title": "New York\u2019s luxury new development market is on fire",
+      "source": "The Real Deal \u2014 New York",
+      "link": "https://therealdeal.com/new-york/2026/07/06/luxury-market-leads-nycs-new-dev-market-in-second-quarter/",
+      "published": "Mon, 06 Jul 2026 10:00:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-06-011.html",
+      "transaction_type": null,
+      "article_type": "Market Research / New Development Report",
+      "market": "New York City, NY",
+      "narrative": "New York City's luxury new development condominium market is experiencing a boom, with contracts signed for units priced at $10 million or more nearly doubling in Q2 compared to the previous year. This high-end segment now accounts for half of all new development deals in the city, setting a record for contracts signed this decade. Despite potential headwinds like a new pied-\u00e0-terre tax, high mortgage rates, and global economic concerns, the luxury market remains robust. Overall contract activity in Manhattan saw a slight decline, but average sale prices increased due to the shift towards luxury homes. Dwindling inventory, particularly for lower-priced units, is cited as a key factor limiting overall market activity, suggesting strong demand for new, well-priced condos.",
+      "data_points": null,
+      "companies_people": [
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Zeckendorf Development",
+          "people": []
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Atlas Capital Group",
+          "people": []
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Related Companies",
+          "people": []
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Two Trees",
+          "people": []
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Naftali Group",
+          "people": []
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Access Industries",
+          "people": []
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Century Development Group",
+          "people": []
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Rybak Development",
+          "people": []
+        },
+        {
+          "label": "LEASING AGENT",
+          "firm_name": "Brown Harris Stevens Development Marketing",
+          "people": [
+            {
+              "name": "Robin Schneiderman",
+              "title": null
+            }
+          ]
+        },
+        {
+          "label": "LEASING AGENT",
+          "firm_name": "Corcoran Sunshine",
+          "people": []
+        },
+        {
+          "label": "OTHER",
+          "firm_name": "Marketproof",
+          "people": []
+        },
+        {
+          "label": "OTHER",
+          "firm_name": "Serhant New Development",
+          "people": []
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "South Florida\u2019s top deals: Davie school building sells for $16M",
+      "source": "The Real Deal \u2014 Miami",
+      "link": "https://therealdeal.com/miami/2026/07/06/south-florida-top-real-estate-deals-july-2-2026/",
+      "published": "Mon, 06 Jul 2026 12:00:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-06-012.html",
+      "transaction_type": "Sale",
+      "article_type": null,
+      "market": "Davie, FL",
+      "narrative": "A school building in Davie, Florida, was the most expensive commercial transaction recorded in a recent South Florida deals roundup, selling for $16 million. The 46,000-square-foot property was acquired by JSI N University LLC from 3367 N University Holdings LLC.",
+      "data_points": {
+        "property_type": "school",
+        "property_name": null,
+        "address": "3367 North University Drive, Davie, FL",
+        "address_sourced_separately": false,
+        "size_sf": 46000.0,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": 16000000.0,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": null,
+        "project_notes": null
+      },
+      "companies_people": [
+        {
+          "label": "SELLER",
+          "firm_name": "3367 N University Holdings LLC",
+          "people": []
+        },
+        {
+          "label": "BUYER",
+          "firm_name": "JSI N University LLC",
+          "people": []
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "South Florida Dirt: The story behind a closed loophole in latest Live Local tweak bill",
+      "source": "The Real Deal \u2014 Miami",
+      "link": "https://therealdeal.com/miami/2026/07/05/florida-live-local-bill-limits-local-government-immunity/",
+      "published": "Sun, 05 Jul 2026 17:00:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-06-013.html",
+      "transaction_type": null,
+      "article_type": "CRE Legal / Regulatory",
+      "market": "South Florida",
+      "narrative": "Florida's recently enacted House Bill 1389, a tweak to the Live Local Act, expands the definition of \"person\" under fair housing law to include government entities, aiming to deter local challenges to affordable housing developments. This change effectively removes sovereign immunity as a defense for cities and counties attempting to block such projects. The bill also broadens the types of land eligible for Live Local Act incentives, including properties owned by counties, municipalities, school districts, and religious institutions, regardless of existing zoning. Additionally, it prohibits counties from using setbacks or stepbacks to restrict building height, further empowering developers to create workforce and affordable housing.",
+      "data_points": null,
+      "companies_people": [
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Coral Rock Development Group",
+          "people": [
+            {
+              "name": "Michael Wohl",
+              "title": "Principal"
+            }
+          ]
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Movers: Chicago\u2019s multifamily momentum sparks CRE hiring spree",
+      "source": "The Real Deal \u2014 Chicago",
+      "link": "https://therealdeal.com/chicago/2026/07/06/chicagos-multifamily-momentum-sparks-cre-hiring-spree/",
+      "published": "Mon, 06 Jul 2026 12:00:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-06-014.html",
+      "transaction_type": null,
+      "article_type": "Market Research / Hiring & Promotions",
+      "market": "Chicago, IL",
+      "narrative": "Commercial real estate firms are expanding their multifamily investment sales and financing operations in Chicago, driven by the city's leading rent growth and increased sales volume. Murphy Real Estate Services promoted David Ariola to president to spearhead capital raising and new partnerships for value-add and ground-up multifamily developments. Walker & Dunlop relocated its Midwest multifamily investment sales leader, Matt Jones, to Chicago to leverage the robust market. Additionally, Inland Real Estate Group hired Jacqueline Dagan as associate general counsel and Dhaval Parikh as head of institutional capital formation to bolster its legal and capital raising capabilities.",
+      "data_points": null,
+      "companies_people": [
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Murphy Real Estate Services",
+          "people": [
+            {
+              "name": "David Ariola",
+              "title": "President"
+            }
+          ]
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Walker & Dunlop",
+          "people": [
+            {
+              "name": "Matt Jones",
+              "title": "Midwest multifamily investment sales leader"
+            }
+          ]
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Inland Real Estate Group",
+          "people": [
+            {
+              "name": "Jacqueline Dagan",
+              "title": "Associate General Counsel"
+            },
+            {
+              "name": "Dhaval Parikh",
+              "title": "Head of Institutional Capital Formation"
+            }
+          ]
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Colliers",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Parkview Financial",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Ares Management",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "MetLife Investment Management",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "BlackRock",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "TOMS Capital Investment Management",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "BentallGreenOak",
+          "people": []
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Abbott\u2019s shift into reverse puts data center debate into overdrive",
+      "source": "The Real Deal \u2014 Texas",
+      "link": "https://therealdeal.com/texas/2026/07/05/texas-data-center-debate/",
+      "published": "Sun, 05 Jul 2026 14:00:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-06-015.html",
+      "transaction_type": null,
+      "article_type": "Opinion / Market Commentary",
+      "market": "Texas",
+      "narrative": "Texas Governor Greg Abbott has reversed his previous pro-data center stance, now advocating for an outright ban on these developments in rural areas and calling for increased regulation statewide. This shift comes amid growing public opposition to data centers due to concerns over noise, water, and power consumption. The governor's proposed regulations include annual reporting, limiting incentives, and requiring closed-loop water systems. This change in policy, particularly given his history of restricting municipal power, sets the stage for a contentious legislative session.",
+      "data_points": null,
+      "companies_people": [
+        {
+          "label": "OWNER",
+          "firm_name": "Dunhill Partners",
+          "people": [
+            {
+              "name": "Bill Hutchinson",
+              "title": "Founder and CEO"
+            }
+          ]
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "CommonWealth Coffeehouse",
+          "people": [
+            {
+              "name": "Jorge Herrero",
+              "title": "Owner"
+            }
+          ]
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Ken Mattson has a trial date. Silicon Valley\u2019s office recovery has momentum.",
+      "source": "The Real Deal \u2014 San Francisco",
+      "link": "https://therealdeal.com/san-francisco/2026/07/05/ken-mattson-trial-set-for-april-as-office-vacancy-falls/",
+      "published": "Sun, 05 Jul 2026 15:00:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-06-016.html",
+      "transaction_type": null,
+      "article_type": "CRE Legal / Regulatory",
+      "market": "San Jose, CA",
+      "narrative": "A federal jury trial has been scheduled for April 12 for Sonoma developer and investor Ken Mattson, who is accused of orchestrating a multi-million dollar Ponzi scheme. Mattson faces nine felony counts, including wire fraud and money laundering, after initially agreeing to a guilty plea but later reversing his decision. Meanwhile, the Silicon Valley office market is showing significant recovery, with vacancy rates falling to the mid-teens in 2026 from 20-23% at the end of 2024. This momentum is partly attributed to the artificial intelligence boom, which has also driven down San Francisco's office vacancy rate by five points year-over-year to 29.7% in 2026, with net absorption reaching 2.9 million square feet in the first half of the year.",
+      "data_points": null,
+      "companies_people": [
+        {
+          "label": "TENANT",
+          "firm_name": "Fortinet",
+          "people": []
+        },
+        {
+          "label": "SELLER BROKER",
+          "firm_name": "Kidder Mathews",
+          "people": []
+        },
+        {
+          "label": "SELLER BROKER",
+          "firm_name": "CBRE",
+          "people": []
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": "Silicon Valley's office market is experiencing a recovery, with vacancy rates dropping from 20-23% at the end of 2024 to the mid-teens in 2026. Kidder Mathews reported a 16.6% vacancy rate in Q2 2026, a 1.7% decrease year-over-year. San Francisco's office vacancy rate also fell five points year-over-year, from 34.7% in 2025 to 29.7% in 2026, driven by the artificial intelligence boom. Net absorption in San Francisco reached 2.9 million square feet in the first half of 2026, surpassing the total for all of 2025, and tenant demand hit an all-time high of 8.9 million square feet."
     }
   ]
 }
