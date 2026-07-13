@@ -1,109 +1,46 @@
 {
-  "date": "2026-07-12",
+  "date": "2026-07-13",
   "articles": [
     {
-      "title": "Elliman\u2019s AI overhaul raises questions about future of agents",
-      "source": "The Real Deal \u2014 New York",
-      "link": "https://therealdeal.com/new-york/2026/07/11/ellimans-ai-overhaul-raises-questions-about-future-of-agents/",
-      "published": "Sat, 11 Jul 2026 13:00:00 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-12-001.html",
+      "title": "John Roesch Exits Meridian to Start Roesch Real Estate Group",
+      "source": "Commercial Observer",
+      "link": "https://commercialobserver.com/2026/07/john-roesch-roesch-real-estate-group/",
+      "published": "Mon, 13 Jul 2026 12:00:43 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-13-001.html",
       "transaction_type": null,
-      "article_type": "Opinion / Market Commentary",
+      "article_type": "Feature / Profile",
       "market": "New York City, NY",
-      "narrative": "Douglas Elliman's recent announcement of a technology overhaul, powered by Google Cloud AI, has ignited a debate within the residential real estate industry regarding the future of agents. CEO Michael Liebowitz indicated that these advancements would lead to layoffs and a reduced need for agents, echoing trends seen in other sectors. While AI tools are helping agents with administrative tasks like writing listing descriptions and drafting contracts, some brokers report client frustration due to AI-generated, often inaccurate, price expectations. Despite these challenges, agents largely believe their roles remain essential, successfully navigating client pushback and demonstrating the continued necessity of human expertise in dealmaking.",
-      "data_points": {
-        "property_type": "condo",
-        "property_name": "The Surrey",
-        "address": "20 East 76th Street, New York City, NY",
-        "address_sourced_separately": false,
-        "size_sf": 5000.0,
-        "size_units": null,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": 25700000.0,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": null,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": null,
-        "multi_asset_purchase": false,
-        "notable_features": "Four bedrooms and four full bathrooms, a 25-foot great room, eat-in kitchen, and library.",
-        "project_notes": "One of 14 residences developed by the Reuben Brothers above the Surrey Hotel."
-      },
+      "narrative": "John Roesch, a veteran retail leasing broker, has departed Meridian Retail Leasing after nearly a decade to establish his own firm, Roesch Real Estate Group (RREG). The new company will initially concentrate on retail leasing, with plans to expand into investment sales, aiming to bring institutional-level execution to the middle market. Roesch emphasized that his departure was driven by a readiness to lead his own venture, building on the experience and confidence gained at Meridian.",
+      "data_points": null,
       "companies_people": [
         {
           "label": "OWNER",
-          "firm_name": "shell company",
-          "people": []
-        },
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Reuben Brothers",
-          "people": []
-        },
-        {
-          "label": "SELLER BROKER",
-          "firm_name": "Douglas Elliman",
+          "firm_name": "Roesch Real Estate Group (RREG)",
           "people": [
             {
-              "name": "Lauren Muss",
+              "name": "John Roesch",
               "title": null
+            }
+          ]
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Meridian Retail Leasing",
+          "people": []
+        },
+        {
+          "label": "OTHER",
+          "firm_name": "Roesch Real Estate Group (RREG)",
+          "people": [
+            {
+              "name": "Griffin Hanes",
+              "title": "Associate"
             },
             {
-              "name": "Michelle Griffith",
-              "title": null
+              "name": "Jessica Blocker",
+              "title": "Director"
             }
           ]
-        },
-        {
-          "label": "OWNER",
-          "firm_name": "Douglas Elliman",
-          "people": [
-            {
-              "name": "Michael Liebowitz",
-              "title": "CEO"
-            }
-          ]
-        },
-        {
-          "label": "OWNER",
-          "firm_name": "Compass",
-          "people": []
-        },
-        {
-          "label": "OWNER",
-          "firm_name": "Anywhere Real Estate",
-          "people": []
-        },
-        {
-          "label": "OTHER",
-          "firm_name": "UrbanDigs",
-          "people": [
-            {
-              "name": "John Walkup",
-              "title": "co-founder"
-            }
-          ]
-        },
-        {
-          "label": "OTHER",
-          "firm_name": "Miller Samuel",
-          "people": [
-            {
-              "name": "Jonathan Miller",
-              "title": "report author"
-            }
-          ]
-        },
-        {
-          "label": "OTHER",
-          "firm_name": "Streetmatrix",
-          "people": []
         }
       ],
       "tenants": [],
@@ -111,22 +48,94 @@
       "market_intelligence": null
     },
     {
-      "title": "Why this Brooklyn project is nowhere to be seen",
-      "source": "The Real Deal \u2014 New York",
-      "link": "https://therealdeal.com/new-york/2026/07/11/why-this-brooklyn-multifamily-development-site-sits-dormant/",
-      "published": "Sat, 11 Jul 2026 13:00:00 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-12-002.html",
+      "title": "More Commercial Real Estate Owners See Value in Special Servicing Platforms",
+      "source": "Commercial Observer",
+      "link": "https://commercialobserver.com/2026/07/special-servicing-real-estate-owners-rxr-sl-green/",
+      "published": "Mon, 13 Jul 2026 11:02:50 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-13-002.html",
       "transaction_type": null,
       "article_type": "Opinion / Market Commentary",
       "market": "New York City, NY",
-      "narrative": "This opinion piece argues that a proposed 250-unit multifamily development in Brooklyn, approved 17 months ago, remains stalled due to a confluence of economic and political factors. The author contends that elevated interest rates, the high percentage of affordable units promised, and a high wage scale mandate for large projects have made financing challenging for the developer. The article connects these local development hurdles to broader macroeconomic conditions, including presidential policies, international conflicts, and persistent inflation, which have kept interest rates high and deterred lenders.",
+      "narrative": "The article discusses the growing trend of commercial real estate owners launching special servicing platforms, leveraging their deep market expertise to resolve troubled assets. RXR is the latest firm to enter this space with its REX Loan Services platform, approved by Fitch Ratings and Morningstar. The move is seen as a way to complement RXR's lending business and utilize its extensive experience in the office sector, which still faces significant distress. While concerns about potential conflicts of interest exist, particularly when a competitor acts as a special servicer, proponents argue that owner-operators bring unique insights that can expedite solutions for defaulted CMBS loans.",
+      "data_points": null,
+      "companies_people": [
+        {
+          "label": "OWNER",
+          "firm_name": "RXR",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "SL Green",
+          "people": []
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "RXR",
+          "people": []
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "SL Green",
+          "people": []
+        },
+        {
+          "label": "OTHER",
+          "firm_name": "Green Loan Services (GLS)",
+          "people": []
+        },
+        {
+          "label": "OTHER",
+          "firm_name": "Fitch Ratings",
+          "people": []
+        },
+        {
+          "label": "OTHER",
+          "firm_name": "Morningstar",
+          "people": []
+        },
+        {
+          "label": "OTHER",
+          "firm_name": "Iron Hound Management",
+          "people": [
+            {
+              "name": "Christopher Herron",
+              "title": "managing director"
+            }
+          ]
+        },
+        {
+          "label": "OTHER",
+          "firm_name": "RXR",
+          "people": [
+            {
+              "name": "Steven Schwartz",
+              "title": "executive vice president and head of real estate credit"
+            }
+          ]
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "From Builder to Partner",
+      "source": "Commercial Observer",
+      "link": "https://commercialobserver.com/2026/07/from-builder-to-partner/",
+      "published": "Mon, 13 Jul 2026 04:00:48 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-13-003.html",
+      "transaction_type": null,
+      "article_type": "Feature / Profile",
+      "market": "New York City, NY",
+      "narrative": "This article profiles Wharton Smith Construction, highlighting its strategic growth in New York City's commercial construction market. The firm, led by founder Elliott Mishan, emphasizes building internal capabilities\u2014people, systems, and infrastructure\u2014to handle increasingly complex projects, including office fit-outs, corporate headquarters, retail environments, medical facilities, and adaptive reuse. Wharton Smith focuses on maintaining high service levels while expanding project scale and volume, leveraging a dedicated team structure and advanced preconstruction processes. Senior Estimator Zackery Batt and Senior Project Manager Billy Collins are noted for their contributions to modernizing budgeting and ensuring disciplined project execution, respectively.",
       "data_points": {
-        "property_type": "multifamily",
+        "property_type": null,
         "property_name": null,
-        "address": "441 and 467 Prospect Avenue, Brooklyn, NY",
+        "address": null,
         "address_sourced_separately": false,
         "size_sf": null,
-        "size_units": 250,
+        "size_units": null,
         "size_beds": null,
         "size_keys": null,
         "rental_rate": null,
@@ -141,23 +150,296 @@
         "original_plan": null,
         "land_area_acres": null,
         "multi_asset_purchase": false,
-        "notable_features": "40% of units designated as affordable at an average of 60% of area median income, includes a child care center and space for domestic violence victims.",
-        "project_notes": "Project approved 17 months ago; rezoning deal struck in February 2025; developer agreed to terms under pressure to avoid losing money on the rezoning process."
+        "notable_features": null,
+        "project_notes": null
       },
       "companies_people": [
         {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Apex Development",
+          "label": "GENERAL CONTRACTOR",
+          "firm_name": "Wharton Smith Construction",
           "people": [
             {
-              "name": "Andrew Esposito",
-              "title": "Principal"
+              "name": "Elliott Mishan",
+              "title": "Founder"
+            },
+            {
+              "name": "Zackery Batt",
+              "title": "Senior Estimator"
+            },
+            {
+              "name": "Billy Collins",
+              "title": "Senior Project Manager"
+            }
+          ]
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Sunday Summary: Unpacking the Near-Collapse at Pfizer HQ",
+      "source": "Commercial Observer",
+      "link": "https://commercialobserver.com/2026/07/sunday-summary-unpacking-the-near-collapse-at-pfizer-hq/",
+      "published": "Sun, 12 Jul 2026 13:00:18 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-13-004.html",
+      "transaction_type": null,
+      "article_type": "Market Research / Weekly Summary",
+      "market": "New York City, NY",
+      "narrative": "This article is a weekly summary covering several distinct real estate news items in New York City. It reports on the partial collapse of steel support structures at the former Pfizer headquarters, an office-to-residential conversion project by Metro Loft and David Werner Real Estate Investments, which caused five floors to cave in. The incident, which thankfully resulted in no injuries, has drawn significant scrutiny to the developer's construction practices. The summary also highlights a strong week for office leasing, with major law firms and media companies expanding or renewing their footprints, and notable retail leasing activity including new restaurant and store openings. Finally, it touches on key personnel hires and promotions within the real estate industry.",
+      "data_points": null,
+      "companies_people": [
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Metro Loft",
+          "people": [
+            {
+              "name": "Nathan Berman",
+              "title": null
+            }
+          ]
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "David Werner Real Estate Investments",
+          "people": []
+        },
+        {
+          "label": "TENANT",
+          "firm_name": "Loeb & Loeb",
+          "people": []
+        },
+        {
+          "label": "LANDLORD",
+          "firm_name": "Rudin",
+          "people": []
+        },
+        {
+          "label": "TENANT",
+          "firm_name": "NBCUniversal",
+          "people": []
+        },
+        {
+          "label": "LANDLORD",
+          "firm_name": "Rockefeller Group",
+          "people": []
+        },
+        {
+          "label": "TENANT",
+          "firm_name": "Ralph Lauren",
+          "people": []
+        },
+        {
+          "label": "LANDLORD",
+          "firm_name": "RXR",
+          "people": []
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Silverstein Properties",
+          "people": []
+        },
+        {
+          "label": "TENANT",
+          "firm_name": "American Express",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Berkadia",
+          "people": [
+            {
+              "name": "Blake Okland",
+              "title": "Chief Revenue Officer"
             }
           ]
         },
         {
           "label": "OWNER",
-          "firm_name": "Arrow Linen",
+          "firm_name": "The Feil Organization",
+          "people": [
+            {
+              "name": "Samantha Perlman",
+              "title": "Associate Director of Commercial Leasing"
+            }
+          ]
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "The Durst Organization",
+          "people": [
+            {
+              "name": "Lucas Durst",
+              "title": "Chief Financial Officer"
+            }
+          ]
+        },
+        {
+          "label": "TENANT",
+          "firm_name": "Dal Moros Fresh Pasta To Go",
+          "people": []
+        },
+        {
+          "label": "TENANT",
+          "firm_name": "Breeze",
+          "people": []
+        },
+        {
+          "label": "LANDLORD",
+          "firm_name": "Gotham Organization",
+          "people": []
+        },
+        {
+          "label": "TENANT",
+          "firm_name": "Insta360",
+          "people": []
+        },
+        {
+          "label": "LANDLORD",
+          "firm_name": "SL Green",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "United American Land",
+          "people": [
+            {
+              "name": "Albert Laboz",
+              "title": null
+            }
+          ]
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Dallas office market continues to stabilize as tenant demand remains positive",
+      "source": "REJournals",
+      "link": "https://rejournals.com/dallas-office-market-continues-to-stabilize-as-tenant-demand-remains-positive/?utm_source=rss&utm_medium=rss&utm_campaign=dallas-office-market-continues-to-stabilize-as-tenant-demand-remains-positive",
+      "published": "Mon, 13 Jul 2026 10:06:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-13-005.html",
+      "transaction_type": null,
+      "article_type": "Market Research / Office Report",
+      "market": "Dallas, TX",
+      "narrative": "The Dallas office market demonstrated continued stabilization and positive momentum in the first half of 2026, driven by strong tenant demand for high-quality, amenity-rich office spaces, according to a JLL report. While much of the activity involved companies relocating within the metro rather than expanding, this flight-to-quality trend has fueled development in desirable submarkets like Uptown and supported rent growth for premium properties. Despite a selective investment market, Dallas continues to benefit from significant corporate migration, with over 100 companies relocating headquarters to the region since 2018, including a recent major announcement from Samsung. The market is projected to maintain steady performance, with positive absorption and declining vacancy rates through the end of 2026.",
+      "data_points": null,
+      "companies_people": [
+        {
+          "label": "TENANT",
+          "firm_name": "Deloitte",
+          "people": []
+        },
+        {
+          "label": "TENANT",
+          "firm_name": "Merit Energy",
+          "people": []
+        },
+        {
+          "label": "TENANT",
+          "firm_name": "Samsung",
+          "people": []
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": "The Dallas office market is characterized by a flight-to-quality trend, with companies favoring newer, high-quality buildings with modern amenities. This has led to rent growth in Trophy office properties and a widening pricing gap between new construction and mid-priced office buildings. The investment market is highly selective, with capital directed towards well-leased, high-performing assets in strong submarkets. Many owners are opting for refinancing or recapitalizations instead of selling at discounted values. Corporate migration continues to be a significant driver, with over 100 companies relocating headquarters to the Dallas-Fort Worth metro area since 2018."
+    },
+    {
+      "title": "Inside the Underwriting Process: What Affordable Housing Lenders Look for That Developers Don\u2019t Always See",
+      "source": "REJournals",
+      "link": "https://rejournals.com/inside-the-underwriting-process-what-affordable-housing-lenders-look-for-that-developers-dont-always-see/?utm_source=rss&utm_medium=rss&utm_campaign=inside-the-underwriting-process-what-affordable-housing-lenders-look-for-that-developers-dont-always-see",
+      "published": "Mon, 13 Jul 2026 09:58:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-13-006.html",
+      "transaction_type": null,
+      "article_type": "Opinion / Market Commentary",
+      "market": "Minnesota",
+      "narrative": "This article, authored by a managing director at Bridgewater Bank, offers an inside look into the underwriting process for affordable housing projects from a lender's perspective. It emphasizes that lenders evaluate not just the vision but also the readiness and execution capacity of a development team, scrutinizing project assumptions, funding reliability, and organizational bandwidth. The author highlights the importance of conservative operating assumptions and a deep understanding of compliance and mission alignment, asserting that strong projects are built on transparent and responsive partnerships.",
+      "data_points": null,
+      "companies_people": [
+        {
+          "label": "LENDER",
+          "firm_name": "Bridgewater Bank",
+          "people": [
+            {
+              "name": "Pat Craig",
+              "title": "Managing Director, Affordable Housing team"
+            }
+          ]
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "The Langley multifamily development opens in Houston",
+      "source": "REJournals",
+      "link": "https://rejournals.com/the-langley-multifamily-development-opens-in-houston/?utm_source=rss&utm_medium=rss&utm_campaign=the-langley-multifamily-development-opens-in-houston",
+      "published": "Mon, 13 Jul 2026 09:46:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-13-007.html",
+      "transaction_type": null,
+      "article_type": "Construction",
+      "market": "Houston, TX",
+      "narrative": "The Langley, a 20-story luxury multifamily high-rise developed by StreetLights Residential and Hunt Real Estate, has completed construction in Houston. Located near Rice University, the building features 134 residences for lease, with two- and three-bedroom homes ranging from 2,165 to 3,396 square feet and monthly rents starting at $9,480. The development emphasizes timeless architectural principles, high-end finishes, and a boutique scale with only eight residences per floor to create an intimate and private living experience.",
+      "data_points": {
+        "property_type": "multifamily",
+        "property_name": "The Langley",
+        "address": "1717 Bissonnet Street, Houston, TX",
+        "address_sourced_separately": false,
+        "size_sf": null,
+        "size_units": 134,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": 9480.0,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": "Located at the intersection of Boulevard Oaks and Southampton neighborhoods, near Rice University. Features 10- to 12-foot ceilings, wide-plank oak flooring, custom cabinetry, natural stone finishes, and smart-home technology.",
+        "project_notes": "Residences range from 2,165 to 3,396 square feet. Designed with a classical architectural framework, incorporating brick, stone, and custom metalwork."
+      },
+      "companies_people": [
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "StreetLights Residential",
+          "people": [
+            {
+              "name": "M. Stephen Meek",
+              "title": "Senior Vice President of Development"
+            },
+            {
+              "name": "Vincent Hunter",
+              "title": "Chief Design Officer"
+            }
+          ]
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Hunt Real Estate",
+          "people": [
+            {
+              "name": "Ben Wullschlager",
+              "title": "Senior Vice President"
+            }
+          ]
+        },
+        {
+          "label": "ARCHITECT",
+          "firm_name": "StreetLights Creative Studio, LLC",
+          "people": []
+        },
+        {
+          "label": "LEASING AGENT",
+          "firm_name": "Martha Turner Sotheby\u2019s International Realty",
           "people": []
         }
       ],
@@ -166,15 +448,128 @@
       "market_intelligence": null
     },
     {
-      "title": "Pfizer building scare tests office-to-resi thesis",
-      "source": "The Real Deal \u2014 New York",
-      "link": "https://therealdeal.com/new-york/2026/07/11/pfizer-scares-tests-office-to-resi-thesis/",
-      "published": "Sat, 11 Jul 2026 12:00:00 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-12-003.html",
+      "title": "Texas Icon Nikhil Dhanani: Building an Institutional-Grade Real Estate Platform from a Family Enterprise",
+      "source": "REJournals",
+      "link": "https://rejournals.com/texas-icon-nikhil-dhanani-building-an-institutional-grade-real-estate-platform-from-a-family-enterprise/?utm_source=rss&utm_medium=rss&utm_campaign=texas-icon-nikhil-dhanani-building-an-institutional-grade-real-estate-platform-from-a-family-enterprise",
+      "published": "Mon, 13 Jul 2026 09:44:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-13-008.html",
       "transaction_type": null,
-      "article_type": "Opinion / Market Commentary",
+      "article_type": "Feature / Profile",
+      "market": "Houston, TX",
+      "narrative": "This article profiles Nikhil Dhanani, President of Dhanani Private Equity Group (DPEG), highlighting his role in transforming a family-owned operation into a vertically integrated, institutional-grade real estate platform. Over the past decade, Dhanani has been instrumental in scaling DPEG's assets under management from approximately $20 million to over $2.5 billion, diversifying its portfolio across retail, multifamily, and mixed-use developments. His leadership emphasizes disciplined execution, proactive asset management, and strategic repositioning of assets to create long-term value, particularly through attracting national and lifestyle brands to DPEG's retail centers.",
+      "data_points": {
+        "property_type": null,
+        "property_name": null,
+        "address": null,
+        "address_sourced_separately": false,
+        "size_sf": null,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": null,
+        "project_notes": null
+      },
+      "companies_people": [
+        {
+          "label": "OWNER",
+          "firm_name": "Dhanani Private Equity Group",
+          "people": [
+            {
+              "name": "Nikhil Dhanani",
+              "title": "President"
+            }
+          ]
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Marcus & Millichap closes sale of 25,113-square-foot shopping center in Houston",
+      "source": "REJournals",
+      "link": "https://rejournals.com/marcus-millichap-closes-sale-of-25113-square-foot-shopping-center-in-houston/?utm_source=rss&utm_medium=rss&utm_campaign=marcus-millichap-closes-sale-of-25113-square-foot-shopping-center-in-houston",
+      "published": "Mon, 13 Jul 2026 09:21:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-13-009.html",
+      "transaction_type": "Sale",
+      "article_type": null,
+      "market": "Houston, TX",
+      "narrative": "Marcus & Millichap has facilitated the sale of Seabrook Shopping Center, a multi-tenant retail property in Houston's Bay Area. The 25,113-square-foot center was sold by a local investor to a buyer who was introduced to the opportunity through an existing relationship after a previous acquisition in the Houston area. The property offers significant lease-up potential, with approximately 19,000 square feet of available space, which is expected to increase long-term net operating income.",
+      "data_points": {
+        "property_type": "retail",
+        "property_name": "Seabrook Shopping Center",
+        "address": "2100 E. NASA Parkway, Houston, TX",
+        "address_sourced_separately": false,
+        "size_sf": 25113.0,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": 1.55,
+        "multi_asset_purchase": false,
+        "notable_features": "Located in the Bay Area near Space Center Houston, with visibility along a high-traffic corridor carrying over 19,000 vehicles per day.",
+        "project_notes": null
+      },
+      "companies_people": [
+        {
+          "label": "SELLER",
+          "firm_name": "Local Investor",
+          "people": []
+        },
+        {
+          "label": "SELLER BROKER",
+          "firm_name": "Marcus & Millichap",
+          "people": [
+            {
+              "name": "Scott Jones",
+              "title": "Investment Specialist"
+            },
+            {
+              "name": "Gus Lagos",
+              "title": "Investment Specialist"
+            },
+            {
+              "name": "Alex Wolansky",
+              "title": "Investment Specialist"
+            }
+          ]
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "The near-collapse that rattled NYC\u2019s conversion boom",
+      "source": "The Real Deal \u2014 National",
+      "link": "https://therealdeal.com/national/2026/07/12/how-pfizer-building-scare-impacts-office-to-resi-conversions/",
+      "published": "Sun, 12 Jul 2026 13:00:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-13-010.html",
+      "transaction_type": null,
+      "article_type": "Development",
       "market": "New York City, NY",
-      "narrative": "A structural failure at the former Pfizer headquarters in Midtown Manhattan, currently undergoing an office-to-residential conversion, has highlighted the inherent risks and complexities of adaptive reuse projects. While the incident caused a temporary halt in construction and prompted evacuations, the developer anticipates only a few weeks of delay, maintaining a 2027 completion target for the 1,600-apartment project. This event underscores the challenges of retrofitting decades-old office buildings for residential use, which often involves extensive structural modifications and can introduce unexpected complications, potentially leading to increased engineering reviews, tighter underwriting, and higher costs for projects already facing elevated construction and financing expenses. Despite these challenges, the broader office-to-residential conversion trend in New York City is expected to continue, supported by expanded tax incentives and loosened zoning rules aimed at addressing both high office vacancies and the housing shortage.",
+      "narrative": "A structural incident at the former Pfizer headquarters, currently undergoing New York City's largest office-to-residential conversion, caused a temporary evacuation and raised concerns about the project's stability. While engineers quickly shored up the affected area and developers plan to rebuild 15 floors, the event has prompted questions about engineering and construction oversight in large-scale conversions. The incident is expected to lead to increased scrutiny for future office-to-residential projects, which are a key component of New York's housing and obsolete office building strategy.",
       "data_points": {
         "property_type": "multifamily",
         "property_name": "former Pfizer headquarters",
@@ -186,18 +581,18 @@
         "size_keys": null,
         "rental_rate": null,
         "sale_price": null,
-        "loan_amount": null,
+        "loan_amount": 700000000.0,
         "total_project_cost": null,
         "occupancy": null,
         "year_built": null,
-        "completion": null,
+        "completion": "2027",
         "phase_1": null,
         "total_project_all_phases": null,
         "original_plan": null,
         "land_area_acres": null,
         "multi_asset_purchase": false,
-        "notable_features": "One of the city's most closely watched office conversion projects.",
-        "project_notes": "Work stopped due to two steel columns failing during construction; developer anticipates a few weeks of delay."
+        "notable_features": "Largest office-to-residential conversion in New York City.",
+        "project_notes": "Project involves converting the former Pfizer campus into apartments. A structural incident occurred during construction, requiring temporary shoring and plans to rebuild approximately 15 floors."
       },
       "companies_people": [
         {
@@ -212,8 +607,13 @@
         },
         {
           "label": "DEVELOPER/SPONSOR",
-          "firm_name": "David Werner",
-          "people": []
+          "firm_name": "David Werner Real Estate Investments",
+          "people": [
+            {
+              "name": "David Werner",
+              "title": null
+            }
+          ]
         }
       ],
       "tenants": [],
@@ -221,21 +621,21 @@
       "market_intelligence": null
     },
     {
-      "title": "NYC\u2019s top deals: UWS megamansion trades for $40M \u2014 nearly 50% off asking",
-      "source": "The Real Deal \u2014 New York",
-      "link": "https://therealdeal.com/new-york/2026/07/11/new-york-top-real-estate-deals-friday-july-10/",
-      "published": "Sat, 11 Jul 2026 11:00:00 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-12-004.html",
-      "transaction_type": "Sale",
-      "article_type": null,
-      "market": "New York City, NY",
-      "narrative": "The Roman Catholic Church sold a 0.9-acre vacant land parcel at 484 East 178th Street in the Bronx for $17 million. The buyer was the Association of New York Catholic Homes, an affordable housing developer affiliated with the Archdiocese of New York. This transaction represents the priciest commercial deal recorded in the Bronx during the period.",
+      "title": "A surge in overbidding, an office boom flows south and a dead dead-mall deal",
+      "source": "The Real Deal \u2014 San Francisco",
+      "link": "https://therealdeal.com/san-francisco/2026/07/12/sf-homes-sell-1m-over-asking-as-office-boom-flows-south/",
+      "published": "Sun, 12 Jul 2026 15:00:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-13-011.html",
+      "transaction_type": null,
+      "article_type": "Market Research / Multi-Market Report",
+      "market": "San Francisco, CA",
+      "narrative": "San Francisco's housing market is experiencing an unprecedented surge in overbidding, with 144 homes selling for at least $1 million over list price in the first half of this year, a 1,700% increase from the previous year. This intense competition is driven by new wealth from the artificial intelligence sector and a booming stock market, creating a challenging environment for even affluent buyers. Meanwhile, the city's commercial real estate market is seeing a peculiar recovery, with high demand for trophy office spaces despite a citywide vacancy rate of 28-32%. The AI boom is also driving San Francisco companies to expand into larger campuses in Silicon Valley, where office vacancy rates have fallen to 14.1%. In other news, the planned acquisition of the 1.2 million-square-foot San Francisco Centre Mall by Presidio Bay Ventures and the Prado Group has fallen through, returning the property to the market.",
       "data_points": {
-        "property_type": "land",
-        "property_name": null,
-        "address": "484 East 178th Street, New York City, NY",
+        "property_type": "retail",
+        "property_name": "San Francisco Centre Mall",
+        "address": null,
         "address_sourced_separately": false,
-        "size_sf": null,
+        "size_sf": 1200000.0,
         "size_units": null,
         "size_beds": null,
         "size_keys": null,
@@ -249,20 +649,70 @@
         "phase_1": null,
         "total_project_all_phases": null,
         "original_plan": null,
-        "land_area_acres": 0.9,
+        "land_area_acres": null,
         "multi_asset_purchase": false,
-        "notable_features": "Vacant plot of land.",
-        "project_notes": null
+        "notable_features": null,
+        "project_notes": "The property was seized by lenders in November through a $134 million credit bid in a foreclosure auction."
       },
       "companies_people": [
         {
           "label": "SELLER",
-          "firm_name": "Roman Catholic Church",
+          "firm_name": "Goldman Sachs",
           "people": []
         },
         {
-          "label": "BUYER",
-          "firm_name": "Association of New York Catholic Homes",
+          "label": "SELLER",
+          "firm_name": "JPMorgan Chase",
+          "people": []
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Presidio Bay Ventures",
+          "people": []
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Prado Group",
+          "people": []
+        },
+        {
+          "label": "TENANT",
+          "firm_name": "OpenAI",
+          "people": []
+        },
+        {
+          "label": "TENANT",
+          "firm_name": "Databricks",
+          "people": []
+        },
+        {
+          "label": "SELLER BROKER",
+          "firm_name": "Coldwell Banker Realty",
+          "people": [
+            {
+              "name": "Rachel Swann",
+              "title": "agent"
+            }
+          ]
+        },
+        {
+          "label": "LEASING AGENT",
+          "firm_name": "JLL",
+          "people": [
+            {
+              "name": "Chris Pham",
+              "title": "research analyst"
+            }
+          ]
+        },
+        {
+          "label": "LEASING AGENT",
+          "firm_name": "Colliers",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "San Francisco Unified School District",
           "people": []
         }
       ],
@@ -271,156 +721,83 @@
       "market_intelligence": null
     },
     {
-      "title": "Lake Geneva home hits luxury waterfront market for $8M",
-      "source": "The Real Deal \u2014 Chicago",
-      "link": "https://therealdeal.com/chicago/2026/07/11/lake-geneva-waterfront-mansion-hits-market-for-8m/",
-      "published": "Sat, 11 Jul 2026 13:30:00 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-12-005.html",
+      "title": "Net Lease Cap Rates Tick Upward in Q2 2026",
+      "source": "Connect CRE",
+      "link": "https://www.connectcre.com/stories/net-lease-cap-rates-tick-upward-in-q2-2026/",
+      "published": "Mon, 13 Jul 2026 09:55:56 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-13-012.html",
       "transaction_type": null,
-      "article_type": "Property Listing / For Sale",
-      "market": "Lake Geneva, WI",
-      "narrative": "A nearly 6-acre waterfront estate on Geneva Lake, known as Sidney Stables, has been listed for sale at $7.9 million. The luxury home, built in 2005, features five bedrooms, seven bathrooms, and 9,000 square feet of living space, along with 25 feet of lake frontage and a private pier. The property is situated on the south shore of Geneva Lake, an area known for its high-end estates and as a popular second-home destination for Chicago residents. The listing agent notes strong demand for waterfront properties in the current market.",
-      "data_points": {
-        "property_type": "single family",
-        "property_name": "Sidney Stables",
-        "address": "1807 Sidney Smith Lane, Lake Geneva, WI",
-        "address_sourced_separately": false,
-        "size_sf": 9000.0,
-        "size_units": null,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": 7900000.0,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": 2005,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": 6.0,
-        "multi_asset_purchase": false,
-        "notable_features": "Features 25 feet of lake frontage, a private pier and canopied slip, four-car garage, 45-foot screened porch, wooded grounds, wildflower fields, and walking trails.",
-        "project_notes": "Once part of the larger Glen Arden estate, the property was built by its current owners in 2005."
-      },
-      "companies_people": [
-        {
-          "label": "SELLER",
-          "firm_name": "1807 Sidney Smith Lane Trust",
-          "people": []
-        },
-        {
-          "label": "SELLER BROKER",
-          "firm_name": "Compass",
-          "people": [
-            {
-              "name": "Bob Webster",
-              "title": null
-            }
-          ]
-        },
-        {
-          "label": "ARCHITECT",
-          "firm_name": "Jerry Hamen",
-          "people": []
-        },
-        {
-          "label": "GENERAL CONTRACTOR",
-          "firm_name": "Hummel Construction",
-          "people": []
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": "Demand for waterfront properties on Lake Geneva is currently very strong. Neighboring properties include the 12-acre Aloha Lodge, which sold for $21.85 million in 2024, and the 102-year-old Allegheny mansion, listed for $24 million."
-    },
-    {
-      "title": "Mark Cuban takes Adelson to court on Mavs plans for new arena",
-      "source": "The Real Deal \u2014 Texas",
-      "link": "https://therealdeal.com/texas/2026/07/11/mark-cuban-takes-dallas-mavericks-owner-to-court/",
-      "published": "Sat, 11 Jul 2026 14:00:00 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-12-006.html",
-      "transaction_type": null,
-      "article_type": "Market Research / Multi-Transaction Report",
-      "market": "Texas",
-      "narrative": "This article reports on several distinct commercial real estate developments and financial distress in Texas. Mark Cuban is suing Las Vegas Sands over his alleged exclusion from decisions regarding the Dallas Mavericks' new arena at the Valley View Mall site, which is contingent on casino gambling legalization in Texas. Separately, S2 Capital's fund dissolution accounts for a significant portion of Texas CRE loans flagged for foreclosure in July. Additionally, Caterpillar plans a $36 million headquarters expansion in Irving, and Naterra International is developing a new 442,000-square-foot headquarters in Coppell for $34 million. Finally, Toyota is committing to a $3.6 billion expansion of its manufacturing campus in San Antonio, adding a second assembly line and 2.5 million square feet.",
+      "article_type": "Market Research / Net Lease Report",
+      "market": null,
+      "narrative": "Overall single-tenant net lease cap rates saw a slight increase in the second quarter of 2026, rising two basis points to 6.82%, according to The Boulder Group. This uptick was primarily driven by retail and industrial sectors, which experienced increases of five and ten basis points respectively, while office cap rates held steady. The shift is attributed to the Federal Reserve's revised interest rate projections, which removed an anticipated rate cut and introduced the possibility of a hike later in the year, influencing investor calculations for the latter half of 2026. Despite these changes, transaction volume is expected to remain stable, with continued investor interest in the fundamental appeal of net lease assets, potentially bolstered by corporate sale-leaseback activity.",
       "data_points": null,
       "companies_people": [
         {
           "label": "OWNER",
-          "firm_name": "Las Vegas Sands",
+          "firm_name": "Ponce Bank",
+          "people": []
+        },
+        {
+          "label": "OTHER",
+          "firm_name": "The Boulder Group",
           "people": [
             {
-              "name": "Miriam Adelson",
-              "title": null
+              "name": "Randy Blankstein",
+              "title": "President"
+            }
+          ]
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": "A headquarters building in the Bronx traded in June at a 6.11% cap rate."
+    },
+    {
+      "title": "Chicago's Older Apartments Are Running Out Of Room To Raise Rent",
+      "source": "Bisnow News Feed",
+      "link": "https://www.bisnow.com/chicago/news/multifamily/chicagos-older-apartments-are-running-out-of-room-to-raise-rent-135389",
+      "published": "Sun, 12 Jul 2026 13:00:17 -0400",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-13-013.html",
+      "transaction_type": null,
+      "article_type": "Opinion / Market Commentary",
+      "market": "Chicago, IL",
+      "narrative": "Chicago's Class-C apartment market is facing significant challenges despite overall multifamily tailwinds, as rising operating costs for insurance, property taxes, and utilities are outpacing rent growth for older properties. This squeeze on margins is particularly acute for vintage stock, where some investors who focused on cosmetic upgrades in recent years deferred vital maintenance, making these properties harder to sell. While rent-by-necessity rates have increased substantially, they are now approaching affordability limits for workforce tenants, compressing the runway for further rent hikes. The market is seeing a return to more experienced operators who are selectively pursuing value-add opportunities, often with below-market rents or assumable low-rate debt, as new buyers face higher financing costs.",
+      "data_points": null,
+      "companies_people": [
+        {
+          "label": "OTHER",
+          "firm_name": "Colliers",
+          "people": [
+            {
+              "name": "Tyler Hague",
+              "title": "Executive Vice President"
             }
           ]
         },
         {
-          "label": "OWNER",
-          "firm_name": "Dallas Mavericks",
+          "label": "OTHER",
+          "firm_name": "Yardi Matrix",
           "people": []
         },
         {
-          "label": "SELLER",
-          "firm_name": "Mark Cuban",
+          "label": "OTHER",
+          "firm_name": "Interra Realty",
           "people": [
             {
-              "name": "Mark Cuban",
-              "title": null
+              "name": "Max Grossman",
+              "title": "Director"
             }
           ]
         },
         {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "S2 Capital",
+          "label": "OTHER",
+          "firm_name": "National Multifamily Housing Council",
           "people": [
             {
-              "name": "Scott Everett",
-              "title": null
+              "name": "Caitlin Sugrue Walter",
+              "title": "Senior Vice President and Head of Research and Innovation"
             }
           ]
-        },
-        {
-          "label": "LENDER",
-          "firm_name": "Computershare Trust",
-          "people": []
-        },
-        {
-          "label": "LENDER",
-          "firm_name": "Benefit Street Partners",
-          "people": []
-        },
-        {
-          "label": "LENDER",
-          "firm_name": "Citibank",
-          "people": []
-        },
-        {
-          "label": "LENDER",
-          "firm_name": "U.S. Bank Trust",
-          "people": []
-        },
-        {
-          "label": "OWNER",
-          "firm_name": "Caterpillar",
-          "people": []
-        },
-        {
-          "label": "SELLER",
-          "firm_name": "Vari",
-          "people": []
-        },
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Naterra International",
-          "people": []
-        },
-        {
-          "label": "OWNER",
-          "firm_name": "Toyota",
-          "people": []
         }
       ],
       "tenants": [],
