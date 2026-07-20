@@ -1,69 +1,153 @@
 {
-  "date": "2026-07-19",
+  "date": "2026-07-20",
   "articles": [
     {
-      "title": "NY Dirt: Mamdani begins Rental Ripoff rollout, starting small",
-      "source": "The Real Deal \u2014 New York",
-      "link": "https://therealdeal.com/new-york/2026/07/18/mamdani-dives-into-rental-ripoff-reforms-starts-small/",
-      "published": "Sat, 18 Jul 2026 23:30:00 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-19-001.html",
-      "transaction_type": null,
-      "article_type": "Opinion / Market Commentary",
+      "title": "Investment Firm HarbourVest Partners Takes 20K SF at 9 West 57th Street",
+      "source": "Commercial Observer",
+      "link": "https://commercialobserver.com/2026/07/harbourvest-partners-lease-9-west-57th-street/",
+      "published": "Mon, 20 Jul 2026 11:00:09 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-20-001.html",
+      "transaction_type": "Lease",
+      "article_type": null,
       "market": "New York City, NY",
-      "narrative": "New York City Mayor Zohran Mamdani's administration has released its \"Rental Ripoff Report,\" outlining 23 initiatives aimed at addressing tenant complaints and improving living conditions. The report details plans for increased enforcement on landlords, including immediate actions like enhanced inspection scheduling and sending inspectors for every new heat complaint. However, many of the proposed reforms, such as cracking down on mold remediation and expanding the city's lien authority, will require formal rulemaking, City Council approval, or legal action. The Mayor's Office to Protect Tenants will coordinate with Council members to advance these legislative changes, with initial discussions already underway with the Housing and Buildings Committee chair.",
+      "narrative": "HarbourVest Partners, a global private markets investment firm, has signed a 10-year lease for its inaugural New York City office. The firm will occupy nearly 20,000 square feet on the 49th floor of 9 West 57th Street, a prestigious Midtown office tower. The move reflects a strategic focus on attracting and retaining top talent by securing a high-caliber office space that aligns with the firm's business and provides an exceptional experience for clients and employees.",
+      "data_points": {
+        "property_type": "office",
+        "property_name": "9 West 57th Street",
+        "address": "9 West 57th Street, New York City, NY",
+        "address_sourced_separately": false,
+        "size_sf": 19752.0,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": 1974,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": "49-story office building known for attracting prestigious financial and investment firms.",
+        "project_notes": null
+      },
+      "companies_people": [
+        {
+          "label": "TENANT",
+          "firm_name": "HarbourVest Partners",
+          "people": []
+        },
+        {
+          "label": "LANDLORD",
+          "firm_name": "Soloviev Group",
+          "people": []
+        },
+        {
+          "label": "TENANT REP",
+          "firm_name": "JLL",
+          "people": [
+            {
+              "name": "Alexander Chudnoff",
+              "title": null
+            },
+            {
+              "name": "Ava Loughlin",
+              "title": null
+            }
+          ]
+        },
+        {
+          "label": "LEASING AGENT",
+          "firm_name": "CBRE",
+          "people": [
+            {
+              "name": "Howard Fiddle",
+              "title": null
+            },
+            {
+              "name": "John Maher",
+              "title": null
+            },
+            {
+              "name": "Gregg Rothkin",
+              "title": null
+            },
+            {
+              "name": "Tara Rhodes",
+              "title": null
+            },
+            {
+              "name": "Alex Leopold",
+              "title": null
+            }
+          ]
+        }
+      ],
+      "tenants": [
+        "Hess Group",
+        "Tikehau Capital"
+      ],
+      "financing": null,
+      "market_intelligence": "The average asking rent for office space in Midtown was $98.98 per square foot during the first half of 2026. A record asking rent at 9 West 57th Street was previously reported at $327.50 per square foot."
+    },
+    {
+      "title": "Korean Grocery Sensation H Mart Wants to Conquer the Sun Belt",
+      "source": "Commercial Observer",
+      "link": "https://commercialobserver.com/2026/07/h-mart-expansion-sun-belt/",
+      "published": "Mon, 20 Jul 2026 10:30:32 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-20-002.html",
+      "transaction_type": null,
+      "article_type": "Market Research / Retail Expansion",
+      "market": null,
+      "narrative": "H Mart, a Korean grocery chain, is aggressively expanding into Sun Belt markets including Florida, Texas, California, and Nevada, capitalizing on its growing popularity among both Asian American communities and a broader American audience. The company, which generates $2 billion in annual sales from over 100 locations, has distinguished itself by offering authentic imported Asian ingredients and a welcoming shopping experience. This expansion is driven by increasing immigration from East Asia and the rising purchasing power of Asian American households, particularly second-generation immigrants who are more affluent and seeking sophisticated products.",
       "data_points": null,
       "companies_people": [
         {
           "label": "OWNER",
-          "firm_name": "City of New York",
-          "people": [
-            {
-              "name": "Zohran Mamdani",
-              "title": "Mayor"
-            },
-            {
-              "name": "Julie Menin",
-              "title": "Speaker"
-            }
-          ]
-        },
-        {
-          "label": "OTHER",
-          "firm_name": "Department of Housing Preservation & Development",
+          "firm_name": "H Mart",
           "people": []
         },
         {
-          "label": "OTHER",
-          "firm_name": "Mayor\u2019s Office to Protect Tenants",
+          "label": "OWNER",
+          "firm_name": "F&T Group",
           "people": [
             {
-              "name": "Cea Weaver",
-              "title": "Head"
+              "name": "Helen Lee",
+              "title": "Executive Vice President"
             }
           ]
         },
         {
-          "label": "OTHER",
-          "firm_name": "Department of Buildings",
-          "people": []
-        },
-        {
-          "label": "OTHER",
-          "firm_name": "New York City Council",
+          "label": "SELLER BROKER",
+          "firm_name": "Newmark",
           "people": [
             {
-              "name": "Pierina Sanchez",
-              "title": "Council member, Chair of the Housing and Buildings Committee"
+              "name": "Jeffrey Rosen",
+              "title": "Vice Chairman and Founding Partner, Retail Division"
             }
           ]
         },
         {
-          "label": "OTHER",
-          "firm_name": "United Federation of Teachers",
+          "label": "LEASING AGENT",
+          "firm_name": "Retail by MONA",
           "people": [
             {
-              "name": "Michael Mulgrew",
-              "title": "President"
+              "name": "Brandon Singer",
+              "title": "CEO and Co-founder"
+            }
+          ]
+        },
+        {
+          "label": "SELLER BROKER",
+          "firm_name": "SCG Retail",
+          "people": [
+            {
+              "name": "Chase Welles",
+              "title": "Executive Vice President"
             }
           ]
         }
@@ -73,40 +157,389 @@
       "market_intelligence": null
     },
     {
-      "title": "Mamdani\u2019s new \u201cbad landlord\u201d strategy",
-      "source": "The Real Deal \u2014 New York",
-      "link": "https://therealdeal.com/new-york/2026/07/18/mamdanis-new-bad-landlord-strategy/",
-      "published": "Sat, 18 Jul 2026 13:00:00 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-19-002.html",
+      "title": "Dedeaux Properties CEO Brett Dedeaux On California\u2019s Next Industrial Cycle",
+      "source": "Commercial Observer",
+      "link": "https://commercialobserver.com/2026/07/dedeaux-california-industrial-logistics-ios/",
+      "published": "Mon, 20 Jul 2026 10:05:59 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-20-003.html",
       "transaction_type": null,
       "article_type": "Opinion / Market Commentary",
-      "market": "New York City, NY",
-      "narrative": "Mayor Zohran Mamdani's \"rental ripoff\" report categorizes landlords into \"high-road\" and \"low-road\" camps, aiming to distinguish between owners who maintain properties and those who speculate through practices like evictions and disinvestment. The report, a fulfillment of a campaign promise, recommends strengthening the Department of Buildings for increased inspections and enforcement, though many proposals require City Council approval. This initiative follows months of public forums where tenants shared building issues, with landlords attempting to present their perspectives.",
+      "market": "Los Angeles, CA",
+      "narrative": "Dedeaux Properties CEO Brett Dedeaux discusses the recovery of the Southern California industrial market, noting a transition from a \"reset\" period to one of \"recovery.\" Despite previous challenges like trade tariffs and interest rate hikes, Dedeaux observes \"green shoots\" of activity, with tenants resuming expansion plans and investors re-entering the market. He highlights the strong performance of advanced manufacturing and industrial outdoor storage (IOS) sectors, attributing Southern California's appeal to its skilled workforce and established vendor networks. The firm is also adapting its development strategies to address rising power demands in new facilities.",
       "data_points": null,
       "companies_people": [
         {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Eckstrom Development",
+          "label": "OWNER",
+          "firm_name": "Dedeaux Properties",
           "people": [
             {
-              "name": "Carlos Saavedra",
+              "name": "Brett Dedeaux",
+              "title": "CEO"
+            }
+          ]
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Sunday Summary: Don\u2019t Feel Embarrassed.",
+      "source": "Commercial Observer",
+      "link": "https://commercialobserver.com/2026/07/sunday-summary-special-servicing-reits/",
+      "published": "Sun, 19 Jul 2026 13:00:20 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-20-004.html",
+      "transaction_type": null,
+      "article_type": "Opinion / Market Commentary",
+      "market": "New York City, NY",
+      "narrative": "This article is a weekly summary covering several key commercial real estate topics. It discusses the potential conflicts of interest arising from owners launching special servicing platforms, which allow them insight into competitors' distressed assets. The piece also explores the disconnect between strong REIT performance and their stock valuations, examines the near-collapse of the Pfizer headquarters conversion project due to concerns over third-party safety inspections, and highlights significant personnel changes within prominent CRE firms. Finally, it rounds up recent retail leasing activity in New York City and provides an update on retail investment trends in Southern California and South Florida.",
+      "data_points": null,
+      "companies_people": [
+        {
+          "label": "LANDLORD",
+          "firm_name": "Chess Builders",
+          "people": []
+        },
+        {
+          "label": "TENANT",
+          "firm_name": "Barolo Restaurant Group",
+          "people": []
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "The Naftali Group",
+          "people": [
+            {
+              "name": "Miki Naftali",
               "title": null
             }
           ]
         },
         {
+          "label": "TENANT",
+          "firm_name": "Scoop N Scootery",
+          "people": []
+        },
+        {
+          "label": "LANDLORD",
+          "firm_name": "Acram Group",
+          "people": []
+        }
+      ],
+      "tenants": [
+        "Barolo Restaurant Group",
+        "Scoop N Scootery"
+      ],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "A bounce-back quarter for Minneapolis\u2019 industrial sector",
+      "source": "REJournals",
+      "link": "https://rejournals.com/a-bounce-back-quarter-for-minneapolis-industrial-sector/?utm_source=rss&utm_medium=rss&utm_campaign=a-bounce-back-quarter-for-minneapolis-industrial-sector",
+      "published": "Mon, 20 Jul 2026 10:05:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-20-005.html",
+      "transaction_type": null,
+      "article_type": "Market Research / Industrial Report",
+      "market": "Minneapolis, MN",
+      "narrative": "The Minneapolis-St. Paul industrial market experienced a rebound in the second quarter, achieving nearly 488,000 square feet of positive net absorption, a significant improvement from the previous quarter's negative figures. This positive absorption occurred despite several large tenant move-outs, driven by strong demand for modern industrial facilities. While overall vacancy rates edged up slightly to 4.4% due to older building vacancies, and average asking rents softened to $9.12 per square foot, new construction activity accelerated with 3.4 million square feet under development, indicating continued investment in high-quality industrial space.",
+      "data_points": null,
+      "companies_people": [
+        {
+          "label": "TENANT",
+          "firm_name": "Sportsman's Guide",
+          "people": []
+        },
+        {
+          "label": "TENANT",
+          "firm_name": "My Pillow",
+          "people": []
+        },
+        {
+          "label": "TENANT",
+          "firm_name": "Bernard Group",
+          "people": []
+        },
+        {
+          "label": "TENANT",
+          "firm_name": "Medline",
+          "people": []
+        },
+        {
+          "label": "TENANT",
+          "firm_name": "Anteris Technologies",
+          "people": []
+        },
+        {
+          "label": "LEASING AGENT",
+          "firm_name": "CBRE",
+          "people": []
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": "The Minneapolis-St. Paul industrial market saw a 20-basis-point increase in overall vacancy from the previous quarter and a 30-basis-point increase year-over-year. However, properties built in 2022 or later experienced a 20-basis-point decline in vacancy. Average asking rents declined 2% quarterly and 4.3% year-over-year, but remain 3.4% higher than three years ago. Leasing activity was down 24.4% from Q1 and 27.1% year-over-year, but the average lease size increased by nearly 17% quarterly and 20% year-over-year."
+    },
+    {
+      "title": "Texas Icon Patti Miller: Turning business development into a strategic growth engine",
+      "source": "REJournals",
+      "link": "https://rejournals.com/texas-icon-patti-miller-turning-business-development-into-a-strategic-growth-engine/?utm_source=rss&utm_medium=rss&utm_campaign=texas-icon-patti-miller-turning-business-development-into-a-strategic-growth-engine",
+      "published": "Mon, 20 Jul 2026 09:57:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-20-006.html",
+      "transaction_type": null,
+      "article_type": "Feature / Profile",
+      "market": "Houston, TX",
+      "narrative": "This article profiles Patti Miller, Vice President at E.E. Reed Construction, highlighting her 15-year career transforming business development into a strategic growth engine for the commercial construction firm. Miller's approach emphasizes disciplined strategy, accountability, and strong alignment between revenue generation, marketing, and operations. Her leadership has been instrumental in strengthening the firm's brand, deepening client relationships, and ensuring sustainable growth by intentionally pursuing projects that align with the company's values and operational readiness.",
+      "data_points": null,
+      "companies_people": [
+        {
           "label": "OWNER",
-          "firm_name": "Madison Capital",
+          "firm_name": "E.E. Reed Construction",
+          "people": [
+            {
+              "name": "Patti Miller",
+              "title": "Vice President"
+            }
+          ]
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Urban Land Institute",
           "people": []
         },
         {
           "label": "OWNER",
-          "firm_name": "Salmar Properties",
+          "firm_name": "NAIOP",
           "people": []
         },
+        {
+          "label": "OWNER",
+          "firm_name": "ACRP",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "CoreNet Global",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Greater Houston Women's Chamber of Commerce",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Make-A-Wish Builders of Hope Sporting Clays Tournament",
+          "people": []
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Bonner Carrington, Sycamore Development announce opening of 168-unit multifamily development in North Dallas",
+      "source": "REJournals",
+      "link": "https://rejournals.com/bonner-carrington-sycamore-development-announce-opening-of-168-unit-multifamily-development-in-north-dallas/?utm_source=rss&utm_medium=rss&utm_campaign=bonner-carrington-sycamore-development-announce-opening-of-168-unit-multifamily-development-in-north-dallas",
+      "published": "Mon, 20 Jul 2026 09:54:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-20-007.html",
+      "transaction_type": "Development",
+      "article_type": null,
+      "market": "Dallas, TX",
+      "narrative": "Bonner Carrington and Sycamore Development have opened Cypress Creek Montfort Drive, a 168-unit mixed-income multifamily community in North Dallas. The development provides much-needed affordable housing, with 116 units designated for residents earning 30% to 80% of the area median income and 52 market-rate units. The project aims to offer quality housing in a high-opportunity area, fostering a stronger workforce and supporting local businesses.",
+      "data_points": {
+        "property_type": "multifamily",
+        "property_name": "Cypress Creek Montfort Drive",
+        "address": "14119 Montfort Drive, Dallas, TX",
+        "address_sourced_separately": false,
+        "size_sf": null,
+        "size_units": 168,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": "Mixed-income community with 116 income-restricted units and 52 market-rate units; features a four-story building with structured parking, resort-style pool, fitness center, business center, and pet spa.",
+        "project_notes": "Financing included Federal 9% Low-Income Housing Tax Credit equity, construction and permanent financing, a soft loan from the City of Dallas, and funding from the U.S. Department of Housing and Urban Development\u2019s Community Development Block Grant Disaster Recovery (CDBG-DR) Program. 41 units are supported by the Walker Settlement Voucher program."
+      },
+      "companies_people": [
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Bonner Carrington",
+          "people": [
+            {
+              "name": "Casey Bump",
+              "title": "President"
+            }
+          ]
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Sycamore Development",
+          "people": [
+            {
+              "name": "Zachary Krochtengel",
+              "title": "Principal"
+            }
+          ]
+        },
+        {
+          "label": "EQUITY/FINANCING",
+          "firm_name": "Hunt Capital Partners",
+          "people": []
+        },
+        {
+          "label": "LENDER",
+          "firm_name": "East West Bank",
+          "people": []
+        },
+        {
+          "label": "GENERAL CONTRACTOR",
+          "firm_name": "Moss Construction",
+          "people": []
+        },
+        {
+          "label": "ARCHITECT",
+          "firm_name": "Arrive Architecture Group",
+          "people": []
+        },
+        {
+          "label": "ENGINEER",
+          "firm_name": "Pape-Dawson",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Bonner Carrington",
+          "people": []
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "KAI, SmithGroup help deliver long-awaited aquatics center to DeSoto",
+      "source": "REJournals",
+      "link": "https://rejournals.com/kai-smithgroup-help-deliver-long-awaited-aquatics-center-to-desoto/?utm_source=rss&utm_medium=rss&utm_campaign=kai-smithgroup-help-deliver-long-awaited-aquatics-center-to-desoto",
+      "published": "Mon, 20 Jul 2026 09:35:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-20-008.html",
+      "transaction_type": "Construction",
+      "article_type": null,
+      "market": "DeSoto, TX",
+      "narrative": "The City of DeSoto officially opened its new $53 million Aquatics & Recreation Center (ARC) in April, a project that has been envisioned by residents for over a decade. Designed in partnership by KAI and SmithGroup, the 75,000-square-foot, two-story facility aims to serve both community recreation needs and provide a competitive venue for various sports. The center is part of a larger master plan for Curtistene S. McCowan Park, which includes future amenities like an amphitheater and walking trails.",
+      "data_points": {
+        "property_type": "recreation center",
+        "property_name": "Aquatics & Recreation Center (ARC)",
+        "address": "1400 Academy Way, DeSoto, TX",
+        "address_sourced_separately": false,
+        "size_sf": 75000.0,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": 53000000.0,
+        "occupancy": null,
+        "year_built": null,
+        "completion": "April 2026",
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": "Features an 8-lane competition pool, leisure pool with observation decks, a 400-foot suspended fitness track, fitness and strength training areas, meeting rooms, locker rooms, gymnasiums, administrative offices, and social gathering spaces.",
+        "project_notes": "The project is part of a larger master plan for Curtistene S. McCowan Park, which includes future plans for an amphitheater, water features, sculpture garden, walking trails, and additional sports fields."
+      },
+      "companies_people": [
+        {
+          "label": "ARCHITECT",
+          "firm_name": "KAI",
+          "people": []
+        },
+        {
+          "label": "ARCHITECT",
+          "firm_name": "SmithGroup",
+          "people": [
+            {
+              "name": "Randall Daniel",
+              "title": "Senior Design Principal"
+            }
+          ]
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "City of DeSoto",
+          "people": [
+            {
+              "name": "Chris Glover",
+              "title": "former Director of Parks and Recreation"
+            }
+          ]
+        },
+        {
+          "label": "GENERAL CONTRACTOR",
+          "firm_name": "Manhattan Construction Company",
+          "people": []
+        },
+        {
+          "label": "GENERAL CONTRACTOR",
+          "firm_name": "Post L Group",
+          "people": []
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Summer camp sales mark the next chapter in Simad\u2019s collapse",
+      "source": "The Real Deal \u2014 National",
+      "link": "https://therealdeal.com/national/2026/07/19/simad-begins-selling-summer-camps/",
+      "published": "Sun, 19 Jul 2026 13:00:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-20-009.html",
+      "transaction_type": "Sale",
+      "article_type": null,
+      "market": "New York",
+      "narrative": "The Shabsels brothers' summer camp empire, Simad, is being dismantled through bankruptcy proceedings, with two camps finding buyers. Warner Bros. Discovery CEO David Zaslav made a $68 million stalking horse bid for Mohawk Day Camp in Westchester, while Camp Achim in the Catskills sold for $7 million to its long-term operator. These sales are part of the ongoing liquidation of a portfolio that was once valued at $466 million but became extraordinarily leveraged through Israeli bond market financing and high-cost merchant cash advance loans, leading to a liquidity crisis and default.",
+      "data_points": {
+        "property_type": "other",
+        "property_name": "Mohawk Day Camp / Camp Achim",
+        "address": null,
+        "address_sourced_separately": false,
+        "size_sf": null,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": 75000000.0,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": true,
+        "notable_features": "Mohawk Day Camp is located in Westchester, NY; Camp Achim is located in the Catskills, NY.",
+        "project_notes": "The sales are part of the bankruptcy proceedings for Simad, the Shabsels brothers' summer camp empire. Mohawk Day Camp's sale was initiated with a stalking horse bid."
+      },
+      "companies_people": [
         {
           "label": "SELLER",
-          "firm_name": "Simad Holdings",
+          "firm_name": "Simad",
           "people": [
             {
               "name": "David Shabsels",
@@ -120,7 +553,7 @@
         },
         {
           "label": "BUYER",
-          "firm_name": "Warner Bros. Discovery",
+          "firm_name": "David Zaslav",
           "people": [
             {
               "name": "David Zaslav",
@@ -129,19 +562,9 @@
           ]
         },
         {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "MetroLoft",
+          "label": "BUYER",
+          "firm_name": "Camp Achim Operator",
           "people": []
-        },
-        {
-          "label": "TENANT REP",
-          "firm_name": "Cushman & Wakefield",
-          "people": [
-            {
-              "name": "Diana Boutross",
-              "title": null
-            }
-          ]
         }
       ],
       "tenants": [],
@@ -149,84 +572,192 @@
       "market_intelligence": null
     },
     {
-      "title": "\u201cLess than a Telluride\u201d: Jay Martin dares tenants to buy Harlem building",
-      "source": "The Real Deal \u2014 New York",
-      "link": "https://therealdeal.com/new-york/2026/07/18/harlem-building-came-back-but-now-units-cost-less-than-suv/",
-      "published": "Sat, 18 Jul 2026 13:00:00 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-19-003.html",
+      "title": "Summer spotlight: Lake Tahoe, where Big Tech summers (and skis)",
+      "source": "The Real Deal \u2014 National",
+      "link": "https://therealdeal.com/national/2026/07/19/inside-lake-tahoes-real-estate-market/",
+      "published": "Sun, 19 Jul 2026 12:00:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-20-010.html",
       "transaction_type": null,
       "article_type": "Opinion / Market Commentary",
-      "market": "New York City, NY",
-      "narrative": "This article discusses the significant devaluation of rent-stabilized multifamily buildings in New York City, particularly in Harlem, following the enactment of the Housing Stability and Tenant Protection Act in 2019. It highlights a specific 24-unit building at 502 West 135th Street, currently listed for $1.375 million, which represents a more than 60% drop in value since its 2019 purchase for $3.6 million. The piece uses this example to illustrate how legislative changes and rising interest rates have made ownership of such properties financially challenging, even suggesting that tenants would find it more expensive to own than to rent due to operating expenses exceeding potential rent revenue.",
-      "data_points": {
-        "property_type": "multifamily",
-        "property_name": null,
-        "address": "502 West 135th Street, New York City, NY",
-        "address_sourced_separately": false,
-        "size_sf": null,
-        "size_units": 24,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": 1375000.0,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": null,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": null,
-        "multi_asset_purchase": false,
-        "notable_features": "Rent-stabilized building.",
-        "project_notes": "The property was purchased in April 2019 for $3.6 million and financed with a $2.5 million mortgage, which was extended in 2024 at an 8% interest rate."
-      },
+      "market": "Lake Tahoe, NV / Lake Tahoe, CA",
+      "narrative": "Lake Tahoe's luxury real estate market, particularly on the Nevada side, is experiencing a boom driven by Bay Area tech billionaires seeking tax advantages and a high-end lifestyle. Recent record-breaking sales include a $125 million off-market purchase by a SpaceX board member and a $42 million acquisition by a Google co-founder. While the ultra-luxury segment thrives, the market for homes under $20 million has softened, with sellers adjusting prices to current conditions. The influx of wealth has also attracted significant real estate development, with major projects underway or planned, including the redevelopment of the Hyatt Regency Lake Tahoe Resort and the Cal Neva Resort, despite some community opposition to privatization efforts.",
+      "data_points": null,
       "companies_people": [
         {
-          "label": "SELLER",
-          "firm_name": "Klosed Properties",
+          "label": "BUYER",
+          "firm_name": "Wolfpack LLC",
+          "people": []
+        },
+        {
+          "label": "BUYER",
+          "firm_name": "Sergey Brin",
           "people": [
             {
-              "name": "Steven Kachanian",
-              "title": null
-            },
-            {
-              "name": "Jacob Namdar",
-              "title": null
-            },
-            {
-              "name": "Adam Hajibai",
-              "title": null
+              "name": "Sergey Brin",
+              "title": "Co-founder"
             }
           ]
         },
         {
           "label": "BUYER",
-          "firm_name": "Bronx GS Properties LLC",
+          "firm_name": "Steve Jurvetson",
+          "people": [
+            {
+              "name": "Steve Jurvetson",
+              "title": "Board member"
+            }
+          ]
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Larry Ellison",
+          "people": [
+            {
+              "name": "Larry Ellison",
+              "title": "Co-founder"
+            }
+          ]
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Mark Zuckerberg",
+          "people": [
+            {
+              "name": "Mark Zuckerberg",
+              "title": "Founder"
+            }
+          ]
+        },
+        {
+          "label": "SELLER",
+          "firm_name": "Larry Ruvo",
+          "people": [
+            {
+              "name": "Larry Ruvo",
+              "title": "Head of Southern Glazer's Wine and Spirits of Nevada"
+            }
+          ]
+        },
+        {
+          "label": "SELLER BROKER",
+          "firm_name": "Christie's International Real Estate",
+          "people": [
+            {
+              "name": "Christine Perry",
+              "title": null
+            }
+          ]
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Proper Hospitality",
+          "people": [
+            {
+              "name": "Brad Korzen",
+              "title": null
+            },
+            {
+              "name": "Brian De Lowe",
+              "title": null
+            },
+            {
+              "name": "Alex Samek",
+              "title": null
+            }
+          ]
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Realberry",
+          "people": [
+            {
+              "name": "Chad McWhinney",
+              "title": null
+            },
+            {
+              "name": "Troy McWhinney",
+              "title": null
+            }
+          ]
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Discovery Land Company",
+          "people": [
+            {
+              "name": "Mike Meldman",
+              "title": null
+            }
+          ]
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "JMA Ventures",
+          "people": []
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": "The Nevada side of Lake Tahoe is approximately 40 percent more expensive than the California side, primarily due to tax benefits. Pricing for homes below the $20 million mark has softened compared to 2021 levels."
+    },
+    {
+      "title": "South Florida Dirt: The soccer stars who planted a flag in South Florida",
+      "source": "The Real Deal \u2014 Miami",
+      "link": "https://therealdeal.com/miami/2026/07/19/where-soccer-players-have-bought-south-florida-homes/",
+      "published": "Sun, 19 Jul 2026 17:00:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-20-011.html",
+      "transaction_type": null,
+      "article_type": "Market Research / Residential Transactions",
+      "market": "South Florida",
+      "narrative": "This article provides a roundup of significant residential real estate transactions involving prominent soccer players in South Florida, highlighting their long-term investment in the region. The transactions include waterfront mansions, luxury condos, and residential plots, reflecting the area's appeal to high-net-worth individuals. The market has seen substantial activity, with several multi-million dollar deals closing in recent years, often involving properties with extensive amenities and prime waterfront locations.",
+      "data_points": null,
+      "companies_people": [
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "CMC Group",
+          "people": []
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Morabito Properties",
+          "people": []
+        },
+        {
+          "label": "GENERAL CONTRACTOR",
+          "firm_name": "Bart Reines",
           "people": []
         },
         {
           "label": "SELLER",
-          "firm_name": "Chaim Eli Bleeman",
+          "firm_name": "Niklas de la Motte",
+          "people": []
+        },
+        {
+          "label": "BUYER",
+          "firm_name": "JFStar LLC",
+          "people": [
+            {
+              "name": "John A. Franklin",
+              "title": null
+            }
+          ]
+        },
+        {
+          "label": "SELLER",
+          "firm_name": "Walton Street Capital",
+          "people": []
+        },
+        {
+          "label": "BUYER",
+          "firm_name": "Health Wave Partners",
           "people": []
         },
         {
           "label": "SELLER BROKER",
-          "firm_name": "Jack Zalta",
+          "firm_name": "Corcoran Group",
           "people": [
             {
-              "name": "Jack Zalta",
-              "title": null
-            }
-          ]
-        },
-        {
-          "label": "OWNER",
-          "firm_name": "Fred Marolda",
-          "people": [
-            {
-              "name": "Fred Marolda",
+              "name": "Julian Johnston",
               "title": null
             }
           ]
@@ -234,70 +765,29 @@
       ],
       "tenants": [],
       "financing": null,
-      "market_intelligence": null
+      "market_intelligence": "West Palm Beach and Miami exhibit the widest and second-widest gaps, respectively, in the U.S. between luxury and non-luxury home and condo prices."
     },
     {
-      "title": "How the Pfizer building scare could push developers to rethink vertical conversion plans",
-      "source": "The Real Deal \u2014 New York",
-      "link": "https://therealdeal.com/new-york/2026/07/18/how-the-pfizer-building-scare-could-recast-conversion-plans/",
-      "published": "Sat, 18 Jul 2026 12:00:00 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-19-004.html",
-      "transaction_type": null,
-      "article_type": "Opinion / Market Commentary",
-      "market": "New York City, NY",
-      "narrative": "The near collapse of the Pfizer building conversion project has prompted real estate developers and city officials to re-evaluate the risks and regulations associated with vertical office-to-residential conversions, particularly those involving significant overbuilds. The incident is expected to lead to new regulations or stricter enforcement, potentially increasing the cost and complexity of such projects. This could diminish the value of air rights, which have historically been a lucrative asset for owners of buildings targeted for conversion, as lenders may become more cautious and developers less willing to pay a premium for the added development potential.",
-      "data_points": null,
-      "companies_people": [
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "MetroLoft",
-          "people": []
-        },
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "David Werner",
-          "people": []
-        },
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Heiberger & Burger",
-          "people": [
-            {
-              "name": "Andrew Heiberger",
-              "title": null
-            },
-            {
-              "name": "Marty Burger",
-              "title": null
-            }
-          ]
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "NYC\u2019s top deals: BD Hotels offloads The Blakely hotel for $39M",
-      "source": "The Real Deal \u2014 New York",
-      "link": "https://therealdeal.com/new-york/2026/07/18/new-york-top-real-estate-deals-friday-july-17/",
-      "published": "Sat, 18 Jul 2026 11:00:00 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-19-005.html",
-      "transaction_type": "Sale",
+      "title": "Evanston greenlights apartment complex despite historic Black church\u2019s objections",
+      "source": "The Real Deal \u2014 Chicago",
+      "link": "https://therealdeal.com/chicago/2026/07/20/evanston-greenlights-apartments-despite-ame-church-concerns/",
+      "published": "Mon, 20 Jul 2026 11:30:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-20-012.html",
+      "transaction_type": "Development",
       "article_type": null,
-      "market": "New York City, NY",
-      "narrative": "BD Hotels has sold The Blakely hotel in Midtown, New York City, to an LLC associated with Fattal Hotel Group for $38.5 million. The 16-story hotel features 119 rooms. This transaction represents the top commercial deal recorded in New York City during the reporting period.",
+      "market": "Evanston, IL",
+      "narrative": "The Evanston City Council has approved zoning for a five-story, 30-unit apartment complex at 1103 and 1105 Emerson Street, despite objections from the adjacent Ebenezer AME Church. The church raised concerns about the development's height, density, potential impact on its structural integrity, and noise from future tenants. As a result, the developer, PM Properties, agreed to a \"good neighbor\" ordinance, which includes specific requirements for building materials, noise monitoring, and a taller fence for the church's parking lot.",
       "data_points": {
-        "property_type": "hotel",
-        "property_name": "The Blakely",
-        "address": "136 West 55th Street, New York City, NY",
+        "property_type": "multifamily",
+        "property_name": null,
+        "address": "1103 and 1105 Emerson Street, Evanston, IL",
         "address_sourced_separately": false,
         "size_sf": null,
-        "size_units": null,
+        "size_units": 30,
         "size_beds": null,
-        "size_keys": 119,
+        "size_keys": null,
         "rental_rate": null,
-        "sale_price": 38500000.0,
+        "sale_price": null,
         "loan_amount": null,
         "total_project_cost": null,
         "occupancy": null,
@@ -308,213 +798,164 @@
         "original_plan": null,
         "land_area_acres": null,
         "multi_asset_purchase": false,
-        "notable_features": "16 stories tall.",
-        "project_notes": null
+        "notable_features": "Three units are designated as affordable housing for residents earning 40% of the area's median income.",
+        "project_notes": "The development includes a 'good neighbor' ordinance requiring PM Properties to obtain city approval for exterior materials, replace building elevations, submit documents on the church's condition, avoid rooftop sound systems, build a taller fence for the church, and implement onsite noise monitoring."
       },
       "companies_people": [
         {
-          "label": "SELLER",
-          "firm_name": "BD Hotels",
-          "people": [
-            {
-              "name": "Richard Born",
-              "title": null
-            }
-          ]
-        },
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "PM Properties",
+          "people": []
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "SF\u2019s housing frenzy migrates to Marin, Ian Jacobs doubles down downtown, Transamerica gets moving",
+      "source": "The Real Deal \u2014 San Francisco",
+      "link": "https://therealdeal.com/san-francisco/2026/07/19/sf-boom-spills-into-marin-as-downtown-players-make-moves/",
+      "published": "Sun, 19 Jul 2026 15:00:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-20-013.html",
+      "transaction_type": "Acquisition",
+      "article_type": null,
+      "market": "San Francisco, CA",
+      "narrative": "The San Francisco housing market's intense competition, marked by homes selling significantly above asking price, is driving a spillover effect into Marin County, which is now experiencing double-digit median price jumps. This trend, fueled by the artificial intelligence boom centered in San Francisco, is a departure from previous tech cycles where Marin's lack of public rail made it less attractive to homebuyers. Meanwhile, in downtown San Francisco, Ian Jacobs, a scion of the Reichmann real estate dynasty, has acquired the four-story retail and office building at 180 Post Street for $48.5 million, continuing his strategy of assembling commercial properties in the Union Square district. Separately, Yoda PLC, the new owner of the Transamerica Pyramid, has signed seven new office leases totaling 113,000 square feet and announced plans for significant renovations to Two Transamerica, an adjacent building, with new amenities expected to be completed by Q4 this year.",
+      "data_points": {
+        "property_type": "retail",
+        "property_name": null,
+        "address": "180 Post Street, San Francisco, CA",
+        "address_sourced_separately": false,
+        "size_sf": 40417.0,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": 48500000.0,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": "Anchored by a long-term lease with a luxury jeweler.",
+        "project_notes": "Part of Project Uris, a $75 million plan to acquire 3 million square feet of San Francisco commercial buildings."
+      },
+      "companies_people": [
         {
           "label": "BUYER",
-          "firm_name": "Fattal Hotel Group",
-          "people": []
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Fraud scheme: real estate journalism\u2019s version of \u201cif it bleeds, it leads\u201d",
-      "source": "The Real Deal \u2014 Texas",
-      "link": "https://therealdeal.com/texas/2026/07/18/alleged-fraud-scheme-uncovered-in-frisco/",
-      "published": "Sat, 18 Jul 2026 14:00:00 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-19-006.html",
-      "transaction_type": null,
-      "article_type": "Market Research / Multi-Market",
-      "market": "Texas",
-      "narrative": "This article reports on several distinct real estate developments and legal issues across Texas. It details a fraud scheme in which two Frisco entrepreneurs were found liable for breach of contract and fraud, ordered to pay $400 million in damages for a fake luxury waterfront development in Williamson County. Separately, the Dallas-Fort Worth multifamily market is seeing renewed activity with several new projects announced and financing secured for others, including an affordable housing project in Fort Worth and luxury apartments in Dallas and Plano. Additionally, developer Hoque Global has been dropped by two North Texas cities for missing development deadlines, and Elon Musk has significantly expanded his landholdings in Bastrop, TX.",
-      "data_points": null,
-      "companies_people": [
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Oldham Goodwin Group",
-          "people": []
-        },
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Fort Worth Housing Solutions",
-          "people": []
-        },
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Cover2 Capital",
+          "firm_name": "Silver Gate Property II LLC",
           "people": [
             {
-              "name": "Blake Poston",
+              "name": "Ian Jacobs",
               "title": null
             }
           ]
         },
         {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Endeavor Real Estate",
-          "people": []
-        },
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "StreetLights Residential",
-          "people": []
-        },
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Hoque Global",
+          "label": "OWNER",
+          "firm_name": "Yoda PLC",
           "people": [
             {
-              "name": "Mike Hoque",
-              "title": null
+              "name": "Alon Bar",
+              "title": "CEO"
             }
           ]
-        },
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Bridgeview",
-          "people": []
-        },
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "PegasusAblon",
-          "people": []
-        },
-        {
-          "label": "OWNER",
-          "firm_name": "Energy Commissioning Inc.",
-          "people": [
-            {
-              "name": "Marshall Hussein",
-              "title": "owner"
-            }
-          ]
-        },
-        {
-          "label": "SELLER",
-          "firm_name": "Gopala Krishnan",
-          "people": []
-        },
-        {
-          "label": "SELLER",
-          "firm_name": "Sakthivel Gounder",
-          "people": []
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "\u201cThere is no ceiling\u201d: Welcome to Area AI",
-      "source": "The Real Deal \u2014 San Francisco",
-      "link": "https://therealdeal.com/san-francisco/2026/07/18/inside-area-ai-san-franciscos-hottest-housing-market/",
-      "published": "Sat, 18 Jul 2026 12:00:00 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-19-007.html",
-      "transaction_type": null,
-      "article_type": "Opinion / Market Commentary",
-      "market": "San Francisco, CA",
-      "narrative": "The article describes how the artificial intelligence industry has revitalized San Francisco's real estate market, particularly in the southeastern district known as Mission Bay and its adjacent neighborhoods like Potrero Hill. The influx of major AI companies and high-earning employees has led to a surge in demand for both commercial and residential properties, driving up prices and rents significantly. Mission Bay, once characterized by warehouses, has transformed into a bustling hub with near-zero office vacancy rates, while Potrero Hill has become a sought-after residential area for AI professionals and 'hacker houses,' experiencing substantial home price appreciation and intense bidding wars.",
-      "data_points": null,
-      "companies_people": [
-        {
-          "label": "OWNER",
-          "firm_name": "University of California San Francisco",
-          "people": []
-        },
-        {
-          "label": "OWNER",
-          "firm_name": "San Francisco Unified School District",
-          "people": []
-        },
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "San Francisco Giants",
-          "people": []
-        },
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Tishman Speyer",
-          "people": []
-        },
-        {
-          "label": "TENANT",
-          "firm_name": "OpenAI",
-          "people": []
-        },
-        {
-          "label": "TENANT",
-          "firm_name": "Nvidia",
-          "people": []
-        },
-        {
-          "label": "TENANT",
-          "firm_name": "Coinbase",
-          "people": []
-        },
-        {
-          "label": "TENANT",
-          "firm_name": "Visa",
-          "people": []
-        },
-        {
-          "label": "TENANT",
-          "firm_name": "Golden State Warriors",
-          "people": []
-        },
-        {
-          "label": "TENANT",
-          "firm_name": "Blue Bottle",
-          "people": []
         },
         {
           "label": "LEASING AGENT",
           "firm_name": "JLL",
           "people": []
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": "San Francisco's housing market has seen a 1,700 percent increase in homes sold for at least $1 million over asking price this year. Marin County was the only Bay Area housing market as of July to experience a double-digit median price jump over last year."
+    },
+    {
+      "title": "Brookfield, CPP Taking LXP Industrial Private in $5.2B Deal",
+      "source": "Connect CRE",
+      "link": "https://www.connectcre.com/stories/brookfield-cpp-taking-lxp-industrial-private-in-5-2b-deal/",
+      "published": "Mon, 20 Jul 2026 11:39:57 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-07-20-014.html",
+      "transaction_type": "Acquisition",
+      "article_type": null,
+      "market": null,
+      "narrative": "Brookfield Asset Management and Canada Pension Plan Investment Board have agreed to acquire LXP Industrial Trust in an all-cash transaction valued at approximately $5.2 billion, including net debt and preferred equity. LXP Industrial Trust owns a significant portfolio of 108 warehouse and logistics facilities, totaling approximately 53 million square feet, primarily located in the Sunbelt and Midwest regions of the U.S. This acquisition represents the culmination of LXP's strategic repositioning to become a pure-play industrial REIT with a high-quality portfolio and development program, aligning with Brookfield's strategy of investing in real estate with durable cash flows and value creation opportunities.",
+      "data_points": {
+        "property_type": "industrial",
+        "property_name": null,
+        "address": null,
+        "address_sourced_separately": false,
+        "size_sf": 53000000.0,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": 5200000000.0,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": true,
+        "notable_features": "Portfolio comprises 108 properties in the Sunbelt and Midwest regions.",
+        "project_notes": "The transaction includes a 40-day 'go-shop' period expiring August 28."
+      },
+      "companies_people": [
+        {
+          "label": "BUYER",
+          "firm_name": "Brookfield Asset Management",
+          "people": []
         },
         {
-          "label": "LEASING AGENT",
-          "firm_name": "Colliers",
+          "label": "BUYER",
+          "firm_name": "Canada Pension Plan Investment Board",
+          "people": []
+        },
+        {
+          "label": "SELLER",
+          "firm_name": "LXP Industrial Trust",
           "people": [
             {
-              "name": "Derek Daniels",
-              "title": "San Francisco research lead"
+              "name": "Thomas W. Eglin, Jr.",
+              "title": "Chairman and CEO"
             }
           ]
         },
         {
-          "label": "SELLER BROKER",
-          "firm_name": "Compass",
-          "people": [
-            {
-              "name": "Milan Jezdimirovic",
-              "title": null
-            }
-          ]
+          "label": "BUYER BROKER",
+          "firm_name": "Citigroup Global Markets Inc.",
+          "people": []
+        },
+        {
+          "label": "BUYER BROKER",
+          "firm_name": "Morgan Stanley",
+          "people": []
         },
         {
           "label": "SELLER BROKER",
-          "firm_name": "Jerry Rice Jr.",
+          "firm_name": "BofA Securities, Inc.",
+          "people": []
+        },
+        {
+          "label": "SELLER BROKER",
+          "firm_name": "J.P. Morgan Securities LLC",
           "people": []
         }
       ],
       "tenants": [],
       "financing": null,
-      "market_intelligence": "Mission Bay office vacancy rates are nearly out of room. The median price for a condo in Mission Bay rose 13.2 percent over the last year to $1.2 million. In Potrero Hill, the median price for a single-family home rose 16 percent over the last year, reaching more than $2 million, with homes selling for 42 percent above asking on average."
+      "market_intelligence": null
     }
   ]
 }
