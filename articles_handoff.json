@@ -1,4 +1,637 @@
 {
-  "date": "2026-08-02",
-  "articles": []
+  "date": "2026-08-03",
+  "articles": [
+    {
+      "title": "Overall CMBS Distress Hits a 2026 High",
+      "source": "Commercial Observer",
+      "link": "https://commercialobserver.com/2026/08/cmbs-distress-2026-cred-iq-2/",
+      "published": "Mon, 03 Aug 2026 12:00:37 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-03-001.html",
+      "transaction_type": null,
+      "article_type": "Market Research / CMBS Report",
+      "market": null,
+      "narrative": "The overall distress rate for commercial mortgage-backed securities (CMBS) reached 10.91% in July 2026, marking a three-month upward trend. This figure, which includes loans in special servicing or 30-plus days delinquent, is driven by a significant increase in special servicing referrals (10.38%), indicating proactive transfers due to upcoming maturities or borrower requests rather than just missed payments. Office properties are the primary outlier, with a distress rate of 16.65%, while industrial and self-storage sectors remain robust. The report emphasizes that a granular, loan-level view is crucial for understanding and addressing the uneven distribution of distress across property types and metro areas.",
+      "data_points": null,
+      "companies_people": [
+        {
+          "label": "OWNER",
+          "firm_name": "CRED iQ",
+          "people": [
+            {
+              "name": "Liam Mulcahy",
+              "title": "Senior Product Manager for CRE Data and Applied AI"
+            }
+          ]
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": "The CMBS market is experiencing a widening spread between special servicing and delinquency rates, indicating proactive loan transfers rather than just missed payments. Conduit-sourced delinquent balances outpaced single-asset, single-borrower (SASB) loans in July. Distress is concentrated in specific property types, with office being a clear outlier, and unevenly distributed across metro areas, particularly on the West Coast and in the Midwest."
+    },
+    {
+      "title": "Sapien AI Signs 11K-SF Lease at Kaufman\u2019s 48 West 25th Street",
+      "source": "Commercial Observer",
+      "link": "https://commercialobserver.com/2026/08/sapien-ai-lease-kaufman-organization-48-west-25th-street/",
+      "published": "Mon, 03 Aug 2026 11:00:18 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-03-002.html",
+      "transaction_type": "Lease",
+      "article_type": null,
+      "market": "New York City, NY",
+      "narrative": "Sapien AI, a financial and operations analytics firm, has signed a lease for 10,500 square feet, encompassing the entire fifth floor, at 48 West 25th Street in Midtown South. This relocation from its previous offices at 184 Fifth Avenue provides the AI firm with a full-floor headquarters in the NoMad area. The deal reflects the continued expansion of New York's AI sector, with the new space designed to match the company's growth and creative energy.",
+      "data_points": {
+        "property_type": "office",
+        "property_name": null,
+        "address": "48 West 25th Street, New York City, NY",
+        "address_sourced_separately": false,
+        "size_sf": 10500.0,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": 80.0,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": "Full-floor headquarters in the NoMad area, located within a block of Madison Square Park.",
+        "project_notes": "The building was recently acquired by Kaufman Organization from Savanna for $125 million in June 2026, as part of a two-building portfolio including 24-28 West 25th Street."
+      },
+      "companies_people": [
+        {
+          "label": "TENANT",
+          "firm_name": "Sapien AI",
+          "people": []
+        },
+        {
+          "label": "LANDLORD",
+          "firm_name": "Kaufman Organization",
+          "people": [
+            {
+              "name": "Grant Greenspan",
+              "title": null
+            }
+          ]
+        },
+        {
+          "label": "TENANT REP",
+          "firm_name": "Nomad Group",
+          "people": [
+            {
+              "name": "Matthew DeRose",
+              "title": null
+            },
+            {
+              "name": "Calvin Bruwelheide",
+              "title": null
+            }
+          ]
+        }
+      ],
+      "tenants": [
+        "Sapien AI"
+      ],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Invesco Real Estate\u2019s Chase Bolding Talks Market Opportunity",
+      "source": "Commercial Observer",
+      "link": "https://commercialobserver.com/2026/08/invesco-real-estates-chase-bolding-interview/",
+      "published": "Mon, 03 Aug 2026 10:30:47 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-03-003.html",
+      "transaction_type": null,
+      "article_type": "Feature / Profile",
+      "market": "New York City, NY",
+      "narrative": "Chase Bolding, CIO and Head of North American Real Estate at Invesco Real Estate, discusses his career trajectory and investment philosophy, emphasizing his expertise in distressed assets. He highlights his experience navigating the Global Financial Crisis (GFC) and its impact on his risk-based mindset, which he applies across Invesco's institutional and private wealth portfolios. Bolding details Invesco's post-GFC strategy, which involved acquiring loan portfolios across all commercial real estate sectors in the U.S. and later in Europe, leveraging the optionality of credit investments to either modify loans or pursue remedies to acquire real estate.",
+      "data_points": null,
+      "companies_people": [
+        {
+          "label": "OWNER",
+          "firm_name": "Invesco Real Estate",
+          "people": [
+            {
+              "name": "Chase Bolding",
+              "title": "Chief Investment Officer and Head of North American Real Estate"
+            }
+          ]
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Greenfield Partners",
+          "people": []
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Sunday Summary: Shutdowns, Earnings and Wildcatters",
+      "source": "Commercial Observer",
+      "link": "https://commercialobserver.com/2026/08/sunday-summary-shutdowns-earnings-and-wildcatters/",
+      "published": "Sun, 02 Aug 2026 13:00:06 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-03-004.html",
+      "transaction_type": null,
+      "article_type": "Market Research / Weekly Summary",
+      "market": "New York City, NY",
+      "narrative": "This article provides a summary of significant commercial real estate news from the past week, focusing on office-to-residential conversions, company earnings reports, and personnel changes. It highlights the ongoing challenges and scrutiny faced by office conversion projects in Manhattan, despite the perceived necessity of such conversions due to limited alternatives for new housing development. The piece also details the varied financial performances of major real estate firms, with some reporting strong revenue growth and strategic acquisitions, while others experienced dips in funds from operations or net losses. Additionally, it touches on a major construction loan for a new office tower and significant capital raises by investment firms.",
+      "data_points": null,
+      "companies_people": [
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "SL Green Realty",
+          "people": []
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Richman Group",
+          "people": []
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Monadnock Development",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Empire State Realty Trust",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Blackstone Mortgage Trust",
+          "people": []
+        },
+        {
+          "label": "BUYER",
+          "firm_name": "Welltower",
+          "people": []
+        },
+        {
+          "label": "SELLER",
+          "firm_name": "Amica Senior Lifestyles",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Vici Properties",
+          "people": [
+            {
+              "name": "John Payne",
+              "title": "Chief Operating Officer"
+            }
+          ]
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Newmark",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "JLL",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "CBRE",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Equinix",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Invesco",
+          "people": []
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "BXP",
+          "people": []
+        },
+        {
+          "label": "EQUITY/FINANCING",
+          "firm_name": "KKR",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "BRGE",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Vivmark Residential",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Equity Residential",
+          "people": []
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "SJP Properties",
+          "people": [
+            {
+              "name": "Paul Chung",
+              "title": null
+            }
+          ]
+        },
+        {
+          "label": "EQUITY/FINANCING",
+          "firm_name": "North Bridge",
+          "people": [
+            {
+              "name": "Laura Rapaport",
+              "title": "founder"
+            }
+          ]
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Quinlan Development Group",
+          "people": []
+        },
+        {
+          "label": "OTHER",
+          "firm_name": "Goulston & Storrs",
+          "people": [
+            {
+              "name": "Brian Grindall",
+              "title": null
+            }
+          ]
+        },
+        {
+          "label": "OTHER",
+          "firm_name": "Tenenbaum & Saas",
+          "people": []
+        },
+        {
+          "label": "OTHER",
+          "firm_name": "Brand Urban",
+          "people": [
+            {
+              "name": "Taryn Brandes",
+              "title": null
+            },
+            {
+              "name": "Matthew Krell",
+              "title": null
+            },
+            {
+              "name": "Daniel Bodner",
+              "title": null
+            },
+            {
+              "name": "Lucas Kooyman",
+              "title": null
+            },
+            {
+              "name": "Max Swerdloff",
+              "title": null
+            },
+            {
+              "name": "Rikard Cederberg",
+              "title": null
+            },
+            {
+              "name": "Isabel Krajovan",
+              "title": null
+            }
+          ]
+        },
+        {
+          "label": "OTHER",
+          "firm_name": "Alvarez & Marsal Property Solutions",
+          "people": []
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": "The Department of Buildings halted construction at two prominent office-to-residential conversion projects in Manhattan (750 Third Avenue and 222 Broadway) last week, indicating heightened scrutiny in the conversion space. The state's 485-x development program for new housing is facing challenges due to inflation and rising costs, making margins slimmer. The Mamdani administration aims for 200,000 new housing units and the preservation of another 200,000 units. The Federal Reserve, chaired by Kevin Warsh, kept interest rates steady to hedge against inflation."
+    },
+    {
+      "title": "Cabot Properties closes disposition of industrial portfolio in Minneapolis, Chicago markets",
+      "source": "REJournals",
+      "link": "https://rejournals.com/cabot-properties-closes-disposition-of-industrial-portfolio-in-minneapolis-chicago-markets/?utm_source=rss&utm_medium=rss&utm_campaign=cabot-properties-closes-disposition-of-industrial-portfolio-in-minneapolis-chicago-markets",
+      "published": "Mon, 03 Aug 2026 10:02:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-03-005.html",
+      "transaction_type": "Sale",
+      "article_type": null,
+      "market": "Chicago, IL / Minneapolis, MN",
+      "narrative": "Cabot Properties has completed the sale of the North Central Portfolio, an 11-property industrial portfolio spanning approximately 2.5 million square feet across the Greater Chicago and Minneapolis markets. The portfolio, comprising both developed and acquired assets, was purchased by a global asset manager. The properties boast modern industrial specifications and high occupancy rates, reflecting strong tenant demand in their respective submarkets.",
+      "data_points": {
+        "property_type": "industrial",
+        "property_name": "North Central Portfolio",
+        "address": null,
+        "address_sourced_separately": false,
+        "size_sf": 2500000.0,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": true,
+        "notable_features": "Modern industrial specifications including 32-foot clear heights and ESFR sprinkler systems.",
+        "project_notes": "Portfolio includes assets both developed and acquired by Cabot Properties."
+      },
+      "companies_people": [
+        {
+          "label": "SELLER",
+          "firm_name": "Cabot Properties",
+          "people": []
+        },
+        {
+          "label": "BUYER",
+          "firm_name": "prominent global asset manager",
+          "people": []
+        },
+        {
+          "label": "SELLER BROKER",
+          "firm_name": "CBRE Capital Markets",
+          "people": []
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": "As of Q1 2026, the North Kane industrial submarket had a 5% vacancy rate, Central Kane had a 6.6% vacancy rate, and the West Suburbs submarket of Chicago had a 2.7% vacancy rate. In Minneapolis, the Northwest submarket had a 5.2% vacancy rate and the Southwest submarket had a 6.8% vacancy rate."
+    },
+    {
+      "title": "Texas Icon Rob Killen: Guiding complex development toward civic alignment",
+      "source": "REJournals",
+      "link": "https://rejournals.com/rob-killen-guiding-complex-development-toward-civic-alignment/?utm_source=rss&utm_medium=rss&utm_campaign=rob-killen-guiding-complex-development-toward-civic-alignment",
+      "published": "Mon, 03 Aug 2026 10:02:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-03-006.html",
+      "transaction_type": null,
+      "article_type": "Feature / Profile",
+      "market": "San Antonio, TX",
+      "narrative": "This article profiles Rob Killen, a founding partner at Killen, Griffin & Farrimond PLLC, highlighting his more than two decades of work in land use, zoning, economic development, and infrastructure in San Antonio. Killen specializes in guiding complex development projects through the often-conflicting priorities of property owners, cities, and residents, aiming for outcomes that benefit both private investment and the public good. His approach emphasizes problem-solving, building relationships, and translating project benefits to diverse stakeholders to secure necessary entitlements and approvals. Killen's extensive civic leadership further informs his professional work, enabling him to foster alignment and achieve durable project successes.",
+      "data_points": {
+        "property_type": null,
+        "property_name": null,
+        "address": null,
+        "address_sourced_separately": false,
+        "size_sf": null,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": null,
+        "project_notes": null
+      },
+      "companies_people": [
+        {
+          "label": "PLANNER",
+          "firm_name": "Killen, Griffin & Farrimond PLLC",
+          "people": [
+            {
+              "name": "Rob Killen",
+              "title": "Founding Partner"
+            }
+          ]
+        },
+        {
+          "label": "OTHER",
+          "firm_name": "Real Estate Council of Texas",
+          "people": [
+            {
+              "name": "Stephanie Reyes",
+              "title": "CEO"
+            }
+          ]
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Closing Window: Austin\u2019s office recovery is real, but tenants still hold the leverage",
+      "source": "REJournals",
+      "link": "https://rejournals.com/closing-window-austins-office-recovery-is-real-but-tenants-still-hold-the-leverage/?utm_source=rss&utm_medium=rss&utm_campaign=closing-window-austins-office-recovery-is-real-but-tenants-still-hold-the-leverage",
+      "published": "Mon, 03 Aug 2026 10:02:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-03-007.html",
+      "transaction_type": null,
+      "article_type": "Opinion / Market Commentary",
+      "market": "Austin, TX",
+      "narrative": "Austin's office market is experiencing a genuine recovery, marked by four consecutive quarters of positive absorption and a two-point reduction in vacancy over the past year, now at 24%. Despite this, tenants continue to hold significant leverage, with landlords offering substantial concessions like free rent and tenant improvement allowances to secure deals, often to protect face rates that influence valuations and loan covenants. The recovery is supported by a diversifying tenant base, including advanced manufacturing, defense, aerospace, and life sciences, moving beyond traditional tech dependency. While hybrid work remains common, companies are increasingly planning for full capacity, driven by investments in high-quality office environments designed to attract employees back. Demand is concentrated in areas like The Domain, CBD, and East Austin, with tenants willing to pay a premium for walkable amenities, while some are exploring well-located Class B spaces due to cost pressures.",
+      "data_points": null,
+      "companies_people": [
+        {
+          "label": "TENANT REP",
+          "firm_name": "Austin Tenant Advisors",
+          "people": [
+            {
+              "name": "Nathan Smith",
+              "title": "President"
+            }
+          ]
+        },
+        {
+          "label": "LEASING AGENT",
+          "firm_name": "Avison Young",
+          "people": [
+            {
+              "name": "Ted Rohan",
+              "title": "Principal and Market Leader"
+            }
+          ]
+        },
+        {
+          "label": "LEASING AGENT",
+          "firm_name": "AQUILA Commercial",
+          "people": [
+            {
+              "name": "Max McDonald",
+              "title": "Principal"
+            }
+          ]
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "RealSource Group closes $5.8 million Shake Shack sale in Houston market",
+      "source": "REJournals",
+      "link": "https://rejournals.com/realsource-group-closes-5-8-million-shake-shack-sale-in-houston-market/?utm_source=rss&utm_medium=rss&utm_campaign=realsource-group-closes-5-8-million-shake-shack-sale-in-houston-market",
+      "published": "Mon, 03 Aug 2026 09:59:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-03-008.html",
+      "transaction_type": "Sale",
+      "article_type": null,
+      "market": "Houston, TX",
+      "narrative": "RealSource Group has brokered the sale of a newly constructed Shake Shack drive-thru ground lease in Richmond, Texas, within the Houston metropolitan area, for $5.8 million. The transaction achieved a 5.00% cap rate, setting a new record low for a Shake Shack ground lease in Texas and ranking among the lowest nationwide. The property, developed by Read King, was acquired by a private 1031 exchange investor from New York City.",
+      "data_points": {
+        "property_type": "retail",
+        "property_name": "Shake Shack",
+        "address": "19130 W. Bellfort, Richmond, TX",
+        "address_sourced_separately": false,
+        "size_sf": 3072.0,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": 5800000.0,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": 2026,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": 1.71,
+        "multi_asset_purchase": false,
+        "notable_features": "Newly constructed build-to-suit featuring the brand's latest double-lane drive-thru prototype, located within Waterview Town Center, a 134-acre mixed-use development.",
+        "project_notes": "The sale achieved a 5.00% closing cap rate, a record-low for a Shake Shack ground lease in Texas and one of the lowest nationwide."
+      },
+      "companies_people": [
+        {
+          "label": "SELLER",
+          "firm_name": "Read King",
+          "people": []
+        },
+        {
+          "label": "BUYER",
+          "firm_name": "Private 1031 exchange investor",
+          "people": []
+        },
+        {
+          "label": "SELLER BROKER",
+          "firm_name": "RealSource Group",
+          "people": [
+            {
+              "name": "Austin Blodgett",
+              "title": "Senior Vice President of Investment Sales"
+            },
+            {
+              "name": "Jonathan Schiffer",
+              "title": "Senior Associate"
+            }
+          ]
+        },
+        {
+          "label": "SELLER BROKER",
+          "firm_name": "ParaSell, Inc.",
+          "people": []
+        },
+        {
+          "label": "BUYER BROKER",
+          "firm_name": "Marcus & Millichap",
+          "people": [
+            {
+              "name": "Anthony Cerrone",
+              "title": "Director of Investments"
+            }
+          ]
+        }
+      ],
+      "tenants": [
+        "Shake Shack"
+      ],
+      "financing": null,
+      "market_intelligence": "The surrounding area has over 248,000 residents and average household incomes exceeding $149,000 within a five-mile radius. Major employment drivers include Amazon's 850,000-square-foot distribution hub, which opened in 2021 and added over 1,000 jobs. Traffic counts exceed 28,000 vehicles per day at a nearby intersection."
+    },
+    {
+      "title": "JLL Capital Markets brokers sale of 336-unit apartment community in Burnsville",
+      "source": "REJournals",
+      "link": "https://rejournals.com/jll-capital-markets-brokers-sale-of-336-unit-apartment-community-in-burnsville/?utm_source=rss&utm_medium=rss&utm_campaign=jll-capital-markets-brokers-sale-of-336-unit-apartment-community-in-burnsville",
+      "published": "Mon, 03 Aug 2026 09:47:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-03-009.html",
+      "transaction_type": "Sale",
+      "article_type": null,
+      "market": "Burnsville, MN",
+      "narrative": "JLL Capital Markets brokered the sale of Twelve 501 Apartments, a 336-unit multifamily community in Burnsville, Minnesota. FPA Multifamily sold the property to Osso Capital, which marks the buyer's initial investment in the Minnesota market. The community is situated in Burnsville's Heart of the City district, offering convenient access to major highways and proximity to significant employers.",
+      "data_points": {
+        "property_type": "multifamily",
+        "property_name": "Twelve 501 Apartments",
+        "address": "12501 Portland Ave, Burnsville, MN",
+        "address_sourced_separately": true,
+        "size_sf": null,
+        "size_units": 336,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": 1986,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": 14.62,
+        "multi_asset_purchase": false,
+        "notable_features": "Located in Burnsville's Heart of the City district with adjacent access to I-35W and I-35E, overlooking Birnamwood Golf Course and the Minnesota River valley.",
+        "project_notes": "Extensively renovated beginning in 2017."
+      },
+      "companies_people": [
+        {
+          "label": "SELLER",
+          "firm_name": "FPA Multifamily",
+          "people": []
+        },
+        {
+          "label": "BUYER",
+          "firm_name": "Osso Capital",
+          "people": []
+        },
+        {
+          "label": "SELLER BROKER",
+          "firm_name": "JLL Capital Markets",
+          "people": [
+            {
+              "name": "Josh Talberg",
+              "title": "Managing Director"
+            },
+            {
+              "name": "Joseph Peris",
+              "title": "Director"
+            },
+            {
+              "name": "Eli Smith",
+              "title": "Associate"
+            }
+          ]
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    }
+  ]
 }
