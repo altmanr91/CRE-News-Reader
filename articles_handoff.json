@@ -1,342 +1,26 @@
 {
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "articles": [
     {
-      "title": "New York State Gets One More Shot at Opportunity Zones",
+      "title": "Mermaid Inn Restaurateurs Ink 2K SF at 61 West 74th Street for New Eatery",
       "source": "Commercial Observer",
-      "link": "https://commercialobserver.com/2026/08/new-york-state-opportunity-zones-september-deadline/",
-      "published": "Thu, 06 Aug 2026 11:13:32 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-06-001.html",
-      "transaction_type": null,
-      "article_type": "Opinion / Market Commentary",
-      "market": "New York, NY",
-      "narrative": "This article discusses the revised Opportunity Zone (OZ) program, highlighting its resilience in attracting capital for ground-up development even when conventional equity retreated. The author argues that OZ capital's mandatory 10-year investment horizon and tax-advantaged pricing make it suitable for emerging neighborhoods. With Congress having rewritten the program, New York State has a 60-day window to designate new OZ tracts, which now require a median family income at or below 70% of AMI and eliminate the contiguous tract provision. The author, an equity investments head at a major real estate firm, advises local leaders to identify eligible tracts, assemble investable projects, and demonstrate predictable approval processes to effectively direct this capital to areas most in need.",
-      "data_points": null,
-      "companies_people": [
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Brookfield",
-          "people": []
-        },
-        {
-          "label": "EQUITY/FINANCING",
-          "firm_name": "Silverstein Properties",
-          "people": [
-            {
-              "name": "Jeffrey Deitrich",
-              "title": "Head of Equity Investments"
-            }
-          ]
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Prosper and Versluys Close $50M Land Deal for $650M Miami Condo Tower",
-      "source": "Commercial Observer",
-      "link": "https://commercialobserver.com/2026/08/prosper-versluys-brickell-miami/",
-      "published": "Wed, 05 Aug 2026 22:05:22 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-06-002.html",
-      "transaction_type": "Acquisition",
-      "article_type": null,
-      "market": "Miami, FL",
-      "narrative": "A joint venture between Prosper Group and Versluys Group has acquired a 1-acre development site in Miami's Brickell district for $50 million, with plans to construct a 60-story, 181-unit luxury condominium tower. The project, estimated to cost $650 million, marks the Belgian developer Versluys Group's first venture into the U.S. market. The acquisition was financed with a $30.5 million loan from Vaster.",
-      "data_points": {
-        "property_type": "multifamily",
-        "property_name": null,
-        "address": "66 Southwest Sixth Street, Miami, FL",
-        "address_sourced_separately": false,
-        "size_sf": null,
-        "size_units": 181,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": 50000000.0,
-        "loan_amount": 30500000.0,
-        "total_project_cost": 650000000.0,
-        "occupancy": null,
-        "year_built": null,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": 1.0,
-        "multi_asset_purchase": true,
-        "notable_features": "Waterfront site with over 300 feet of water frontage along the Miami River, near the Brickell City Center mixed-use complex.",
-        "project_notes": "The acquisition includes three parcels, two of which are adjacent inland spots. The site was under contract for at least eight months."
-      },
-      "companies_people": [
-        {
-          "label": "BUYER",
-          "firm_name": "Prosper Group",
-          "people": [
-            {
-              "name": "Jay Roberts",
-              "title": null
-            }
-          ]
-        },
-        {
-          "label": "BUYER",
-          "firm_name": "Versluys Group",
-          "people": []
-        },
-        {
-          "label": "LENDER",
-          "firm_name": "Vaster",
-          "people": []
-        },
-        {
-          "label": "SELLER",
-          "firm_name": "Two Roads Development",
-          "people": []
-        },
-        {
-          "label": "SELLER",
-          "firm_name": "Newgard Development Group",
-          "people": []
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Brookfield Asset Management Raises Record $77B in Q2",
-      "source": "Commercial Observer",
-      "link": "https://commercialobserver.com/2026/08/brookfield-asset-management-q2-2026/",
-      "published": "Wed, 05 Aug 2026 18:10:59 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-06-003.html",
-      "transaction_type": null,
-      "article_type": "Market Research / Earnings Report",
-      "market": null,
-      "narrative": "Brookfield Asset Management reported a record-breaking second quarter in 2026, raising $77 billion and increasing its assets under management to over $1 trillion. The firm deployed $21 billion during the quarter, including significant capital into its private equity and infrastructure funds, which are on track to be the largest of their vintages. Brookfield also secured $5 billion for its inaugural AI Infrastructure Fund and expanded its financing framework with Bloom Energy to $25 billion for AI infrastructure power projects. On the real estate side, the firm raised $4.3 billion and deployed $5.2 billion, acquiring a U.S. manufactured-home portfolio and an outdoor industrial storage portfolio.",
-      "data_points": null,
-      "companies_people": [
-        {
-          "label": "OWNER",
-          "firm_name": "Brookfield Asset Management",
-          "people": [
-            {
-              "name": "Sikander Rashid",
-              "title": "Global Head of AI Infrastructure"
-            },
-            {
-              "name": "Connor Teskey",
-              "title": "CEO"
-            }
-          ]
-        },
-        {
-          "label": "EQUITY/FINANCING",
-          "firm_name": "Bloom Energy",
-          "people": []
-        },
-        {
-          "label": "ACQUIRED COMPANY",
-          "firm_name": "Oaktree",
-          "people": []
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Return-to-Office Gained New Momentum in First Half of 2026: Report",
-      "source": "Commercial Observer",
-      "link": "https://commercialobserver.com/2026/08/return-to-office-momentum-first-half-2026-report/",
-      "published": "Wed, 05 Aug 2026 17:35:44 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-06-004.html",
-      "transaction_type": null,
-      "article_type": "Market Research / Office Report",
-      "market": null,
-      "narrative": "A new report indicates that U.S. office attendance gained momentum in the first half of 2026, with visits rising 6 percent year-over-year and achieving the narrowest gap from pre-pandemic levels to date. However, the return-to-office trend shows significant regional divergence, with markets like Miami and New York nearing baseline visitation while Denver and Chicago lag considerably. The report suggests that while hybrid work remains prevalent, its popularity may be waning in some areas, and the increasing number of companies mandating office attendance could further shift dynamics in the latter half of the year.",
-      "data_points": null,
-      "companies_people": [
-        {
-          "label": "OWNER",
-          "firm_name": "Cameo",
-          "people": []
-        },
-        {
-          "label": "OTHER",
-          "firm_name": "Placer.ai",
-          "people": []
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Krea USA Nabs $62M Construction Loan for Lauderhill, Fla., Rental",
-      "source": "Commercial Observer",
-      "link": "https://commercialobserver.com/2026/08/krea-usa-parc-at-lauderhill-abanca/",
-      "published": "Wed, 05 Aug 2026 17:35:07 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-06-005.html",
-      "transaction_type": "Loan",
-      "article_type": null,
-      "market": "Lauderhill, FL",
-      "narrative": "Krea USA secured a $61.8 million construction loan from Abanca Bank for its 385-unit multifamily development, Le Parc at Lauderhill, in Lauderhill, FL. The project, which broke ground in March and is slated for completion next year, will feature three eight-story buildings on a 10-acre site. Although initially planned as workforce housing, the development will now have no rental restrictions, but will retain a $9.1 million tax abatement from the City of Lauderhill.",
-      "data_points": {
-        "property_type": "multifamily",
-        "property_name": "Le Parc at Lauderhill",
-        "address": "3831 Northwest 13th Street, Lauderhill, FL",
-        "address_sourced_separately": false,
-        "size_sf": null,
-        "size_units": 385,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": null,
-        "loan_amount": 61800000.0,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": null,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": 10.0,
-        "multi_asset_purchase": false,
-        "notable_features": "Includes a day care operated by a nonprofit; rents expected to range between 100% and 120% of area median income.",
-        "project_notes": "Project underwent changes from its original 2020 vision as workforce housing; a $9.1 million tax abatement over 10 years, approved in 2022, remains in effect; developer will build a public road."
-      },
-      "companies_people": [
-        {
-          "label": "SPONSOR",
-          "firm_name": "Krea USA",
-          "people": [
-            {
-              "name": "Akrisht Pandey",
-              "title": "Director of Real Estate"
-            },
-            {
-              "name": "Mauricio Girault",
-              "title": "Founder and CEO"
-            }
-          ]
-        },
-        {
-          "label": "LENDER",
-          "firm_name": "Abanca Bank",
-          "people": []
-        },
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Bayshore Capital Grove",
-          "people": [
-            {
-              "name": "Vivian Dimond",
-              "title": null
-            }
-          ]
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Lee & Associates\u2019 Q2 Report: Office, Retail Markets Gain Momentum as Industrial, Multifamily Face Headwinds",
-      "source": "REBusinessOnline",
-      "link": "https://rebusinessonline.com/lee-associates-q2-report-office-retail-markets-gain-momentum-as-industrial-multifamily-face-headwinds/",
-      "published": "Thu, 06 Aug 2026 11:00:00 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-06-006.html",
-      "transaction_type": null,
-      "article_type": "Market Research / Quarterly Report",
-      "market": null,
-      "narrative": "Lee & Associates' Q2 2026 North America Market Report indicates a varied recovery across commercial real estate sectors. The office and retail markets are gaining momentum, with office experiencing its best year since the pandemic, marked by declining vacancies and increased investor confidence in premium assets. Conversely, the industrial sector faces uneven demand due to trade uncertainties and a supply overhang, leading to a slight increase in vacancy rates and slowed rent growth. Multifamily fundamentals are stabilizing as new supply moderates, while investors and occupiers across all property types remain highly selective in an evolving market.",
-      "data_points": null,
-      "companies_people": [
-        {
-          "label": "OWNER",
-          "firm_name": "Lee & Associates",
-          "people": []
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": "Leading industrial markets in net absorption over the past 12 months include Dallas-Fort Worth (28.7M SF), Phoenix (23.5M SF), Houston (18.3M SF), Indianapolis (15.5M SF), and Columbus (12.7M SF). Markets with the least empty industrial space at the end of Q2 2026 were Cleveland (4.4%), Detroit (4.9%), Chicago (5.4%), Pittsburgh (5.5%), St. Louis (5.5%), Columbus (6.4%), Los Angeles (6.5%), and Orange County (6.5%). Markets with the highest industrial vacancy rates include Austin (14.3%), San Francisco (12.5%), Phoenix (10.5%), Seattle (10.1%), and Charlotte (9.8%). Office markets surging include New York City, Dallas, Austin, Houston, San Francisco, and San Jose."
-    },
-    {
-      "title": "University of St. Thomas Breaks Ground on 400-Bed Residence Hall Project in Houston",
-      "source": "REBusinessOnline",
-      "link": "https://rebusinessonline.com/university-of-st-thomas-breaks-ground-on-400-bed-residence-hall-project-in-houston/",
-      "published": "Wed, 05 Aug 2026 15:04:25 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-06-007.html",
-      "transaction_type": "Construction",
-      "article_type": null,
-      "market": "Houston, TX",
-      "narrative": "The University of St. Thomas has commenced construction on a new 400-bed residence hall within its Houston campus. This 95,000-square-foot development will feature a dedicated chapel, prayer room, courtyard, multi-use lounges, and collaborative study areas. The units will offer various bedroom configurations, including two-, three-, and four-bedroom layouts, designed for single or double occupancy, along with two staff apartments.",
-      "data_points": {
-        "property_type": "student housing",
-        "property_name": null,
-        "address": null,
-        "address_sourced_separately": false,
-        "size_sf": 95000.0,
-        "size_units": null,
-        "size_beds": 400,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": null,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": null,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": null,
-        "multi_asset_purchase": false,
-        "notable_features": "Includes a dedicated chapel and prayer room, courtyard, multi-use lounges, and collaborative study zones. Units will be offered in two-, three-, and four-bedroom configurations for single or double occupancy, plus two staff apartments.",
-        "project_notes": "Tentative completion date was not announced."
-      },
-      "companies_people": [
-        {
-          "label": "OWNER",
-          "firm_name": "University of St. Thomas",
-          "people": []
-        },
-        {
-          "label": "ARCHITECT",
-          "firm_name": "Corgan",
-          "people": []
-        },
-        {
-          "label": "ARCHITECT",
-          "firm_name": "The Lawrence Group",
-          "people": []
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Lindenmeyr Munroe Signs 100,043 SF Industrial Lease in North Houston",
-      "source": "REBusinessOnline",
-      "link": "https://rebusinessonline.com/lindenmeyr-munroe-signs-100043-sf-industrial-lease-in-north-houston/",
-      "published": "Wed, 05 Aug 2026 14:56:13 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-06-008.html",
+      "link": "https://commercialobserver.com/2026/08/mermaid-inn-restaurateurs-lease-61-west-74th-street/",
+      "published": "Thu, 06 Aug 2026 20:22:28 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-07-001.html",
       "transaction_type": "Lease",
       "article_type": null,
-      "market": "Houston, TX",
-      "narrative": "Lindenmeyr Munroe, a distributor of printing and packaging paper, has signed a 100,043-square-foot industrial lease at Building 3 of Patriot Business Park in North Houston. The property is a newly constructed, three-building development. Stream Realty Partners represented the landlord, a partnership between Investment & Development Ventures and Standard Real Estate Investments, while Cushman & Wakefield represented the tenant.",
+      "market": "New York City, NY",
+      "narrative": "Restaurateurs Danny Abrams and Cindy Smith, co-founders of Mermaid Inn, have signed a 2,300-square-foot lease for a new, as-yet-unnamed restaurant concept at 61 West 74th Street in New York City. The space, which includes a basement, was secured at an annual rental rate of $130 per square foot. This new venture expands their presence in the Upper West Side, building on the success of their nearby Mermaid Inn location.",
       "data_points": {
-        "property_type": "industrial",
-        "property_name": "Patriot Business Park, Building 3",
-        "address": "10326 Memorial Dr, Houston, TX",
-        "address_sourced_separately": true,
-        "size_sf": 100043.0,
+        "property_type": "retail",
+        "property_name": null,
+        "address": "61 West 74th Street, New York City, NY",
+        "address_sourced_separately": false,
+        "size_sf": 2300.0,
         "size_units": null,
         "size_beds": null,
         "size_keys": null,
-        "rental_rate": null,
+        "rental_rate": 130.0,
         "sale_price": null,
         "loan_amount": null,
         "total_project_cost": null,
@@ -349,79 +33,342 @@
         "land_area_acres": null,
         "multi_asset_purchase": false,
         "notable_features": null,
-        "project_notes": "Formerly known as Veterans Memorial Business Park."
+        "project_notes": "The site previously housed Patsy's Pizzeria, which closed in January 2026."
       },
       "companies_people": [
         {
-          "label": "LANDLORD",
-          "firm_name": "Investment & Development Ventures",
-          "people": []
-        },
-        {
-          "label": "LANDLORD",
-          "firm_name": "Standard Real Estate Investments",
-          "people": []
-        },
-        {
           "label": "TENANT",
-          "firm_name": "Lindenmeyr Munroe",
-          "people": []
-        },
-        {
-          "label": "LEASING AGENT",
-          "firm_name": "Stream Realty Partners",
+          "firm_name": "Mermaid Inn",
           "people": [
             {
-              "name": "Tyler Maner",
+              "name": "Danny Abrams",
               "title": null
             },
             {
-              "name": "Natalie Gilbert",
-              "title": null
-            },
-            {
-              "name": "Jeremy Lumbreras",
+              "name": "Cindy Smith",
               "title": null
             }
           ]
         },
         {
+          "label": "LANDLORD",
+          "firm_name": "Viking Management",
+          "people": []
+        },
+        {
           "label": "TENANT REP",
-          "firm_name": "Cushman & Wakefield",
+          "firm_name": "Meridian Capital Group",
           "people": [
             {
-              "name": "Jim Foreman",
+              "name": "Carson Shahrabani",
               "title": null
             },
             {
-              "name": "Sean Duffy",
+              "name": "Noam Aziz",
+              "title": null
+            }
+          ]
+        },
+        {
+          "label": "LEASING AGENT",
+          "firm_name": "Counter Real Estate",
+          "people": [
+            {
+              "name": "Justin Losh",
+              "title": null
+            }
+          ]
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Nordstrom Rack Takes 22K SF in Wellington, Fla.",
+      "source": "Commercial Observer",
+      "link": "https://commercialobserver.com/2026/08/nordstrom-rack-retail-lease-florida-metlife/",
+      "published": "Thu, 06 Aug 2026 18:25:03 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-07-002.html",
+      "transaction_type": "Lease",
+      "article_type": null,
+      "market": "Wellington, FL",
+      "narrative": "Nordstrom Rack has signed a 22,000-square-foot lease at The Shoppes at Isla Verde in Wellington, FL, with an anticipated opening in spring 2027. The discount retailer will occupy space in the MetLife Investment Management-owned shopping center, which is managed by Urban Retail Properties. This new lease fills a vacancy left by a previous tenant, contributing to the center's evolving tenant mix.",
+      "data_points": {
+        "property_type": "retail",
+        "property_name": "The Shoppes at Isla Verde",
+        "address": "800-1020 South State Road 7, Wellington, FL",
+        "address_sourced_separately": false,
+        "size_sf": 22000.0,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": "Spring 2027",
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": null,
+        "project_notes": "The 207,000-square-foot shopping center was previously acquired by MetLife in 2018 for $73.75 million. The space was formerly occupied by a fabric retailer that closed in 2025."
+      },
+      "companies_people": [
+        {
+          "label": "LANDLORD",
+          "firm_name": "MetLife Investment Management",
+          "people": []
+        },
+        {
+          "label": "TENANT",
+          "firm_name": "Nordstrom Rack",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Urban Retail Properties",
+          "people": []
+        }
+      ],
+      "tenants": [
+        "Best Buy",
+        "Homesense",
+        "Total Wine & More",
+        "Petco",
+        "Old Navy",
+        "Ulta",
+        "Rack Room Shoes"
+      ],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Immigration Law Firm Manifest Law Subleases 18K SF at 902 Broadway",
+      "source": "Commercial Observer",
+      "link": "https://commercialobserver.com/2026/08/manifest-law-sublease-koeppel-rosen-902-broadway/",
+      "published": "Thu, 06 Aug 2026 18:02:25 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-07-003.html",
+      "transaction_type": null,
+      "article_type": "Lease",
+      "market": "New York City, NY",
+      "narrative": "Manifest Law, an immigration law firm, has subleased 18,200 square feet on the entire eighth floor at 902 Broadway in New York City. The firm is taking over space previously occupied by Adaptive Security, which recently subleased larger premises elsewhere. This move highlights the Union Square and Flatiron districts' appeal for growing companies seeking collaborative office environments.",
+      "data_points": {
+        "property_type": "office",
+        "property_name": "902 Broadway",
+        "address": "902 Broadway, New York City, NY",
+        "address_sourced_separately": false,
+        "size_sf": 18200.0,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": 75.0,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": "Located between the Flatiron Building and Union Square.",
+        "project_notes": "Manifest Law is relocating from 333 Park Avenue South. Adaptive Security previously occupied this space and subleased 51,220 square feet from BarkBox at 120 Broadway."
+      },
+      "companies_people": [
+        {
+          "label": "LANDLORD",
+          "firm_name": "Koeppel Rosen",
+          "people": []
+        },
+        {
+          "label": "TENANT",
+          "firm_name": "Manifest Law",
+          "people": []
+        },
+        {
+          "label": "SUBLANDLORD",
+          "firm_name": "Adaptive Security",
+          "people": []
+        },
+        {
+          "label": "TENANT REP",
+          "firm_name": "Nomad Group",
+          "people": [
+            {
+              "name": "Bill Janetschek",
+              "title": null
+            },
+            {
+              "name": "Nick Hein",
+              "title": null
+            },
+            {
+              "name": "Matthew DeRose",
+              "title": null
+            }
+          ]
+        },
+        {
+          "label": "SELLER BROKER",
+          "firm_name": "Savills",
+          "people": [
+            {
+              "name": "Christopher Foerch",
+              "title": null
+            },
+            {
+              "name": "Zev Holzman",
               "title": null
             }
           ]
         }
       ],
       "tenants": [
-        "Lindenmeyr Munroe"
+        "Manifest Law"
       ],
       "financing": null,
       "market_intelligence": null
     },
     {
-      "title": "Lee & Associates Negotiates 56,780 SF Industrial Lease in Grand Prairie, Texas",
-      "source": "REBusinessOnline",
-      "link": "https://rebusinessonline.com/lee-associates-negotiates-56780-sf-industrial-lease-in-grand-prairie-texas/",
-      "published": "Wed, 05 Aug 2026 14:53:50 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-06-009.html",
+      "title": "Starwood\u2019s Net Income Drops 95% Annually \u2014 and Then Its Stock Drops",
+      "source": "Commercial Observer",
+      "link": "https://commercialobserver.com/2026/08/starwoods-net-income-drops-95-annually-and-then-its-stock-drops/",
+      "published": "Thu, 06 Aug 2026 17:52:39 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-07-004.html",
+      "transaction_type": null,
+      "article_type": "Market Research / Earnings Report",
+      "market": null,
+      "narrative": "Starwood Property Trust reported a significant 95% year-over-year decline in net income for Q2 2026, leading to a 4% drop in its stock price. Despite this, Chairman and CEO Barry Sternlicht expressed confidence in the firm's fundamentals, citing improving conditions across most U.S. and European asset classes, particularly in multifamily, self-storage, senior housing, and logistics. The firm's president, Jeffrey DiModica, highlighted a near-record $6.7 billion in year-to-date deployment and strong loan origination, though he acknowledged some multifamily assets in Sun Belt markets faced downgrades due to elevated supply and higher rates. Sternlicht remains optimistic about the firm's ability to restore earnings power and maximize shareholder value by addressing underperforming assets.",
+      "data_points": null,
+      "companies_people": [
+        {
+          "label": "OWNER",
+          "firm_name": "Starwood Property Trust",
+          "people": [
+            {
+              "name": "Barry Sternlicht",
+              "title": "Chairman and CEO"
+            },
+            {
+              "name": "Rina Paniry",
+              "title": "Chief Financial Officer"
+            },
+            {
+              "name": "Jeffrey DiModica",
+              "title": "President"
+            }
+          ]
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "AI Employee Management Platform Warp Triples Footprint at 156 Fifth Avenue",
+      "source": "Commercial Observer",
+      "link": "https://commercialobserver.com/2026/08/warp-triple-lease-expansion-hrc-156-fifth-avenue/",
+      "published": "Thu, 06 Aug 2026 17:48:18 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-07-005.html",
       "transaction_type": "Lease",
       "article_type": null,
-      "market": "Grand Prairie, TX",
-      "narrative": "Lee & Associates has brokered a 56,780-square-foot industrial lease in Grand Prairie, Texas. The transaction involved an undisclosed tenant and an anonymous landlord for a property located at 2401 W. Marshall Drive. The building, constructed in 1966, totals 320,366 square feet.",
+      "market": "New York City, NY",
+      "narrative": "Warp, an AI-driven employee management platform, has significantly expanded its office footprint at 156 Fifth Avenue in New York City's Flatiron District. The company secured an additional 16,500 square feet, bringing its total occupancy to 24,500 square feet across the seventh and eighth floors. This expansion, less than a year after its initial lease in the building, reflects the rapid growth of AI companies and their substantial demand for office space in the city.",
       "data_points": {
-        "property_type": "industrial",
-        "property_name": null,
-        "address": "2401 W. Marshall Drive, Grand Prairie, TX",
+        "property_type": "office",
+        "property_name": "156 Fifth Avenue",
+        "address": "156 Fifth Avenue, New York City, NY",
         "address_sourced_separately": false,
-        "size_sf": 56780.0,
+        "size_sf": 16500.0,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": 75.0,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": 100.0,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": "Building is now 100% occupied. Landlord made upgrades to the seventh floor and opened a new amenity space on the third floor.",
+        "project_notes": "Warp's initial lease in Fall 2025 was for 8,000 square feet on the eighth floor. This expansion brings their total footprint to 24,500 square feet."
+      },
+      "companies_people": [
+        {
+          "label": "TENANT",
+          "firm_name": "Warp",
+          "people": []
+        },
+        {
+          "label": "LANDLORD",
+          "firm_name": "HRC",
+          "people": []
+        },
+        {
+          "label": "LEASING AGENT",
+          "firm_name": "Newmark",
+          "people": [
+            {
+              "name": "Eric Cagner",
+              "title": null
+            },
+            {
+              "name": "Dylan Weisman",
+              "title": null
+            },
+            {
+              "name": "Leo Kon\u00e9",
+              "title": null
+            },
+            {
+              "name": "Claire Koeppel",
+              "title": null
+            }
+          ]
+        },
+        {
+          "label": "TENANT REP",
+          "firm_name": "Current Real Estate Advisors",
+          "people": [
+            {
+              "name": "Rob Kluge",
+              "title": null
+            }
+          ]
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": "The New York City AI industry is experiencing uniquely rapid office growth, with companies tripling and quadrupling their footprints rather than incremental expansion."
+    },
+    {
+      "title": "Stena Real Estate to Renovate 580,558 SF Office Campus in Houston\u2019s Energy Corridor",
+      "source": "REBusinessOnline",
+      "link": "https://rebusinessonline.com/stena-real-estate-to-renovate-580558-sf-office-campus-in-houstons-energy-corridor/",
+      "published": "Thu, 06 Aug 2026 15:02:37 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-07-006.html",
+      "transaction_type": null,
+      "article_type": "Construction",
+      "market": "Houston, TX",
+      "narrative": "Stena Real Estate AB, the American ownership arm of Swedish investment company Stena Property, is undertaking a significant renovation of Woodbranch Plaza, a four-building, 580,558-square-foot office campus in Houston's Energy Corridor. The capital improvement program will focus on upgrading the lobby, common areas, and restrooms, activating new shared amenity spaces, and enhancing outdoor landscaping. Additionally, Stena is constructing speculative office suites to attract new tenants.",
+      "data_points": {
+        "property_type": "office",
+        "property_name": "Woodbranch Plaza",
+        "address": "12120 Wickchester Ln, Houston, TX",
+        "address_sourced_separately": true,
+        "size_sf": 580558.0,
         "size_units": null,
         "size_beds": null,
         "size_keys": null,
@@ -430,43 +377,30 @@
         "loan_amount": null,
         "total_project_cost": null,
         "occupancy": null,
-        "year_built": 1966,
+        "year_built": null,
         "completion": null,
         "phase_1": null,
         "total_project_all_phases": null,
         "original_plan": null,
         "land_area_acres": null,
         "multi_asset_purchase": false,
-        "notable_features": null,
-        "project_notes": null
+        "notable_features": "Four-building campus with existing fitness center, conference facilities, and a deli. Upgrades include new shared amenity spaces, lobby, common areas, restrooms, and enhanced landscaping.",
+        "project_notes": "Renovation and construction of speculative office suites."
       },
       "companies_people": [
+        {
+          "label": "OWNER",
+          "firm_name": "Stena Real Estate AB",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Stena Property",
+          "people": []
+        },
         {
           "label": "LEASING AGENT",
-          "firm_name": "Lee & Associates",
-          "people": [
-            {
-              "name": "Mark Graybill",
-              "title": null
-            },
-            {
-              "name": "R.J. Flores",
-              "title": null
-            },
-            {
-              "name": "Reed Parker",
-              "title": null
-            }
-          ]
-        },
-        {
-          "label": "LANDLORD",
-          "firm_name": "Undisclosed",
-          "people": []
-        },
-        {
-          "label": "TENANT",
-          "firm_name": "Undisclosed",
+          "firm_name": "Transwestern",
           "people": []
         }
       ],
@@ -475,250 +409,94 @@
       "market_intelligence": null
     },
     {
-      "title": "Making affordable housing more affordable to build",
-      "source": "REJournals",
-      "link": "https://rejournals.com/making-affordable-housing-more-affordable-to-build/?utm_source=rss&utm_medium=rss&utm_campaign=making-affordable-housing-more-affordable-to-build",
-      "published": "Thu, 06 Aug 2026 09:50:00 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-06-010.html",
-      "transaction_type": null,
-      "article_type": "Opinion / Market Commentary",
-      "market": "Chicago, IL",
-      "narrative": "This article argues that early collaboration and strategic planning during the preconstruction phase are crucial for making affordable housing developments more cost-effective and efficient. The author, drawing on experience as a general contractor, emphasizes that engaging the construction team early allows for better constructability evaluations, more efficient system recommendations, and proactive identification of logistical challenges, ultimately reducing costs and risks. Strong partnerships among owners, architects, contractors, and other stakeholders, along with thoughtful procurement strategies, are also highlighted as key factors in successfully delivering affordable housing projects within tight budgets and schedules.",
-      "data_points": null,
-      "companies_people": [
-        {
-          "label": "GENERAL CONTRACTOR",
-          "firm_name": "McHugh Construction",
-          "people": []
-        },
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "The Community Builders",
-          "people": []
-        },
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Habitat",
-          "people": []
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "The NRP Group marks groundbreaking of 336-unit multifamily community in Columbus",
-      "source": "REJournals",
-      "link": "https://rejournals.com/the-nrp-group-marks-groundbreaking-of-336-unit-multifamily-community-in-columbus/?utm_source=rss&utm_medium=rss&utm_campaign=the-nrp-group-marks-groundbreaking-of-336-unit-multifamily-community-in-columbus",
-      "published": "Thu, 06 Aug 2026 09:44:00 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-06-011.html",
-      "transaction_type": "Construction",
-      "article_type": null,
-      "market": "Columbus, OH",
-      "narrative": "The NRP Group has broken ground on OSU East, a 336-unit market-rate multifamily community in Northwest Columbus, Ohio. This project marks the developer's first market-rate community in the city and is situated on a 27.5-acre site that will also include 138 for-sale townhomes by M/I Homes. The development is strategically located near major employment centers, transit corridors, and amenities, addressing the strong demand for high-quality rental housing in a rapidly growing residential corridor. The project is supported by equity from Carlyle Group and financing from PNC Bank, with the City of Columbus acting as a key partner.",
-      "data_points": {
-        "property_type": "multifamily",
-        "property_name": "OSU East",
-        "address": "181 Taylor Ave, Columbus, OH",
-        "address_sourced_separately": true,
-        "size_sf": null,
-        "size_units": 336,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": null,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": null,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": 27.5,
-        "multi_asset_purchase": false,
-        "notable_features": "Located near Ohio State University Airport and within the Worthington School District, offering proximity to Dublin's employment and lifestyle hubs. Features include a clubhouse, fitness center, coworking space, resort-style pool, and an 11-foot-wide bike path along the frontage.",
-        "project_notes": "The 27.5-acre site will also include 138 for-sale townhomes developed by M/I Homes of Central Ohio LLC, with their construction expected to begin in spring 2027."
-      },
-      "companies_people": [
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "The NRP Group",
-          "people": [
-            {
-              "name": "Mike Zelenkofske",
-              "title": "Executive Vice President of Development"
-            }
-          ]
-        },
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "M/I Homes of Central Ohio LLC",
-          "people": [
-            {
-              "name": "Josh Barkan",
-              "title": "Division President"
-            }
-          ]
-        },
-        {
-          "label": "EQUITY/FINANCING",
-          "firm_name": "Carlyle Group",
-          "people": []
-        },
-        {
-          "label": "LENDER",
-          "firm_name": "PNC Bank",
-          "people": []
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "CBL Properties, Greystar celebrate groundbreaking of mixed-use development in Franklin",
-      "source": "REJournals",
-      "link": "https://rejournals.com/cbl-properties-greystar-celebrate-groundbreaking-of-mixed-use-development-in-franklin/?utm_source=rss&utm_medium=rss&utm_campaign=cbl-properties-greystar-celebrate-groundbreaking-of-mixed-use-development-in-franklin",
-      "published": "Thu, 06 Aug 2026 09:40:00 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-06-012.html",
-      "transaction_type": "Development",
-      "article_type": null,
-      "market": "Franklin, TN",
-      "narrative": "CBL Properties and Greystar have broken ground on a new mixed-use development at CoolSprings Galleria in Franklin, TN. The project will add 361 residential units and approximately 15,000 square feet of new retail and restaurant space to the existing campus. This development is part of the ongoing evolution of CoolSprings Galleria, aiming to create a vibrant mixed-use environment that complements the area's character and supports the growth of Franklin and Williamson County.",
-      "data_points": {
-        "property_type": "mixed-use",
-        "property_name": "CoolSprings Galleria",
-        "address": "1800 Galleria Blvd, Franklin, TN",
-        "address_sourced_separately": true,
-        "size_sf": 15000.0,
-        "size_units": 361,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": null,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": null,
-        "completion": "2028",
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": null,
-        "multi_asset_purchase": false,
-        "notable_features": "Located within the CoolSprings Galleria campus, designed to reflect the architectural heritage of Franklin.",
-        "project_notes": "The 5.35-acre parcel of underutilized parking was previously sold by CBL Properties to Greystar in June 2026 for this development."
-      },
-      "companies_people": [
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "CBL Properties",
-          "people": [
-            {
-              "name": "Jon Meshel",
-              "title": "Senior Vice President \u2013 Redevelopment"
-            }
-          ]
-        },
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Greystar",
-          "people": [
-            {
-              "name": "Matt Evans",
-              "title": "Senior Director of Development"
-            }
-          ]
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Northmarq leads sale and acquisition financing for 190-unit multifamily community in Jeffersonville",
-      "source": "REJournals",
-      "link": "https://rejournals.com/northmarq-leads-sale-and-acquisition-financing-for-190-unit-multifamily-community-in-jeffersonville/?utm_source=rss&utm_medium=rss&utm_campaign=northmarq-leads-sale-and-acquisition-financing-for-190-unit-multifamily-community-in-jeffersonville",
-      "published": "Thu, 06 Aug 2026 09:37:00 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-06-013.html",
+      "title": "Newmark Brokers Sale of 376,259 SF Office Campus in North Dallas",
+      "source": "REBusinessOnline",
+      "link": "https://rebusinessonline.com/newmark-brokers-sale-of-376259-sf-office-campus-in-north-dallas/",
+      "published": "Thu, 06 Aug 2026 14:53:15 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-07-007.html",
       "transaction_type": "Sale",
       "article_type": null,
-      "market": "Jeffersonville, IN",
-      "narrative": "Northmarq's investment sales and debt & equity teams facilitated the sale and acquisition financing of Jeff on 10th, a 190-unit multifamily community in Jeffersonville, Indiana. The property, built in 2022, was sold by a regional multifamily developer to S&S Properties Investment. Northmarq also arranged permanent-fixed financing for the buyer through its Fannie Mae DUS platform, structured on a seven-year term.",
+      "market": "Dallas, TX",
+      "narrative": "Newmark has brokered the sale of Tollway Plaza, a 376,259-square-foot office campus in North Dallas. The campus, consisting of two eight-story buildings, was 91 percent leased at the time of sale with a weighted average remaining lease term of 5.5 years. Newmark also arranged acquisition financing for the buyer, a partnership led by Tourmaline Capital Partners.",
       "data_points": {
-        "property_type": "multifamily",
-        "property_name": "Jeff on 10th",
-        "address": "3500 Ellingsworth Dairy Drive, Jeffersonville, IN",
+        "property_type": "office",
+        "property_name": "Tollway Plaza",
+        "address": "16000 Dallas Parkway, Dallas, TX",
         "address_sourced_separately": false,
-        "size_sf": null,
-        "size_units": 190,
+        "size_sf": 376259.0,
+        "size_units": null,
         "size_beds": null,
         "size_keys": null,
         "rental_rate": null,
         "sale_price": null,
         "loan_amount": null,
         "total_project_cost": null,
-        "occupancy": null,
-        "year_built": 2022,
+        "occupancy": 91.0,
+        "year_built": 1990,
         "completion": null,
         "phase_1": null,
         "total_project_all_phases": null,
         "original_plan": null,
-        "land_area_acres": null,
+        "land_area_acres": 7.4,
         "multi_asset_purchase": false,
-        "notable_features": "The community offers a resort-style swimming pool, 24-hour fitness center, outdoor grilling areas, community fire pits, a conference center, and a 24-hour pet spa. It is located near major employers and economic drivers including the 6,000-acre River Ridge campus.",
-        "project_notes": null
+        "notable_features": "Campus comprises two eight-story buildings.",
+        "project_notes": "Buildings constructed in the late 1990s."
       },
       "companies_people": [
         {
           "label": "SELLER",
-          "firm_name": "Regional multifamily developer",
+          "firm_name": "Buchanan Street Partners",
           "people": []
         },
         {
           "label": "BUYER",
-          "firm_name": "S&S Properties Investment",
-          "people": []
-        },
-        {
-          "label": "LENDER",
-          "firm_name": "Northmarq",
-          "people": []
-        },
-        {
-          "label": "SPONSOR",
-          "firm_name": "S&S Properties Investment",
+          "firm_name": "Tourmaline Capital Partners",
           "people": []
         },
         {
           "label": "SELLER BROKER",
-          "firm_name": "Northmarq",
+          "firm_name": "Newmark",
           "people": [
             {
-              "name": "Bobby Schiavone",
+              "name": "Robert Hill",
               "title": null
             },
             {
-              "name": "Adam Klenk",
+              "name": "Gary Carr",
               "title": null
             },
             {
-              "name": "Jordan Arand",
+              "name": "Chris Murphy",
+              "title": null
+            },
+            {
+              "name": "Austin Sheahan",
               "title": null
             }
           ]
         },
         {
           "label": "MORTGAGE BROKER",
-          "firm_name": "Northmarq",
+          "firm_name": "Newmark",
           "people": [
             {
-              "name": "Noah Juran",
+              "name": "Chris McColpin",
               "title": null
             },
             {
-              "name": "Brendan Barker",
+              "name": "Nick Scribani",
+              "title": null
+            },
+            {
+              "name": "Clint Frease",
+              "title": null
+            },
+            {
+              "name": "Andrew Porteous",
+              "title": null
+            },
+            {
+              "name": "Josh Francis",
               "title": null
             }
           ]
@@ -729,21 +507,21 @@
       "market_intelligence": null
     },
     {
-      "title": "NAI Wisinski brokers sale of historic commercial building in Grand Rapids",
-      "source": "REJournals",
-      "link": "https://rejournals.com/nai-wisinski-brokers-sale-of-historic-commercial-building-in-grand-rapids/?utm_source=rss&utm_medium=rss&utm_campaign=nai-wisinski-brokers-sale-of-historic-commercial-building-in-grand-rapids",
-      "published": "Wed, 05 Aug 2026 17:00:00 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-06-014.html",
-      "transaction_type": "Sale",
+      "title": "Foundry Commercial Underway on 13-Acre IOS Facility in Hutchins, Texas",
+      "source": "REBusinessOnline",
+      "link": "https://rebusinessonline.com/foundry-commercial-underway-on-13-acre-ios-facility-in-hutchins-texas/",
+      "published": "Thu, 06 Aug 2026 14:51:21 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-07-008.html",
+      "transaction_type": "Construction",
       "article_type": null,
-      "market": "Grand Rapids, MI",
-      "narrative": "NAI Wisinski of West Michigan brokered the sale of a 4,320-square-foot historic commercial building at 336 Hall Street SE in Grand Rapids, MI. The property, owned by Cal Jen LLC for over a decade, was acquired by a local organization that plans to convert it into a nonprofit community center. The transaction faced challenges due to the City of Grand Rapids' redevelopment plans for an adjacent parking lot, which impacted the property's value and required a revised marketing strategy to highlight alternative solutions like converting a rear garden into parking.",
+      "market": "Hutchins, TX",
+      "narrative": "Foundry Commercial is developing Wintergreen Gardens, a 13-acre industrial outdoor storage (IOS) facility in Hutchins, Texas. The project, which began construction earlier this summer, will feature 9 acres of concrete-paved outdoor storage and two industrial buildings totaling 25,000 square feet, with delivery expected in the first quarter of 2027.",
       "data_points": {
-        "property_type": "commercial",
-        "property_name": null,
-        "address": "336 Hall Street SE, Grand Rapids, MI",
+        "property_type": "industrial",
+        "property_name": "Wintergreen Gardens",
+        "address": null,
         "address_sourced_separately": false,
-        "size_sf": 4320.0,
+        "size_sf": 25000.0,
         "size_units": null,
         "size_beds": null,
         "size_keys": null,
@@ -753,172 +531,20 @@
         "total_project_cost": null,
         "occupancy": null,
         "year_built": null,
-        "completion": null,
+        "completion": "Q1 2027",
         "phase_1": null,
         "total_project_all_phases": null,
         "original_plan": null,
-        "land_area_acres": 0.1,
+        "land_area_acres": 13.0,
         "multi_asset_purchase": false,
-        "notable_features": "Historic commercial building.",
-        "project_notes": "The City of Grand Rapids' redevelopment plans for an adjacent library-owned parking lot eliminated it as a long-term parking option for the property, impacting its value and requiring a revised marketing strategy."
+        "notable_features": "Features 9 acres of concrete-paved outdoor storage space.",
+        "project_notes": "Construction began in summer 2026."
       },
       "companies_people": [
-        {
-          "label": "SELLER",
-          "firm_name": "Cal Jen LLC",
-          "people": []
-        },
-        {
-          "label": "SELLER BROKER",
-          "firm_name": "NAI Wisinski of West Michigan",
-          "people": [
-            {
-              "name": "Eli Smies",
-              "title": null
-            },
-            {
-              "name": "Dave Smies",
-              "title": null
-            }
-          ]
-        },
-        {
-          "label": "BUYER",
-          "firm_name": "Local organization",
-          "people": []
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Hawkins Way, Varde Acquire East Village Student Housing",
-      "source": "Connect CRE",
-      "link": "https://www.connectcre.com/stories/hawkins-way-varde-acquire-east-village-student-housing/",
-      "published": "Wed, 05 Aug 2026 21:56:13 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-06-015.html",
-      "transaction_type": "Acquisition",
-      "article_type": null,
-      "market": "New York City, NY",
-      "narrative": "Hawkins Way Capital and Varde Partners have acquired an East Village student housing property for $28 million, expanding their FOUND Study portfolio in Manhattan. The off-market transaction adds a property with apartment-style layouts, offering flexibility for both student housing and conventional multifamily use. This acquisition aligns with the joint venture's strategy to invest in urban student housing assets in high-demand areas with strong real estate fundamentals and proximity to major universities.",
-      "data_points": {
-        "property_type": "student housing",
-        "property_name": null,
-        "address": "81 E. 3rd St., New York City, NY",
-        "address_sourced_separately": false,
-        "size_sf": null,
-        "size_units": null,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": 28000000.0,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": null,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": null,
-        "multi_asset_purchase": false,
-        "notable_features": "Apartment-style layouts offering flexible use for student housing or conventional multifamily; located in Manhattan's East Village near leading universities.",
-        "project_notes": "Acquired off-market as a strategic addition to the FOUND Study student housing portfolio."
-      },
-      "companies_people": [
-        {
-          "label": "BUYER",
-          "firm_name": "Hawkins Way Capital",
-          "people": []
-        },
-        {
-          "label": "BUYER",
-          "firm_name": "Varde Partners",
-          "people": []
-        },
         {
           "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Hawkins Way Capital",
-          "people": [
-            {
-              "name": "Ross Walker",
-              "title": "managing partner"
-            }
-          ]
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Former Blue Shield of CA Offices Trade for Residential Conversion",
-      "source": "Connect CRE",
-      "link": "https://www.connectcre.com/stories/former-blue-shield-of-ca-offices-trade-for-residential-conversion/",
-      "published": "Wed, 05 Aug 2026 21:49:42 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-06-016.html",
-      "transaction_type": "Acquisition",
-      "article_type": null,
-      "market": "Monterey Park, CA",
-      "narrative": "The Olson Company acquired a 7.9-acre office campus in Monterey Park, CA, for $24.85 million, with plans to redevelop the site into a new residential community. The campus, which includes two office buildings totaling 120,191 square feet, was formerly owned and occupied by Blue Shield of California. This transaction highlights a growing trend of converting well-located, underutilized office properties into housing in the San Gabriel Valley, addressing the region's demand for new residential units.",
-      "data_points": {
-        "property_type": "office",
-        "property_name": null,
-        "address": "601 Potrero Grande Dr. and 2100 Saturn St., Monterey Park, CA",
-        "address_sourced_separately": false,
-        "size_sf": 120191.0,
-        "size_units": null,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": 24850000.0,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": 1980,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": 7.9,
-        "multi_asset_purchase": true,
-        "notable_features": "Former office campus to be redeveloped into a residential community.",
-        "project_notes": "The property was previously owned and occupied by Blue Shield of California."
-      },
-      "companies_people": [
-        {
-          "label": "BUYER",
-          "firm_name": "The Olson Company",
+          "firm_name": "Foundry Commercial",
           "people": []
-        },
-        {
-          "label": "SELLER",
-          "firm_name": "JLL",
-          "people": [
-            {
-              "name": "Andrew Harper",
-              "title": null
-            },
-            {
-              "name": "Jeff Bramson",
-              "title": null
-            },
-            {
-              "name": "Will Poulsen",
-              "title": null
-            }
-          ]
-        },
-        {
-          "label": "BUYER BROKER",
-          "firm_name": "NAI Capital Commercial",
-          "people": [
-            {
-              "name": "Ryan Campbell",
-              "title": "Executive Managing Director, SIOR"
-            }
-          ]
         }
       ],
       "tenants": [],
@@ -926,21 +552,21 @@
       "market_intelligence": null
     },
     {
-      "title": "JAMS Relocating New York Offices to 3 Times Square",
-      "source": "Connect CRE",
-      "link": "https://www.connectcre.com/stories/jams-relocating-new-york-offices-to-3-times-square/",
-      "published": "Wed, 05 Aug 2026 21:38:13 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-06-017.html",
+      "title": "Lee & Associates Negotiates 26,600 SF Industrial Lease in Northwest Dallas",
+      "source": "REBusinessOnline",
+      "link": "https://rebusinessonline.com/lee-associates-negotiates-26600-sf-industrial-lease-in-northwest-dallas/",
+      "published": "Thu, 06 Aug 2026 14:50:33 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-07-009.html",
       "transaction_type": "Lease",
       "article_type": null,
-      "market": "New York City, NY",
-      "narrative": "JAMS, a provider of alternative dispute resolution services, has signed an 11-year lease to relocate its New York Resolution Center to 3 Times Square. The company will occupy 55,335 square feet across the top two floors of the building, with plans to move from its current offices at 620 Eighth Ave. in the fourth quarter of 2027. This significant commitment highlights the ongoing demand for high-quality, well-located office properties in Midtown Manhattan that offer premier amenities and excellent transit connectivity.",
+      "market": "Dallas, TX",
+      "narrative": "Lee & Associates has brokered a 26,600-square-foot industrial lease in northwest Dallas. The transaction involved Brookfield Asset Management as the landlord and an entity operating as Render Collective LLC as the tenant.",
       "data_points": {
-        "property_type": "office",
-        "property_name": "3 Times Square",
-        "address": "3 Times Square, New York City, NY",
+        "property_type": "industrial",
+        "property_name": null,
+        "address": "616-626 W. Mockingbird Lane, Dallas, TX",
         "address_sourced_separately": false,
-        "size_sf": 55335.0,
+        "size_sf": 26600.0,
         "size_units": null,
         "size_beds": null,
         "size_keys": null,
@@ -949,168 +575,568 @@
         "loan_amount": null,
         "total_project_cost": null,
         "occupancy": null,
-        "year_built": null,
+        "year_built": 1978,
         "completion": null,
         "phase_1": null,
         "total_project_all_phases": null,
         "original_plan": null,
         "land_area_acres": null,
         "multi_asset_purchase": false,
-        "notable_features": "Located in Midtown Manhattan with premier amenity programs and transit connectivity.",
-        "project_notes": "JAMS is relocating from its current offices at 620 Eighth Ave."
+        "notable_features": null,
+        "project_notes": null
       },
       "companies_people": [
         {
           "label": "LANDLORD",
-          "firm_name": "Rudin",
-          "people": [
-            {
-              "name": "Michael Rudin",
-              "title": "co-CEO"
-            }
-          ]
+          "firm_name": "Brookfield Asset Management",
+          "people": []
         },
         {
           "label": "TENANT",
-          "firm_name": "JAMS",
+          "firm_name": "Render Collective LLC",
           "people": []
         },
         {
           "label": "LEASING AGENT",
-          "firm_name": "Rudin",
+          "firm_name": "Lee & Associates",
           "people": [
             {
-              "name": "Kevin Daly",
-              "title": null
-            }
-          ]
-        },
-        {
-          "label": "LEASING AGENT",
-          "firm_name": "Cushman & Wakefield",
-          "people": [
-            {
-              "name": "Ron LoRusso",
-              "title": null
-            },
-            {
-              "name": "Lou D\u2019Avanzo",
-              "title": null
-            },
-            {
-              "name": "John Cefaly",
-              "title": null
-            },
-            {
-              "name": "Michael Burgio",
-              "title": null
-            },
-            {
-              "name": "Dan Organ",
-              "title": null
-            },
-            {
-              "name": "Paige Engeldrum",
+              "name": "Stephen Williamson",
               "title": null
             }
           ]
         },
         {
           "label": "TENANT REP",
-          "firm_name": "CBRE",
+          "firm_name": "NAI Robert Lynn",
           "people": [
             {
-              "name": "Ken Rapp",
+              "name": "Nick Melbye",
+              "title": null
+            }
+          ]
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "JLL Brokers $147M Sale of Seniors Housing Portfolio in Metro Atlanta",
+      "source": "REBusinessOnline",
+      "link": "https://rebusinessonline.com/jll-brokers-147m-sale-of-seniors-housing-portfolio-in-metro-atlanta/",
+      "published": "Thu, 06 Aug 2026 14:26:51 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-07-010.html",
+      "transaction_type": "Sale",
+      "article_type": null,
+      "market": "Atlanta, GA",
+      "narrative": "JLL's National Seniors Housing Capital Markets team has brokered the sale of a five-property seniors housing portfolio located in various submarkets north of Atlanta. The portfolio, comprising 611 units and 701 beds across assisted living and memory care facilities, was acquired by an institutional investor in an all-cash transaction. The seller was a joint venture between Centric Development and Sage Equities, which developed the properties between 2018 and 2022. Claiborne Senior Living has been retained by the new owner to continue managing the communities.",
+      "data_points": {
+        "property_type": "seniors housing",
+        "property_name": null,
+        "address": null,
+        "address_sourced_separately": false,
+        "size_sf": null,
+        "size_units": 611,
+        "size_beds": 701,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": 147000000.0,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": true,
+        "notable_features": "Portfolio includes assisted living and memory care facilities with amenities such as theaters, restaurant-style dining, bistros, bars, art studios, game rooms, and landscaped courtyards.",
+        "project_notes": "Properties were developed between 2018 and 2022."
+      },
+      "companies_people": [
+        {
+          "label": "BUYER",
+          "firm_name": "Institutional Investor",
+          "people": []
+        },
+        {
+          "label": "SELLER",
+          "firm_name": "Centric Development",
+          "people": []
+        },
+        {
+          "label": "SELLER",
+          "firm_name": "Sage Equities",
+          "people": []
+        },
+        {
+          "label": "SELLER BROKER",
+          "firm_name": "JLL",
+          "people": [
+            {
+              "name": "Jay Wagner",
               "title": null
             },
             {
-              "name": "Brendan Herlihy",
+              "name": "Rick Swartz",
               "title": null
             },
             {
-              "name": "Ron Wade",
+              "name": "Aaron Rosenzweig",
+              "title": null
+            },
+            {
+              "name": "Tim Hosmer",
+              "title": null
+            },
+            {
+              "name": "Erik Von Hamm",
+              "title": null
+            },
+            {
+              "name": "Anthony Fertitta",
+              "title": null
+            },
+            {
+              "name": "Joel Mendes",
+              "title": null
+            },
+            {
+              "name": "Peter Yorck",
+              "title": null
+            }
+          ]
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Claiborne Senior Living",
+          "people": []
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Rosemont\u2019s Conor Commercial Real Estate names vice president of development",
+      "source": "REJournals",
+      "link": "https://rejournals.com/rosemonts-conor-commercial-real-estate-names-vice-president-of-development/?utm_source=rss&utm_medium=rss&utm_campaign=rosemonts-conor-commercial-real-estate-names-vice-president-of-development",
+      "published": "Fri, 07 Aug 2026 10:00:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-07-011.html",
+      "transaction_type": "Promotion",
+      "article_type": null,
+      "market": null,
+      "narrative": "",
+      "data_points": null,
+      "companies_people": [
+        {
+          "label": "PROMOTED",
+          "firm_name": "Conor Commercial Real Estate",
+          "people": [
+            {
+              "name": "Mike Fausone",
+              "title": "Vice President \nDevelopment"
+            }
+          ]
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Buffalo Grove\u2019s PREMIER Design + Build adds executive vice president",
+      "source": "REJournals",
+      "link": "https://rejournals.com/buffalo-groves-premier-design-build-adds-executive-vice-president/?utm_source=rss&utm_medium=rss&utm_campaign=buffalo-groves-premier-design-build-adds-executive-vice-president",
+      "published": "Fri, 07 Aug 2026 09:20:32 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-07-012.html",
+      "transaction_type": null,
+      "article_type": "Promotion",
+      "market": "Buffalo Grove, IL",
+      "narrative": "PREMIER Design + Build Group, a Buffalo Grove, Illinois-based firm, has appointed Ed Pitula as Executive Vice President. In this role, Pitula will be responsible for overseeing operations and strategic growth within PREMIER's Central Region, focusing on strengthening client relationships and expanding the company's market presence. He brings over 30 years of experience in development and construction, having delivered more than 12.7 million square feet of commercial real estate across various sectors.",
+      "data_points": null,
+      "companies_people": [
+        {
+          "label": "OWNER",
+          "firm_name": "PREMIER Design + Build Group",
+          "people": [
+            {
+              "name": "Ed Pitula",
+              "title": "Executive Vice President"
+            }
+          ]
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Indianapolis\u2019 Premier Commercial Real Estate Services adds associate broker",
+      "source": "REJournals",
+      "link": "https://rejournals.com/indianapolis-premier-commercial-real-estate-services-adds-associate-broker/?utm_source=rss&utm_medium=rss&utm_campaign=indianapolis-premier-commercial-real-estate-services-adds-associate-broker",
+      "published": "Thu, 06 Aug 2026 16:35:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-07-013.html",
+      "transaction_type": null,
+      "article_type": "Promotion",
+      "market": "Indianapolis, IN",
+      "narrative": "Premier Commercial Real Estate Services, an Indianapolis-based firm, has expanded its brokerage division by appointing Andrew Klink as an Associate Broker. This move is part of the firm's strategy to cultivate new talent and enhance its service capabilities across Indiana and surrounding regions. Klink, a former intern, will gain experience in various commercial real estate services, including landlord and tenant representation, investment sales, and site selection, under the mentorship of senior brokers.",
+      "data_points": {
+        "property_type": null,
+        "property_name": null,
+        "address": null,
+        "address_sourced_separately": false,
+        "size_sf": null,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": null,
+        "project_notes": null
+      },
+      "companies_people": [
+        {
+          "label": "LEASING AGENT",
+          "firm_name": "Premier Commercial Real Estate Services | TCN Worldwide",
+          "people": [
+            {
+              "name": "Andrew Klink",
+              "title": "Associate Broker"
+            }
+          ]
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "NAI Ruhl Commercial Company closes sale of former Quad-City Times headquarters in Davenport",
+      "source": "REJournals",
+      "link": "https://rejournals.com/nai-ruhl-commercial-company-closes-sale-of-former-quad-city-times-headquarters-in-davenport/?utm_source=rss&utm_medium=rss&utm_campaign=nai-ruhl-commercial-company-closes-sale-of-former-quad-city-times-headquarters-in-davenport",
+      "published": "Thu, 06 Aug 2026 16:00:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-07-014.html",
+      "transaction_type": "Sale",
+      "article_type": null,
+      "market": "Davenport, IA",
+      "narrative": "The former Quad-City Times headquarters in Davenport, IA, a 122,800-square-foot landmark property, has been sold to The Geifman Group. The buyer plans extensive remodeling to convert the facility into a multi-tenant building. The property, which includes office and high-bay production space, was exclusively brokered by NAI Ruhl Commercial Company.",
+      "data_points": {
+        "property_type": "office",
+        "property_name": "former Quad-City Times headquarters",
+        "address": "500 E. Third St., Davenport, IA",
+        "address_sourced_separately": false,
+        "size_sf": 122800.0,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": 1989,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": 6.25,
+        "multi_asset_purchase": false,
+        "notable_features": "Overlooks the Mississippi River; includes two-story office space and high-bay production/warehouse space.",
+        "project_notes": "Served as the regional headquarters for the Quad-City Times for over three decades."
+      },
+      "companies_people": [
+        {
+          "label": "BUYER",
+          "firm_name": "The Geifman Group",
+          "people": []
+        },
+        {
+          "label": "SELLER BROKER",
+          "firm_name": "NAI Ruhl Commercial Company",
+          "people": [
+            {
+              "name": "Rick Schaefer",
+              "title": null
+            },
+            {
+              "name": "Charlie Armstrong",
+              "title": "SIOR"
+            }
+          ]
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Marcus & Millichap closes $3.55 million sale of retail property in Sussex",
+      "source": "REJournals",
+      "link": "https://rejournals.com/marcus-millichap-closes-3-55-million-sale-of-retail-property-in-sussex/?utm_source=rss&utm_medium=rss&utm_campaign=marcus-millichap-closes-3-55-million-sale-of-retail-property-in-sussex",
+      "published": "Thu, 06 Aug 2026 15:49:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-07-015.html",
+      "transaction_type": "Sale",
+      "article_type": null,
+      "market": "Sussex, WI",
+      "narrative": "Marcus & Millichap has brokered the sale of Sussex Gateway Retail Center, a nine-suite retail property in Sussex, Wisconsin, for $3.55 million. The property consists of two multi-tenant retail buildings totaling approximately 24,834 square feet. The center benefits from high traffic counts and excellent visibility due to its location across from major retailers.",
+      "data_points": {
+        "property_type": "retail",
+        "property_name": "Sussex Gateway Retail Center",
+        "address": "Main St, Sussex, WI",
+        "address_sourced_separately": true,
+        "size_sf": 24834.0,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": 3550000.0,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": "Anchored by a national discount retailer, with strong tenant mix and positioned across from a major grocery store and convenience store.",
+        "project_notes": null
+      },
+      "companies_people": [
+        {
+          "label": "SELLER",
+          "firm_name": "Sussex Mall, LLC",
+          "people": []
+        },
+        {
+          "label": "SELLER BROKER",
+          "firm_name": "Marcus & Millichap",
+          "people": [
+            {
+              "name": "Jeff Rowlett",
+              "title": "Investment Specialist"
+            },
+            {
+              "name": "Kelly Flowers",
+              "title": "Investment Specialist"
+            }
+          ]
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "The New Role of Transitional Debt in Commercial Real Estate Finance",
+      "source": "Connect CRE",
+      "link": "https://www.connectcre.com/stories/the-new-role-of-transitional-debt-in-commercial-real-estate-finance/",
+      "published": "Fri, 07 Aug 2026 05:01:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-07-016.html",
+      "transaction_type": null,
+      "article_type": "Opinion / Market Commentary",
+      "market": null,
+      "narrative": "A new report from Nuveen highlights the evolving role of transitional debt in commercial real estate finance, noting its shift from a temporary solution to a core strategy for life insurers. This change is driven by banks reducing their CRE lending exposure due to tighter regulations and lower property valuations. Private credit funds and life insurance companies are increasingly filling this void, providing capital to bridge the gap between traditional mortgages and opportunistic debt. Nuveen identifies three key structural shifts: banks transitioning to warehouse financing roles, a reset in property values leading to more realistic pricing and durable risk-return profiles for loans, and a significant wave of loan maturities between 2025 and 2027 creating a steady pipeline for transitional lenders.",
+      "data_points": null,
+      "companies_people": [
+        {
+          "label": "OWNER",
+          "firm_name": "Nuveen",
+          "people": []
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "The Forces Impacting CRE as AI, Energy and Supply Constraints Take Hold",
+      "source": "Connect CRE",
+      "link": "https://www.connectcre.com/stories/the-forces-impacting-cre-as-ai-energy-and-supply-constraints-take-hold/",
+      "published": "Fri, 07 Aug 2026 05:01:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-07-017.html",
+      "transaction_type": null,
+      "article_type": "Market Research / Global Outlook",
+      "market": null,
+      "narrative": "JLL's mid-year \"Global Real Estate Outlook\" report highlights six structural forces reshaping international commercial real estate markets, revising an earlier optimistic 2026 forecast due to geopolitical conflicts and trade tensions. The report emphasizes that cost management has become a primary business driver, with supply constraints creating opportunities for retrofitting existing properties. It also notes the increasing importance of building quality, amenities, and AI-enabled features in occupier decisions, as artificial intelligence transitions from experimentation to operational impact, potentially altering office demand. Furthermore, energy security is now a critical factor in development and leasing, while private capital is expanding its role in CRE investment amid improving pricing clarity and a competitive debt market.",
+      "data_points": null,
+      "companies_people": [
+        {
+          "label": "OWNER",
+          "firm_name": "JLL",
+          "people": []
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Q2: U.S. Industrial Market Moves Toward Balance as Demand Outpaces New Supply",
+      "source": "Connect CRE",
+      "link": "https://www.connectcre.com/stories/q2-u-s-industrial-market-moves-toward-balance-as-demand-outpaces-new-supply/",
+      "published": "Fri, 07 Aug 2026 05:01:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-07-018.html",
+      "transaction_type": null,
+      "article_type": "Market Research / Industrial Report",
+      "market": null,
+      "narrative": "The U.S. industrial market is showing signs of stabilization in Q2 2026, with demand beginning to outpace new deliveries and developers exercising discipline in adding new supply. The national industrial vacancy rate has stabilized after increasing for several quarters, driven by increased demand for larger warehouse and distribution facilities. This shift suggests the market is moving beyond recent oversupply concerns and closer to equilibrium, with absorption now exceeding new deliveries.",
+      "data_points": null,
+      "companies_people": [
+        {
+          "label": "OWNER",
+          "firm_name": "CBRE",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Colliers",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Cushman & Wakefield",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "JLL",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Lee & Associates",
+          "people": []
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": "The national industrial vacancy rate stabilized in Q2 2026 after steadily increasing for several quarters, declining from its late 2024 peak. Industrial demand outpaced new deliveries for the first time in several quarters. Third-party logistics providers were the largest source of industrial leasing activity in the first half of 2026, with manufacturers also contributing to demand growth. Leasing from general retailers and wholesalers declined. Much of the space under construction consists of build-to-suit projects and larger speculative developments of 200,000 square feet or more."
+    },
+    {
+      "title": "Fintech Firm More Than Doubles Footprint at 10 Astor Place",
+      "source": "Connect CRE",
+      "link": "https://www.connectcre.com/stories/494116-2/",
+      "published": "Thu, 06 Aug 2026 21:50:38 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-07-019.html",
+      "transaction_type": "Lease",
+      "article_type": null,
+      "market": "New York City, NY",
+      "narrative": "Fintech firm Maybern has significantly expanded its presence at 10 Astor Place in New York City, more than doubling its office footprint from 11,000 square feet to 30,000 square feet. The long-term lease expansion, which includes the entire fourth floor, demonstrates the tenant's strong confidence in the boutique building and its offerings. The landlord noted that such expansions by existing tenants are a powerful indicator of a property's value, particularly for buildings that offer enduring architecture and character.",
+      "data_points": {
+        "property_type": "office",
+        "property_name": "10 Astor Place",
+        "address": "10 Astor Place, New York City, NY",
+        "address_sourced_separately": false,
+        "size_sf": 30000.0,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": "Boutique building with enduring architecture and character.",
+        "project_notes": "Maybern originally relocated to the property in 2024."
+      },
+      "companies_people": [
+        {
+          "label": "LANDLORD",
+          "firm_name": "GFP Real Estate",
+          "people": [
+            {
+              "name": "Neith Stone",
+              "title": null
+            }
+          ]
+        },
+        {
+          "label": "TENANT",
+          "firm_name": "Maybern",
+          "people": []
+        },
+        {
+          "label": "LEASING AGENT",
+          "firm_name": "Newmark",
+          "people": [
+            {
+              "name": "Rob Silver",
+              "title": null
+            },
+            {
+              "name": "Anthony Sciacca",
+              "title": null
+            },
+            {
+              "name": "Brittany Silver",
+              "title": null
+            }
+          ]
+        },
+        {
+          "label": "TENANT REP",
+          "firm_name": "Newmark",
+          "people": [
+            {
+              "name": "Jonathan Franzel",
+              "title": null
+            },
+            {
+              "name": "Leo Kone",
               "title": null
             }
           ]
         }
       ],
       "tenants": [
-        "JAMS"
+        "Maybern"
       ],
       "financing": null,
       "market_intelligence": null
     },
     {
-      "title": "Shopoff Sells Site of Proposed Newport Beach Condo Development",
+      "title": "Production Fabrication Firm Relocates to Rancho Dominguez",
       "source": "Connect CRE",
-      "link": "https://www.connectcre.com/stories/shopoff-sells-site-of-proposed-newport-beach-condo-development/",
-      "published": "Wed, 05 Aug 2026 21:31:48 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-06-018.html",
-      "transaction_type": "Sale",
+      "link": "https://www.connectcre.com/stories/production-fabrication-firm-relocates-to-rancho-dominguez/",
+      "published": "Thu, 06 Aug 2026 21:41:50 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-07-020.html",
+      "transaction_type": "Lease",
       "article_type": null,
-      "market": "Newport Beach, CA",
-      "narrative": "Shopoff Realty Investments has sold the 1.06-acre Park Palm site, entitled for 23 townhomes, to Shea Homes. The property is part of Shopoff's larger Uptown Newport Village master-planned community in Newport Beach, which the firm acquired in 2010 and subsequently entitled for a mixed-use residential village. This sale will complete Phase I of the master plan, with construction on the townhomes expected to begin in 2027.",
+      "market": "Rancho Dominguez, CA",
+      "narrative": "Cactus Fabrication, a production fabrication firm for the entertainment industry, has signed a 10-year lease for a 35,333-square-foot industrial property in Rancho Dominguez, CA. The company is relocating from a smaller Los Angeles facility to accommodate its expanding operations. The property's large footprint, heavy electrical capacity, functional layout, and recent modernization were key factors in the relocation, providing a best-in-class asset suitable for attracting employees and impressing clients.",
       "data_points": {
-        "property_type": "condo",
-        "property_name": "Park Palm",
-        "address": null,
+        "property_type": "industrial",
+        "property_name": null,
+        "address": "2945 East Maria St., Rancho Dominguez, CA",
         "address_sourced_separately": false,
-        "size_sf": null,
-        "size_units": 23,
+        "size_sf": 35333.0,
+        "size_units": null,
         "size_beds": null,
         "size_keys": null,
         "rental_rate": null,
         "sale_price": null,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": null,
-        "completion": "2028-2029",
-        "phase_1": "Park Palm will round out Phase I",
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": 1.06,
-        "multi_asset_purchase": false,
-        "notable_features": null,
-        "project_notes": "Site is part of the 25-acre Uptown Newport Village master-planned community, which was acquired by Shopoff in December 2010 and entitled in 2013 for 1,244 residential units, 11,500 SF of commercial/retail space, and two one-acre parks."
-      },
-      "companies_people": [
-        {
-          "label": "SELLER",
-          "firm_name": "Shopoff Realty Investments",
-          "people": []
-        },
-        {
-          "label": "BUYER",
-          "firm_name": "Shea Homes",
-          "people": []
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "JLL Lists Staten Island Waterfront Development for $45M",
-      "source": "Connect CRE",
-      "link": "https://www.connectcre.com/stories/jll-lists-staten-island-waterfront-development-for-45m/",
-      "published": "Wed, 05 Aug 2026 21:20:19 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-06-019.html",
-      "transaction_type": null,
-      "article_type": "Property Listing / For Sale",
-      "market": "Staten Island, NY",
-      "narrative": "JLL Capital Markets has been retained by Triangle Equities as the sales advisor for Lighthouse Point, a newly completed, transit-oriented, Class A multifamily waterfront development in Staten Island. The property, which features 115 residential units, is being marketed for $45 million. The project is considered a rare opportunity in a market with limited new development, offering both quality construction and future potential.",
-      "data_points": {
-        "property_type": "multifamily",
-        "property_name": "Lighthouse Point",
-        "address": "5 Bay St., Staten Island, NY",
-        "address_sourced_separately": false,
-        "size_sf": null,
-        "size_units": 115,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": 45000000.0,
         "loan_amount": null,
         "total_project_cost": null,
         "occupancy": null,
@@ -1121,57 +1147,179 @@
         "original_plan": null,
         "land_area_acres": null,
         "multi_asset_purchase": false,
-        "notable_features": "Mixed-use development situated adjacent to the Staten Island Ferry Terminal, occupying the site of the historic U.S. Lighthouse Service\u2019s General Depot.",
-        "project_notes": "Recently completed first phase."
+        "notable_features": "Features heavy electrical capacity, a large secured side yard, and a separate front-loading area. The building has been recently modernized with superior office space.",
+        "project_notes": "Tenant is relocating from a smaller property in Los Angeles."
       },
       "companies_people": [
         {
-          "label": "SELLER",
-          "firm_name": "Triangle Equities",
+          "label": "LANDLORD",
+          "firm_name": "Crown Associates Realty, Inc.",
           "people": []
         },
         {
-          "label": "SELLER BROKER",
-          "firm_name": "JLL Capital Markets",
+          "label": "TENANT",
+          "firm_name": "Cactus Fabrication",
+          "people": []
+        },
+        {
+          "label": "LEASING AGENT",
+          "firm_name": "DAUM Commercial Real Estate Services",
           "people": [
             {
-              "name": "Rob Hinckley",
-              "title": "Senior Managing Director"
-            },
-            {
-              "name": "Jeff Julien",
-              "title": "Senior Managing Director"
-            },
-            {
-              "name": "Steven Rutman",
-              "title": "Managing Director"
-            },
-            {
-              "name": "Devon Warren",
-              "title": "Director"
+              "name": "Chuck Brill",
+              "title": "EVP and Principal"
             }
           ]
         }
       ],
+      "tenants": [
+        "Cactus Fabrication"
+      ],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Investors Want A Slice Of Exclusive Florida Keys Hotel Market",
+      "source": "Bisnow Latest News Feed",
+      "link": "https://www.bisnow.com/news/south-florida/hotel/competition-for-florida-keys-hotels-is-heating-up",
+      "published": "Thu, 06 Aug 2026 19:30:03 -0400",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-07-021.html",
+      "transaction_type": null,
+      "article_type": "Opinion / Market Commentary",
+      "market": "Florida Keys, FL",
+      "narrative": "The Florida Keys hotel market is experiencing a surge in investor interest, driven by a significant increase in leisure travel to the region. This heightened demand is reflected in recent major sales and investments, indicating a booming market for hospitality assets in the Keys.",
+      "data_points": null,
+      "companies_people": [],
       "tenants": [],
       "financing": null,
       "market_intelligence": null
     },
     {
-      "title": "CRE Leaders Stress Importance Of Adaptability As DFW Continues To Grow",
+      "title": "CRE\u2019s ESG Retreat Masks Growing Spending On Climate Risk",
       "source": "Bisnow Latest News Feed",
-      "link": "https://www.bisnow.com/news/dallas-ft-worth/commercial-real-estate/cre-leaders-stress-importance-of-adaptability-as-dfw-market-continues-to-grow",
-      "published": "Wed, 05 Aug 2026 19:54:39 -0400",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-06-020.html",
+      "link": "https://www.bisnow.com/news/national/sustainability-climate/climate-risk-commercial-real-estate-investment",
+      "published": "Thu, 06 Aug 2026 18:39:01 -0400",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-07-022.html",
       "transaction_type": null,
       "article_type": "Opinion / Market Commentary",
-      "market": "Dallas, TX",
-      "narrative": "The Dallas-Fort Worth commercial real estate market is experiencing significant growth, prompting industry leaders to emphasize the critical need for adaptability. This expansion is also marked by a notable increase in female leadership within the sector, highlighting a shift in the demographic landscape of the region's CRE industry.",
+      "market": null,
+      "narrative": "The commercial real estate industry is increasingly prioritizing climate risk data and predictive models, even as the broader focus on ESG investing appears to be diminishing. This shift reflects a growing recognition that understanding and mitigating climate-related physical and transition risks is crucial for asset valuation, investment decisions, and long-term portfolio resilience. The demand for sophisticated data tools to assess these risks is rising, indicating a strategic pivot towards tangible risk management rather than solely broad ESG mandates.",
+      "data_points": null,
+      "companies_people": [],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Portman's Ten Twenty Spring Nabs Refinancing: The Atlanta Deal Sheet",
+      "source": "Bisnow Latest News Feed",
+      "link": "https://www.bisnow.com/news/atlanta/deal-sheet/portman-ten-twenty-spring-nabs-278m-refinancing",
+      "published": "Thu, 06 Aug 2026 17:50:19 -0400",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-07-023.html",
+      "transaction_type": "Refinance",
+      "article_type": null,
+      "market": "Atlanta, GA",
+      "narrative": "Portman has secured a $278 million refinancing package for its Ten Twenty Spring tower in Atlanta, a prominent office building that houses a strong tenant mix. This refinancing deal underscores the continued institutional interest in well-located, high-quality office assets in the Atlanta market.",
       "data_points": {
-        "property_type": null,
+        "property_type": "office",
+        "property_name": "Ten Twenty Spring",
+        "address": "1020 Spring St NW, Atlanta, GA",
+        "address_sourced_separately": true,
+        "size_sf": null,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": 278000000.0,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": null,
+        "project_notes": null
+      },
+      "companies_people": [
+        {
+          "label": "SPONSOR",
+          "firm_name": "Portman",
+          "people": []
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "OPI Sells Vacant Philly Office Building For $42M",
+      "source": "Bisnow Latest News Feed",
+      "link": "https://www.bisnow.com/news/philadelphia/office/reit-sells-vacant-philly-office-building-for-42m",
+      "published": "Thu, 06 Aug 2026 17:16:31 -0400",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-07-024.html",
+      "transaction_type": "Sale",
+      "article_type": null,
+      "market": "Philadelphia, PA",
+      "narrative": "A real estate investment trust has sold its sole office property in Philadelphia, a 441,000-square-foot vacant building, to the city for $42 million. The transaction marks the disposition of the REIT's last office asset in the market.",
+      "data_points": {
+        "property_type": "office",
         "property_name": null,
-        "address": null,
+        "address": "8800 Tinicum Blvd., Philadelphia, PA",
         "address_sourced_separately": false,
+        "size_sf": 441000.0,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": 42000000.0,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": null,
+        "project_notes": null
+      },
+      "companies_people": [
+        {
+          "label": "SELLER",
+          "firm_name": "OPI",
+          "people": []
+        },
+        {
+          "label": "BUYER",
+          "firm_name": "City of Philadelphia",
+          "people": []
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Faneuil Hall Owner J. Safra Group Sues Tenants, Alleging $2M In Unpaid Rent",
+      "source": "Bisnow Latest News Feed",
+      "link": "https://www.bisnow.com/news/boston/retail/faneuil-hall-landlord-j-safra-group-sues-tenants-over-2m-in-unpaid-rent",
+      "published": "Thu, 06 Aug 2026 16:43:54 -0400",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-07-025.html",
+      "transaction_type": null,
+      "article_type": "CRE Legal / Regulatory",
+      "market": "Boston, MA",
+      "narrative": "J. Safra Group, the owner of Faneuil Hall Marketplace, has filed a lawsuit against seven tenants, seeking $2 million in alleged unpaid rent. The legal action highlights ongoing challenges in commercial property management and tenant relations, particularly concerning rent obligations.",
+      "data_points": {
+        "property_type": "retail",
+        "property_name": "Faneuil Hall Marketplace",
+        "address": "4 S Market St, Boston, MA",
+        "address_sourced_separately": true,
         "size_sf": null,
         "size_units": null,
         "size_beds": null,
@@ -1188,111 +1336,13 @@
         "original_plan": null,
         "land_area_acres": null,
         "multi_asset_purchase": false,
-        "notable_features": "Rising female leadership in the CRE sector.",
+        "notable_features": null,
         "project_notes": null
       },
-      "companies_people": [],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Chicago's Apartment Pipeline Is Slowing, But This Lender Bets On Rehab Instead",
-      "source": "Bisnow Latest News Feed",
-      "link": "https://www.bisnow.com/news/chicago/multifamily/as-chicago-s-new-apartment-pipeline-dries-up-this-lender-bets-on-fixing-up-what-s-already-there",
-      "published": "Wed, 05 Aug 2026 19:41:03 -0400",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-06-021.html",
-      "transaction_type": null,
-      "article_type": "Market Research / Lending Trends",
-      "market": "Chicago, IL",
-      "narrative": "Community Investment Corporation (CIC) has a long history of financing the rehabilitation of multifamily properties in Chicago. Since 1984, the organization has provided approximately 2,800 loans, totaling $1.8 billion, to support the renovation of nearly 70,000 apartment units. This focus on existing stock comes as the new apartment development pipeline in Chicago is reportedly slowing.",
-      "data_points": null,
       "companies_people": [
         {
-          "label": "LENDER",
-          "firm_name": "Community Investment Corporation",
-          "people": []
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Elon Musk's Space Data Center Vision Collides With Wall Street's Bottom-Line Reality",
-      "source": "Bisnow Latest News Feed",
-      "link": "https://www.bisnow.com/news/national/data-center-capital-markets/musk-s-space-ai-dreams-collide-with-wall-street-s-bottom-line-reality",
-      "published": "Wed, 05 Aug 2026 19:26:07 -0400",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-06-022.html",
-      "transaction_type": null,
-      "article_type": "Non-CRE / Business News",
-      "market": null,
-      "narrative": "SpaceX's recent post-IPO earnings report has raised concerns among Wall Street analysts regarding the company's short-term artificial intelligence expenditures. The market is scrutinizing the financial implications of Elon Musk's ambitious vision to develop space-based data centers, questioning the immediate returns on these significant investments.",
-      "data_points": null,
-      "companies_people": [],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "HUD Withholds Voucher Funding, Pushing Landlords, Tenants To The Brink",
-      "source": "Bisnow Latest News Feed",
-      "link": "https://www.bisnow.com/news/new-york/affordable-housing/hud-emergency-housing-vouchers-trump-admin",
-      "published": "Wed, 05 Aug 2026 19:03:59 -0400",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-06-023.html",
-      "transaction_type": null,
-      "article_type": "CRE Legal / Regulatory",
-      "market": null,
-      "narrative": "The Department of Housing and Urban Development (HUD) has reportedly withheld funding for emergency housing vouchers, creating significant uncertainty for both tenants relying on these subsidies and landlords who accept them. This action is placing financial strain on vulnerable populations and potentially impacting the stability of rental housing providers.",
-      "data_points": null,
-      "companies_people": [],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "$1.1B Loan To Hudson Pacific, Blackstone Moves To Special Servicing",
-      "source": "Bisnow Latest News Feed",
-      "link": "https://www.bisnow.com/news/los-angeles/office/hudson-pacific-properties-hollywood-media-cmbs-loan",
-      "published": "Wed, 05 Aug 2026 18:12:18 -0400",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-06-024.html",
-      "transaction_type": "Loan",
-      "article_type": null,
-      "market": null,
-      "narrative": "A $1.1 billion loan secured by a portfolio of Hudson Pacific Properties and Blackstone assets has been transferred to special servicing. The move comes as the borrowers are working to finalize agreed-upon loan extensions, with the situation reportedly influenced by the leasing activity of a major streaming service within the portfolio.",
-      "data_points": {
-        "property_type": null,
-        "property_name": null,
-        "address": null,
-        "address_sourced_separately": false,
-        "size_sf": null,
-        "size_units": null,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": null,
-        "loan_amount": 1100000000.0,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": null,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": null,
-        "multi_asset_purchase": false,
-        "notable_features": null,
-        "project_notes": "Loan transferred to special servicing amid agreed extensions and impact from a major streaming service's leasing."
-      },
-      "companies_people": [
-        {
-          "label": "SPONSOR",
-          "firm_name": "Hudson Pacific Properties",
-          "people": []
-        },
-        {
-          "label": "SPONSOR",
-          "firm_name": "Blackstone",
+          "label": "LANDLORD",
+          "firm_name": "J. Safra Group",
           "people": []
         }
       ],
