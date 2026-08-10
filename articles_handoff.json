@@ -1,4 +1,606 @@
 {
-  "date": "2026-08-09",
-  "articles": []
+  "date": "2026-08-10",
+  "articles": [
+    {
+      "title": "Sunday Summary: Seven. Hundred. Fifty. Billion.",
+      "source": "Commercial Observer",
+      "link": "https://commercialobserver.com/2026/08/sunday-summary-seven-hundred-fifty-billion/",
+      "published": "Sun, 09 Aug 2026 13:00:18 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-10-001.html",
+      "transaction_type": null,
+      "article_type": "Opinion / Market Commentary",
+      "market": null,
+      "narrative": "J.P. Morgan Chase announced a significant initiative to invest $750 billion in housing over the next nine years, aiming to increase supply and homeownership nationwide. The bank plans to expand financing through debt, equity, and grants, targeting the creation of 1 million affordable housing units and assisting 500,000 customers, including 200,000 first-time buyers. This push comes at an opportune time, as multifamily construction starts in Q1 2026 were at their lowest since 2011. The article also highlights other market activities, including BlackRock's $1.63 billion acquisition of an 11-property multifamily portfolio in Southern California, and positive earnings reports from Brookfield Asset Management and Cushman & Wakefield. Mall giant Macerich reported increased occupancy and significant leasing activity, while Alexandria Real Estate Equities showed improvement in the life sciences market. Vornado Realty Trust expressed optimism about Manhattan's office market, citing scarcity of new supply and rising construction costs as drivers for increased rents in well-located older buildings.",
+      "data_points": null,
+      "companies_people": [
+        {
+          "label": "LENDER",
+          "firm_name": "J.P. Morgan Chase",
+          "people": [
+            {
+              "name": "Michelle Herrick",
+              "title": "Head of Commercial Real Estate"
+            }
+          ]
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "LMXD",
+          "people": []
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Bedrock Real Estate Partners",
+          "people": []
+        },
+        {
+          "label": "BUYER",
+          "firm_name": "Ultimate Equity",
+          "people": []
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Krea USA",
+          "people": []
+        },
+        {
+          "label": "BUYER",
+          "firm_name": "Harbor Group International",
+          "people": []
+        },
+        {
+          "label": "BUYER",
+          "firm_name": "BlackRock",
+          "people": []
+        },
+        {
+          "label": "SELLER",
+          "firm_name": "Camden Property Trust",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Starwood Property Trust",
+          "people": [
+            {
+              "name": "Barry Sternlicht",
+              "title": null
+            },
+            {
+              "name": "Jeffrey DiModica",
+              "title": "President"
+            }
+          ]
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Brookfield Asset Management",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Cushman & Wakefield",
+          "people": [
+            {
+              "name": "Michelle MacKay",
+              "title": "CEO"
+            }
+          ]
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Macerich",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Alexandria Real Estate Equities",
+          "people": []
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Vornado Realty Trust",
+          "people": [
+            {
+              "name": "Steven Roth",
+              "title": null
+            }
+          ]
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Citadel",
+          "people": [
+            {
+              "name": "Ken Griffin",
+              "title": null
+            }
+          ]
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Rudin",
+          "people": []
+        },
+        {
+          "label": "TENANT",
+          "firm_name": "Snap",
+          "people": []
+        },
+        {
+          "label": "SUBLANDLORD",
+          "firm_name": "Verizon",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Marx Realty",
+          "people": []
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": "Multifamily construction starts in the U.S. for Q1 2026 were the lowest since 2011. Manhattan office market is experiencing a scarcity of new supply, with construction costs and interest rates requiring very high rents for new buildings, which is expected to drive up leasing rates in well-located older buildings. Manhattan office leasing velocity was up 22% in July from June."
+    },
+    {
+      "title": "No Vacancy: Tight supply keeps Houston retail humming at mid-year",
+      "source": "REJournals",
+      "link": "https://rejournals.com/no-vacancy-tight-supply-keeps-houston-retail-humming-at-mid-year/?utm_source=rss&utm_medium=rss&utm_campaign=no-vacancy-tight-supply-keeps-houston-retail-humming-at-mid-year",
+      "published": "Mon, 10 Aug 2026 10:05:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-10-002.html",
+      "transaction_type": null,
+      "article_type": "Opinion / Market Commentary",
+      "market": "Houston, TX",
+      "narrative": "Houston's retail market is experiencing historically low vacancy rates, driving development to the metro's western edge, particularly in areas like Richmond, Katy, and Cypress. This tight supply is leading to healthy rent levels and encouraging tenants to secure longer-term leases for desirable locations. Landlords are prioritizing financially strong tenants, and there's a notable flight to quality, with demand focused on properties offering visibility, convenient access, and strong demographics. Mixed-use developments are thriving by creating walkable, amenity-rich environments that attract talent and offer diverse retail and dining options.",
+      "data_points": null,
+      "companies_people": [
+        {
+          "label": "LEASING AGENT",
+          "firm_name": "Partners",
+          "people": [
+            {
+              "name": "Sarah Thobae",
+              "title": "Vice President of Retail Services"
+            },
+            {
+              "name": "Joan Collum",
+              "title": null
+            }
+          ]
+        },
+        {
+          "label": "LEASING AGENT",
+          "firm_name": "JLL",
+          "people": [
+            {
+              "name": "Chris Burns",
+              "title": "Vice President"
+            }
+          ]
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Westwood Financial",
+          "people": [
+            {
+              "name": "Lauren Ball",
+              "title": "Chief Operating Officer"
+            }
+          ]
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Midway",
+          "people": [
+            {
+              "name": "David Hightower",
+              "title": "Executive Vice President"
+            }
+          ]
+        },
+        {
+          "label": "BUYER",
+          "firm_name": "Dhanani Private Equity Group (DPEG)",
+          "people": [
+            {
+              "name": "Nikhil Dhanani",
+              "title": "President"
+            }
+          ]
+        }
+      ],
+      "tenants": [
+        "Port Houston",
+        "Anton Paar"
+      ],
+      "financing": null,
+      "market_intelligence": "Houston's retail market is experiencing its lowest vacancy levels since the early 2000s, with metro vacancy at approximately 5.7 percent and statewide at about 4.6 percent. There is roughly 4.2 million square feet of retail space currently under construction across the region. Financing conditions have improved, with some firms securing rates 100 to 150 basis points below prevailing market levels."
+    },
+    {
+      "title": "Canyon Creek Real Estate acquires One Eleven Congress in downtown Austin",
+      "source": "REJournals",
+      "link": "https://rejournals.com/canyon-creek-real-estate-acquires-one-eleven-congress-in-downtown-austin/?utm_source=rss&utm_medium=rss&utm_campaign=canyon-creek-real-estate-acquires-one-eleven-congress-in-downtown-austin",
+      "published": "Mon, 10 Aug 2026 10:03:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-10-003.html",
+      "transaction_type": "Acquisition",
+      "article_type": null,
+      "market": "Austin, TX",
+      "narrative": "Canyon Creek Real Estate has acquired One Eleven Congress, a prominent 533,711-square-foot office tower in Downtown Austin, marking the firm's strategic entry into the Austin market. Stream Realty Partners will continue to handle leasing services for the 30-story building and will expand its role to include property management. The acquisition underscores the continued investment and momentum in the surrounding area, which benefits from its prime location between Austin's Central Business District and the waterfront.",
+      "data_points": {
+        "property_type": "office",
+        "property_name": "One Eleven Congress",
+        "address": "111 Congress Ave., Austin, TX",
+        "address_sourced_separately": false,
+        "size_sf": 533711.0,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": "30-story office tower with panoramic views of Downtown Austin, Lady Bird Lake, and the Texas Hill Country; features a food hall, conference center, fitness center, and 24-hour security.",
+        "project_notes": null
+      },
+      "companies_people": [
+        {
+          "label": "BUYER",
+          "firm_name": "Canyon Creek Real Estate",
+          "people": []
+        },
+        {
+          "label": "LEASING AGENT",
+          "firm_name": "Stream Realty Partners",
+          "people": [
+            {
+              "name": "Rachel Coulter",
+              "title": "Managing Director"
+            }
+          ]
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Stream Realty Partners",
+          "people": [
+            {
+              "name": "Amanda Coupe",
+              "title": "Regional Managing Director of Property Management"
+            }
+          ]
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Lee & Associates closes 2,895-square-foot industrial lease in Richardson",
+      "source": "REJournals",
+      "link": "https://rejournals.com/lee-associates-closes-2895-square-foot-industrial-lease-in-richardson/?utm_source=rss&utm_medium=rss&utm_campaign=lee-associates-closes-2895-square-foot-industrial-lease-in-richardson",
+      "published": "Mon, 10 Aug 2026 10:02:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-10-004.html",
+      "transaction_type": "Lease",
+      "article_type": null,
+      "market": "Richardson, TX",
+      "narrative": "Lee & Associates Dallas-Fort Worth has completed a new lease transaction for a 2,895-square-foot industrial space at TI Business Park in Richardson, Texas. The landlord was represented by Lee & Associates, while the tenant was represented by NAI Robert Lynn \u2013 Dallas.",
+      "data_points": {
+        "property_type": "industrial",
+        "property_name": "TI Business Park",
+        "address": "1400 S Sherman St, Richardson, TX",
+        "address_sourced_separately": true,
+        "size_sf": 2895.0,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": null,
+        "project_notes": null
+      },
+      "companies_people": [
+        {
+          "label": "LANDLORD",
+          "firm_name": "Undisclosed",
+          "people": []
+        },
+        {
+          "label": "TENANT",
+          "firm_name": "City Wide Property Services",
+          "people": []
+        },
+        {
+          "label": "LEASING AGENT",
+          "firm_name": "Lee & Associates Dallas-Fort Worth",
+          "people": [
+            {
+              "name": "Jessica Reinhardt",
+              "title": null
+            },
+            {
+              "name": "Susan Cancemi",
+              "title": null
+            },
+            {
+              "name": "George Tanghongs",
+              "title": null
+            }
+          ]
+        },
+        {
+          "label": "TENANT REP",
+          "firm_name": "NAI Robert Lynn \u2013 Dallas",
+          "people": [
+            {
+              "name": "Stewart Fuller",
+              "title": null
+            }
+          ]
+        }
+      ],
+      "tenants": [
+        "City Wide Property Services"
+      ],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Joby Aviation establishes hub at Perot Field Fort Worth Alliance Airport",
+      "source": "REJournals",
+      "link": "https://rejournals.com/joby-aviation-establishes-hub-at-perot-field-fort-worth-alliance-airport/?utm_source=rss&utm_medium=rss&utm_campaign=joby-aviation-establishes-hub-at-perot-field-fort-worth-alliance-airport",
+      "published": "Mon, 10 Aug 2026 10:01:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-10-005.html",
+      "transaction_type": "Lease",
+      "article_type": null,
+      "market": "Fort Worth, TX",
+      "narrative": "Joby Aviation, a developer of electric vertical takeoff and landing (eVTOL) aircraft, has leased 45,000 square feet at Alliance Air Trade Center in Haslet, Texas. This marks the company's first significant presence in North Texas and positions it within Hillwood's 27,000-acre AllianceTexas development, a major aviation and logistics hub. The move is expected to strengthen the region's role in advanced air mobility, leveraging the area's multimodal transportation infrastructure and skilled workforce.",
+      "data_points": {
+        "property_type": "industrial",
+        "property_name": "Alliance Air Trade Center",
+        "address": null,
+        "address_sourced_separately": false,
+        "size_sf": 45000.0,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": "Located within the 27,000-acre AllianceTexas development and Perot Field Fort Worth Alliance Airport, the world's first industrial airport purpose-built for cargo and corporate aviation.",
+        "project_notes": null
+      },
+      "companies_people": [
+        {
+          "label": "LANDLORD",
+          "firm_name": "Hillwood",
+          "people": []
+        },
+        {
+          "label": "TENANT",
+          "firm_name": "Joby Aviation, Inc.",
+          "people": [
+            {
+              "name": "Greg Bowles",
+              "title": "Chief Policy Officer"
+            }
+          ]
+        }
+      ],
+      "tenants": [
+        "Joby Aviation, Inc."
+      ],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "The Cost of Trying to Fix a Failed 1031 Exchange",
+      "source": "REJournals",
+      "link": "https://rejournals.com/the-cost-of-trying-to-fix-a-failed-1031-exchange/?utm_source=rss&utm_medium=rss&utm_campaign=the-cost-of-trying-to-fix-a-failed-1031-exchange",
+      "published": "Mon, 10 Aug 2026 10:00:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-10-006.html",
+      "transaction_type": null,
+      "article_type": "CRE Legal / Regulatory",
+      "market": null,
+      "narrative": "The article analyzes the landmark tax case Dobrich v. Commissioner, which serves as a cautionary tale for real estate investors attempting Section 1031 exchanges. The case highlights the strict, unforgiving nature of the 45-day identification deadline for replacement properties. The taxpayers in Dobrich not only failed to meet this deadline but also attempted to falsify and backdate documents to create a fraudulent paper trail, resulting in a 75% civil fraud penalty in addition to the loss of tax deferral. The key takeaway for investors is the critical importance of meticulous pre-sale planning and strict adherence to all 1031 exchange timelines, emphasizing that honesty and integrity are paramount even when an exchange appears to have failed.",
+      "data_points": null,
+      "companies_people": [],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "More CMBS Borrowers Are Slamming Into The $65B Maturity Wall",
+      "source": "Bisnow Latest News Feed",
+      "link": "https://www.bisnow.com/news/national/capital-markets/bond-traders-force-cmbs-market-to-reckon-with-rate-reality",
+      "published": "Sun, 09 Aug 2026 20:46:46 -0400",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-10-007.html",
+      "transaction_type": null,
+      "article_type": "Opinion / Market Commentary",
+      "market": null,
+      "narrative": "Rising 10-year Treasury yields and the realization that market relief is unlikely are accelerating the completion of deals in the CMBS market.",
+      "data_points": null,
+      "companies_people": [],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "USA Properties Fund, Irvine Co. Break Ground On 338 Tustin Apartments: The Los Angeles Deal Sheet",
+      "source": "Bisnow Latest News Feed",
+      "link": "https://www.bisnow.com/news/los-angeles/deal-sheet/usa-properties-fund-irvine-co-break-ground-on-338-tustin-apartments",
+      "published": "Sun, 09 Aug 2026 18:06:52 -0400",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-10-008.html",
+      "transaction_type": "Development",
+      "article_type": null,
+      "market": "Tustin, CA",
+      "narrative": "USA Properties Fund and Irvine Co. have broken ground on a 338-unit affordable apartment community in Tustin, California. The development aims to address the need for affordable housing in the region, with completion anticipated by mid-2029.",
+      "data_points": {
+        "property_type": "multifamily",
+        "property_name": null,
+        "address": null,
+        "address_sourced_separately": false,
+        "size_sf": null,
+        "size_units": 338,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": "mid-2029",
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": null,
+        "project_notes": "Project will bring affordable apartments to Tustin."
+      },
+      "companies_people": [
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "USA Properties Fund",
+          "people": []
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Irvine Co.",
+          "people": []
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Global Ad Agency Innocean Leases 101K SF At Hackman El Segundo Campus",
+      "source": "Bisnow Latest News Feed",
+      "link": "https://www.bisnow.com/news/los-angeles/office/innocean-el-segundo-jll-hackman-capital-888-douglas",
+      "published": "Sun, 09 Aug 2026 17:53:27 -0400",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-10-009.html",
+      "transaction_type": "Lease",
+      "article_type": null,
+      "market": "El Segundo, CA",
+      "narrative": "Global advertising agency Innocean USA has signed a 101,000-square-foot lease for its new headquarters at 888 N. Douglas in El Segundo, California. This move consolidates the agency's operations into Hackman Capital Partners' campus, marking a significant commitment to the El Segundo market.",
+      "data_points": {
+        "property_type": "office",
+        "property_name": null,
+        "address": "888 N. Douglas, El Segundo, CA",
+        "address_sourced_separately": false,
+        "size_sf": 101000.0,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": null,
+        "project_notes": null
+      },
+      "companies_people": [
+        {
+          "label": "LANDLORD",
+          "firm_name": "Hackman Capital Partners",
+          "people": []
+        },
+        {
+          "label": "TENANT",
+          "firm_name": "Innocean USA",
+          "people": []
+        }
+      ],
+      "tenants": [
+        "Innocean USA"
+      ],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Jeffrey Soffer, Aventura Sued By Condo Owners For Pushing Yacht Club Project",
+      "source": "Bisnow Latest News Feed",
+      "link": "https://www.bisnow.com/news/south-florida/construction-development/jeffrey-soffer-fontainebleau-aventura-lawsuit-turnberry-isle",
+      "published": "Sun, 09 Aug 2026 14:50:36 -0400",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-10-010.html",
+      "transaction_type": null,
+      "article_type": "CRE Legal / Regulatory",
+      "market": "Aventura, FL",
+      "narrative": "Over 500 condo owners have filed a lawsuit against Jeffrey Soffer and Aventura, alleging a breach of rights related to the development of two new towers at Turnberry Isle Marina. The suit claims that the new yacht club project infringes upon the existing condo owners' rights.",
+      "data_points": {
+        "property_type": null,
+        "property_name": "Turnberry Isle Marina",
+        "address": "19735 Turnberry Way, Aventura, FL",
+        "address_sourced_separately": true,
+        "size_sf": null,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": "Lawsuit filed by over 500 condo owners regarding development of two new towers.",
+        "project_notes": null
+      },
+      "companies_people": [
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Jeffrey Soffer",
+          "people": []
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Aventura",
+          "people": []
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    }
+  ]
 }
