@@ -1,89 +1,30 @@
 {
-  "date": "2026-08-28",
+  "date": "2026-08-29",
   "articles": [
     {
-      "title": "KPC Group\u2019s Oceanwide Plaza Bet Started With a Supertall Dream for Manhattan",
-      "source": "Commercial Observer",
-      "link": "https://commercialobserver.com/2026/08/kpc-oceanwide-plaza-graffiti-towers-downtown-la-supertall/",
-      "published": "Fri, 28 Aug 2026 20:25:35 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-28-001.html",
-      "transaction_type": "Acquisition",
+      "title": "Ariel Reps Seller in Bronx Multifamily Portfolio",
+      "source": "Connect CRE",
+      "link": "https://www.connectcre.com/stories/ariel-reps-seller-in-bronx-multifamily-portfolio/",
+      "published": "Fri, 28 Aug 2026 22:03:23 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-29-001.html",
+      "transaction_type": "Sale",
       "article_type": null,
-      "market": "Los Angeles, CA",
-      "narrative": "KPC Group has acquired the unfinished Oceanwide Plaza mixed-use development in Downtown Los Angeles for $517 million in cash and credit, following a bankruptcy court approval. The firm plans to complete the 2 million-square-foot project, which includes hotel, residential, and retail components, with an estimated total cost of $850 million or more. The acquisition marks a significant step for KPC Group's founder, Dr. Kali Chaudhuri, in developing a trophy property in a major U.S. market, despite the project's history of stalled construction and financing challenges. The firm is currently focused on cleaning up extensive graffiti on the property and securing entitlements within a six-month deadline.",
+      "market": "Bronx, NY",
+      "narrative": "Ariel Property Advisors has facilitated the sale of a three-building multifamily portfolio in the Bronx for $7.5 million. The portfolio, comprising 143 rent-stabilized apartments across 140,470 square feet, attracted strong buyer interest due to its scale and long-term upside potential in well-connected neighborhoods. The transaction underscores the sustained demand for multifamily assets in the Bronx, particularly those offering proximity to transit, retail, and institutional anchors.",
       "data_points": {
-        "property_type": "mixed-use",
-        "property_name": "Oceanwide Plaza",
-        "address": "1100 Flower St, Los Angeles, CA",
-        "address_sourced_separately": true,
-        "size_sf": 2000000.0,
-        "size_units": null,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": 517000000.0,
-        "loan_amount": null,
-        "total_project_cost": 850000000.0,
-        "occupancy": null,
-        "year_built": null,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": null,
-        "multi_asset_purchase": false,
-        "notable_features": "Will feature a massive LED screen adjacent to Crypto.com Arena and L.A. Live, envisioned as the 'Times Square of Los Angeles'.",
-        "project_notes": "The project stalled approximately seven years ago and became known for its graffiti-covered exterior. KPC Group acquired the EB-5 loan for the project after it went into default, which later gave them priority to bid in the bankruptcy auction. The firm is keeping the original design to expedite entitlements."
-      },
-      "companies_people": [
-        {
-          "label": "BUYER",
-          "firm_name": "KPC Group",
-          "people": [
-            {
-              "name": "Dr. Kali Chaudhuri",
-              "title": "Entrepreneur and Orthopedic Surgeon"
-            },
-            {
-              "name": "John Petty",
-              "title": "Senior Partner"
-            }
-          ]
-        },
-        {
-          "label": "SELLER",
-          "firm_name": "Oceanwide Holdings",
-          "people": []
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Aggregate Buys $58M Northern Virginia Portfolio",
-      "source": "Commercial Observer",
-      "link": "https://commercialobserver.com/2026/08/virginia-aggregate-clarke-hook-industrial-retail/",
-      "published": "Fri, 28 Aug 2026 19:10:20 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-28-002.html",
-      "transaction_type": "Acquisition",
-      "article_type": null,
-      "market": "Virginia",
-      "narrative": "Aggregate Real Estate Investors has acquired an 11-building industrial and retail portfolio in Northern Virginia from Clarke-Hook Corporation for $58 million. The 320,000-square-foot portfolio, which was 94% leased to over 90 tenants at the time of sale, includes properties in Fairfax and Loudoun counties. Aggregate plans aesthetic upgrades and new management initiatives to create additional value, aligning with their strategy to target value-add deals in the Mid-Atlantic region.",
-      "data_points": {
-        "property_type": "industrial / retail",
+        "property_type": "multifamily",
         "property_name": null,
-        "address": null,
+        "address": "2460 Grand Ave. and 636-646 E. 231st St., Bronx, NY",
         "address_sourced_separately": false,
-        "size_sf": 320000.0,
-        "size_units": null,
+        "size_sf": null,
+        "size_units": 143,
         "size_beds": null,
         "size_keys": null,
         "rental_rate": null,
-        "sale_price": 58000000.0,
+        "sale_price": 7500000.0,
         "loan_amount": null,
         "total_project_cost": null,
-        "occupancy": 94.0,
+        "occupancy": null,
         "year_built": null,
         "completion": null,
         "phase_1": null,
@@ -91,91 +32,25 @@
         "original_plan": null,
         "land_area_acres": null,
         "multi_asset_purchase": true,
-        "notable_features": "Portfolio includes West Fairfax Commerce Center, University Commerce Center, Dulles Trade Center, and McLean Commerce Center.",
-        "project_notes": "The portfolio was 94% leased to more than 90 tenants at the time of the transaction."
+        "notable_features": "The portfolio includes one elevator building and two walk-up buildings, offering a mix of studio to three-bedroom apartments. It is located near major transit, retail corridors, and institutional anchors.",
+        "project_notes": null
       },
       "companies_people": [
         {
-          "label": "BUYER",
-          "firm_name": "Aggregate Real Estate Investors",
+          "label": "SELLER BROKER",
+          "firm_name": "Ariel Property Advisors",
           "people": [
             {
-              "name": "Greg Jacobsen",
-              "title": "Managing Principal"
-            }
-          ]
-        },
-        {
-          "label": "SELLER",
-          "firm_name": "Clarke-Hook Corporation",
-          "people": []
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Dwight Supplies $70M Refi on Newark Multifamily Tower",
-      "source": "Commercial Observer",
-      "link": "https://commercialobserver.com/2026/08/dwight-newark-apartments/",
-      "published": "Fri, 28 Aug 2026 18:30:20 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-28-003.html",
-      "transaction_type": "Refinance",
-      "article_type": null,
-      "market": "Newark, NJ",
-      "narrative": "New Jersey developer Yisroel Berger has secured a $70 million nonrecourse, interest-only loan from Dwight Investment Management to refinance the newly redeveloped Cosmo 440, a 216-unit multifamily tower in Newark, NJ. The 25-story building, which was gut-renovated after sitting vacant for a decade, has been transformed into an amenity-rich community with 26 units designated as affordable housing. The refinancing marks the project's transition from its construction phase and lease-up to a stabilized asset, strategically located near transit and Newark Liberty International Airport.",
-      "data_points": {
-        "property_type": "multifamily",
-        "property_name": "Cosmo 440",
-        "address": "440 Elizabeth Avenue, Newark, NJ",
-        "address_sourced_separately": false,
-        "size_sf": null,
-        "size_units": 216,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": null,
-        "loan_amount": 70000000.0,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": 1969,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": null,
-        "multi_asset_purchase": false,
-        "notable_features": "26 units set aside as affordable housing; amenities include a concierge, coworking lounge, fitness center, playground, and parking garage with electric vehicle charging.",
-        "project_notes": "The development previously received a $60 million loan from BridgeInvest last year for gut renovation of the building."
-      },
-      "companies_people": [
-        {
-          "label": "SPONSOR",
-          "firm_name": "Yisroel Berger",
-          "people": []
-        },
-        {
-          "label": "LENDER",
-          "firm_name": "Dwight Investment Management",
-          "people": [
-            {
-              "name": "Alex Izso",
-              "title": null
+              "name": "Sam Schertz",
+              "title": "Senior Director"
             },
             {
-              "name": "David Scheer",
-              "title": null
-            }
-          ]
-        },
-        {
-          "label": "MORTGAGE BROKER",
-          "firm_name": "Drew Capital",
-          "people": [
+              "name": "Daniel Mahfar",
+              "title": "Director"
+            },
             {
-              "name": "Akiva Drew",
-              "title": "Founder and Principal"
+              "name": "Erik Maloney",
+              "title": "Investment Sales Associate"
             }
           ]
         }
@@ -185,81 +60,26 @@
       "market_intelligence": null
     },
     {
-      "title": "Cortland Sells West Palm Rental at Discount for $208M",
-      "source": "Commercial Observer",
-      "link": "https://commercialobserver.com/2026/08/cortland-fairfield-portofino-place-apartments-west-palm-beach/",
-      "published": "Fri, 28 Aug 2026 17:30:09 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-28-004.html",
+      "title": "Former Hotel-Turned-University-Campus Trades for Repositioning",
+      "source": "Connect CRE",
+      "link": "https://www.connectcre.com/stories/former-hotel-turned-university-campus-trades-for-repositioning/",
+      "published": "Fri, 28 Aug 2026 21:53:32 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-29-002.html",
       "transaction_type": "Sale",
       "article_type": null,
-      "market": "West Palm Beach, FL",
-      "narrative": "Fairfield Residential acquired the 812-unit Portofino Place Apartments in West Palm Beach, FL, from Cortland for $208 million. The transaction, which closed through two deeds, represents a discount for the seller compared to its 2021 purchase price. The buyer assumed two Freddie Mac-backed loans totaling over $178 million as part of the financing.",
+      "market": "Lancaster, CA",
+      "narrative": "A former hotel that was converted into a university campus in Lancaster, CA, has been sold for $14.4 million. The buyer, 44049 Sierra Hwy Propco, LLC, plans to reposition the 87,598-square-foot property into a regional hub for community and social services in collaboration with Los Angeles County. The seller was University of Antelope Valley, LLC, which previously operated a private university on the site until its closure in 2024. The property's flexible layout and existing infrastructure were key factors in its suitability for a new mission-driven use.",
       "data_points": {
-        "property_type": "multifamily",
-        "property_name": "Portofino Place Apartments",
-        "address": "4400 and 4600 Portofino Way, West Palm Beach, FL",
-        "address_sourced_separately": false,
-        "size_sf": null,
-        "size_units": 812,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": 208000000.0,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": 2003,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": 40.0,
-        "multi_asset_purchase": true,
-        "notable_features": null,
-        "project_notes": "The property was previously acquired by Cortland for $229 million in 2021. The sale occurred through two deeds: one for $108 million covering 416 units built in 2003, and another for $100 million covering 396 units built in 2006."
-      },
-      "companies_people": [
-        {
-          "label": "BUYER",
-          "firm_name": "Fairfield Residential",
-          "people": []
-        },
-        {
-          "label": "SELLER",
-          "firm_name": "Cortland",
-          "people": []
-        },
-        {
-          "label": "LENDER",
-          "firm_name": "Freddie Mac",
-          "people": []
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Westbridge Realty Group Files Plans for Three 99-Unit Buildings in the Bronx",
-      "source": "Commercial Observer",
-      "link": "https://commercialobserver.com/2026/08/westbridge-realty-group-housing-99-units-bronx-rosedale-avenue/",
-      "published": "Fri, 28 Aug 2026 17:20:49 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-28-005.html",
-      "transaction_type": null,
-      "article_type": "Development",
-      "market": "New York City, NY",
-      "narrative": "Westbridge Realty Group has filed plans for three new residential buildings in the Soundview neighborhood of the Bronx, totaling 297 units. Each building is designed with 99 units, a common strategy among developers to qualify for the city's 485-x tax incentive while avoiding costly construction wage mandates associated with projects of 100 units or more. The proposed developments include significant commercial space, indicating a mixed-use approach.",
-      "data_points": {
-        "property_type": "multifamily",
+        "property_type": "office",
         "property_name": null,
-        "address": "851 Rosedale Avenue, New York City, NY",
+        "address": null,
         "address_sourced_separately": false,
-        "size_sf": null,
-        "size_units": 99,
+        "size_sf": 87598.0,
+        "size_units": null,
         "size_beds": null,
         "size_keys": null,
         "rental_rate": null,
-        "sale_price": null,
+        "sale_price": 14400000.0,
         "loan_amount": null,
         "total_project_cost": null,
         "occupancy": null,
@@ -268,169 +88,29 @@
         "phase_1": null,
         "total_project_all_phases": null,
         "original_plan": null,
-        "land_area_acres": null,
+        "land_area_acres": 6.4,
         "multi_asset_purchase": false,
-        "notable_features": "Each building will include commercial space and rooftop space.",
-        "project_notes": "The projects are designed with 99 units each, likely to benefit from the 485-x tax abatement without triggering construction wage mandates for projects with 100 or more units."
-      },
-      "companies_people": [
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Westbridge Realty Group",
-          "people": [
-            {
-              "name": "Steven Westreich",
-              "title": "President and Founder"
-            }
-          ]
-        },
-        {
-          "label": "ARCHITECT",
-          "firm_name": "Leandro Nils Dickson",
-          "people": [
-            {
-              "name": "Leandro Nils Dickson",
-              "title": null
-            }
-          ]
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Partnership Refinances 408-Unit Multifamily Property in Princeton, Texas",
-      "source": "REBusinessOnline",
-      "link": "https://rebusinessonline.com/partnership-refinances-408-unit-multifamily-property-in-princeton-texas/",
-      "published": "Fri, 28 Aug 2026 15:34:49 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-28-006.html",
-      "transaction_type": "Refinance",
-      "article_type": null,
-      "market": "Princeton, TX",
-      "narrative": "A partnership between Core Spaces and Harrison Street Asset Management has refinanced Oxenfree at Princeton, a 408-unit multifamily property located in Princeton, Texas. The community, completed in late 2025, features a mix of rentable townhomes and detached single-family homes. Newmark arranged the undisclosed loan amount through GID.",
-      "data_points": {
-        "property_type": "multifamily",
-        "property_name": "Oxenfree at Princeton",
-        "address": null,
-        "address_sourced_separately": false,
-        "size_sf": null,
-        "size_units": 408,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": null,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": 2025,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": null,
-        "multi_asset_purchase": false,
-        "notable_features": "Offers a mix of rentable townhomes and detached single-family homes with private outdoor spaces and attached garages, and includes a pool, fitness center, sports court, and coworking space.",
-        "project_notes": null
-      },
-      "companies_people": [
-        {
-          "label": "SPONSOR",
-          "firm_name": "Core Spaces",
-          "people": []
-        },
-        {
-          "label": "SPONSOR",
-          "firm_name": "Harrison Street Asset Management",
-          "people": []
-        },
-        {
-          "label": "LENDER",
-          "firm_name": "GID",
-          "people": []
-        },
-        {
-          "label": "MORTGAGE BROKER",
-          "firm_name": "Newmark",
-          "people": [
-            {
-              "name": "Jonathan Firestone",
-              "title": null
-            },
-            {
-              "name": "Blake Thompson",
-              "title": null
-            },
-            {
-              "name": "Clint Frease",
-              "title": null
-            },
-            {
-              "name": "Travis Bailey",
-              "title": null
-            },
-            {
-              "name": "Josh Francis",
-              "title": null
-            }
-          ]
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Marcus & Millichap Brokers Sale of 316-Unit Apartment Complex in Fort Worth",
-      "source": "REBusinessOnline",
-      "link": "https://rebusinessonline.com/marcus-millichap-brokers-sale-of-316-unit-apartment-complex-in-fort-worth/",
-      "published": "Fri, 28 Aug 2026 15:31:38 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-28-007.html",
-      "transaction_type": "Sale",
-      "article_type": null,
-      "market": "Fort Worth, TX",
-      "narrative": "Marcus & Millichap has brokered the sale of Trinity Heights, a 316-unit apartment complex in Fort Worth. The 25-building property, built in 1985, features one- and two-bedroom units averaging 850 square feet. Marcus & Millichap represented the seller and procured the buyer, NeuRock Capital.",
-      "data_points": {
-        "property_type": "multifamily",
-        "property_name": "Trinity Heights",
-        "address": "6501 Boca Raton Blvd, Fort Worth, TX",
-        "address_sourced_separately": true,
-        "size_sf": null,
-        "size_units": 316,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": null,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": 1985,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": 13.0,
-        "multi_asset_purchase": false,
-        "notable_features": "Amenities include multiple pools, a fitness center, playground, and onsite laundry facilities.",
-        "project_notes": null
+        "notable_features": "Originally developed as a hotel before being converted into a university campus.",
+        "project_notes": "The property was acquired vacant and will be repositioned as a regional hub for community and social services in partnership with Los Angeles County."
       },
       "companies_people": [
         {
           "label": "BUYER",
-          "firm_name": "NeuRock Capital",
+          "firm_name": "44049 Sierra Hwy Propco, LLC",
+          "people": []
+        },
+        {
+          "label": "SELLER",
+          "firm_name": "University of Antelope Valley, LLC",
           "people": []
         },
         {
           "label": "SELLER BROKER",
-          "firm_name": "Marcus & Millichap",
+          "firm_name": "DAUM Commercial Real Estate Services",
           "people": [
             {
-              "name": "Al Silva",
-              "title": null
-            },
-            {
-              "name": "Ford Braly",
-              "title": null
+              "name": "Dennis Marciniak",
+              "title": "VP"
             }
           ]
         }
@@ -440,97 +120,21 @@
       "market_intelligence": null
     },
     {
-      "title": "JLL Arranges Loan for Refinancing of Industrial Complex in San Marcos, Texas",
-      "source": "REBusinessOnline",
-      "link": "https://rebusinessonline.com/jll-arranges-loan-for-refinancing-of-industrial-complex-in-san-marcos-texas/",
-      "published": "Fri, 28 Aug 2026 15:28:10 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-28-008.html",
-      "transaction_type": "Refinance",
-      "article_type": null,
-      "market": "San Marcos, TX",
-      "narrative": "JLL has arranged a bridge loan for Denholtz Properties to refinance Clovis Crossing, a 213,125-square-foot industrial complex in San Marcos, Texas. The property, acquired by Denholtz in 2024, is strategically located between Austin and San Antonio. Argentic Investment Management provided the financing.",
-      "data_points": {
-        "property_type": "industrial",
-        "property_name": "Clovis Crossing",
-        "address": "1603 Clovis Barker Rd, San Marcos, TX",
-        "address_sourced_separately": true,
-        "size_sf": 213125.0,
-        "size_units": null,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": null,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": null,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": 13.8,
-        "multi_asset_purchase": false,
-        "notable_features": "Two-building property with 32-foot clear heights, 60 dock doors, four drive-in ramps, and 233 car parking spaces.",
-        "project_notes": "Property was previously acquired by Denholtz Properties in 2024."
-      },
-      "companies_people": [
-        {
-          "label": "MORTGAGE BROKER",
-          "firm_name": "JLL",
-          "people": [
-            {
-              "name": "Michael Klein",
-              "title": null
-            },
-            {
-              "name": "Jon Mikula",
-              "title": null
-            },
-            {
-              "name": "Michael Johnson",
-              "title": null
-            },
-            {
-              "name": "Nazario Paragano",
-              "title": null
-            },
-            {
-              "name": "John Beeler",
-              "title": null
-            }
-          ]
-        },
-        {
-          "label": "LENDER",
-          "firm_name": "Argentic Investment Management",
-          "people": []
-        },
-        {
-          "label": "SPONSOR",
-          "firm_name": "Denholtz Properties",
-          "people": []
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Kent Cos. Signs 39,894 SF Industrial Lease in Northeast Austin",
-      "source": "REBusinessOnline",
-      "link": "https://rebusinessonline.com/kent-cos-signs-39894-sf-industrial-lease-in-northeast-austin/",
-      "published": "Fri, 28 Aug 2026 15:21:51 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-28-009.html",
+      "title": "OPEN Impact Arranges 15-Year Occupancy for Brooklyn Charter School",
+      "source": "Connect CRE",
+      "link": "https://www.connectcre.com/stories/open-impact-arranges-15-year-occupancy-for-brooklyn-charter-school/",
+      "published": "Fri, 28 Aug 2026 21:51:56 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-29-003.html",
       "transaction_type": "Lease",
       "article_type": null,
-      "market": "Austin, TX",
-      "narrative": "Kent Cos., a Michigan-based provider of specialty concrete services, has signed a 39,894-square-foot industrial lease in northeast Austin. The company will relocate and expand its regional operations to Tuscany X Crossing Business Park, a 329,627-square-foot industrial development. The new location offers strategic access, being situated two miles north of I-35.",
+      "market": "Brooklyn, NY",
+      "narrative": "OPEN Impact Real Estate has arranged a 15-year lease for Launch Expeditionary Learning Charter School, securing approximately 77,000 square feet at 5902 Sixth Ave. in Brooklyn's Sunset Park. This transaction provides the charter school with a permanent, purpose-built educational campus, which is a rare find in the Brooklyn market. The school plans to relocate in July 2027 after facility modernizations.",
       "data_points": {
-        "property_type": "industrial",
-        "property_name": "Tuscany X Crossing Business Park",
-        "address": null,
+        "property_type": "school",
+        "property_name": null,
+        "address": "5902 Sixth Ave, Brooklyn, NY",
         "address_sourced_separately": false,
-        "size_sf": 39894.0,
+        "size_sf": 77000.0,
         "size_units": null,
         "size_beds": null,
         "size_keys": null,
@@ -546,671 +150,77 @@
         "original_plan": null,
         "land_area_acres": null,
         "multi_asset_purchase": false,
-        "notable_features": "Located two miles north of I-35.",
-        "project_notes": null
+        "notable_features": "Purpose-built educational campus with a regulation-size gymnasium.",
+        "project_notes": "The property was originally occupied by Our Lady of Perpetual Help Catholic Academy."
       },
       "companies_people": [
         {
           "label": "TENANT",
-          "firm_name": "Kent Cos.",
+          "firm_name": "Launch Expeditionary Learning Charter School",
           "people": []
         },
         {
           "label": "TENANT REP",
-          "firm_name": "Bradford Commercial Real Estate Services",
+          "firm_name": "OPEN Impact Real Estate",
           "people": [
             {
-              "name": "Luke Clardy",
+              "name": "Jake Cinti",
+              "title": null
+            },
+            {
+              "name": "Eshaan Gandhi",
               "title": null
             }
           ]
         },
         {
           "label": "LANDLORD",
-          "firm_name": "Brookfield Properties",
+          "firm_name": "Redemptorist Fathers of New York",
           "people": []
         },
         {
-          "label": "LEASING AGENT",
-          "firm_name": "Aquila Commercial",
+          "label": "LANDLORD BROKER",
+          "firm_name": "Cushman & Wakefield",
           "people": [
             {
-              "name": "Blake Patterson",
+              "name": "Frank Liantonio",
+              "title": null
+            },
+            {
+              "name": "Jason Kroger",
+              "title": null
+            },
+            {
+              "name": "Jonathan Squires",
+              "title": null
+            },
+            {
+              "name": "Josh Neustadter",
+              "title": null
+            },
+            {
+              "name": "Austin Weiner",
               "title": null
             }
           ]
         }
       ],
       "tenants": [
-        "Kent Cos."
+        "Launch Expeditionary Learning Charter School"
       ],
       "financing": null,
       "market_intelligence": null
     },
     {
-      "title": "Phoenix Investors\u2019 Affiliate Acquires 1.8 MSF Industrial Complex in Saginaw, Michigan",
-      "source": "REBusinessOnline",
-      "link": "https://rebusinessonline.com/phoenix-investors-affiliate-acquires-1-8-msf-industrial-complex-in-saginaw-michigan/",
-      "published": "Fri, 28 Aug 2026 15:05:00 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-28-010.html",
-      "transaction_type": "Acquisition",
-      "article_type": null,
-      "market": "Saginaw, MI",
-      "narrative": "An affiliate of Phoenix Investors has acquired a 1.8 million-square-foot industrial complex in Buena Vista Charter Township, bordering Saginaw, Michigan, from international auto supplier Nexteer Automotive. The complex comprises three buildings, with Nexteer Automotive continuing to occupy nearly 1.3 million square feet in two of the facilities. Approximately 552,000 square feet in the third building is available for lease, aligning with Phoenix Investors' strategy of revitalizing former manufacturing sites.",
-      "data_points": {
-        "property_type": "industrial",
-        "property_name": "Plants 5, 6/1 and 7",
-        "address": null,
-        "address_sourced_separately": false,
-        "size_sf": 1800000.0,
-        "size_units": null,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": null,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": null,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": null,
-        "multi_asset_purchase": true,
-        "notable_features": null,
-        "project_notes": "Nexteer Automotive will continue to occupy nearly 1.3 million square feet across Plants 6/1 and 7. Approximately 552,000 square feet in Plant 5 is currently available for lease."
-      },
-      "companies_people": [
-        {
-          "label": "BUYER",
-          "firm_name": "Phoenix Investors",
-          "people": []
-        },
-        {
-          "label": "SELLER",
-          "firm_name": "Nexteer Automotive",
-          "people": []
-        }
-      ],
-      "tenants": [
-        "Nexteer Automotive"
-      ],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Marcus & Millichap sells PNC Bank property in San Antonio",
-      "source": "REJournals",
-      "link": "https://rejournals.com/marcus-millichap-sells-pnc-bank-property-in-san-antonio/?utm_source=rss&utm_medium=rss&utm_campaign=marcus-millichap-sells-pnc-bank-property-in-san-antonio",
-      "published": "Fri, 28 Aug 2026 17:00:00 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-28-011.html",
-      "transaction_type": "Sale",
-      "article_type": null,
-      "market": "San Antonio, TX",
-      "narrative": "Marcus & Millichap has facilitated the sale of a newly constructed PNC Bank ground lease property in San Antonio. The property, an outparcel to a Sam's Club within the Stone Oak trade area, was marketed by Marcus & Millichap on behalf of a Texas-based developer and acquired by a private investor. The transaction involves a new 20-year ground lease with scheduled rent increases, capitalizing on the area's ongoing residential, multifamily, and mixed-use development.",
-      "data_points": {
-        "property_type": "retail",
-        "property_name": "PNC Bank",
-        "address": "23234 U.S. Highway 281, San Antonio, TX",
-        "address_sourced_separately": false,
-        "size_sf": 2961.0,
-        "size_units": null,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": null,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": null,
-        "completion": "2026",
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": 1.12,
-        "multi_asset_purchase": false,
-        "notable_features": "Outparcel to Sam's Club within the Stone Oak trade area, secured by a new 20-year ground lease with 10% rent increases every five years.",
-        "project_notes": null
-      },
-      "companies_people": [
-        {
-          "label": "SELLER BROKER",
-          "firm_name": "Marcus & Millichap",
-          "people": [
-            {
-              "name": "Vincent Knipp",
-              "title": "Investment Specialist"
-            },
-            {
-              "name": "Ryan Wolf",
-              "title": "Investment Specialist"
-            },
-            {
-              "name": "Jonathan Neve",
-              "title": "Investment Specialist"
-            }
-          ]
-        },
-        {
-          "label": "SELLER",
-          "firm_name": "Texas-based developer",
-          "people": []
-        },
-        {
-          "label": "BUYER",
-          "firm_name": "private investor",
-          "people": []
-        }
-      ],
-      "tenants": [
-        "PNC Bank"
-      ],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "CanTex Capital acquires 18,535-square-foot industrial building in New Braunfels",
-      "source": "REJournals",
-      "link": "https://rejournals.com/cantex-capital-acquires-18535-square-foot-industrial-building-in-new-braunfels/?utm_source=rss&utm_medium=rss&utm_campaign=cantex-capital-acquires-18535-square-foot-industrial-building-in-new-braunfels",
-      "published": "Fri, 28 Aug 2026 16:05:00 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-28-012.html",
-      "transaction_type": "Acquisition",
-      "article_type": null,
-      "market": "New Braunfels, TX",
-      "narrative": "CanTex Capital has acquired an 18,535-square-foot industrial building in New Braunfels, Texas, marking its first investment in the Austin-San Antonio corridor. The property, situated on six acres, includes industrial outdoor storage (IOS) and is fully leased to a national tenant. This acquisition aligns with CanTex Capital's strategy to expand its portfolio of IOS assets in Texas markets with high barriers to entry, capitalizing on the property's strategic location and scarcity of similar assets.",
-      "data_points": {
-        "property_type": "industrial",
-        "property_name": null,
-        "address": "7570 Interstate 35, New Braunfels, TX",
-        "address_sourced_separately": false,
-        "size_sf": 18535.0,
-        "size_units": null,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": null,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": null,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": 6.0,
-        "multi_asset_purchase": false,
-        "notable_features": "Includes industrial outdoor storage (IOS) and offers visibility and access along the primary freight and population corridor connecting Austin and San Antonio.",
-        "project_notes": null
-      },
-      "companies_people": [
-        {
-          "label": "BUYER",
-          "firm_name": "CanTex Capital",
-          "people": []
-        },
-        {
-          "label": "BUYER BROKER",
-          "firm_name": "Savills",
-          "people": [
-            {
-              "name": "Patrick Cromwell",
-              "title": null
-            }
-          ]
-        }
-      ],
-      "tenants": [
-        "SRS Distribution"
-      ],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Core Spaces delivers 6,000 new student housing beds at colleges across country",
-      "source": "REJournals",
-      "link": "https://rejournals.com/core-spaces-delivers-6000-new-student-housing-beds-at-colleges-across-country/?utm_source=rss&utm_medium=rss&utm_campaign=core-spaces-delivers-6000-new-student-housing-beds-at-colleges-across-country",
-      "published": "Fri, 28 Aug 2026 15:00:00 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-28-013.html",
-      "transaction_type": "Construction",
-      "article_type": null,
-      "market": null,
-      "narrative": "Core Spaces has delivered approximately 6,000 new student housing beds across six purpose-built student housing communities, completing all projects ahead of schedule for the 2026 academic year. These developments expand Core's national portfolio in Tier 1 university markets, emphasizing thoughtful design, innovation, and a hospitality-driven approach to student living. The successful and early delivery of these large-scale communities highlights the strength of Core's integrated platform and the disciplined execution of its development, construction, and operational teams.",
-      "data_points": {
-        "property_type": "student housing",
-        "property_name": null,
-        "address": null,
-        "address_sourced_separately": false,
-        "size_sf": null,
-        "size_units": null,
-        "size_beds": 6000,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": null,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": null,
-        "completion": "2026 academic year",
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": null,
-        "multi_asset_purchase": true,
-        "notable_features": null,
-        "project_notes": "All six projects were completed at least six weeks ahead of move-in and under budget."
-      },
-      "companies_people": [
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Core Spaces",
-          "people": [
-            {
-              "name": "Marc Lifshin",
-              "title": "co-founder and CEO"
-            }
-          ]
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Indianapolis\u2019 Premier Commercial Real Estate Services hires broker associate",
-      "source": "REJournals",
-      "link": "https://rejournals.com/indianapolis-premier-commercial-real-estate-services-hires-broker-associate/?utm_source=rss&utm_medium=rss&utm_campaign=indianapolis-premier-commercial-real-estate-services-hires-broker-associate",
-      "published": "Fri, 28 Aug 2026 14:27:00 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-28-014.html",
-      "transaction_type": "Promotion",
-      "article_type": null,
-      "market": null,
-      "narrative": "",
-      "data_points": null,
-      "companies_people": [
-        {
-          "label": "PROMOTED",
-          "firm_name": "Premier Commercial Real Estate Services",
-          "people": [
-            {
-              "name": "Lydia Alveal",
-              "title": "Broker Associate"
-            }
-          ]
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Enverra Real Estate Partners acquires four-building office portfolio in Minneaoplis",
-      "source": "REJournals",
-      "link": "https://rejournals.com/enverra-real-estate-partners-acquires-four-building-office-portfolio-in-minneaoplis/?utm_source=rss&utm_medium=rss&utm_campaign=enverra-real-estate-partners-acquires-four-building-office-portfolio-in-minneaoplis",
-      "published": "Fri, 28 Aug 2026 14:00:00 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-28-015.html",
-      "transaction_type": "Acquisition",
-      "article_type": null,
-      "market": "Minneapolis, MN",
-      "narrative": "Enverra Real Estate Partners has acquired the West End Office Park, a four-building Class A office portfolio in Minneapolis, MN. The portfolio, approximately 90% leased with a strong tenant mix, is strategically located at the intersection of I-394 and Highway 100, offering convenient access to both the urban core and affluent western suburbs. Enverra plans a $7 million capital improvement program to enhance the tenant experience with hospitality-driven amenities and a dedicated Tenant Experience Manager.",
-      "data_points": {
-        "property_type": "office",
-        "property_name": "West End Office Park",
-        "address": null,
-        "address_sourced_separately": false,
-        "size_sf": null,
-        "size_units": null,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": null,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": 90.0,
-        "year_built": null,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": null,
-        "multi_asset_purchase": true,
-        "notable_features": "Class A office portfolio located at the intersection of I-394 and Highway 100, offering access to the urban core and western suburbs.",
-        "project_notes": "Enverra plans a $7 million capital and amenity program to upgrade common areas, fitness offerings, food and beverage amenities, outdoor spaces, and tenant gathering areas, along with a new spec suite program and a dedicated Tenant Experience Manager."
-      },
-      "companies_people": [
-        {
-          "label": "BUYER",
-          "firm_name": "Enverra Real Estate Partners",
-          "people": []
-        },
-        {
-          "label": "LEASING AGENT",
-          "firm_name": "JLL",
-          "people": [
-            {
-              "name": "Brent Karkula",
-              "title": null
-            }
-          ]
-        },
-        {
-          "label": "OWNER",
-          "firm_name": "Lincoln Property Company",
-          "people": []
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "SVN Chicago Commercial Facilitates Sale of Property in Chicago\u2019s Noble Square Neighborhood",
+      "title": "Massachusetts Awards $15M in Tax Credits to Support 856 New Homes",
       "source": "Connect CRE",
-      "link": "https://www.connectcre.com/stories/svn-chicago-commercial-facilitates-sale-of-property-in-chicagos-noble-square-neighborhood/",
-      "published": "Fri, 28 Aug 2026 20:41:26 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-28-016.html",
-      "transaction_type": "Sale",
-      "article_type": null,
-      "market": "Chicago, IL",
-      "narrative": "SVN Chicago Commercial facilitated the sale of a six-unit Greystone and coach house property in Chicago's Noble Square neighborhood for $1.56 million. The value-add property generated significant buyer interest, receiving multiple offers and ultimately selling above its asking price. The strong demand for the asset highlights the competitive market for well-located multifamily opportunities in established Chicago neighborhoods.",
-      "data_points": {
-        "property_type": "multifamily",
-        "property_name": null,
-        "address": "950\u2013952 N. Noble Street, Chicago, IL",
-        "address_sourced_separately": false,
-        "size_sf": null,
-        "size_units": 6,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": 1560000.0,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": null,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": null,
-        "multi_asset_purchase": false,
-        "notable_features": "Includes a Greystone building and a coach house; located in the Noble Square neighborhood.",
-        "project_notes": "Value-add property that sold above asking price due to competitive buyer interest."
-      },
-      "companies_people": [
-        {
-          "label": "SELLER BROKER",
-          "firm_name": "SVN Chicago Commercial",
-          "people": [
-            {
-              "name": "Wayne Caplan",
-              "title": "Senior Vice President"
-            }
-          ]
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "CBRE Arranges $11M Refinancing for Minnesota Office Property",
-      "source": "Connect CRE",
-      "link": "https://www.connectcre.com/stories/cbre-arranges-11m-refinancing-for-minnesota-office-property/",
-      "published": "Fri, 28 Aug 2026 20:31:49 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-28-017.html",
-      "transaction_type": "Refinance",
-      "article_type": null,
-      "market": "Edina, MN",
-      "narrative": "CBRE Capital Markets has arranged an $11 million refinancing package for Grandview Square, a fully occupied office property in Edina, Minnesota. The five-year, fixed-rate, interest-only loan was secured on behalf of Capital Partners, the property's owner. The property's strong fundamentals, including full occupancy, a diverse tenant mix, and consistent owner reinvestment, attracted competitive interest from lenders.",
-      "data_points": {
-        "property_type": "office",
-        "property_name": "Grandview Square",
-        "address": "5201 Eden Ave, Edina, MN",
-        "address_sourced_separately": false,
-        "size_sf": 98561.0,
-        "size_units": null,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": null,
-        "loan_amount": 11000000.0,
-        "total_project_cost": null,
-        "occupancy": 100.0,
-        "year_built": 2001,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": null,
-        "multi_asset_purchase": false,
-        "notable_features": "Renovated in 2025, the property offers a variety of amenities and is located in Edina's Grandview district with convenient access to downtown Minneapolis, Minneapolis-Saint Paul International Airport, and the 50th & France retail corridor.",
-        "project_notes": null
-      },
-      "companies_people": [
-        {
-          "label": "SPONSOR",
-          "firm_name": "Capital Partners",
-          "people": []
-        },
-        {
-          "label": "MORTGAGE BROKER",
-          "firm_name": "CBRE",
-          "people": [
-            {
-              "name": "Billy Mork",
-              "title": null
-            },
-            {
-              "name": "Joel Torborg",
-              "title": null
-            },
-            {
-              "name": "Mike Vannelli",
-              "title": null
-            }
-          ]
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Vivmark\u00a0Merger Triggers $742M in Bay Area Apartment Acquisitions",
-      "source": "Connect CRE",
-      "link": "https://www.connectcre.com/stories/vivmark-merger-triggers-742m-in-bay-area-apartment-acquisitions/",
-      "published": "Fri, 28 Aug 2026 20:26:38 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-28-018.html",
-      "transaction_type": "Acquisition",
-      "article_type": null,
-      "market": "San Francisco Bay Area, CA",
-      "narrative": "Vivmark Residential affiliates have acquired seven apartment complexes across the South Bay and East Bay for a total of $741.8 million, encompassing 1,843 units. This significant portfolio acquisition was triggered by the merger of AvalonBay Communities and Equity Residential, indicating a strategic realignment of assets in the Bay Area multifamily market.",
-      "data_points": {
-        "property_type": "multifamily",
-        "property_name": null,
-        "address": null,
-        "address_sourced_separately": false,
-        "size_sf": null,
-        "size_units": 1843,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": 741800000.0,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": null,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": null,
-        "multi_asset_purchase": true,
-        "notable_features": null,
-        "project_notes": null
-      },
-      "companies_people": [
-        {
-          "label": "BUYER",
-          "firm_name": "Vivmark Residential",
-          "people": []
-        },
-        {
-          "label": "SELLER",
-          "firm_name": "AvalonBay Communities",
-          "people": []
-        },
-        {
-          "label": "SELLER",
-          "firm_name": "Equity Residential",
-          "people": []
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Proposed Energy, Digital Infrastructure Project in Pennsylvania Advances",
-      "source": "Connect CRE",
-      "link": "https://www.connectcre.com/stories/proposed-energy-digital-infrastructure-project-in-pennsylvania-advances/",
-      "published": "Fri, 28 Aug 2026 20:07:36 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-28-019.html",
-      "transaction_type": null,
-      "article_type": "Development",
-      "market": "Pennsylvania",
-      "narrative": "A proposed energy and digital infrastructure project, Salem 3, in Northeastern Pennsylvania, has advanced through the approvals process with the Salem Township Planning Commission recommending an expansion of the data center overlay district. This recommendation paves the way for over 200 landowners to pursue a potential $1.4 billion land sale involving more than 4,000 acres. The project aims to combine existing energy infrastructure with new data center and digital infrastructure investments, including privately funded power generation and infrastructure improvements.",
-      "data_points": {
-        "property_type": "data center",
-        "property_name": "Salem 3",
-        "address": null,
-        "address_sourced_separately": false,
-        "size_sf": null,
-        "size_units": null,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": null,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": null,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": 4000.0,
-        "multi_asset_purchase": false,
-        "notable_features": "Approximately 3,000 acres will be preserved as natural buffers, green space, and setbacks.",
-        "project_notes": "The project involves pairing existing energy infrastructure with new data center and digital infrastructure investment, requiring significant privately funded power generation and infrastructure improvements."
-      },
-      "companies_people": [
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "4-3 Consulting",
-          "people": []
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Advertising Agency Havas Health Expands to 250K-Plus SF in Grand Central District",
-      "source": "Connect CRE",
-      "link": "https://www.connectcre.com/stories/advertising-agency-havas-health-expands-to-250k-plus-sf-in-grand-central-district/",
-      "published": "Fri, 28 Aug 2026 19:59:59 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-28-020.html",
-      "transaction_type": "Lease",
-      "article_type": null,
-      "market": "New York City, NY",
-      "narrative": "Havas Health, an advertising agency, has significantly expanded its headquarters at 200 Madison Avenue in New York City's Grand Central district. The firm added 64,657 square feet, bringing its total footprint to 254,118 square feet across five floors. This expansion is coupled with a 15-year lease extension, securing Havas Health's presence in the building through 2041. The landlord noted that the long-term commitment reflects the appeal of the tower's amenity-rich environment.",
-      "data_points": {
-        "property_type": "office",
-        "property_name": "200 Madison Avenue",
-        "address": "200 Madison Ave, New York City, NY",
-        "address_sourced_separately": false,
-        "size_sf": 254118.0,
-        "size_units": null,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": null,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": null,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": null,
-        "multi_asset_purchase": false,
-        "notable_features": "Premier Grand Central district office tower with a hospitality-focused, amenity-rich environment.",
-        "project_notes": "Lease expansion of 64,657 square feet, combined with a 15-year extension through 2041."
-      },
-      "companies_people": [
-        {
-          "label": "LANDLORD",
-          "firm_name": "George Comfort & Sons",
-          "people": [
-            {
-              "name": "Peter S. Duncan",
-              "title": "President and CEO"
-            },
-            {
-              "name": "Alexander Bermingham",
-              "title": null
-            }
-          ]
-        },
-        {
-          "label": "LANDLORD",
-          "firm_name": "Loeb Partners Realty",
-          "people": []
-        },
-        {
-          "label": "LANDLORD",
-          "firm_name": "Jamestown",
-          "people": []
-        },
-        {
-          "label": "TENANT",
-          "firm_name": "Havas Health",
-          "people": []
-        },
-        {
-          "label": "TENANT REP",
-          "firm_name": "Newmark",
-          "people": [
-            {
-              "name": "David Falk",
-              "title": null
-            },
-            {
-              "name": "Jason Greenstein",
-              "title": null
-            }
-          ]
-        }
-      ],
-      "tenants": [
-        "Havas Health"
-      ],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Healey Awards $15M To Help Advance 5 Residential Conversion Projects",
-      "source": "Bisnow Latest News Feed",
-      "link": "https://www.bisnow.com/news/boston/multifamily/healey-awards-15m-to-help-advance-5-residential-conversion-projects",
-      "published": "Fri, 28 Aug 2026 15:45:08 -0400",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-28-021.html",
+      "link": "https://www.connectcre.com/stories/massachusetts-awards-15m-in-tax-credits-to-support-856-new-homes/",
+      "published": "Fri, 28 Aug 2026 21:21:13 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-29-004.html",
       "transaction_type": null,
       "article_type": "Infrastructure Investment / Government Policy",
       "market": "Massachusetts",
-      "narrative": "Governor Maura Healey has allocated $15.3 million in funding to support five distinct residential conversion projects across Massachusetts. These projects are anticipated to collectively deliver 856 new housing units, contributing to the state's housing supply initiatives.",
+      "narrative": "The Healey-Driscoll Administration has allocated $15.3 million in Commercial Conversion Tax Credits to five projects across Massachusetts, facilitating the transformation of vacant or underutilized commercial properties into 856 new rental homes. This initiative, part of the Affordable Homes Act signed in 2024, aims to revitalize downtowns and commercial districts by increasing housing supply and bringing new residents and economic activity to these areas. The projects include the adaptive reuse of a historic office building in Boston, a former retail building in Worcester, an obsolete hotel in Westford, historic buildings in Springfield, and commercial buildings in Dedham.",
       "data_points": {
         "property_type": "multifamily",
         "property_name": null,
@@ -1223,7 +233,7 @@
         "rental_rate": null,
         "sale_price": null,
         "loan_amount": null,
-        "total_project_cost": 15300000.0,
+        "total_project_cost": null,
         "occupancy": null,
         "year_built": null,
         "completion": null,
@@ -1231,40 +241,14 @@
         "total_project_all_phases": null,
         "original_plan": null,
         "land_area_acres": null,
-        "multi_asset_purchase": true,
-        "notable_features": null,
-        "project_notes": "Funding awarded to help advance five residential conversion projects."
+        "multi_asset_purchase": false,
+        "notable_features": "Adaptive reuse of vacant or underutilized commercial properties into rental housing.",
+        "project_notes": "Second round of awards through the Commercial Conversion Tax Credit Initiative, established by the Affordable Homes Act in 2024."
       },
-      "companies_people": [],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Buyer Of BXP's Sumner Square Revealed: The D.C. Deal Sheet",
-      "source": "Bisnow Latest News Feed",
-      "link": "https://www.bisnow.com/news/washington-dc/deal-sheet/vieron-capital-bxp-sumner-square-the-d-c-deal-sheet",
-      "published": "Fri, 28 Aug 2026 15:14:17 -0400",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-28-022.html",
-      "transaction_type": null,
-      "article_type": "Market Research / Deal Sheet",
-      "market": "Washington D.C.",
-      "narrative": "The D.C. Deal Sheet reports on several transactions, including the sale of Sumner Square by BXP, a new anchor lease in downtown D.C. by Sheppard, and Douglas Development's sale of a Georgetown building. The Sheppard lease is expected to trigger a renovation of the leased space.",
-      "data_points": null,
       "companies_people": [
         {
-          "label": "SELLER",
-          "firm_name": "BXP",
-          "people": []
-        },
-        {
-          "label": "TENANT",
-          "firm_name": "Sheppard",
-          "people": []
-        },
-        {
-          "label": "SELLER",
-          "firm_name": "Douglas Development",
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Synergy",
           "people": []
         }
       ],
@@ -1273,26 +257,86 @@
       "market_intelligence": null
     },
     {
-      "title": "Laramar Group Pays $166M For 43-Story South Loop Apartment Building",
-      "source": "Bisnow Latest News Feed",
-      "link": "https://www.bisnow.com/news/chicago/multifamily/laramar-group-acquires-43-story-south-loop-apartment-building",
-      "published": "Fri, 28 Aug 2026 14:24:32 -0400",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-28-023.html",
+      "title": "City Realty Buys Brookline Multifamily Portfolio for $23M",
+      "source": "Connect CRE",
+      "link": "https://www.connectcre.com/stories/city-realty-buys-brookline-multifamily-portfolio-for-23m/",
+      "published": "Fri, 28 Aug 2026 21:20:07 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-29-005.html",
       "transaction_type": "Acquisition",
       "article_type": null,
-      "market": "Chicago, IL",
-      "narrative": "Laramar Group has acquired a 656-unit apartment building in Chicago's South Loop for $166 million. This transaction represents the first change in ownership for the 43-story property since 1967.",
+      "market": "Brookline, MA",
+      "narrative": "City Realty has acquired a nine-building multifamily portfolio in Brookline, MA, for $23.15 million. The portfolio comprises 49 residential units and three commercial spaces, totaling 65,262 square feet with a 95% occupancy rate. The properties attracted significant investor interest due to their prime location near major medical and academic institutions, with the potential for value creation through future unit renovations.",
       "data_points": {
         "property_type": "multifamily",
+        "property_name": "Coolidge Corner Collection",
+        "address": "1343 Beacon St, Brookline, MA",
+        "address_sourced_separately": true,
+        "size_sf": null,
+        "size_units": 49,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": 23150000.0,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": 95.0,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": true,
+        "notable_features": "Located near top medical and academic institutions in a desirable neighborhood; only 12% of units fully renovated and 57% partially upgraded, offering value-add potential.",
+        "project_notes": null
+      },
+      "companies_people": [
+        {
+          "label": "BUYER",
+          "firm_name": "City Realty",
+          "people": []
+        },
+        {
+          "label": "SELLER",
+          "firm_name": "Ramon Realty",
+          "people": []
+        },
+        {
+          "label": "SELLER BROKER",
+          "firm_name": "Colliers",
+          "people": [
+            {
+              "name": "Frank Petz",
+              "title": "Managing Director of Investment Sales"
+            }
+          ]
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": "The sale attracted nationwide interest from private and institutional investors, indicating strong demand for well-located multifamily assets in Greater Boston. Investor conviction in Brookline remains high despite uncertainty surrounding a proposed rent-control ballot initiative."
+    },
+    {
+      "title": "Hackman Capital Sells El Segundo Flex Building For $27M",
+      "source": "Bisnow Latest News Feed",
+      "link": "https://www.bisnow.com/news/los-angeles/industrial/majestic-buys-el-segundo-flex-building-hackman",
+      "published": "Fri, 28 Aug 2026 18:59:46 -0400",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-29-006.html",
+      "transaction_type": "Sale",
+      "article_type": null,
+      "market": "El Segundo, CA",
+      "narrative": "Majestic Asset Management has acquired a flex building in El Segundo, CA, for $27 million from Hackman Capital Partners. The property is fully leased to a prominent electric vehicle manufacturer. This transaction marks a significant increase in value from its previous sale price of $15.3 million in 2018.",
+      "data_points": {
+        "property_type": "flex",
         "property_name": null,
         "address": null,
         "address_sourced_separately": false,
         "size_sf": null,
-        "size_units": 656,
+        "size_units": null,
         "size_beds": null,
         "size_keys": null,
         "rental_rate": null,
-        "sale_price": 166000000.0,
+        "sale_price": 27000000.0,
         "loan_amount": null,
         "total_project_cost": null,
         "occupancy": null,
@@ -1303,13 +347,70 @@
         "original_plan": null,
         "land_area_acres": null,
         "multi_asset_purchase": false,
-        "notable_features": "43-story building",
-        "project_notes": null
+        "notable_features": "Fully leased to an electric vehicle manufacturer.",
+        "project_notes": "Previously acquired for $15.3 million in 2018."
       },
       "companies_people": [
         {
           "label": "BUYER",
-          "firm_name": "Laramar Group",
+          "firm_name": "Majestic Asset Management",
+          "people": []
+        },
+        {
+          "label": "SELLER",
+          "firm_name": "Hackman Capital Partners",
+          "people": []
+        }
+      ],
+      "tenants": [
+        "Rivian"
+      ],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "LA County Hotel-Turned-University Sells For $14.4M: The Los Angeles Deal Sheet",
+      "source": "Bisnow Latest News Feed",
+      "link": "https://www.bisnow.com/news/los-angeles/deal-sheet/office-turned-university-sells-los-angeles-deal-sheet",
+      "published": "Fri, 28 Aug 2026 18:22:50 -0400",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-29-007.html",
+      "transaction_type": "Sale",
+      "article_type": null,
+      "market": "Los Angeles, CA",
+      "narrative": "The University of Antelope Valley has sold its campus property for $14.4 million. The buyer intends to redevelop the site into a regional hub, signaling a potential shift in the property's use from educational to a broader commercial or community function.",
+      "data_points": {
+        "property_type": "other",
+        "property_name": "University of Antelope Valley campus",
+        "address": null,
+        "address_sourced_separately": false,
+        "size_sf": null,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": 14400000.0,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": null,
+        "project_notes": null
+      },
+      "companies_people": [
+        {
+          "label": "SELLER",
+          "firm_name": "University of Antelope Valley",
+          "people": []
+        },
+        {
+          "label": "BUYER",
+          "firm_name": "Undisclosed Buyer",
           "people": []
         }
       ],
@@ -1318,17 +419,33 @@
       "market_intelligence": null
     },
     {
-      "title": "Wellness Spa Proposed At Former Greyhound Site: The Denver Deal Sheet",
+      "title": "Texas Governor's Data Center Power Pause Gets Split Verdict From Developers",
       "source": "Bisnow Latest News Feed",
-      "link": "https://www.bisnow.com/news/denver/deal-sheet/wellness-spa-proposed-former-greyhound-site-denver-deal-sheet",
-      "published": "Fri, 28 Aug 2026 14:17:52 -0400",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-28-024.html",
-      "transaction_type": "Development",
-      "article_type": null,
-      "market": "Denver, CO",
-      "narrative": "Circle Wellness is planning to develop a new wellness spa in Denver, Colorado. The project will be located on a 1-acre site that previously housed a Greyhound maintenance facility.",
+      "link": "https://www.bisnow.com/news/national/data-center-power/developer-reaction-texas-data-center-power-pause",
+      "published": "Fri, 28 Aug 2026 18:09:36 -0400",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-29-008.html",
+      "transaction_type": null,
+      "article_type": "Opinion / Market Commentary",
+      "market": "Texas",
+      "narrative": "Texas Governor Greg Abbott's decision to pause new data center grid connections has elicited a mixed response from industry leaders. Some developers view the pause as a necessary measure to address grid stability and ensure long-term energy reliability, potentially leading to more sustainable growth. Others express concern that the moratorium could stifle the state's competitive edge in attracting new data center investment, potentially diverting projects to other states with more predictable energy policies. The debate highlights the tension between rapid industrial growth and the need for robust infrastructure planning.",
+      "data_points": null,
+      "companies_people": [],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "MAPPED: Dozens Of Properties Hit The Market As Prosecutors Circle Shabselses' Bankrupt Empire",
+      "source": "Bisnow Latest News Feed",
+      "link": "https://www.bisnow.com/news/national/capital-markets/mapped-prosecutors-circle-shabsels-bankrupt-empire-more-properties-hit-market",
+      "published": "Fri, 28 Aug 2026 17:37:47 -0400",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-29-009.html",
+      "transaction_type": null,
+      "article_type": "Property Listing / For Sale",
+      "market": null,
+      "narrative": "Approximately 50 properties are being marketed for sale as a family real estate business faces bankruptcy and ongoing legal challenges. The portfolio sale comes amidst the collapse of the real estate empire, with prosecutors reportedly investigating the firm's activities.",
       "data_points": {
-        "property_type": "retail",
+        "property_type": null,
         "property_name": null,
         "address": null,
         "address_sourced_separately": false,
@@ -1346,37 +463,36 @@
         "phase_1": null,
         "total_project_all_phases": null,
         "original_plan": null,
-        "land_area_acres": 1.0,
-        "multi_asset_purchase": false,
+        "land_area_acres": null,
+        "multi_asset_purchase": true,
         "notable_features": null,
-        "project_notes": "The site previously housed a Greyhound maintenance facility."
+        "project_notes": "Approximately 50 properties are being sold as part of a bankruptcy proceeding."
       },
-      "companies_people": [
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Circle Wellness",
-          "people": []
-        }
-      ],
+      "companies_people": [],
       "tenants": [],
       "financing": null,
       "market_intelligence": null
     },
     {
-      "title": "Law Firms Are On A Historic Office Binge",
+      "title": "Lenders Up Foreclosures On Financially Stressed U.S. Households In 2026",
       "source": "Bisnow Latest News Feed",
-      "link": "https://www.bisnow.com/news/national/office/law-firm-record-office-leasing-cushman-wakefield",
-      "published": "Fri, 28 Aug 2026 14:08:02 -0400",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-28-025.html",
-      "transaction_type": null,
-      "article_type": "Market Research / Office Demand",
+      "link": "https://www.bisnow.com/news/national/economy/lenders-pursued-more-foreclosures-on-strained-u-s-households-in-2026",
+      "published": "Fri, 28 Aug 2026 17:07:10 -0400",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-29-010.html",
+      "transaction_type": "Foreclosure",
+      "article_type": null,
       "market": null,
-      "narrative": "Law firms are driving significant office demand across major U.S. metropolitan areas, having leased 12.2 million square feet in 2026. This surge in activity is contributing to a robust office market, particularly in key legal hubs. The trend indicates a strong commitment by law firms to physical office space, defying some broader market uncertainties.",
+      "narrative": "Foreclosure filings across the U.S. increased by 21% in 2026, reflecting growing financial stress among households. This rise indicates a significant uptick in lenders initiating foreclosure proceedings against homeowners facing economic difficulties.",
       "data_points": null,
       "companies_people": [
         {
-          "label": "OTHER",
-          "firm_name": "Cushman & Wakefield",
+          "label": "OWNER",
+          "firm_name": "U.S. Households",
+          "people": []
+        },
+        {
+          "label": "LENDER",
+          "firm_name": "Lenders",
           "people": []
         }
       ],
