@@ -1,504 +1,177 @@
 {
-  "date": "2026-08-29",
+  "date": "2026-08-30",
   "articles": [
     {
-      "title": "Ariel Reps Seller in Bronx Multifamily Portfolio",
-      "source": "Connect CRE",
-      "link": "https://www.connectcre.com/stories/ariel-reps-seller-in-bronx-multifamily-portfolio/",
-      "published": "Fri, 28 Aug 2026 22:03:23 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-29-001.html",
-      "transaction_type": "Sale",
-      "article_type": null,
-      "market": "Bronx, NY",
-      "narrative": "Ariel Property Advisors has facilitated the sale of a three-building multifamily portfolio in the Bronx for $7.5 million. The portfolio, comprising 143 rent-stabilized apartments across 140,470 square feet, attracted strong buyer interest due to its scale and long-term upside potential in well-connected neighborhoods. The transaction underscores the sustained demand for multifamily assets in the Bronx, particularly those offering proximity to transit, retail, and institutional anchors.",
-      "data_points": {
-        "property_type": "multifamily",
-        "property_name": null,
-        "address": "2460 Grand Ave. and 636-646 E. 231st St., Bronx, NY",
-        "address_sourced_separately": false,
-        "size_sf": null,
-        "size_units": 143,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": 7500000.0,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": null,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": null,
-        "multi_asset_purchase": true,
-        "notable_features": "The portfolio includes one elevator building and two walk-up buildings, offering a mix of studio to three-bedroom apartments. It is located near major transit, retail corridors, and institutional anchors.",
-        "project_notes": null
-      },
+      "title": "Sunday Summary: It\u2019s a Forever 9 to 5 World",
+      "source": "Commercial Observer",
+      "link": "https://commercialobserver.com/2026/08/sunday-summary-its-a-forever-9-to-5-world/",
+      "published": "Sun, 30 Aug 2026 13:00:35 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-30-001.html",
+      "transaction_type": null,
+      "article_type": "Market Research / Weekly Roundup",
+      "market": null,
+      "narrative": "This article provides a summary of significant commercial real estate activity across various sectors and markets, highlighting the continued resilience of office and housing markets. Notable transactions include KeyBank's 112,924-square-foot renewal and expansion at 1301 Avenue of the Americas in New York City, and Havas Health's 254,118-square-foot renewal and expansion at 200 Madison Avenue. The report also covers a substantial office portfolio acquisition in Chantilly, VA, and a significant construction loan for a multifamily project in Jersey City, NJ. Additionally, the article touches on trends in proptech funding, the booming defense and aerospace manufacturing sector in Southern California, and the potential recovery of the life sciences real estate market.",
+      "data_points": null,
       "companies_people": [
         {
-          "label": "SELLER BROKER",
-          "firm_name": "Ariel Property Advisors",
-          "people": [
-            {
-              "name": "Sam Schertz",
-              "title": "Senior Director"
-            },
-            {
-              "name": "Daniel Mahfar",
-              "title": "Director"
-            },
-            {
-              "name": "Erik Maloney",
-              "title": "Investment Sales Associate"
-            }
-          ]
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Former Hotel-Turned-University-Campus Trades for Repositioning",
-      "source": "Connect CRE",
-      "link": "https://www.connectcre.com/stories/former-hotel-turned-university-campus-trades-for-repositioning/",
-      "published": "Fri, 28 Aug 2026 21:53:32 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-29-002.html",
-      "transaction_type": "Sale",
-      "article_type": null,
-      "market": "Lancaster, CA",
-      "narrative": "A former hotel that was converted into a university campus in Lancaster, CA, has been sold for $14.4 million. The buyer, 44049 Sierra Hwy Propco, LLC, plans to reposition the 87,598-square-foot property into a regional hub for community and social services in collaboration with Los Angeles County. The seller was University of Antelope Valley, LLC, which previously operated a private university on the site until its closure in 2024. The property's flexible layout and existing infrastructure were key factors in its suitability for a new mission-driven use.",
-      "data_points": {
-        "property_type": "office",
-        "property_name": null,
-        "address": null,
-        "address_sourced_separately": false,
-        "size_sf": 87598.0,
-        "size_units": null,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": 14400000.0,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": null,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": 6.4,
-        "multi_asset_purchase": false,
-        "notable_features": "Originally developed as a hotel before being converted into a university campus.",
-        "project_notes": "The property was acquired vacant and will be repositioned as a regional hub for community and social services in partnership with Los Angeles County."
-      },
-      "companies_people": [
-        {
-          "label": "BUYER",
-          "firm_name": "44049 Sierra Hwy Propco, LLC",
+          "label": "LANDLORD",
+          "firm_name": "Elecor Properties",
           "people": []
         },
-        {
-          "label": "SELLER",
-          "firm_name": "University of Antelope Valley, LLC",
-          "people": []
-        },
-        {
-          "label": "SELLER BROKER",
-          "firm_name": "DAUM Commercial Real Estate Services",
-          "people": [
-            {
-              "name": "Dennis Marciniak",
-              "title": "VP"
-            }
-          ]
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "OPEN Impact Arranges 15-Year Occupancy for Brooklyn Charter School",
-      "source": "Connect CRE",
-      "link": "https://www.connectcre.com/stories/open-impact-arranges-15-year-occupancy-for-brooklyn-charter-school/",
-      "published": "Fri, 28 Aug 2026 21:51:56 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-29-003.html",
-      "transaction_type": "Lease",
-      "article_type": null,
-      "market": "Brooklyn, NY",
-      "narrative": "OPEN Impact Real Estate has arranged a 15-year lease for Launch Expeditionary Learning Charter School, securing approximately 77,000 square feet at 5902 Sixth Ave. in Brooklyn's Sunset Park. This transaction provides the charter school with a permanent, purpose-built educational campus, which is a rare find in the Brooklyn market. The school plans to relocate in July 2027 after facility modernizations.",
-      "data_points": {
-        "property_type": "school",
-        "property_name": null,
-        "address": "5902 Sixth Ave, Brooklyn, NY",
-        "address_sourced_separately": false,
-        "size_sf": 77000.0,
-        "size_units": null,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": null,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": null,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": null,
-        "multi_asset_purchase": false,
-        "notable_features": "Purpose-built educational campus with a regulation-size gymnasium.",
-        "project_notes": "The property was originally occupied by Our Lady of Perpetual Help Catholic Academy."
-      },
-      "companies_people": [
         {
           "label": "TENANT",
-          "firm_name": "Launch Expeditionary Learning Charter School",
+          "firm_name": "KeyBank",
           "people": []
-        },
-        {
-          "label": "TENANT REP",
-          "firm_name": "OPEN Impact Real Estate",
-          "people": [
-            {
-              "name": "Jake Cinti",
-              "title": null
-            },
-            {
-              "name": "Eshaan Gandhi",
-              "title": null
-            }
-          ]
         },
         {
           "label": "LANDLORD",
-          "firm_name": "Redemptorist Fathers of New York",
+          "firm_name": "George Comfort & Sons",
           "people": []
         },
         {
-          "label": "LANDLORD BROKER",
-          "firm_name": "Cushman & Wakefield",
-          "people": [
-            {
-              "name": "Frank Liantonio",
-              "title": null
-            },
-            {
-              "name": "Jason Kroger",
-              "title": null
-            },
-            {
-              "name": "Jonathan Squires",
-              "title": null
-            },
-            {
-              "name": "Josh Neustadter",
-              "title": null
-            },
-            {
-              "name": "Austin Weiner",
-              "title": null
-            }
-          ]
-        }
-      ],
-      "tenants": [
-        "Launch Expeditionary Learning Charter School"
-      ],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Massachusetts Awards $15M in Tax Credits to Support 856 New Homes",
-      "source": "Connect CRE",
-      "link": "https://www.connectcre.com/stories/massachusetts-awards-15m-in-tax-credits-to-support-856-new-homes/",
-      "published": "Fri, 28 Aug 2026 21:21:13 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-29-004.html",
-      "transaction_type": null,
-      "article_type": "Infrastructure Investment / Government Policy",
-      "market": "Massachusetts",
-      "narrative": "The Healey-Driscoll Administration has allocated $15.3 million in Commercial Conversion Tax Credits to five projects across Massachusetts, facilitating the transformation of vacant or underutilized commercial properties into 856 new rental homes. This initiative, part of the Affordable Homes Act signed in 2024, aims to revitalize downtowns and commercial districts by increasing housing supply and bringing new residents and economic activity to these areas. The projects include the adaptive reuse of a historic office building in Boston, a former retail building in Worcester, an obsolete hotel in Westford, historic buildings in Springfield, and commercial buildings in Dedham.",
-      "data_points": {
-        "property_type": "multifamily",
-        "property_name": null,
-        "address": null,
-        "address_sourced_separately": false,
-        "size_sf": null,
-        "size_units": 856,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": null,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": null,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": null,
-        "multi_asset_purchase": false,
-        "notable_features": "Adaptive reuse of vacant or underutilized commercial properties into rental housing.",
-        "project_notes": "Second round of awards through the Commercial Conversion Tax Credit Initiative, established by the Affordable Homes Act in 2024."
-      },
-      "companies_people": [
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Synergy",
-          "people": []
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "City Realty Buys Brookline Multifamily Portfolio for $23M",
-      "source": "Connect CRE",
-      "link": "https://www.connectcre.com/stories/city-realty-buys-brookline-multifamily-portfolio-for-23m/",
-      "published": "Fri, 28 Aug 2026 21:20:07 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-29-005.html",
-      "transaction_type": "Acquisition",
-      "article_type": null,
-      "market": "Brookline, MA",
-      "narrative": "City Realty has acquired a nine-building multifamily portfolio in Brookline, MA, for $23.15 million. The portfolio comprises 49 residential units and three commercial spaces, totaling 65,262 square feet with a 95% occupancy rate. The properties attracted significant investor interest due to their prime location near major medical and academic institutions, with the potential for value creation through future unit renovations.",
-      "data_points": {
-        "property_type": "multifamily",
-        "property_name": "Coolidge Corner Collection",
-        "address": "1343 Beacon St, Brookline, MA",
-        "address_sourced_separately": true,
-        "size_sf": null,
-        "size_units": 49,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": 23150000.0,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": 95.0,
-        "year_built": null,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": null,
-        "multi_asset_purchase": true,
-        "notable_features": "Located near top medical and academic institutions in a desirable neighborhood; only 12% of units fully renovated and 57% partially upgraded, offering value-add potential.",
-        "project_notes": null
-      },
-      "companies_people": [
-        {
-          "label": "BUYER",
-          "firm_name": "City Realty",
+          "label": "TENANT",
+          "firm_name": "Havas Health",
           "people": []
         },
         {
-          "label": "SELLER",
-          "firm_name": "Ramon Realty",
+          "label": "TENANT",
+          "firm_name": "Circle Realty Group",
           "people": []
         },
         {
-          "label": "SELLER BROKER",
-          "firm_name": "Colliers",
-          "people": [
-            {
-              "name": "Frank Petz",
-              "title": "Managing Director of Investment Sales"
-            }
-          ]
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": "The sale attracted nationwide interest from private and institutional investors, indicating strong demand for well-located multifamily assets in Greater Boston. Investor conviction in Brookline remains high despite uncertainty surrounding a proposed rent-control ballot initiative."
-    },
-    {
-      "title": "Hackman Capital Sells El Segundo Flex Building For $27M",
-      "source": "Bisnow Latest News Feed",
-      "link": "https://www.bisnow.com/news/los-angeles/industrial/majestic-buys-el-segundo-flex-building-hackman",
-      "published": "Fri, 28 Aug 2026 18:59:46 -0400",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-29-006.html",
-      "transaction_type": "Sale",
-      "article_type": null,
-      "market": "El Segundo, CA",
-      "narrative": "Majestic Asset Management has acquired a flex building in El Segundo, CA, for $27 million from Hackman Capital Partners. The property is fully leased to a prominent electric vehicle manufacturer. This transaction marks a significant increase in value from its previous sale price of $15.3 million in 2018.",
-      "data_points": {
-        "property_type": "flex",
-        "property_name": null,
-        "address": null,
-        "address_sourced_separately": false,
-        "size_sf": null,
-        "size_units": null,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": 27000000.0,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": null,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": null,
-        "multi_asset_purchase": false,
-        "notable_features": "Fully leased to an electric vehicle manufacturer.",
-        "project_notes": "Previously acquired for $15.3 million in 2018."
-      },
-      "companies_people": [
-        {
-          "label": "BUYER",
-          "firm_name": "Majestic Asset Management",
+          "label": "TENANT",
+          "firm_name": "Thinking Machines Lab",
           "people": []
         },
         {
-          "label": "SELLER",
-          "firm_name": "Hackman Capital Partners",
+          "label": "LANDLORD",
+          "firm_name": "Kalimian Properties",
           "people": []
-        }
-      ],
-      "tenants": [
-        "Rivian"
-      ],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "LA County Hotel-Turned-University Sells For $14.4M: The Los Angeles Deal Sheet",
-      "source": "Bisnow Latest News Feed",
-      "link": "https://www.bisnow.com/news/los-angeles/deal-sheet/office-turned-university-sells-los-angeles-deal-sheet",
-      "published": "Fri, 28 Aug 2026 18:22:50 -0400",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-29-007.html",
-      "transaction_type": "Sale",
-      "article_type": null,
-      "market": "Los Angeles, CA",
-      "narrative": "The University of Antelope Valley has sold its campus property for $14.4 million. The buyer intends to redevelop the site into a regional hub, signaling a potential shift in the property's use from educational to a broader commercial or community function.",
-      "data_points": {
-        "property_type": "other",
-        "property_name": "University of Antelope Valley campus",
-        "address": null,
-        "address_sourced_separately": false,
-        "size_sf": null,
-        "size_units": null,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": 14400000.0,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": null,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": null,
-        "multi_asset_purchase": false,
-        "notable_features": null,
-        "project_notes": null
-      },
-      "companies_people": [
+        },
         {
-          "label": "SELLER",
-          "firm_name": "University of Antelope Valley",
+          "label": "TENANT",
+          "firm_name": "Sheppard",
+          "people": []
+        },
+        {
+          "label": "LANDLORD",
+          "firm_name": "In-Rel Properties",
           "people": []
         },
         {
           "label": "BUYER",
-          "firm_name": "Undisclosed Buyer",
+          "firm_name": "Meridian Group",
           "people": []
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Texas Governor's Data Center Power Pause Gets Split Verdict From Developers",
-      "source": "Bisnow Latest News Feed",
-      "link": "https://www.bisnow.com/news/national/data-center-power/developer-reaction-texas-data-center-power-pause",
-      "published": "Fri, 28 Aug 2026 18:09:36 -0400",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-29-008.html",
-      "transaction_type": null,
-      "article_type": "Opinion / Market Commentary",
-      "market": "Texas",
-      "narrative": "Texas Governor Greg Abbott's decision to pause new data center grid connections has elicited a mixed response from industry leaders. Some developers view the pause as a necessary measure to address grid stability and ensure long-term energy reliability, potentially leading to more sustainable growth. Others express concern that the moratorium could stifle the state's competitive edge in attracting new data center investment, potentially diverting projects to other states with more predictable energy policies. The debate highlights the tension between rapid industrial growth and the need for robust infrastructure planning.",
-      "data_points": null,
-      "companies_people": [],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "MAPPED: Dozens Of Properties Hit The Market As Prosecutors Circle Shabselses' Bankrupt Empire",
-      "source": "Bisnow Latest News Feed",
-      "link": "https://www.bisnow.com/news/national/capital-markets/mapped-prosecutors-circle-shabsels-bankrupt-empire-more-properties-hit-market",
-      "published": "Fri, 28 Aug 2026 17:37:47 -0400",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-29-009.html",
-      "transaction_type": null,
-      "article_type": "Property Listing / For Sale",
-      "market": null,
-      "narrative": "Approximately 50 properties are being marketed for sale as a family real estate business faces bankruptcy and ongoing legal challenges. The portfolio sale comes amidst the collapse of the real estate empire, with prosecutors reportedly investigating the firm's activities.",
-      "data_points": {
-        "property_type": null,
-        "property_name": null,
-        "address": null,
-        "address_sourced_separately": false,
-        "size_sf": null,
-        "size_units": null,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": null,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": null,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": null,
-        "multi_asset_purchase": true,
-        "notable_features": null,
-        "project_notes": "Approximately 50 properties are being sold as part of a bankruptcy proceeding."
-      },
-      "companies_people": [],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Lenders Up Foreclosures On Financially Stressed U.S. Households In 2026",
-      "source": "Bisnow Latest News Feed",
-      "link": "https://www.bisnow.com/news/national/economy/lenders-pursued-more-foreclosures-on-strained-u-s-households-in-2026",
-      "published": "Fri, 28 Aug 2026 17:07:10 -0400",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-08-29-010.html",
-      "transaction_type": "Foreclosure",
-      "article_type": null,
-      "market": null,
-      "narrative": "Foreclosure filings across the U.S. increased by 21% in 2026, reflecting growing financial stress among households. This rise indicates a significant uptick in lenders initiating foreclosure proceedings against homeowners facing economic difficulties.",
-      "data_points": null,
-      "companies_people": [
+        },
         {
-          "label": "OWNER",
-          "firm_name": "U.S. Households",
+          "label": "BUYER",
+          "firm_name": "Harrison Street Asset Management",
+          "people": []
+        },
+        {
+          "label": "BUYER",
+          "firm_name": "HLM Associates",
           "people": []
         },
         {
           "label": "LENDER",
-          "firm_name": "Lenders",
+          "firm_name": "Wells Fargo",
+          "people": []
+        },
+        {
+          "label": "SPONSOR",
+          "firm_name": "Banyan Street Capital",
+          "people": []
+        },
+        {
+          "label": "SPONSOR",
+          "firm_name": "Independencia Asset Management",
+          "people": []
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Rockpoint",
+          "people": []
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Urby",
+          "people": []
+        },
+        {
+          "label": "LENDER",
+          "firm_name": "Truist",
+          "people": []
+        },
+        {
+          "label": "BUYER",
+          "firm_name": "Hawkins Way Capital",
+          "people": []
+        },
+        {
+          "label": "SELLER",
+          "firm_name": "The New School",
+          "people": []
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Kinsmen Property Group",
+          "people": []
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "TruAmerica Multifamily",
+          "people": []
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "SHAC Apartment Communities",
+          "people": []
+        },
+        {
+          "label": "LENDER",
+          "firm_name": "Fifth Third Bank",
+          "people": []
+        },
+        {
+          "label": "LENDER",
+          "firm_name": "California Bank & Trust",
+          "people": []
+        },
+        {
+          "label": "OTHER",
+          "firm_name": "Center for Real Estate Technology and Innovation (CRETI)",
+          "people": []
+        },
+        {
+          "label": "OTHER",
+          "firm_name": "Entrata",
+          "people": [
+            {
+              "name": "Chase Harrington",
+              "title": "president and chief revenue officer"
+            }
+          ]
+        },
+        {
+          "label": "OTHER",
+          "firm_name": "JLL",
+          "people": [
+            {
+              "name": "Mac Burridge",
+              "title": "managing director"
+            }
+          ]
+        },
+        {
+          "label": "OTHER",
+          "firm_name": "Cushman & Wakefield",
           "people": []
         }
       ],
       "tenants": [],
       "financing": null,
-      "market_intelligence": null
+      "market_intelligence": "Life sciences real estate saw rents down and vacancy rise last quarter, but venture capital is up 30% from last year and deal count rose 9%. The construction pipeline for life sciences is now considered manageable. The South Bay area of Southern California (Torrance, Hawthorne, Long Beach, El Segundo) is experiencing unprecedented growth in advanced manufacturing activity due to increased demand from the Defense Department."
     }
   ]
 }
