@@ -1,64 +1,186 @@
 {
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "articles": [
     {
-      "title": "Power Is No Longer an Input in Data Centers. It Is the Product.",
+      "title": "CRE CLO Distress Accelerates in August",
       "source": "Commercial Observer",
-      "link": "https://commercialobserver.com/2026/09/data-centers-digital-dirt/",
-      "published": "Mon, 07 Sep 2026 13:00:09 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-09-07-001.html",
+      "link": "https://commercialobserver.com/2026/09/cre-clo-distress-cred-iq/",
+      "published": "Tue, 08 Sep 2026 13:24:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-09-08-001.html",
       "transaction_type": null,
-      "article_type": "Opinion / Market Commentary",
+      "article_type": "Market Research / Distress Report",
       "market": null,
-      "narrative": "This article argues that power availability has become the primary determinant of value and site selection for data center development, rather than a mere input. The author contends that traditional real estate factors like land and fiber are secondary to the ability to deliver electricity when customers need it, especially for AI companies with rapid deployment timelines. This shift is forcing developers to engage more deeply with energy infrastructure, seeking out substations, transmission access, and gas connections, and re-evaluating sites based on existing electrical capacity and phased energization potential. The article concludes that 'digital dirt'\u2014land with inherited, difficult-to-replicate infrastructure\u2014is gaining new relevance, exemplified by former industrial sites like Paducah, Kentucky, which offer significant power and water infrastructure for AI data centers.",
+      "narrative": "The distress rate for commercial real estate collateralized loan obligations (CRE CLOs) surged to 28% in August from 19% in July, marking the most significant one-month increase this year across all deal types. This acceleration, along with a stable 22% distress rate for single-asset, single-borrower (SASB) commercial mortgage-backed securities, is primarily driven by 2021 and 2022 vintage loans. The distress is concentrated in a few large deals, particularly in multifamily collateral for CRE CLOs in the Sun Belt and office/lab properties for SASBs in major coastal markets, reflecting challenges with refinancing and unmet rent growth projections.",
       "data_points": null,
       "companies_people": [
         {
           "label": "OTHER",
-          "firm_name": "New York University\u2019s Schack Institute of Real Estate",
+          "firm_name": "CRED iQ",
+          "people": []
+        },
+        {
+          "label": "OTHER",
+          "firm_name": "FSRIA 2021-FL3",
+          "people": []
+        },
+        {
+          "label": "OTHER",
+          "firm_name": "ARCLO 2022-FL1",
+          "people": []
+        },
+        {
+          "label": "OTHER",
+          "firm_name": "BXHPP 2021-FILM",
+          "people": []
+        },
+        {
+          "label": "OTHER",
+          "firm_name": "ALEN 2021-ACEN",
+          "people": []
+        },
+        {
+          "label": "OTHER",
+          "firm_name": "LIFE 2021-BMR",
+          "people": []
+        },
+        {
+          "label": "OTHER",
+          "firm_name": "BSREP 2021-DC",
+          "people": []
+        },
+        {
+          "label": "OTHER",
+          "firm_name": "CRED iQ",
           "people": [
             {
-              "name": "Suhail Y Tayeb",
-              "title": "Clinical Assistant Professor and Director of the Center for the Sustainable Built Environment"
+              "name": "Liam Mulcahy",
+              "title": "senior product manager for CRE data and applied AI"
             }
           ]
         }
       ],
       "tenants": [],
       "financing": null,
-      "market_intelligence": null
+      "market_intelligence": "Distress rates for conduit, Freddie Mac, and single-family rental loans have remained under 5% for eight months, indicating that the current double-digit distress is specific to CRE CLO and SASB categories, particularly for 2021 and 2022 vintage collateral. Office and mixed-use loans maturing in the next nine months face a refinancing gap of 170 to 180 basis points above their in-place notes, which is the widest gap among all property types."
     },
     {
-      "title": "Anthony Cohen of Northmarq: 5 Questions",
+      "title": "Office-Leasing Bidding Wars in Manhattan Are Now a Thing",
       "source": "Commercial Observer",
-      "link": "https://commercialobserver.com/2026/09/anthony-cohen-northmarq-5-questions/",
-      "published": "Mon, 07 Sep 2026 11:00:31 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-09-07-002.html",
+      "link": "https://commercialobserver.com/2026/09/office-leasing-bidding-wars-new-york/",
+      "published": "Tue, 08 Sep 2026 13:00:36 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-09-08-002.html",
       "transaction_type": null,
-      "article_type": "Feature / Profile",
-      "market": null,
-      "narrative": "This article features an interview with Anthony Cohen, a managing director at Northmarq and co-leader of the firm's national net-lease and sale-leaseback group. Cohen discusses his career trajectory, starting from J.P. Morgan and moving into distressed debt brokerage before specializing in sale-leaseback transactions. He highlights the current market trend of high demand for accelerated depreciated assets like gas stations, car washes, and oil change sites, which offer significant tax benefits to buyers. Cohen also details a recent sale-leaseback transaction for a food manufacturer in Pennsylvania, where the strategic use of real estate generated substantial capital for facility upgrades.",
+      "article_type": "Opinion / Market Commentary",
+      "market": "New York City, NY",
+      "narrative": "Manhattan's office market is experiencing a surge in demand for high-quality, built-out office spaces, particularly in desirable submarkets, leading to bidding wars among prospective tenants. This intense competition is fueled by a combination of the return-to-office trend, residential conversions reducing supply, and a significant boom in AI-driven tech companies that require immediate, move-in ready spaces due to rapid growth. The scarcity of such spaces has led to accelerated transaction timelines and increased asking rents, with some properties receiving offers significantly above initial asking prices, a dynamic not seen in decades.",
       "data_points": null,
       "companies_people": [
         {
           "label": "OWNER",
-          "firm_name": "Northmarq",
+          "firm_name": "Rosen family",
+          "people": []
+        },
+        {
+          "label": "LEASING AGENT",
+          "firm_name": "Koeppel Rosen",
           "people": [
             {
-              "name": "Anthony Cohen",
-              "title": "Managing Director and Co-Leader of National Net-Lease and Sale-Leaseback Group"
+              "name": "Max Koeppel",
+              "title": "Director of Leasing"
             }
           ]
         },
         {
-          "label": "SELLER",
-          "firm_name": "Food Manufacturer",
+          "label": "OWNER",
+          "firm_name": "Marx Realty",
+          "people": [
+            {
+              "name": "Craig Deitelzweig",
+              "title": "President and CEO"
+            }
+          ]
+        },
+        {
+          "label": "TENANT REP",
+          "firm_name": "JLL",
+          "people": [
+            {
+              "name": "Benjamin Bass",
+              "title": "Vice Chairman"
+            }
+          ]
+        },
+        {
+          "label": "TENANT REP",
+          "firm_name": "Newmark",
+          "people": [
+            {
+              "name": "David Falk",
+              "title": "New York Tri-State Region President"
+            }
+          ]
+        },
+        {
+          "label": "TENANT",
+          "firm_name": "Ford Models",
+          "people": []
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": "Manhattan's total available office supply fell to 65.4 million square feet in August, the lowest since September 2020. Sublet supply is at 2019 lows. Midtown's availability is at its lowest since March 2020, with an average asking rent of $84.68 per square foot. Downtown asking rents have climbed for nine straight months. If current demand continues, Manhattan's annual leasing volume could be the highest since 2000."
+    },
+    {
+      "title": "For Manhattan Class B Office, the Days of Optional Amenities Are Past",
+      "source": "Commercial Observer",
+      "link": "https://commercialobserver.com/2026/09/manhattan-class-b-office-amenities-cost-expansion-2026/",
+      "published": "Tue, 08 Sep 2026 13:00:16 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-09-08-003.html",
+      "transaction_type": null,
+      "article_type": "Opinion / Market Commentary",
+      "market": "New York City, NY",
+      "narrative": "The Manhattan office market is experiencing a notable shift, with demand for Class B and C office space rising as Class A desirability slightly wanes. This trend is driven by less Class A availability, increasing Class A rents, and a competitive environment within the Class B sector that necessitates enhanced amenities. Data indicates that new leasing for Class B and C office space in the first half of 2026 surpassed pre-pandemic averages, with these classes now accounting for approximately 40% of new leasing activity. This suggests that the city's office recovery is broadening beyond just trophy buildings, with price-sensitive and mid-market demand returning, provided that Class B properties offer amenities previously common only in Class A spaces.",
+      "data_points": null,
+      "companies_people": [
+        {
+          "label": "OWNER",
+          "firm_name": "Empire State Realty Trust (ESRT)",
+          "people": [
+            {
+              "name": "Ryan Kass",
+              "title": "Executive Vice President, Co-Head of Real Estate and Chief Revenue Office"
+            }
+          ]
+        },
+        {
+          "label": "TENANT",
+          "firm_name": "Jencap Group",
           "people": []
         },
         {
-          "label": "BUYER",
-          "firm_name": "Undisclosed Investor",
+          "label": "TENANT",
+          "firm_name": "Steve Madden",
           "people": []
+        },
+        {
+          "label": "OTHER",
+          "firm_name": "CoStar",
+          "people": []
+        },
+        {
+          "label": "OTHER",
+          "firm_name": "Cushman & Wakefield",
+          "people": []
+        },
+        {
+          "label": "OTHER",
+          "firm_name": "William",
+          "people": [
+            {
+              "name": "Michael T. Cohen",
+              "title": "Principal"
+            }
+          ]
         }
       ],
       "tenants": [],
@@ -66,167 +188,286 @@
       "market_intelligence": null
     },
     {
-      "title": "Sunday Summary: Sharp Left",
+      "title": "Office\u2019s Real Story Is the Spread Between Prime Space and Everything Else",
       "source": "Commercial Observer",
-      "link": "https://commercialobserver.com/2026/09/sunday-summary-sharp-left/",
-      "published": "Sun, 06 Sep 2026 13:00:56 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-09-07-003.html",
+      "link": "https://commercialobserver.com/2026/09/offices-real-story-is-the-spread-between-prime-space-and-everything-else/",
+      "published": "Tue, 08 Sep 2026 13:00:16 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-09-08-004.html",
       "transaction_type": null,
-      "article_type": "Market Research / Weekly Roundup",
+      "article_type": "Opinion / Market Commentary",
       "market": null,
-      "narrative": "This article provides a summary of various commercial real estate news items, focusing on potential legislative impacts in New York, emerging financing options for affordable housing, and significant transactions across different asset classes. The upcoming New York State elections are highlighted as a potential catalyst for changes in retail rent control, rent-stabilized apartment regulations, and data center development moratoriums, though they may also foster affordable housing initiatives. The piece also covers the growing use of tax-exempt CMBS debt for affordable housing and the implications of the new 21st Century ROAD to Housing Act. Additionally, it details several major leases in New York City's retail and office sectors, a large student housing portfolio acquisition, and significant development and financing activities in South Florida and Washington, D.C.",
+      "narrative": "The office market is experiencing a recovery, with positive net absorption, increased leasing activity, and rising asking rents. However, this recovery is not uniform, as a significant spread exists between prime and commodity office spaces. The author argues that while the \"flight to quality\" consensus correctly identifies the importance of physical attributes, it overlooks the operational capabilities of a building. The true opportunity for investors lies in understanding how a building is configured, programmed, and managed, as this operational quality drives tenant experience and retention, creating value that is not yet priced into the market.",
       "data_points": null,
       "companies_people": [
         {
-          "label": "TENANT",
-          "firm_name": "Century Cricket Centre",
+          "label": "OTHER",
+          "firm_name": "CBRE",
           "people": []
         },
         {
-          "label": "LANDLORD",
+          "label": "OTHER",
+          "firm_name": "Leesman",
+          "people": []
+        },
+        {
+          "label": "OTHER",
+          "firm_name": "HqO",
+          "people": [
+            {
+              "name": "Chase Garbarino",
+              "title": "co-founder and CEO"
+            }
+          ]
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "A Wave of New York Office Tower Listings Tests the Market\u2019s Recovery",
+      "source": "Commercial Observer",
+      "link": "https://commercialobserver.com/2026/09/new-york-office-tower-listings-2026/",
+      "published": "Tue, 08 Sep 2026 12:00:59 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-09-08-005.html",
+      "transaction_type": "Sale",
+      "article_type": null,
+      "market": "New York City, NY",
+      "narrative": "New York City's office investment sales market is experiencing a significant resurgence, driven by strong leasing fundamentals and increasing investor confidence. Several Midtown office towers have recently hit the market, with some already finding buyers, indicating a robust appetite for well-leased, high-quality assets in prime submarkets. This uptick in activity, which saw office investments grow 30% to exceed $11 billion in 2025, is expected to continue as institutional players re-engage and debt markets become more accommodative. Brokers note that current leasing strength is unusually leading capital markets, signaling a shift where investors are acting on proven market performance rather than future speculation.",
+      "data_points": {
+        "property_type": "office",
+        "property_name": "1359 Broadway",
+        "address": "1359 Broadway, New York City, NY",
+        "address_sourced_separately": false,
+        "size_sf": null,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": 218000000.0,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": "22-story office tower.",
+        "project_notes": null
+      },
+      "companies_people": [
+        {
+          "label": "BUYER",
           "firm_name": "Thor Equities",
           "people": []
         },
         {
-          "label": "TENANT",
-          "firm_name": "Atelier",
+          "label": "SELLER",
+          "firm_name": "Empire State Realty Trust (ESRT)",
           "people": []
         },
         {
-          "label": "LANDLORD",
-          "firm_name": "Straus Group",
+          "label": "BUYER",
+          "firm_name": "60 Guilders",
           "people": []
         },
         {
-          "label": "TENANT",
-          "firm_name": "Reforming Pilates",
+          "label": "BUYER",
+          "firm_name": "Sentry Realty",
           "people": []
         },
         {
-          "label": "TENANT",
-          "firm_name": "Crab House",
+          "label": "SELLER",
+          "firm_name": "L.H. Charney Estate",
           "people": []
         },
         {
-          "label": "TENANT",
-          "firm_name": "Human Resources Administration",
-          "people": []
-        },
-        {
-          "label": "LANDLORD",
-          "firm_name": "Vornado Realty Trust",
-          "people": []
-        },
-        {
-          "label": "LANDLORD",
-          "firm_name": "Related Companies",
-          "people": []
-        },
-        {
-          "label": "TENANT",
-          "firm_name": "General Atlantic",
-          "people": []
-        },
-        {
-          "label": "TENANT",
-          "firm_name": "Vestal Point Capital",
-          "people": []
-        },
-        {
-          "label": "LANDLORD",
-          "firm_name": "Rockrose Development",
-          "people": []
-        },
-        {
-          "label": "TENANT",
-          "firm_name": "Stash",
-          "people": []
-        },
-        {
-          "label": "LANDLORD",
-          "firm_name": "Spear Street Capital",
-          "people": []
-        },
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Industrious",
-          "people": []
-        },
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Related Ross",
+          "label": "SELLER BROKER",
+          "firm_name": "Eastdil Secured Savills",
           "people": [
             {
-              "name": "Stephen Ross",
+              "name": "Gary Phillips",
+              "title": "Managing Director"
+            }
+          ]
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "BXP",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Property & Building Corporation",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Tishman Speyer",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "China Life Insurance Group",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "RXR",
+          "people": []
+        },
+        {
+          "label": "BUYER",
+          "firm_name": "Savanna",
+          "people": []
+        },
+        {
+          "label": "SELLER",
+          "firm_name": "Columbia Property Trust",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "SL Green Realty",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Extell",
+          "people": [
+            {
+              "name": "Gary Barnett",
               "title": null
             }
           ]
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Cooper Union",
+          "people": []
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": "New York City office investment sales are on the rise, with activity in 2025 exceeding $11 billion, a 30% increase. Manhattan office sales in Q2 2026 totaled $2.3 billion, a 42% increase over Q2 2025 and on par with the five-year quarterly average. The CMBS special servicing rate exceeded 11% as of July 2026, indicating significant commercial distress, the second-highest since the Global Financial Crisis."
+    },
+    {
+      "title": "MBK Rental Living, Haseko Sell 315-Unit Zia Multifamily Community in Anaheim",
+      "source": "REBusinessOnline",
+      "link": "https://rebusinessonline.com/mbk-rental-living-haseko-sell-315-unit-zia-multifamily-community-in-anaheim/",
+      "published": "Tue, 08 Sep 2026 13:25:58 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-09-08-006.html",
+      "transaction_type": "Sale",
+      "article_type": null,
+      "market": "Anaheim, CA",
+      "narrative": "MBK Rental Living and Haseko Corp. have sold Zia, a 315-unit multifamily community in Anaheim, to an undisclosed institutional investor. The property, which opened in September 2024, features a variety of unit types and extensive amenities.",
+      "data_points": {
+        "property_type": "multifamily",
+        "property_name": "Zia",
+        "address": "1600 W Lincoln Ave, Anaheim, CA",
+        "address_sourced_separately": true,
+        "size_sf": null,
+        "size_units": 315,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": "September 2024",
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": "Five-story community with studios, one-, two- and three-bedroom residences, a 24-hour fitness center, pool with grill and bar areas, a dog park and spa, coworking spaces, courtyards, and a game lounge with a race car simulator.",
+        "project_notes": null
+      },
+      "companies_people": [
+        {
+          "label": "SELLER",
+          "firm_name": "MBK Rental Living",
+          "people": []
+        },
+        {
+          "label": "SELLER",
+          "firm_name": "Haseko Corp.",
+          "people": []
+        },
+        {
+          "label": "BUYER",
+          "firm_name": "unnamed institutional investor",
+          "people": []
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Waterfall Asset Management, Delaware Life Provide $64.7M Refinancing for Office Property in Torrance, California",
+      "source": "REBusinessOnline",
+      "link": "https://rebusinessonline.com/waterfall-asset-management-delaware-life-provide-64-7m-refinancing-for-office-property-in-torrance-california/",
+      "published": "Tue, 08 Sep 2026 13:23:44 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-09-08-007.html",
+      "transaction_type": "Refinance",
+      "article_type": null,
+      "market": "Torrance, CA",
+      "narrative": "Waterfall Asset Management and Delaware Life have provided a $64.7 million refinancing loan for The Torrance, a Class A office property in Torrance, California. The financing will support the building's current leasing strategy. The property has undergone significant modernization efforts, including recent upgrades to its elevator, HVAC systems, common areas, roof, amenities, and exterior.",
+      "data_points": {
+        "property_type": "office",
+        "property_name": "The Torrance",
+        "address": "21250 Hawthorne Blvd, Torrance, CA",
+        "address_sourced_separately": true,
+        "size_sf": 301000.0,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": 64700000.0,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": 1988,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": 7.3,
+        "multi_asset_purchase": false,
+        "notable_features": "Features a two-story, glass-entry lobby, ground-floor caf\u00e9, fitness center, and over 1,200 parking spaces. Recent upgrades to elevator, HVAC, common areas, roof, amenities, and exterior.",
+        "project_notes": null
+      },
+      "companies_people": [
+        {
+          "label": "LENDER",
+          "firm_name": "Waterfall Asset Management",
+          "people": []
         },
         {
           "label": "LENDER",
-          "firm_name": "Tyko Capital",
+          "firm_name": "Delaware Life",
+          "people": []
+        },
+        {
+          "label": "MORTGAGE BROKER",
+          "firm_name": "Newmark",
           "people": [
             {
-              "name": "Adi Chugh",
-              "title": null
-            }
-          ]
-        },
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Integra Investments",
-          "people": []
-        },
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Two Roads Development",
-          "people": []
-        },
-        {
-          "label": "EQUITY/FINANCING",
-          "firm_name": "MetLife Investment Management",
-          "people": []
-        },
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Scion Group",
-          "people": []
-        },
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Ares Management",
-          "people": []
-        },
-        {
-          "label": "OWNER",
-          "firm_name": "3650 Capital",
-          "people": [
-            {
-              "name": "Toby Cobb",
-              "title": "managing partner and co-founder"
-            }
-          ]
-        },
-        {
-          "label": "OWNER",
-          "firm_name": "Trepp",
-          "people": [
-            {
-              "name": "Stephen Buschbom",
+              "name": "Jordan Roeschlaub",
               "title": null
             },
             {
-              "name": "Andy Boettcher",
+              "name": "Nick Scribani",
               "title": null
-            }
-          ]
-        },
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Reuben Brothers",
-          "people": [
+            },
             {
-              "name": "Jordana Yechiel",
+              "name": "Chris Lozinak",
               "title": null
             }
           ]
@@ -237,33 +478,17 @@
       "market_intelligence": null
     },
     {
-      "title": "'We Aren't Competitive': Power, Taxes Keep Colorado On The Data Center Sidelines",
-      "source": "Bisnow Latest News Feed",
-      "link": "https://www.bisnow.com/news/national/data-center-development/-we-aren-t-competitive-power-taxes-keep-colorado-on-the-data-center-sidelines",
-      "published": "Sun, 06 Sep 2026 15:38:01 -0400",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-09-07-004.html",
-      "transaction_type": null,
-      "article_type": "Opinion / Market Commentary",
-      "market": "Colorado",
-      "narrative": "Colorado is largely missing out on the artificial intelligence data center boom, a situation attributed by industry leaders to the state's tax structure and power supply challenges. Despite being home to several major data center companies, Colorado's high energy costs and unfavorable tax policies make it less competitive compared to other states that offer more incentives and cheaper power for these energy-intensive facilities. This has led to a significant portion of new data center development bypassing the state, impacting its potential for economic growth in the tech sector.",
-      "data_points": null,
-      "companies_people": [],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "\u00a31B Property Group To Buy Huge Chunk Of Collapsed NCP Car Park Empire",
-      "source": "Bisnow Latest News Feed",
-      "link": "https://www.bisnow.com/news/london/commercial-real-estate/pound1b-property-group-to-buy-huge-chunk-of-collapsed-ncp-car-park-empire",
-      "published": "Sun, 06 Sep 2026 15:14:42 -0400",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-09-07-005.html",
+      "title": "Evergreen Development Acquires 11.7 Acres in Mesa, Arizona, Plans Mixed-Use Project",
+      "source": "REBusinessOnline",
+      "link": "https://rebusinessonline.com/evergreen-development-acquires-11-7-acres-in-mesa-arizona-plans-mixed-use-project/",
+      "published": "Tue, 08 Sep 2026 13:07:23 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-09-08-008.html",
       "transaction_type": "Acquisition",
       "article_type": null,
-      "market": null,
-      "narrative": "Martin Property Group is set to acquire 100 car park leases from NCP, a move that comes as driving habits are reportedly declining. This significant acquisition by the \u00a31 billion property group reflects a strategic play in the evolving real estate landscape, potentially signaling a shift in asset class investment priorities.",
+      "market": "Mesa, AZ",
+      "narrative": "Evergreen Development has acquired an 11.7-acre parcel in Mesa, Arizona, from Brookfield, with plans to develop a mixed-use project. The development will feature 261 multifamily units across nine buildings and a retail center totaling approximately 10,860 square feet, including a multi-tenant building and a freestanding drive-thru restaurant. Construction is slated to begin in early 2027, with lease-up anticipated in mid-2028.",
       "data_points": {
-        "property_type": "parking",
+        "property_type": "mixed-use",
         "property_name": null,
         "address": null,
         "address_sourced_separately": false,
@@ -281,20 +506,510 @@
         "phase_1": null,
         "total_project_all_phases": null,
         "original_plan": null,
-        "land_area_acres": null,
-        "multi_asset_purchase": true,
-        "notable_features": null,
-        "project_notes": "Acquisition of 100 car park leases from NCP."
+        "land_area_acres": 11.7,
+        "multi_asset_purchase": false,
+        "notable_features": "Mixed-use project featuring multifamily and retail components, including a drive-thru restaurant.",
+        "project_notes": "Groundbreaking planned for Q1 2027, with lease-up beginning Q2 2028. Retail portion includes an 8,500 SF multi-tenant building and a 2,360 SF freestanding Chipotle with a drive-thru. Multifamily portion will have 261 apartments across nine three-story buildings."
       },
       "companies_people": [
         {
           "label": "BUYER",
-          "firm_name": "Martin Property Group",
+          "firm_name": "Evergreen Development",
           "people": []
         },
         {
           "label": "SELLER",
-          "firm_name": "NCP",
+          "firm_name": "Brookfield",
+          "people": []
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Marcus & Millichap Arranges Sale of 516-Unit Self-Storage Facility in Windsor, Colorado",
+      "source": "REBusinessOnline",
+      "link": "https://rebusinessonline.com/marcus-millichap-arranges-sale-of-516-unit-self-storage-facility-in-windsor-colorado/",
+      "published": "Tue, 08 Sep 2026 13:05:50 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-09-08-009.html",
+      "transaction_type": "Sale",
+      "article_type": null,
+      "market": "Windsor, CO",
+      "narrative": "Marcus & Millichap has brokered the sale of Falcon Point Self Storage, a 516-unit self-storage facility in Windsor, Colorado. The property, originally built in 2019 and expanded in 2024, features 72,068 net rentable square feet across 14 single-story buildings on 6.8 acres. The transaction terms were not disclosed.",
+      "data_points": {
+        "property_type": "self-storage",
+        "property_name": "Falcon Point Self Storage",
+        "address": "600 Gyrfalcon Ct, Windsor, CO",
+        "address_sourced_separately": true,
+        "size_sf": 72068.0,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": 2019,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": 6.8,
+        "multi_asset_purchase": false,
+        "notable_features": "The facility includes climate-controlled units, traditional drive-up access, dedicated vehicle storage, 100 surface parking spaces, LED lighting, gated entry with digital keypad access, 24/7 video surveillance, and an onsite management office.",
+        "project_notes": "The facility was expanded in 2024 with an additional 51,530 square feet."
+      },
+      "companies_people": [
+        {
+          "label": "SELLER BROKER",
+          "firm_name": "Marcus & Millichap",
+          "people": [
+            {
+              "name": "Adam Schlosser",
+              "title": null
+            },
+            {
+              "name": "Dave Knobler",
+              "title": null
+            },
+            {
+              "name": "Charles \"Chico\" LeClaire",
+              "title": null
+            }
+          ]
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Colliers Arranges Sale of 1.5 MSF Industrial Portfolio in Indianapolis",
+      "source": "REBusinessOnline",
+      "link": "https://rebusinessonline.com/colliers-arranges-sale-of-1-5-msf-industrial-portfolio-in-indianapolis/",
+      "published": "Tue, 08 Sep 2026 12:57:54 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-09-08-010.html",
+      "transaction_type": "Sale",
+      "article_type": null,
+      "market": "Indianapolis, IN",
+      "narrative": "Colliers has facilitated the sale of the Indianapolis West Infill Industrial Portfolio, a 1.5 million-square-foot collection of 29 light industrial buildings in Indianapolis. MLG Capital acquired the portfolio, which is 94 percent leased to a diverse tenant mix, on behalf of its MLG Legacy Fund and 1031 exchange investors. The properties are situated within the Park 100 and Park Fletcher industrial parks, spanning the city's Northwest and Southwest submarkets.",
+      "data_points": {
+        "property_type": "industrial",
+        "property_name": "Indianapolis West Infill Industrial Portfolio",
+        "address": null,
+        "address_sourced_separately": false,
+        "size_sf": 1500000.0,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": 94.0,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": true,
+        "notable_features": "The portfolio consists of 29 buildings ranging from 16,000 to 157,000 square feet, featuring an average clear height of 15 feet with 194 dock doors and 155 drive-in doors.",
+        "project_notes": null
+      },
+      "companies_people": [
+        {
+          "label": "BUYER",
+          "firm_name": "MLG Capital",
+          "people": []
+        },
+        {
+          "label": "SELLER BROKER",
+          "firm_name": "Colliers",
+          "people": [
+            {
+              "name": "Alex Cantu",
+              "title": null
+            },
+            {
+              "name": "Alex Davenport",
+              "title": null
+            },
+            {
+              "name": "Jeff Devine",
+              "title": null
+            },
+            {
+              "name": "Steve Disse",
+              "title": null
+            },
+            {
+              "name": "Tyler Ziebel",
+              "title": null
+            },
+            {
+              "name": "Tyler Wilson",
+              "title": null
+            },
+            {
+              "name": "Jason Speckman",
+              "title": null
+            },
+            {
+              "name": "Sydney Gabriel",
+              "title": null
+            }
+          ]
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "JLL Capital Markets provides $76 million in financing for 291-unit multifamily development in West St. Paul",
+      "source": "REJournals",
+      "link": "https://rejournals.com/jll-capital-markets-provides-76-million-in-financing-for-291-unit-multifamily-development-in-west-st-paul/?utm_source=rss&utm_medium=rss&utm_campaign=jll-capital-markets-provides-76-million-in-financing-for-291-unit-multifamily-development-in-west-st-paul",
+      "published": "Tue, 08 Sep 2026 13:00:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-09-08-011.html",
+      "transaction_type": "Loan",
+      "article_type": null,
+      "market": "West St. Paul, MN",
+      "narrative": "JLL Capital Markets has secured $76.25 million in financing for the development of Thompson Oaks, a 291-unit multifamily project in West St. Paul, Minnesota. The financing package includes a $63 million floating-rate loan from First International Bank & Trust and an additional $13.25 million from WhiteStar Advisors. This development, a public/private partnership with the City of West St. Paul, will feature a mix of apartment units and townhomes, along with commercial retail space and significant park improvements, marking the initial phase of a master redevelopment for the former YMCA site.",
+      "data_points": {
+        "property_type": "multifamily",
+        "property_name": "Thompson Oaks",
+        "address": "150 Thompson Ave., West St. Paul, MN",
+        "address_sourced_separately": false,
+        "size_sf": null,
+        "size_units": 291,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": 76250000.0,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": null,
+        "phase_1": "initial phase of a master redevelopment",
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": "Five-story development with 19 townhome-style units, 342 garage parking stalls, and 7,100 square feet of commercial retail space. Amenities include an outdoor pool, golf simulator, wellness center, and work-from-home spaces.",
+        "project_notes": "Public/private partnership with the City of West St. Paul, which is providing Tax Increment Financing. The project includes significant park improvements and connections to the regional trail system."
+      },
+      "companies_people": [
+        {
+          "label": "LENDER",
+          "firm_name": "First International Bank & Trust",
+          "people": []
+        },
+        {
+          "label": "EQUITY/FINANCING",
+          "firm_name": "WhiteStar Advisors",
+          "people": []
+        },
+        {
+          "label": "SPONSOR",
+          "firm_name": "Greco and Swervo Management",
+          "people": []
+        },
+        {
+          "label": "MORTGAGE BROKER",
+          "firm_name": "JLL Capital Markets",
+          "people": [
+            {
+              "name": "Josh Talberg",
+              "title": null
+            },
+            {
+              "name": "Scott Loving",
+              "title": null
+            },
+            {
+              "name": "Will Hintz",
+              "title": null
+            },
+            {
+              "name": "Jack Graveline",
+              "title": null
+            }
+          ]
+        },
+        {
+          "label": "GENERAL CONTRACTOR",
+          "firm_name": "Frana Companies",
+          "people": []
+        },
+        {
+          "label": "ARCHITECT",
+          "firm_name": "BKV Group",
+          "people": []
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Helping to meet the need: Sherman Associates project to bring mixed-income development to Rochester\u2019s Destination Medical Center",
+      "source": "REJournals",
+      "link": "https://rejournals.com/helping-to-meet-the-need-sherman-associates-project-to-bring-mixed-income-development-to-rochesters-destination-medical-center/?utm_source=rss&utm_medium=rss&utm_campaign=helping-to-meet-the-need-sherman-associates-project-to-bring-mixed-income-development-to-rochesters-destination-medical-center",
+      "published": "Tue, 08 Sep 2026 13:00:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-09-08-012.html",
+      "transaction_type": "Development",
+      "article_type": null,
+      "market": "Rochester, MN",
+      "narrative": "Sherman Associates has closed on financing for a $136.5 million mixed-income multifamily development in downtown Rochester, MN. The project, located on the former Rochester Civic Center North Lot, will feature 349 new homes across two buildings: a 273-unit market-rate tower and a 76-unit affordable senior housing building. This development aims to address Rochester's significant housing shortage, particularly for the growing workforce associated with the Mayo Clinic's expansion and the Destination Medical Center initiative. The project is a public-private partnership with the City of Rochester and Destination Medical Center, and it will also include a publicly accessible walking path along the Zumbro River.",
+      "data_points": {
+        "property_type": "multifamily",
+        "property_name": null,
+        "address": "217 E. Center St, Rochester, MN",
+        "address_sourced_separately": false,
+        "size_sf": null,
+        "size_units": 349,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": 136500000.0,
+        "occupancy": null,
+        "year_built": null,
+        "completion": "spring 2028",
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": "Located along the Zumbro River and next to the Mayo Clinic campus, with a publicly accessible walking path along the river and proximity to downtown amenities and the Civic Center Link Bus Rapid Transit station.",
+        "project_notes": "The development includes 221 traditional market-rate apartments and 52 fully furnished short-term residences, alongside 76 affordable senior apartments. It is a public-private partnership with the City of Rochester and Destination Medical Center."
+      },
+      "companies_people": [
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Sherman Associates",
+          "people": [
+            {
+              "name": "Carole Mette",
+              "title": "Senior Developer"
+            }
+          ]
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "City of Rochester",
+          "people": [
+            {
+              "name": "Kim Norton",
+              "title": "Mayor"
+            }
+          ]
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Destination Medical Center",
+          "people": []
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": "Rochester's housing market is struggling to keep pace with demand, with multifamily vacancy rates in the low 3% range, indicating a significant shortage of housing units. The Mayo Clinic's ongoing $5 billion campus expansion is expected to generate additional workforce growth and further demand for housing."
+    },
+    {
+      "title": "Green Street: Industrial still one of the leaders in commercial real estate recovery",
+      "source": "REJournals",
+      "link": "https://rejournals.com/green-street-industrial-still-one-of-the-leaders-in-commercial-real-estate-recovery/?utm_source=rss&utm_medium=rss&utm_campaign=green-street-industrial-still-one-of-the-leaders-in-commercial-real-estate-recovery",
+      "published": "Tue, 08 Sep 2026 10:00:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-09-08-013.html",
+      "transaction_type": null,
+      "article_type": "Market Research / Price Index",
+      "market": null,
+      "narrative": "The industrial sector continues to lead the commercial real estate recovery, with its property values rising faster than most other major sectors, according to Green Street's September 2026 Commercial Property Price Index. Industrial values increased 0.6% in August and 7% over the past year, now standing just 8% below their 2022 peak. While the overall commercial property market also saw an increase of 0.8% in August and 5% over the past year, it remains 13% below its 2022 peak. However, rising Treasury yields and borrowing costs are expected to temper buyer enthusiasm, potentially slowing the recovery across all property types.",
+      "data_points": null,
+      "companies_people": [
+        {
+          "label": "OWNER",
+          "firm_name": "Green Street",
+          "people": [
+            {
+              "name": "Peter Rothemund",
+              "title": "Co-Head of Strategic Research"
+            }
+          ]
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Your snow contract is signed. Now what?",
+      "source": "REJournals",
+      "link": "https://rejournals.com/your-snow-contract-is-signed-now-what/?utm_source=rss&utm_medium=rss&utm_campaign=your-snow-contract-is-signed-now-what",
+      "published": "Tue, 08 Sep 2026 09:58:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-09-08-014.html",
+      "transaction_type": null,
+      "article_type": "Opinion / Market Commentary",
+      "market": null,
+      "narrative": "This article provides property managers with a comprehensive guide on optimizing snow removal contracts and operations. It emphasizes the critical period between contract signing and the first snowfall, urging proactive measures to prevent winter complications. Key recommendations include transforming the scope into a detailed site plan, conducting preseason walkthroughs with the operations team to identify site-specific challenges, establishing clear decision-making chains for unexpected issues, and planning around property usage schedules. The article also highlights the importance of considering meltwater drainage and reviewing documentation and the first service event to make necessary adjustments for continuous improvement.",
+      "data_points": null,
+      "companies_people": [],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Shoppers in 2026 Stay Close to Home, Keep Trips Short",
+      "source": "Connect CRE",
+      "link": "https://www.connectcre.com/stories/shoppers-in-2026-stay-close-to-home-keep-trips-short/",
+      "published": "Tue, 08 Sep 2026 13:11:24 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-09-08-015.html",
+      "transaction_type": null,
+      "article_type": "Market Research / Retail Consumer Report",
+      "market": null,
+      "narrative": "A new white paper by Placer.ai, \"The 2026 Retail Consumer in Five Charts,\" reveals that the typical retail shopper in 2026 prioritizes short, convenient trips close to home. The report highlights that most retail visits are under 30 minutes, with the largest segment being under 15 minutes, underscoring the importance of efficiency for retailers. Additionally, nearly 60% of retail visits originate within a five-mile radius, emphasizing the local nature of brick-and-mortar retail and its implications for site selection and tenant mix. The study also notes the continued importance of older shoppers as a core demographic and identifies opportunities for brands to tailor in-store strategies to attract affluent consumers.",
+      "data_points": null,
+      "companies_people": [
+        {
+          "label": "OWNER",
+          "firm_name": "Placer.ai",
+          "people": []
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "After 5 Years Of Gains, Commercial Real Estate's C-Suites Just Got Less Diverse",
+      "source": "Bisnow Latest News Feed",
+      "link": "https://www.bisnow.com/news/national/commercial-real-estate/after-5-years-of-gains-commercial-real-estate-begins-to-backslide-on-executive-diversity",
+      "published": "Mon, 07 Sep 2026 19:13:23 -0400",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-09-08-016.html",
+      "transaction_type": null,
+      "article_type": "Market Research / Diversity Report",
+      "market": null,
+      "narrative": "For the first time since 2020, the commercial real estate industry's C-suite diversity has declined, reversing a five-year trend of increasing representation. This shift indicates that despite previous gains, the industry is experiencing a setback in its efforts to foster a more diverse leadership landscape, with some advocates noting that professionals from underrepresented groups are departing C-suite roles.",
+      "data_points": null,
+      "companies_people": [],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Future White Sox Owner Advances Push To Build New Riverside Stadium",
+      "source": "Bisnow Latest News Feed",
+      "link": "https://www.bisnow.com/news/chicago/economic-development/future-white-sox-owner-advances-push-to-build-new-riverside-stadium",
+      "published": "Mon, 07 Sep 2026 14:07:11 -0400",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-09-08-017.html",
+      "transaction_type": "Development",
+      "article_type": null,
+      "market": null,
+      "narrative": "A company owned by Justin Ishbia, a minority owner of the White Sox, has revealed plans for a mixed-use development named The Railyards. The project is slated for Amtrak's 47-acre rail yard site and includes renderings for a new riverside stadium, signaling a potential future home for the White Sox.",
+      "data_points": {
+        "property_type": "mixed-use",
+        "property_name": "The Railyards",
+        "address": null,
+        "address_sourced_separately": false,
+        "size_sf": null,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": 47.0,
+        "multi_asset_purchase": false,
+        "notable_features": "Includes plans for a new riverside stadium.",
+        "project_notes": "Proposed on the site of Amtrak's rail yard."
+      },
+      "companies_people": [
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Company owned by Justin Ishbia",
+          "people": [
+            {
+              "name": "Justin Ishbia",
+              "title": "Minority Owner, White Sox"
+            }
+          ]
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Amtrak",
+          "people": []
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Summer Broke The Script. Here's What CRE Is Walking Back Into",
+      "source": "Bisnow Latest News Feed",
+      "link": "https://www.bisnow.com/news/national/capital-markets/summer-broke-the-script-here-s-what-cre-is-walking-back-into",
+      "published": "Mon, 07 Sep 2026 12:39:06 -0400",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-09-08-018.html",
+      "transaction_type": null,
+      "article_type": "Opinion / Market Commentary",
+      "market": null,
+      "narrative": "This article provides an overview of the key challenges and considerations facing the commercial real estate industry as it transitions into the busy fall and winter deal season. It highlights the impact of potential interest rate fluctuations and new legislative developments as primary factors influencing market activity.",
+      "data_points": null,
+      "companies_people": [],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "IRES Set To Step Up Acquisition Pace With \u20ac115M-Plus BTR Deal",
+      "source": "Bisnow Latest News Feed",
+      "link": "https://www.bisnow.com/news/dublin/build-to-rent/ires-set-to-step-up-acquisition-pace-with-euro115m-btr-deal",
+      "published": "Mon, 07 Sep 2026 11:19:12 -0400",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-09-08-019.html",
+      "transaction_type": "Acquisition",
+      "article_type": null,
+      "market": "Dublin, Ireland",
+      "narrative": "IRES has acquired a 282-unit build-to-rent scheme in Dublin for over \u20ac115 million, marking a significant expansion of its portfolio by 8%. This acquisition signals IRES's intention to accelerate its pace of investment in the build-to-rent sector.",
+      "data_points": {
+        "property_type": "multifamily",
+        "property_name": null,
+        "address": null,
+        "address_sourced_separately": false,
+        "size_sf": null,
+        "size_units": 282,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": 115000000.0,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": null,
+        "project_notes": "The acquisition enhances IRES's portfolio by 8%."
+      },
+      "companies_people": [
+        {
+          "label": "BUYER",
+          "firm_name": "IRES",
           "people": []
         }
       ],
