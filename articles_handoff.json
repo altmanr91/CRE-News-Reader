@@ -1,166 +1,1096 @@
 {
-  "date": "2026-09-20",
+  "date": "2026-09-21",
   "articles": [
     {
-      "title": "Sunday Summary: Rate Hikes, Investor Conferences and Power California",
+      "title": "CMBS Conduit Capital Focuses Heavily on Multifamily, Office Sectors",
       "source": "Commercial Observer",
-      "link": "https://commercialobserver.com/2026/09/sunday-summary-rate-hikes-investor-conferences-and-power-california/",
-      "published": "Sun, 20 Sep 2026 13:00:21 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-09-20-001.html",
+      "link": "https://commercialobserver.com/2026/09/cmbs-conduit-multifamily-office-cred-iq/",
+      "published": "Mon, 21 Sep 2026 13:02:13 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-09-21-001.html",
       "transaction_type": null,
-      "article_type": "Opinion / Market Commentary",
+      "article_type": "Market Research / CMBS Data",
       "market": null,
-      "narrative": "This article provides a summary of recent real estate market activity and sentiment following a 25-basis-point interest rate hike by the Federal Reserve. While some experts anticipate a widening divide between well-capitalized and overleveraged owners, others remain sanguine, noting continued opportunities for smart investors and healthy debt capital markets. The piece highlights several significant transactions across industrial, housing, debt, office leasing, and hospitality sectors, suggesting underlying market strength despite economic adjustments. It also touches on new hires and emerging trends in affordable housing development.",
+      "narrative": "The latest conduit CMBS data from CRED iQ indicates a lending market that has become more selective rather than more cautious, with multifamily and office sectors emerging as exceptions to the trend of increased equity requirements for borrowers. Multifamily loans saw an increase in loan-to-value (LTV) to 62% and a significant drop in rates to 6%, signaling strong lender confidence. Office loans also experienced higher LTVs at 49.5%, but with thinner debt service coverage ratios, suggesting lenders are underwriting more aggressively based on perceived cash flow stabilization rather than a full return of confidence. Other property types, including retail, self-storage, and industrial, faced stricter lending terms with lower LTVs and higher debt yields, requiring more sponsor equity despite easing rates.",
       "data_points": null,
       "companies_people": [
         {
-          "label": "LENDER",
-          "firm_name": "Peapack Private Bank & Trust",
+          "label": "OWNER",
+          "firm_name": "CRED iQ",
           "people": [
             {
-              "name": "Joseph Fingerman",
-              "title": "president of CRE"
+              "name": "Liam Mulcahy",
+              "title": "Senior Product Manager for CRE Data and Applied AI"
             }
           ]
-        },
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Commercial Real Estate Investment\u2019s Curious Rise Amid Higher Inflation, Rates",
+      "source": "Commercial Observer",
+      "link": "https://commercialobserver.com/2026/09/commercial-real-estate-investment-inflation-interest-rates-2026/",
+      "published": "Mon, 21 Sep 2026 11:48:31 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-09-21-002.html",
+      "transaction_type": null,
+      "article_type": "Opinion / Market Commentary",
+      "market": null,
+      "narrative": "Despite persistent inflation and rising interest rates, commercial real estate investment activity has shown surprising resilience, with significant increases in investment sales volume in the first half of 2026. This counterintuitive trend suggests that the industry is adapting to a new economic reality where instability has become the norm. One expert posits that the relevance of minor interest rate adjustments has diminished for sophisticated investors, who are instead prioritizing asset value, potential for appreciation, and exit strategies. The abundance of global capital, including a \"mountain of available capital\" in private equity, is also driving continued investment as funds seek deployment opportunities beyond traditional low-yield options.",
+      "data_points": null,
+      "companies_people": [
         {
-          "label": "OTHER",
+          "label": "OWNER",
           "firm_name": "HSF Kramer",
           "people": [
             {
               "name": "Jay Neveloff",
-              "title": null
+              "title": "Partner and Chair of U.S. Real Estate"
             }
           ]
         },
         {
           "label": "OTHER",
-          "firm_name": "Blackstone",
-          "people": [
-            {
-              "name": "Katie Keenan",
-              "title": null
-            }
-          ]
+          "firm_name": "Avison Young",
+          "people": []
         },
         {
-          "label": "LENDER",
-          "firm_name": "NewPoint Real Estate Capital",
-          "people": [
-            {
-              "name": "Ryan Koehler",
-              "title": "managing director for originations"
-            }
-          ]
+          "label": "OTHER",
+          "firm_name": "JLL",
+          "people": []
         },
+        {
+          "label": "OTHER",
+          "firm_name": "Federal Reserve",
+          "people": []
+        },
+        {
+          "label": "OTHER",
+          "firm_name": "Yahoo Finance",
+          "people": []
+        },
+        {
+          "label": "OTHER",
+          "firm_name": "Bain & Company",
+          "people": []
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "New York State\u2019s Opportunity Zones Deadline Is Fast Approaching",
+      "source": "Commercial Observer",
+      "link": "https://commercialobserver.com/2026/09/new-york-state-opportunity-zones-deadline-2026/",
+      "published": "Mon, 21 Sep 2026 11:00:01 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-09-21-003.html",
+      "transaction_type": null,
+      "article_type": "Opinion / Market Commentary",
+      "market": "New York",
+      "narrative": "New York State is preparing to announce its updated Opportunity Zone (OZ) designations by September 28, following the permanent renewal and revision of the federal program. State and city officials, including Gov. Kathy Hochul and Mayor Zohran Mamdani, have already implemented policy changes to accelerate affordable housing development, but the revised OZ program is expected to attract additional investment into underserved communities. The new federal guidelines aim to direct capital more effectively to distressed areas by adjusting poverty level requirements and offering greater tax incentives for rural investments, which has reduced the number of eligible tracts nationwide. Developers are keenly awaiting the state's selections, particularly for areas where projects are already in the pipeline, to ensure continuity for investors.",
+      "data_points": null,
+      "companies_people": [
         {
           "label": "OWNER",
-          "firm_name": "SkyREM",
-          "people": []
-        },
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Ares Management",
-          "people": []
+          "firm_name": "Silverstein Properties",
+          "people": [
+            {
+              "name": "Jeffrey Deitrich",
+              "title": "head of equity investments"
+            }
+          ]
         },
         {
           "label": "EQUITY/FINANCING",
-          "firm_name": "Canadian Public Sector Pension Investment Board",
+          "firm_name": "Cantor Fitzgerald Asset Management",
+          "people": [
+            {
+              "name": "Chris Milner",
+              "title": "head of investment management"
+            }
+          ]
+        },
+        {
+          "label": "PLANNER",
+          "firm_name": "Empire State Development (ESD)",
+          "people": [
+            {
+              "name": "Emily Mijatovic",
+              "title": "spokeswoman"
+            }
+          ]
+        },
+        {
+          "label": "OTHER",
+          "firm_name": "Cozen O\u2019Connor",
+          "people": [
+            {
+              "name": "Jamie Ansorge",
+              "title": "principal"
+            }
+          ]
+        },
+        {
+          "label": "OTHER",
+          "firm_name": "Novogradac",
+          "people": []
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Affinius Capital, Alliance Residential Dispose of 545-Unit Seniors Housing Portfolio in Northern California",
+      "source": "REBusinessOnline",
+      "link": "https://rebusinessonline.com/affinius-capital-alliance-residential-dispose-of-545-unit-seniors-housing-portfolio-in-northern-california/",
+      "published": "Mon, 21 Sep 2026 14:21:30 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-09-21-004.html",
+      "transaction_type": "Sale",
+      "article_type": null,
+      "market": "Roseville / San Jose, CA",
+      "narrative": "A joint venture between Affinius Capital and Alliance Residential has sold a two-property seniors housing portfolio in Northern California. The portfolio, comprising 545 units across Sonrisa Senior Living in Roseville and The Watermark at Almaden in San Jose, was acquired by a publicly traded REIT. This transaction represents one of the largest seniors housing portfolio sales in the region in recent years.",
+      "data_points": {
+        "property_type": "seniors housing",
+        "property_name": "Sonrisa Senior Living and The Watermark at Almaden",
+        "address": null,
+        "address_sourced_separately": false,
+        "size_sf": null,
+        "size_units": 545,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": true,
+        "notable_features": "Amenities at the communities include outdoor pools, fitness centers, salons and spas, theaters and bocce ball and pickleball courts.",
+        "project_notes": "Sonrisa Senior Living was constructed in 2021 and 2023. The Watermark at Almaden opened in 2021."
+      },
+      "companies_people": [
+        {
+          "label": "SELLER",
+          "firm_name": "Affinius Capital",
+          "people": []
+        },
+        {
+          "label": "SELLER",
+          "firm_name": "Alliance Residential",
+          "people": []
+        },
+        {
+          "label": "BUYER",
+          "firm_name": "publicly traded REIT",
+          "people": []
+        },
+        {
+          "label": "SELLER BROKER",
+          "firm_name": "JLL Capital Markets",
+          "people": [
+            {
+              "name": "Aaron Rosenzweig",
+              "title": null
+            },
+            {
+              "name": "Dan Baker",
+              "title": null
+            },
+            {
+              "name": "Sandis Seale",
+              "title": null
+            }
+          ]
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Newmark Brokers Sale of Four-Building Industrial Portfolio in Silicon Valley",
+      "source": "REBusinessOnline",
+      "link": "https://rebusinessonline.com/newmark-brokers-sale-of-four-building-industrial-portfolio-in-silicon-valley/",
+      "published": "Mon, 21 Sep 2026 14:19:51 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-09-21-005.html",
+      "transaction_type": "Sale",
+      "article_type": null,
+      "market": "Milpitas, CA",
+      "narrative": "Newmark has brokered the sale of The Cadillac Court Industrial Portfolio, a four-building industrial campus in Milpitas, California. Galvanize Real Estate, the sustainable real estate arm of Galvanize, acquired the 302,447-square-foot property from an undisclosed seller. The campus is approximately 95 percent leased and features a strong tenant mix across various industries.",
+      "data_points": {
+        "property_type": "industrial",
+        "property_name": "The Cadillac Court Industrial Portfolio",
+        "address": null,
+        "address_sourced_separately": false,
+        "size_sf": 302447.0,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": 95.0,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": true,
+        "notable_features": "Adjacent to Interstate 880 with immediate access to State Route 237, featuring 61 dock-high doors, 16 grade-level doors, and approximately 8,000 amps of power.",
+        "project_notes": "Buildings were constructed between 1991 and 1994."
+      },
+      "companies_people": [
+        {
+          "label": "BUYER",
+          "firm_name": "Galvanize Real Estate",
+          "people": []
+        },
+        {
+          "label": "SELLER BROKER",
+          "firm_name": "Newmark",
+          "people": [
+            {
+              "name": "Steve Golubchik",
+              "title": null
+            },
+            {
+              "name": "Edmund Najera",
+              "title": null
+            },
+            {
+              "name": "Darren Hollak",
+              "title": null
+            },
+            {
+              "name": "Brendan Raney",
+              "title": null
+            }
+          ]
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Tesseract Capital Sells Apartment Property in Modesto, California for $26.6M",
+      "source": "REBusinessOnline",
+      "link": "https://rebusinessonline.com/tesseract-capital-sells-apartment-property-in-modesto-california-for-26-6m/",
+      "published": "Mon, 21 Sep 2026 14:18:49 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-09-21-006.html",
+      "transaction_type": "Sale",
+      "article_type": null,
+      "market": "Modesto, CA",
+      "narrative": "Tesseract Capital Group has sold The Marc at 1600, a 100-unit apartment property in Modesto, California, for $26.6 million. The buyer was an undisclosed family office. The Mogharebi Group represented the seller in this transaction.",
+      "data_points": {
+        "property_type": "multifamily",
+        "property_name": "The Marc at 1600",
+        "address": "1600 Standiford Ave, Modesto, CA",
+        "address_sourced_separately": false,
+        "size_sf": null,
+        "size_units": 100,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": 26600000.0,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": null,
+        "project_notes": null
+      },
+      "companies_people": [
+        {
+          "label": "SELLER",
+          "firm_name": "Tesseract Capital Group",
+          "people": []
+        },
+        {
+          "label": "BUYER",
+          "firm_name": "undisclosed family office",
+          "people": []
+        },
+        {
+          "label": "SELLER BROKER",
+          "firm_name": "The Mogharebi Group",
+          "people": [
+            {
+              "name": "Otto Ozen",
+              "title": null
+            },
+            {
+              "name": "Brian Nakamura",
+              "title": null
+            },
+            {
+              "name": "Nazli Santana",
+              "title": null
+            }
+          ]
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Livmark, Hillside to Develop 185-Unit Multifamily Community in Longmont, Colorado",
+      "source": "REBusinessOnline",
+      "link": "https://rebusinessonline.com/livmark-hillside-to-develop-185-unit-multifamily-community-in-longmont-colorado/",
+      "published": "Mon, 21 Sep 2026 14:17:43 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-09-21-007.html",
+      "transaction_type": "Construction",
+      "article_type": null,
+      "market": "Longmont, CO",
+      "narrative": "Livmark Communities and Hillside Commercial Group have commenced construction on Fielder at Fox Hill, a 185-unit multifamily community in Longmont, Colorado. The project, which began site work in June, will feature a mix of apartments and townhomes with private yards and two-car garages. Greystar has been tapped to manage the property upon its anticipated completion in fall 2027.",
+      "data_points": {
+        "property_type": "multifamily",
+        "property_name": "Fielder at Fox Hill",
+        "address": null,
+        "address_sourced_separately": false,
+        "size_sf": null,
+        "size_units": 185,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": "fall 2027",
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": "Adjacent to Fox Hill Country Club golf course; includes townhomes with private yards and two-car garages; amenities include a clubhouse, indoor/outdoor fitness, pool, coworking space, sauna, and EV chargers in every garage.",
+        "project_notes": "Construction began in June 2026 with initial site work and infrastructure improvements."
+      },
+      "companies_people": [
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Livmark Communities",
           "people": []
         },
         {
           "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Airbnb",
+          "firm_name": "Hillside Commercial Group",
           "people": []
         },
         {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Hines",
-          "people": []
-        },
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Rialto Capital",
-          "people": []
-        },
-        {
-          "label": "LANDLORD",
-          "firm_name": "Cohen Brothers Realty",
-          "people": []
-        },
-        {
-          "label": "LANDLORD",
-          "firm_name": "SL Green Realty",
-          "people": []
-        },
-        {
-          "label": "TENANT",
-          "firm_name": "Greenberg Traurig",
-          "people": []
-        },
-        {
-          "label": "LANDLORD",
-          "firm_name": "SJP Properties",
-          "people": []
-        },
-        {
-          "label": "TENANT",
-          "firm_name": "Proskauer Rose",
+          "label": "GENERAL CONTRACTOR",
+          "firm_name": "Landmark Construction Solutions",
           "people": []
         },
         {
           "label": "OWNER",
-          "firm_name": "Bally's",
+          "firm_name": "Greystar",
           "people": []
-        },
-        {
-          "label": "LENDER",
-          "firm_name": "WhiteHawk Capital Partners",
-          "people": []
-        },
-        {
-          "label": "OTHER",
-          "firm_name": "Cumming Group",
-          "people": [
-            {
-              "name": "Steven McKessey",
-              "title": null
-            }
-          ]
-        },
-        {
-          "label": "OTHER",
-          "firm_name": "Rudin",
-          "people": []
-        },
-        {
-          "label": "OTHER",
-          "firm_name": "Blackstone Real Estate Debt Strategies",
-          "people": [
-            {
-              "name": "Michael Eglit",
-              "title": null
-            }
-          ]
-        },
-        {
-          "label": "OTHER",
-          "firm_name": "Starwood Capital Group",
-          "people": []
-        },
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "OHT Partners Breaks Ground on 360-Unit Multifamily Project in West Houston",
+      "source": "REBusinessOnline",
+      "link": "https://rebusinessonline.com/oht-partners-breaks-ground-on-360-unit-multifamily-project-in-west-houston-2/",
+      "published": "Mon, 21 Sep 2026 13:58:21 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-09-21-008.html",
+      "transaction_type": "Construction",
+      "article_type": null,
+      "market": "Houston, TX",
+      "narrative": "OHT Partners has commenced construction on Park Row, a 360-unit multifamily development situated on a 14-acre site in Houston's Energy Corridor. The project will offer a variety of one- and two-bedroom units and a comprehensive suite of amenities designed to enhance resident lifestyle.",
+      "data_points": {
+        "property_type": "multifamily",
+        "property_name": "Park Row",
+        "address": "14192 Park Row Blvd., Houston, TX",
+        "address_sourced_separately": false,
+        "size_sf": null,
+        "size_units": 360,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": 14.0,
+        "multi_asset_purchase": false,
+        "notable_features": "Located in the Energy Corridor, amenities include a pool, clubhouse, fitness room, coworking space, communal kitchen, package lockers, a dog park, pickleball court, and outdoor grilling and dining stations.",
+        "project_notes": null
+      },
+      "companies_people": [
         {
           "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Logos Faith Development",
+          "firm_name": "OHT Partners",
+          "people": []
+        },
+        {
+          "label": "ARCHITECT",
+          "firm_name": "Meeks + Partners",
+          "people": []
+        },
+        {
+          "label": "GENERAL CONTRACTOR",
+          "firm_name": "OHT Partners",
+          "people": []
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Gerdom Realty and Investment negotiates 1,200-square-foot lease in Farmington Hills retail center",
+      "source": "REJournals",
+      "link": "https://rejournals.com/gerdom-realty-and-investment-negotiates-1200-square-foot-lease-in-farmington-hills-retail-center/?utm_source=rss&utm_medium=rss&utm_campaign=gerdom-realty-and-investment-negotiates-1200-square-foot-lease-in-farmington-hills-retail-center",
+      "published": "Mon, 21 Sep 2026 15:31:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-09-21-009.html",
+      "transaction_type": "Lease",
+      "article_type": null,
+      "market": "Farmington Hills, MI",
+      "narrative": "Gerdom Realty and Investment, representing Beztak Properties, negotiated a 1,200-square-foot retail lease at Muirwood Square in Farmington Hills, Michigan. The space was leased to Ambika Flowers.",
+      "data_points": {
+        "property_type": "retail",
+        "property_name": "Muirwood Square",
+        "address": "35450 Grand River Ave, Farmington Hills, MI",
+        "address_sourced_separately": true,
+        "size_sf": 1200.0,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": null,
+        "project_notes": null
+      },
+      "companies_people": [
+        {
+          "label": "LANDLORD",
+          "firm_name": "Beztak Properties",
+          "people": []
+        },
+        {
+          "label": "TENANT",
+          "firm_name": "Ambika Flowers",
+          "people": []
+        },
+        {
+          "label": "LEASING AGENT",
+          "firm_name": "Gerdom Realty and Investment",
           "people": [
             {
-              "name": "Martin Porter",
-              "title": "Pastor"
+              "name": "Michael Murphy",
+              "title": null
+            }
+          ]
+        }
+      ],
+      "tenants": [
+        "Ambika Flowers"
+      ],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Walbridge launches Chicago-based data center firm",
+      "source": "REJournals",
+      "link": "https://rejournals.com/walbridge-launches-chicago-based-data-center-firm/?utm_source=rss&utm_medium=rss&utm_campaign=walbridge-launches-chicago-based-data-center-firm",
+      "published": "Mon, 21 Sep 2026 14:00:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-09-21-010.html",
+      "transaction_type": null,
+      "article_type": "Non-CRE / Business News",
+      "market": "Chicago, IL",
+      "narrative": "Walbridge, a Detroit-based construction firm, has launched L5 Mission Critical, a new Chicago-headquartered company specializing in comprehensive data center services. The new entity will offer services from commissioning and site readiness to critical operations, retrofits, and project management. This strategic move aims to address the rapidly expanding data center market, driven by AI and cloud growth, and provide integrated solutions for both third-party clients and Walbridge's construction projects.",
+      "data_points": null,
+      "companies_people": [
+        {
+          "label": "OWNER",
+          "firm_name": "Walbridge",
+          "people": [
+            {
+              "name": "John Rakolta III",
+              "title": "President and CAO"
+            }
+          ]
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "L5 Mission Critical",
+          "people": [
+            {
+              "name": "Matt Landek",
+              "title": "President and CEO"
+            }
+          ]
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Marcus & Millichap closes $3.2 million sale of Austintown Walgreens",
+      "source": "REJournals",
+      "link": "https://rejournals.com/marcus-millichap-closes-3-2-million-sale-of-austintown-walgreens/?utm_source=rss&utm_medium=rss&utm_campaign=marcus-millichap-closes-3-2-million-sale-of-austintown-walgreens",
+      "published": "Mon, 21 Sep 2026 13:00:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-09-21-011.html",
+      "transaction_type": "Sale",
+      "article_type": null,
+      "market": "Austintown, OH",
+      "narrative": "Marcus & Millichap has brokered the sale of a net-leased Walgreens property in Austintown, Ohio, for $3.25 million. The buyer was a private local investor. The property has been operating as a Walgreens for over two decades and is situated in a prominent retail corridor.",
+      "data_points": {
+        "property_type": "retail",
+        "property_name": "Walgreens",
+        "address": "5501 Mahoning Ave, Austintown, OH",
+        "address_sourced_separately": false,
+        "size_sf": 14490.0,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": 3247367.0,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": 2002,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": 1.69,
+        "multi_asset_purchase": false,
+        "notable_features": "Located within a retail corridor alongside several national retailers.",
+        "project_notes": "Property has operated as a Walgreens for more than 23 years."
+      },
+      "companies_people": [
+        {
+          "label": "SELLER BROKER",
+          "firm_name": "Marcus & Millichap",
+          "people": [
+            {
+              "name": "Ben Shapiro",
+              "title": null
+            },
+            {
+              "name": "Sean Sharko",
+              "title": null
+            },
+            {
+              "name": "Austin Weisenbeck",
+              "title": null
+            },
+            {
+              "name": "Michael Glass",
+              "title": "Ohio broker of record"
             }
           ]
         },
         {
           "label": "BUYER",
-          "firm_name": "Decron Properties",
+          "firm_name": "Private Local Investor",
+          "people": []
+        }
+      ],
+      "tenants": [
+        "Walgreens"
+      ],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "BOMA study: Commercial real estate remains a boon to the U.S. economy",
+      "source": "REJournals",
+      "link": "https://rejournals.com/boma-study-commercial-real-estate-remains-a-boon-to-the-u-s-economy/?utm_source=rss&utm_medium=rss&utm_campaign=boma-study-commercial-real-estate-remains-a-boon-to-the-u-s-economy",
+      "published": "Mon, 21 Sep 2026 09:51:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-09-21-012.html",
+      "transaction_type": null,
+      "article_type": "Market Research / Economic Impact",
+      "market": null,
+      "narrative": "A new study by the Building Owners and Managers Association International (BOMA) highlights the significant economic impact of commercial real estate across the U.S. The report, which covers 35.4 billion square feet of commercial property in 79 markets, found that the operation and maintenance of office, retail, and industrial assets generate $609.9 billion in annual economic output and support 3.9 million jobs. The study also notes that for every dollar spent on building operations, $2.22 in total economic output is generated, underscoring the broad network of businesses and workers supported by the sector. Additionally, the research points to the growing influence of data centers on office construction statistics and sustained high levels of industrial construction.",
+      "data_points": null,
+      "companies_people": [
+        {
+          "label": "OWNER",
+          "firm_name": "Building Owners and Managers Association International (BOMA International)",
+          "people": [
+            {
+              "name": "Kjersten Jaeb",
+              "title": "BOMA Fellow, chair and chief elected officer"
+            },
+            {
+              "name": "Mary Lue Peck",
+              "title": "president and COO"
+            }
+          ]
+        },
+        {
+          "label": "PLANNER",
+          "firm_name": "Business Research Division at the Leeds School of Business at the University of Colorado Boulder",
+          "people": []
+        },
+        {
+          "label": "OTHER",
+          "firm_name": "CoStar",
+          "people": []
+        },
+        {
+          "label": "OTHER",
+          "firm_name": "National Council of Real Estate Investment Fiduciaries",
+          "people": []
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Colliers negotiates sale of 31,000-square-foot manufacturing facility in Stafford",
+      "source": "REJournals",
+      "link": "https://rejournals.com/colliers-negotiates-sale-of-31000-square-foot-manufacturing-facility-in-stafford/?utm_source=rss&utm_medium=rss&utm_campaign=colliers-negotiates-sale-of-31000-square-foot-manufacturing-facility-in-stafford",
+      "published": "Mon, 21 Sep 2026 09:45:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-09-21-013.html",
+      "transaction_type": "Sale",
+      "article_type": null,
+      "market": "Stafford, TX",
+      "narrative": "Colliers recently brokered the sale of a 31,000-square-foot manufacturing facility located at 10302 Mula Road in Stafford, Texas. The property, situated on 1.89 acres, features a versatile layout including office, assembly, fulfillment, shop, and showroom areas. Both the seller and the buyer were represented by Colliers brokers in the transaction.",
+      "data_points": {
+        "property_type": "industrial",
+        "property_name": null,
+        "address": "10302 Mula Road, Stafford, TX",
+        "address_sourced_separately": false,
+        "size_sf": 31000.0,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": 1.89,
+        "multi_asset_purchase": false,
+        "notable_features": "Crane-served manufacturing facility with two 5-ton cranes, 16-foot hook height, three-phase 600-amp 480-volt electrical service, sprinkler system, and T5 lighting. Includes primary office, assembly, fulfillment, shop, and showroom space, plus a 3,000-square-foot mezzanine.",
+        "project_notes": null
+      },
+      "companies_people": [
+        {
+          "label": "SELLER BROKER",
+          "firm_name": "Colliers",
+          "people": [
+            {
+              "name": "Jason Scholtz",
+              "title": null
+            },
+            {
+              "name": "David Falcon",
+              "title": null
+            }
+          ]
+        },
+        {
+          "label": "BUYER BROKER",
+          "firm_name": "Colliers",
+          "people": [
+            {
+              "name": "Zack Martin",
+              "title": null
+            },
+            {
+              "name": "Todd Moore",
+              "title": null
+            },
+            {
+              "name": "Connor Duffy",
+              "title": null
+            }
+          ]
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "RIVANI Lands $114.3M Refi on Miami Beach Office/Retail Project",
+      "source": "Connect CRE",
+      "link": "https://www.connectcre.com/stories/rivani-lands-114-3m-refi-on-miami-beach-office-retail-project/",
+      "published": "Mon, 21 Sep 2026 14:13:21 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-09-21-014.html",
+      "transaction_type": "Refinance",
+      "article_type": null,
+      "market": "Miami Beach, FL",
+      "narrative": "RIVANI has secured a $114.3 million refinancing package for its recently completed office and retail development in Miami Beach. The financing, provided by BridgeInvest, will be used to retire existing debt on the 165,170-square-foot property, which is currently 83% leased. The project underwent a significant $38 million renovation after RIVANI acquired it in 2024 for $62.5 million.",
+      "data_points": {
+        "property_type": "mixed-use",
+        "property_name": null,
+        "address": "1691 Michigan Avenue, Miami Beach, FL",
+        "address_sourced_separately": false,
+        "size_sf": 165170.0,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": 114300000.0,
+        "total_project_cost": null,
+        "occupancy": 83.0,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": "The property features a full-service concierge and valet, spa, fitness and wellness center, meditation room, podcast studio, and a Tokyo-inspired speakeasy.",
+        "project_notes": "RIVANI acquired the property for $62.5 million in 2024 and subsequently launched a $38 million renovation. The firm is seeking voter approval for an estimated $50 million expansion above the parking garage, adding approximately 47,000 square feet."
+      },
+      "companies_people": [
+        {
+          "label": "SPONSOR",
+          "firm_name": "RIVANI",
+          "people": []
+        },
+        {
+          "label": "LENDER",
+          "firm_name": "BridgeInvest",
+          "people": [
+            {
+              "name": "Alex Horn",
+              "title": null
+            },
+            {
+              "name": "Jon Gitman",
+              "title": null
+            },
+            {
+              "name": "Adrie Bailey",
+              "title": null
+            },
+            {
+              "name": "Beck Granelli",
+              "title": null
+            }
+          ]
+        },
+        {
+          "label": "MORTGAGE BROKER",
+          "firm_name": "Berkadia",
+          "people": [
+            {
+              "name": "Brad Williamson",
+              "title": null
+            },
+            {
+              "name": "Scott Wadler",
+              "title": null
+            },
+            {
+              "name": "Michael Basinski",
+              "title": null
+            },
+            {
+              "name": "Mitch Sinberg",
+              "title": null
+            },
+            {
+              "name": "Matthew Robbins",
+              "title": null
+            }
+          ]
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "USF Breaks Ground on $500M Mixed-Use Venture",
+      "source": "Connect CRE",
+      "link": "https://www.connectcre.com/stories/usf-breaks-ground-on-500m-mixed-use-venture/",
+      "published": "Mon, 21 Sep 2026 13:45:10 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-09-21-015.html",
+      "transaction_type": "Development",
+      "article_type": null,
+      "market": "Tampa, FL",
+      "narrative": "The University of South Florida (USF) and its development partners have broken ground on the initial $500 million phase of Uptown Landing, a new mixed-use project in Tampa. This first phase, spanning 30 acres, will feature student housing, graduate student and employee apartments, retail space, a hotel and conference center, and academic research facilities. The project is being delivered through a master development agreement with ACE Fletcher, a partnership formed by Capstone Development Partners, Aureate Development, and Ellison Development, with completion anticipated in fall 2028.",
+      "data_points": {
+        "property_type": "mixed-use",
+        "property_name": "Uptown Landing",
+        "address": "4202 E Fowler Ave, Tampa, FL",
+        "address_sourced_separately": true,
+        "size_sf": 68000.0,
+        "size_units": 152,
+        "size_beds": 717,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": 500000000.0,
+        "occupancy": null,
+        "year_built": null,
+        "completion": "fall 2028",
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": 30.0,
+        "multi_asset_purchase": false,
+        "notable_features": "Located within walking distance of the planned USF on-campus football stadium.",
+        "project_notes": "Funding includes $270 million in tax-exempt bond financing and a $225 million investment for the Translational Research Institute."
+      },
+      "companies_people": [
+        {
+          "label": "OWNER",
+          "firm_name": "University of South Florida (USF)",
+          "people": []
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "ACE Fletcher",
+          "people": []
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Capstone Development Partners",
+          "people": []
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Aureate Development",
+          "people": []
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Ellison Development",
+          "people": []
+        },
+        {
+          "label": "EQUITY/FINANCING",
+          "firm_name": "Provident Resources Group",
+          "people": []
+        },
+        {
+          "label": "GENERAL CONTRACTOR",
+          "firm_name": "CBI Construction",
+          "people": []
+        },
+        {
+          "label": "ARCHITECT",
+          "firm_name": "Baker Barrios Architects",
+          "people": []
+        },
+        {
+          "label": "PLANNER",
+          "firm_name": "Kimley-Horn",
+          "people": []
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Mold Is Growing Into Major Problem For Apartment Owners",
+      "source": "Bisnow Latest News Feed",
+      "link": "https://www.bisnow.com/news/national/multifamily/multimillion-dollar-mold-lawsuits-multifamily-owners-habitability-insurance",
+      "published": "Sun, 20 Sep 2026 19:34:21 -0400",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-09-21-016.html",
+      "transaction_type": null,
+      "article_type": "Opinion / Market Commentary",
+      "market": null,
+      "narrative": "The presence of mold is escalating into a significant concern for apartment owners, as evidenced by recent multimillion-dollar verdicts in mold-related lawsuits. This trend highlights the increasing financial and legal risks associated with mold issues in residential properties.",
+      "data_points": null,
+      "companies_people": [],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Galvanize Pays $94M For Milpitas Industrial Portfolio",
+      "source": "Bisnow Latest News Feed",
+      "link": "https://www.bisnow.com/news/san-francisco/industrial/galvanize-acquires-302k-sf-industrial-portfolio-milpitas",
+      "published": "Sun, 20 Sep 2026 19:00:29 -0400",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-09-21-017.html",
+      "transaction_type": "Acquisition",
+      "article_type": null,
+      "market": "Milpitas, CA",
+      "narrative": "Galvanize has acquired a 302,000-square-foot industrial portfolio in Milpitas for $94 million. This transaction reflects the increasing demand for industrial space in Silicon Valley, driven by the expansion of the artificial intelligence and robotics sectors.",
+      "data_points": {
+        "property_type": "industrial",
+        "property_name": null,
+        "address": null,
+        "address_sourced_separately": false,
+        "size_sf": 302000.0,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": 94000000.0,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": true,
+        "notable_features": null,
+        "project_notes": null
+      },
+      "companies_people": [
+        {
+          "label": "BUYER",
+          "firm_name": "Galvanize",
+          "people": []
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Scheels To Open 300K SF Store In Littleton: The Denver Deal Sheet",
+      "source": "Bisnow Latest News Feed",
+      "link": "https://www.bisnow.com/news/denver/retail/scheels-open-300k-sf-store-littleton-denver-deal-sheet",
+      "published": "Sun, 20 Sep 2026 18:44:09 -0400",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-09-21-018.html",
+      "transaction_type": null,
+      "article_type": "Market Research / Retail Development",
+      "market": "Littleton, CO",
+      "narrative": "The Littleton City Council has approved incentives for a major retailer to open a new 300,000-square-foot store in Littleton, CO. This development is part of a broader trend of significant transactions occurring in the Denver market this week.",
+      "data_points": {
+        "property_type": "retail",
+        "property_name": null,
+        "address": null,
+        "address_sourced_separately": false,
+        "size_sf": 300000.0,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": "City Council approved incentives for the retailer.",
+        "project_notes": null
+      },
+      "companies_people": [
+        {
+          "label": "TENANT",
+          "firm_name": "Scheels",
+          "people": []
+        }
+      ],
+      "tenants": [
+        "Scheels"
+      ],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Office Owners Pulling Back On Flexible Leases As AI Clouds Future Of Work",
+      "source": "Bisnow Latest News Feed",
+      "link": "https://www.bisnow.com/news/new-york/office/office-lease-flexibility-tishman-speyer-silverstein-kpmg",
+      "published": "Sun, 20 Sep 2026 18:28:55 -0400",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-09-21-019.html",
+      "transaction_type": null,
+      "article_type": "Opinion / Market Commentary",
+      "market": "New York City, NY",
+      "narrative": "Manhattan office landlords are reportedly reducing the flexibility offered in lease agreements. This shift comes amidst growing uncertainty regarding future office space requirements, largely driven by the potential impacts of artificial intelligence on work patterns and corporate real estate strategies.",
+      "data_points": null,
+      "companies_people": [],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "1M SF Langham Estate Bets On 'Overlooked' Fitzrovia With \u00a350M Investment Programme",
+      "source": "Bisnow Latest News Feed",
+      "link": "https://www.bisnow.com/news/london/mixed-use/langham-estate-bets-on-overlooked-fitzrovia-for-value-and-heritage",
+      "published": "Sun, 20 Sep 2026 18:26:47 -0400",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-09-21-020.html",
+      "transaction_type": "Development",
+      "article_type": null,
+      "market": null,
+      "narrative": "The Langham Estate is undertaking a significant \u00a350 million investment program to refurbish its 1 million-square-foot portfolio in Fitzrovia, aiming to capitalize on the area's potential. The estate believes Fitzrovia has been historically overlooked and is poised for growth, making this a strategic move to enhance its properties and attract new tenants.",
+      "data_points": {
+        "property_type": "mixed-use",
+        "property_name": "Langham Estate",
+        "address": null,
+        "address_sourced_separately": false,
+        "size_sf": 1000000.0,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": 50000000.0,
+        "occupancy": null,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": "Refurbishment program mixing history and modernity.",
+        "project_notes": null
+      },
+      "companies_people": [
+        {
+          "label": "OWNER",
+          "firm_name": "The Langham Estate",
           "people": []
         }
       ],
