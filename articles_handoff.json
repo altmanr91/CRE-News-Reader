@@ -1,172 +1,1228 @@
 {
-  "date": "2026-10-04",
+  "date": "2026-10-05",
   "articles": [
     {
-      "title": "Sunday Summary: The Best Office Market in Years",
+      "title": "The AI Infrastructure Industry Has Entered Its Coordination Crisis",
       "source": "Commercial Observer",
-      "link": "https://commercialobserver.com/2026/10/sunday-summary-the-best-office-market-in-years/",
-      "published": "Sun, 04 Oct 2026 13:00:41 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-10-04-001.html",
+      "link": "https://commercialobserver.com/2026/10/ai-infrastructure-industry-coordination-crisis/",
+      "published": "Mon, 05 Oct 2026 17:59:49 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-10-05-001.html",
       "transaction_type": null,
       "article_type": "Opinion / Market Commentary",
       "market": null,
-      "narrative": "This article provides an optimistic overview of the commercial real estate market, particularly in Manhattan office and South Florida, despite recent disappointing national employment figures and rising Treasury rates. The author highlights that Manhattan office availability is at its lowest since 2020, with strong leasing activity in Q3 2026, exceeding the 10-year average. Significant office leases by various investment firms and a law firm underscore this trend. The retail sector also shows strength with a major REIT acquisition and new store openings. South Florida continues to be a robust market, evidenced by substantial financing for luxury condo and affordable multifamily projects, as well as a record-breaking land acquisition for a new university campus.",
+      "narrative": "The AI infrastructure industry is facing a \"coordination crisis\" where the disparate timelines for power, cooling, electrical equipment, permitting, and construction are hindering project delivery, despite individual components being available. The author argues that the primary bottleneck is no longer a single resource but the complex orchestration required to align these various systems and stakeholders. This challenge is transforming AI infrastructure development from a traditional real estate play into a more integrated industrial systems engineering and energy infrastructure endeavor, favoring firms capable of coordinating diverse elements to deliver functional campuses on customer timelines.",
       "data_points": null,
       "companies_people": [
         {
-          "label": "TENANT",
-          "firm_name": "Qube",
-          "people": []
-        },
+          "label": "OTHER",
+          "firm_name": "New York University's Schack Institute of Real Estate",
+          "people": [
+            {
+              "name": "Suhail Tayyeb",
+              "title": "Clinical Assistant Professor and Director of the Center for the Sustainable Built Environment"
+            }
+          ]
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Steve Wylder On Safehold\u2019s Plan to Fill Affordable Housing Capital Gaps",
+      "source": "Commercial Observer",
+      "link": "https://commercialobserver.com/2026/10/steve-wylder-safehold-affordable-housing-ground-lease/",
+      "published": "Mon, 05 Oct 2026 17:55:38 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-10-05-002.html",
+      "transaction_type": null,
+      "article_type": "Opinion / Market Commentary",
+      "market": "California",
+      "narrative": "Safehold, a real estate investment trust, is leveraging its ground lease strategy to address capital stack deficiencies in affordable housing developments, particularly for 4 percent Low-Income Housing Tax Credit (LIHTC) projects. The company's 99-year ground leases provide low-cost capital at a premium to land value, increasing permanent proceeds for developers by 10 to 20 percent and offering a lower blended cost of capital. This approach helps bridge financing gaps caused by elevated interest rates and construction costs, which have made affordable housing projects increasingly challenging to complete. Safehold has seen significant traction in Southern California, where it has closed over 25 ground leases for LIHTC developments, and is expanding its platform into markets like Texas, the Southeast, Mid-Atlantic, and Midwest.",
+      "data_points": null,
+      "companies_people": [
         {
-          "label": "LANDLORD",
-          "firm_name": "Related Companies",
-          "people": []
-        },
+          "label": "OWNER",
+          "firm_name": "Safehold",
+          "people": [
+            {
+              "name": "Steve Wylder",
+              "title": "Head of Investments"
+            }
+          ]
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Blackstone Sells Fort Lauderdale Industrial Campus for $57M",
+      "source": "Commercial Observer",
+      "link": "https://commercialobserver.com/2026/10/blackstone-fort-lauderdale-bkm-kayne-anderson-link-logistics/",
+      "published": "Mon, 05 Oct 2026 17:50:24 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-10-05-003.html",
+      "transaction_type": "Sale",
+      "article_type": null,
+      "market": "Fort Lauderdale, FL",
+      "narrative": "Blackstone's industrial division, Link Logistics, has sold a seven-building industrial campus in Fort Lauderdale, FL, for $57 million. The 210,000-square-foot property was acquired by a joint venture between BKM Capital Partners and Kayne Anderson Real Estate. The campus, which is 97% leased, is strategically located near I-95 and the Dania Pointe retail complex, offering a strong rent roll with staggered lease expirations.",
+      "data_points": {
+        "property_type": "industrial",
+        "property_name": null,
+        "address": "2201, 2301 and 2381 Stirling Road, Fort Lauderdale, FL",
+        "address_sourced_separately": false,
+        "size_sf": 210000.0,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": 57000000.0,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": 97.0,
+        "year_built": 1985,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": true,
+        "notable_features": "Seven small-bay buildings located less than a mile west of Interstate 95, near the Dania Pointe retail complex.",
+        "project_notes": "The campus last traded for $17.5 million in 2013. The weighted average lease term is 3.9 years."
+      },
+      "companies_people": [
         {
-          "label": "LANDLORD",
-          "firm_name": "Oxford Properties Group",
-          "people": []
-        },
-        {
-          "label": "TENANT",
-          "firm_name": "Castle Hook Partners",
-          "people": []
-        },
-        {
-          "label": "TENANT",
-          "firm_name": "Bank of India",
-          "people": []
-        },
-        {
-          "label": "TENANT",
-          "firm_name": "IQ-EQ Fund Services",
-          "people": []
-        },
-        {
-          "label": "LANDLORD",
-          "firm_name": "Stawski Partners",
-          "people": []
-        },
-        {
-          "label": "TENANT",
-          "firm_name": "Morgan, Lewis & Bockius",
-          "people": []
-        },
-        {
-          "label": "LANDLORD",
-          "firm_name": "Mitsui Fudosan America",
-          "people": []
-        },
-        {
-          "label": "TENANT",
-          "firm_name": "Silvercrest Asset Management",
-          "people": []
-        },
-        {
-          "label": "TENANT",
-          "firm_name": "i80 Group",
-          "people": []
-        },
-        {
-          "label": "LANDLORD",
-          "firm_name": "Fisher Brothers",
-          "people": []
-        },
-        {
-          "label": "TENANT",
-          "firm_name": "Sentinel Capital Partners",
-          "people": []
-        },
-        {
-          "label": "LANDLORD",
-          "firm_name": "SL Green Realty",
-          "people": []
-        },
-        {
-          "label": "TENANT",
-          "firm_name": "Sony",
-          "people": []
-        },
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Tishman Speyer",
+          "label": "BUYER",
+          "firm_name": "BKM Capital Partners",
           "people": []
         },
         {
           "label": "BUYER",
-          "firm_name": "Brixmor Property Group",
-          "people": []
-        },
-        {
-          "label": "BUYER",
-          "firm_name": "Everview Partners",
+          "firm_name": "Kayne Anderson Real Estate",
           "people": []
         },
         {
           "label": "SELLER",
-          "firm_name": "Slate Grocery REIT",
-          "people": []
-        },
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Toys R Us",
-          "people": []
-        },
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Go! Retail Group",
-          "people": []
-        },
-        {
-          "label": "TENANT",
-          "firm_name": "Maison Estelle",
-          "people": []
-        },
-        {
-          "label": "LENDER",
-          "firm_name": "J.P. Morgan",
-          "people": []
-        },
-        {
-          "label": "LENDER",
-          "firm_name": "Nuveen Green Capital",
-          "people": []
-        },
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Related Urban Development Group",
-          "people": []
-        },
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Craig Robins",
-          "people": []
-        },
-        {
-          "label": "TENANT",
-          "firm_name": "Josh Harris",
-          "people": []
-        },
-        {
-          "label": "TENANT",
-          "firm_name": "Atria Health Research",
-          "people": []
-        },
-        {
-          "label": "BUYER",
-          "firm_name": "Ken Griffin",
+          "firm_name": "Link Logistics",
           "people": []
         },
         {
           "label": "SELLER",
-          "firm_name": "Moishe Mana",
+          "firm_name": "Blackstone",
+          "people": []
+        },
+        {
+          "label": "BUYER BROKER",
+          "firm_name": "Cushman & Wakefield",
+          "people": [
+            {
+              "name": "Rick Brugge",
+              "title": null
+            }
+          ]
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Affinius Capital Provides $95M Construction Loan for Oregon State Student Housing",
+      "source": "Commercial Observer",
+      "link": "https://commercialobserver.com/2026/10/affinius-capital-95m-construction-loan-oregon-state-student-housing/",
+      "published": "Mon, 05 Oct 2026 16:44:25 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-10-05-004.html",
+      "transaction_type": "Loan",
+      "article_type": null,
+      "market": "Corvallis, OR",
+      "narrative": "Affinius Capital has provided a $94.8 million construction loan to Fields Holdings for the development of Zev Corvallis, a 13-story student housing complex near Oregon State University. The project aims to address the growing demand for student housing in Corvallis, particularly high-rise developments, driven by increasing university enrollment. The lender noted the project's potential to elevate student housing standards in the market.",
+      "data_points": {
+        "property_type": "student housing",
+        "property_name": "Zev Corvallis",
+        "address": "516 South West Fourth Street, Corvallis, OR",
+        "address_sourced_separately": false,
+        "size_sf": 4500.0,
+        "size_units": 262,
+        "size_beds": 667,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": 94800000.0,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": "fall 2028",
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": "13-story high-rise student housing complex with 4,500 square feet of retail.",
+        "project_notes": null
+      },
+      "companies_people": [
+        {
+          "label": "SPONSOR",
+          "firm_name": "Fields Holdings",
+          "people": []
+        },
+        {
+          "label": "LENDER",
+          "firm_name": "Affinius Capital",
+          "people": [
+            {
+              "name": "Tyler Figley",
+              "title": "Senior Vice President"
+            }
+          ]
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Record Diesel Prices Fuel More Challenges for Retail Real Estate",
+      "source": "Commercial Observer",
+      "link": "https://commercialobserver.com/2026/10/record-diesel-prices-retail-real-estate-challenges/",
+      "published": "Mon, 05 Oct 2026 16:01:36 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-10-05-005.html",
+      "transaction_type": null,
+      "article_type": "Opinion / Market Commentary",
+      "market": null,
+      "narrative": "Record-high diesel prices, surpassing $6 per gallon in September, are significantly impacting U.S. retail real estate development by increasing transportation and construction costs. Despite strong consumer purchasing power and aggressive expansion plans from retailers, particularly in the value sector, developers face challenges due to chronically flat retail rents and compressed profit margins. This dynamic is leading to historically strained retail construction nationwide, with limited new supply available for lease, creating a competitive environment for existing quality space and favoring landlords.",
+      "data_points": null,
+      "companies_people": [
+        {
+          "label": "OWNER",
+          "firm_name": "Kimco",
+          "people": []
+        },
+        {
+          "label": "OTHER",
+          "firm_name": "CoStar Group",
+          "people": [
+            {
+              "name": "Brandon Svec",
+              "title": "National Director of U.S. Retail Analytics"
+            }
+          ]
+        },
+        {
+          "label": "OTHER",
+          "firm_name": "JLL",
+          "people": [
+            {
+              "name": "James Cook",
+              "title": "Senior Director of Americas Retail Research"
+            }
+          ]
+        }
+      ],
+      "tenants": [
+        "Whole Foods",
+        "Aldi",
+        "T.J. Maxx",
+        "Burlington",
+        "Dollar Tree",
+        "Dollar General",
+        "Walmart"
+      ],
+      "financing": null,
+      "market_intelligence": "Retail construction in Q2 2026 was historically strained nationwide. Retail vacancies are lower today than at the start of the year, and rents remain strong. Less than 30% of new retail sites are available to lease."
+    },
+    {
+      "title": "MMG Real Estate Advisors Arranges Sale of 192-Unit Apartment Complex in Bryan, Texas",
+      "source": "REBusinessOnline",
+      "link": "https://rebusinessonline.com/mmg-real-estate-advisors-arranges-sale-of-192-unit-apartment-complex-in-bryan-texas/",
+      "published": "Mon, 05 Oct 2026 14:21:59 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-10-05-006.html",
+      "transaction_type": "Sale",
+      "article_type": null,
+      "market": "Bryan, TX",
+      "narrative": "MMG Real Estate Advisors has facilitated the sale of The Element at University Park, a 192-unit apartment complex in Bryan, Texas. Houston-based Lumen Capital sold the property to Hayden Properties. The transaction involved a regional brokerage firm, highlighting continued investment activity in Central Texas multifamily assets.",
+      "data_points": {
+        "property_type": "multifamily",
+        "property_name": "The Element at University Park",
+        "address": "4475 Carter Creek Pkwy, Bryan, TX",
+        "address_sourced_separately": true,
+        "size_sf": null,
+        "size_units": 192,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": 2000,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": "Offers one- and two-bedroom units, sports courts (basketball, volleyball, pickleball), and a business center.",
+        "project_notes": null
+      },
+      "companies_people": [
+        {
+          "label": "SELLER",
+          "firm_name": "Lumen Capital",
+          "people": []
+        },
+        {
+          "label": "BUYER",
+          "firm_name": "Hayden Properties",
+          "people": []
+        },
+        {
+          "label": "SELLER BROKER",
+          "firm_name": "MMG Real Estate Advisors",
+          "people": [
+            {
+              "name": "Harris Weber",
+              "title": null
+            },
+            {
+              "name": "Michael Moffitt",
+              "title": null
+            },
+            {
+              "name": "Michael Watson",
+              "title": null
+            },
+            {
+              "name": "Michael Miller",
+              "title": null
+            },
+            {
+              "name": "Thomas Skevington",
+              "title": null
+            }
+          ]
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "JLL Negotiates Sale of 172,854 SF Office Building in Northwest Austin",
+      "source": "REBusinessOnline",
+      "link": "https://rebusinessonline.com/jll-negotiates-sale-of-172854-sf-office-building-in-northwest-austin/",
+      "published": "Mon, 05 Oct 2026 14:08:48 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-10-05-007.html",
+      "transaction_type": "Sale",
+      "article_type": null,
+      "market": "Austin, TX",
+      "narrative": "JLL has facilitated the sale of Research Park Plaza V, a 172,854-square-foot office building located in northwest Austin. The four-story property, completed in 2015, was 85 percent leased to a strong tenant mix at the time of the transaction. The seller was Cousins Properties, an Atlanta-based REIT.",
+      "data_points": {
+        "property_type": "office",
+        "property_name": "Research Park Plaza V",
+        "address": "12301 Research Blvd, Austin, TX",
+        "address_sourced_separately": true,
+        "size_sf": 172854.0,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": 85.0,
+        "year_built": 2015,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": null,
+        "project_notes": null
+      },
+      "companies_people": [
+        {
+          "label": "SELLER",
+          "firm_name": "Cousins Properties",
+          "people": []
+        },
+        {
+          "label": "SELLER BROKER",
+          "firm_name": "JLL",
+          "people": [
+            {
+              "name": "Ryan Stevens",
+              "title": null
+            },
+            {
+              "name": "Drew Fuller",
+              "title": null
+            },
+            {
+              "name": "Jeff Coddington",
+              "title": null
+            }
+          ]
+        }
+      ],
+      "tenants": [
+        "Cadence Design Systems",
+        "Planview"
+      ],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Sports Companies Sign Two Industrial Leases Totaling 150,000 SF in San Antonio",
+      "source": "REBusinessOnline",
+      "link": "https://rebusinessonline.com/sports-companies-sign-two-industrial-leases-totaling-150000-sf-in-san-antonio/",
+      "published": "Mon, 05 Oct 2026 13:54:23 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-10-05-008.html",
+      "transaction_type": "Lease",
+      "article_type": null,
+      "market": "San Antonio, TX",
+      "narrative": "Two sports-related companies, M Padel and Socceroof, have signed industrial leases totaling 150,000 square feet in San Antonio. The companies will occupy former distribution buildings on the city's northeast side, with one tenant taking 50,000 square feet and the other 150,000 square feet. The transactions reflect continued demand for large-format industrial spaces for experiential and recreational uses.",
+      "data_points": {
+        "property_type": "industrial",
+        "property_name": null,
+        "address": "6558 E. Campus Drive, San Antonio, TX",
+        "address_sourced_separately": false,
+        "size_sf": 150000.0,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": true,
+        "notable_features": "Former distribution buildings converted for sports and recreational use.",
+        "project_notes": null
+      },
+      "companies_people": [
+        {
+          "label": "TENANT",
+          "firm_name": "M Padel",
+          "people": []
+        },
+        {
+          "label": "TENANT",
+          "firm_name": "Socceroof",
+          "people": []
+        },
+        {
+          "label": "TENANT REP",
+          "firm_name": "NAI Robert Lynn",
+          "people": [
+            {
+              "name": "Giancarlo Carriero",
+              "title": null
+            },
+            {
+              "name": "Tommy Tran",
+              "title": null
+            },
+            {
+              "name": "Carey Chan",
+              "title": null
+            }
+          ]
+        }
+      ],
+      "tenants": [
+        "M Padel",
+        "Socceroof"
+      ],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "April Housing Underway on $21.5M Renovation of Arlington Affordable Housing Complex",
+      "source": "REBusinessOnline",
+      "link": "https://rebusinessonline.com/april-housing-underway-on-21-5m-renovation-of-arlington-affordable-housing-complex/",
+      "published": "Mon, 05 Oct 2026 13:51:50 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-10-05-009.html",
+      "transaction_type": "Construction",
+      "article_type": null,
+      "market": "Arlington, TX",
+      "narrative": "April Housing, the affordable housing division of Blackstone Real Estate, has commenced a $21.5 million renovation of Mayfield Park, a 240-unit complex in Arlington, TX. This renovation is part of a resyndication effort designed to extend the property's affordability status for an additional 30 years. The upgrades will encompass interior unit improvements, new mechanical systems, and enhancements to common area amenities.",
+      "data_points": {
+        "property_type": "multifamily",
+        "property_name": "Mayfield Park",
+        "address": "2104 Worth St, Arlington, TX",
+        "address_sourced_separately": true,
+        "size_sf": null,
+        "size_units": 240,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": 21500000.0,
+        "occupancy": null,
+        "year_built": 2000,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": "11-building complex; renovation preserves affordability for 30 years.",
+        "project_notes": null
+      },
+      "companies_people": [
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "April Housing",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Blackstone Real Estate",
+          "people": []
+        },
+        {
+          "label": "ARCHITECT",
+          "firm_name": "Benton Design Group",
+          "people": []
+        },
+        {
+          "label": "GENERAL CONTRACTOR",
+          "firm_name": "ICON Builders",
           "people": []
         }
       ],
       "tenants": [],
       "financing": null,
-      "market_intelligence": "The 10-Year Treasury has reached its highest rate in 19 years. The volume of office space available for lease in Manhattan is at its lowest level since 2020."
+      "market_intelligence": null
+    },
+    {
+      "title": "PTM Partners Obtains $125M Construction Loan for Phase II of High-Rise Project in St. Petersburg, Florida",
+      "source": "REBusinessOnline",
+      "link": "https://rebusinessonline.com/ptm-partners-obtains-125m-construction-loan-for-phase-ii-of-high-rise-project-in-st-petersburg-florida/",
+      "published": "Mon, 05 Oct 2026 13:39:27 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-10-05-010.html",
+      "transaction_type": "Loan",
+      "article_type": null,
+      "market": "St. Petersburg, FL",
+      "narrative": "PTM Partners has secured a $125 million construction loan for the second phase of its EDGE Collective development in downtown St. Petersburg. The financing, arranged by Berkadia through an affiliate of GID, will support the construction of a 20-story residential tower with ground-floor retail. This project builds on the success of the first phase, which included a hotel and adaptive reuse components.",
+      "data_points": {
+        "property_type": "multifamily",
+        "property_name": "EDGE Collective II",
+        "address": null,
+        "address_sourced_separately": false,
+        "size_sf": null,
+        "size_units": 330,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": 125000000.0,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": "20-story residential tower with ground-floor retail space.",
+        "project_notes": "Three-year, floating-rate loan."
+      },
+      "companies_people": [
+        {
+          "label": "SPONSOR",
+          "firm_name": "PTM Partners",
+          "people": []
+        },
+        {
+          "label": "LENDER",
+          "firm_name": "GID",
+          "people": []
+        },
+        {
+          "label": "MORTGAGE BROKER",
+          "firm_name": "Berkadia",
+          "people": [
+            {
+              "name": "Scott Wadler",
+              "title": null
+            },
+            {
+              "name": "Alec Fox",
+              "title": null
+            },
+            {
+              "name": "Mitch Sinberg",
+              "title": null
+            },
+            {
+              "name": "Matt Robbins",
+              "title": null
+            },
+            {
+              "name": "Brad Williamson",
+              "title": null
+            }
+          ]
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Civil engineering firm signs 32,000-square-foot office lease at Triten\u2019s Assembly Park in Plano",
+      "source": "REJournals",
+      "link": "https://rejournals.com/civil-engineering-firm-signs-32000-square-foot-office-lease-at-tritens-assembly-park-in-plano/?utm_source=rss&utm_medium=rss&utm_campaign=civil-engineering-firm-signs-32000-square-foot-office-lease-at-tritens-assembly-park-in-plano",
+      "published": "Mon, 05 Oct 2026 16:16:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-10-05-011.html",
+      "transaction_type": "Lease",
+      "article_type": null,
+      "market": "Plano, TX",
+      "narrative": "SPIARS Engineering Inc., a civil engineering and surveying company, has signed a 32,000-square-foot office lease at Assembly Park in Plano, TX. The move will consolidate SPIARS' two existing East offices into a single location within the 26-acre mixed-use campus. The company was drawn to Assembly Park's strategic location, accessibility, design, and potential for future expansion, as well as its campus-style environment with outdoor green space, fitness amenities, and dining options.",
+      "data_points": {
+        "property_type": "office",
+        "property_name": "Assembly Park",
+        "address": "6200 K Ave, Plano, TX",
+        "address_sourced_separately": false,
+        "size_sf": 32000.0,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": "spring 2027",
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": "26-acre walkable, mixed-use campus with creative office space, dining, luxury residences, outdoor green space, walking/biking trails, and fitness amenities.",
+        "project_notes": "SPIARS Engineering Inc. is consolidating two existing offices into this single location."
+      },
+      "companies_people": [
+        {
+          "label": "LANDLORD",
+          "firm_name": "Triten Real Estate Partners",
+          "people": []
+        },
+        {
+          "label": "TENANT",
+          "firm_name": "SPIARS Engineering Inc.",
+          "people": []
+        },
+        {
+          "label": "LEASING AGENT",
+          "firm_name": "CBRE",
+          "people": [
+            {
+              "name": "Julee Amparo",
+              "title": null
+            },
+            {
+              "name": "Tommy Nelson",
+              "title": null
+            }
+          ]
+        },
+        {
+          "label": "TENANT REP",
+          "firm_name": "Citadel Partners LLC",
+          "people": [
+            {
+              "name": "Mac Morse",
+              "title": null
+            },
+            {
+              "name": "Katherine Pool",
+              "title": null
+            }
+          ]
+        }
+      ],
+      "tenants": [
+        "SPIARS Engineering Inc."
+      ],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Mohr Capital closes sale of 1.05-million-square-foot industrial facility in Whiteland",
+      "source": "REJournals",
+      "link": "https://rejournals.com/mohr-capital-closes-sale-of-1-05-million-square-foot-industrial-facility-in-whiteland/?utm_source=rss&utm_medium=rss&utm_campaign=mohr-capital-closes-sale-of-1-05-million-square-foot-industrial-facility-in-whiteland",
+      "published": "Mon, 05 Oct 2026 16:00:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-10-05-012.html",
+      "transaction_type": "Sale",
+      "article_type": null,
+      "market": "Whiteland, IN",
+      "narrative": "Mohr Capital has completed the sale of Lot 6, a 1.05-million-square-foot industrial facility located within Mohr Logistics Park in Whiteland, Indiana. The property, which was rebuilt after sustaining tornado damage in 2023, offers modern bulk warehouse space with 40-foot clear heights. The buyer and transaction terms were not disclosed, but Mohr Capital will retain ownership of the remaining portions of the logistics park.",
+      "data_points": {
+        "property_type": "industrial",
+        "property_name": "Lot 6, Mohr Logistics Park",
+        "address": "5741 North Graham Road, Whiteland, IN",
+        "address_sourced_separately": false,
+        "size_sf": 1057350.0,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": 2022,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": "Modern bulk warehouse space with 40-foot clear heights, located within a 475-acre master-planned industrial development along the I-65 corridor.",
+        "project_notes": "The facility was originally completed in 2022 and rebuilt on its original foundation after sustaining significant damage from an EF-3 tornado in April 2023."
+      },
+      "companies_people": [
+        {
+          "label": "SELLER",
+          "firm_name": "Mohr Capital",
+          "people": []
+        },
+        {
+          "label": "TENANT",
+          "firm_name": "Cummins",
+          "people": []
+        }
+      ],
+      "tenants": [
+        "Cummins"
+      ],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "St. Louis\u2019 S.M. Wilson & Co. names community engagement manager",
+      "source": "REJournals",
+      "link": "https://rejournals.com/st-louis-s-m-wilson-co-names-community-engagement-manager/?utm_source=rss&utm_medium=rss&utm_campaign=st-louis-s-m-wilson-co-names-community-engagement-manager",
+      "published": "Mon, 05 Oct 2026 14:53:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-10-05-013.html",
+      "transaction_type": null,
+      "article_type": null,
+      "market": null,
+      "narrative": "",
+      "data_points": null,
+      "companies_people": [],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "BGO acquires 11-property surgery center portfolio",
+      "source": "REJournals",
+      "link": "https://rejournals.com/bgo-acquires-11-property-surgery-center-portfolio/?utm_source=rss&utm_medium=rss&utm_campaign=bgo-acquires-11-property-surgery-center-portfolio",
+      "published": "Mon, 05 Oct 2026 14:12:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-10-05-014.html",
+      "transaction_type": "Acquisition",
+      "article_type": null,
+      "market": null,
+      "narrative": "BGO, on behalf of its U.S. Core Strategy, has acquired an 11-property portfolio of Class-A ambulatory surgery centers totaling approximately 223,000 square feet. The portfolio, which is 100% leased, was purchased from a joint venture between Flagship Healthcare Properties and AEW Capital Management. This acquisition expands BGO's healthcare real estate holdings with a geographically diversified collection of purpose-built outpatient surgical facilities across nine U.S. markets, reflecting BGO's confidence in the shift towards outpatient care delivery. Flagship Healthcare Properties will continue to provide property management services for the portfolio.",
+      "data_points": {
+        "property_type": "medical office",
+        "property_name": null,
+        "address": null,
+        "address_sourced_separately": false,
+        "size_sf": 223000.0,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": true,
+        "notable_features": "Purpose-built Class-A ambulatory surgery centers with specialized surgical infrastructure, established affiliations with major health systems, and relationships with national ASC operators. Clinical specialties include ophthalmology, orthopedics, gastroenterology, ENT, podiatry, plastic and reconstructive surgery, pain management, urology, and endoscopy.",
+        "project_notes": null
+      },
+      "companies_people": [
+        {
+          "label": "BUYER",
+          "firm_name": "BGO",
+          "people": []
+        },
+        {
+          "label": "SELLER",
+          "firm_name": "Flagship Healthcare Properties",
+          "people": []
+        },
+        {
+          "label": "SELLER",
+          "firm_name": "AEW Capital Management",
+          "people": []
+        },
+        {
+          "label": "SELLER BROKER",
+          "firm_name": "CBRE U.S. Healthcare Capital Markets",
+          "people": [
+            {
+              "name": "Chris Bodnar",
+              "title": null
+            },
+            {
+              "name": "Brannan Knott",
+              "title": null
+            },
+            {
+              "name": "Zack Holderman",
+              "title": null
+            },
+            {
+              "name": "Anthony Sardo",
+              "title": null
+            },
+            {
+              "name": "Cole Reethof",
+              "title": null
+            },
+            {
+              "name": "Jesse Greshin",
+              "title": null
+            }
+          ]
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Flagship Healthcare Properties",
+          "people": []
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Mid-America brokers sale of 240,345-square-foot community center in Lombard",
+      "source": "REJournals",
+      "link": "https://rejournals.com/mid-america-brokers-sale-of-240345-square-foot-community-center-in-lombard/?utm_source=rss&utm_medium=rss&utm_campaign=mid-america-brokers-sale-of-240345-square-foot-community-center-in-lombard",
+      "published": "Mon, 05 Oct 2026 14:00:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-10-05-015.html",
+      "transaction_type": "Sale",
+      "article_type": null,
+      "market": "Lombard, IL",
+      "narrative": "Mid-America Real Estate Corporation's Investment Sales Group facilitated the sale of High Point Centre, a 240,345-square-foot community center in Lombard, Illinois. The property, located in the affluent western DuPage County Chicago suburbs, was acquired by a private investment group from a publicly traded REIT. The center offers significant value-add potential, currently operating at 68% occupancy with a diverse tenant mix.",
+      "data_points": {
+        "property_type": "retail",
+        "property_name": "High Point Centre",
+        "address": "401-581 E Roosevelt Rd, Lombard, IL",
+        "address_sourced_separately": true,
+        "size_sf": 240345.0,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": 68.0,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": "Community center with value-add upside, located along heavily trafficked Roosevelt Road.",
+        "project_notes": null
+      },
+      "companies_people": [
+        {
+          "label": "SELLER BROKER",
+          "firm_name": "Mid-America Real Estate Corporation",
+          "people": [
+            {
+              "name": "Ben Wineman",
+              "title": "Principal"
+            }
+          ]
+        },
+        {
+          "label": "SELLER",
+          "firm_name": "Publicly Traded REIT",
+          "people": []
+        },
+        {
+          "label": "BUYER",
+          "firm_name": "Private Investment Group",
+          "people": []
+        }
+      ],
+      "tenants": [
+        "LA Fitness",
+        "Altitude Trampoline Park",
+        "Ace Dental",
+        "Burger King",
+        "Mango Mango Desserts",
+        "Sport Clips",
+        "Seoul Bites Korean BBQ",
+        "Souq Market",
+        "Tropical Smoothie Caf\u00e9"
+      ],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Yamaha Divests U.S. Headquarters in Sale-Leaseback",
+      "source": "Connect CRE",
+      "link": "https://www.connectcre.com/stories/yamaha-divests-u-s-headquarters-in-sale-leaseback/",
+      "published": "Mon, 05 Oct 2026 17:33:41 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-10-05-016.html",
+      "transaction_type": "Sale",
+      "article_type": null,
+      "market": "Cypress, CA",
+      "narrative": "Yamaha Motor Corporation, U.S.A. has completed a sale-leaseback transaction for its U.S. headquarters campus in Cypress, CA. The Walt Disney Co. acquired the 25-acre, 278,964-square-foot property for $115 million, intending to utilize it for back-office operations. Yamaha will continue to occupy the campus through December 2028 as it prepares for a planned relocation to Kennesaw, GA. The transaction highlights the strong demand for high-caliber assets in the local market.",
+      "data_points": {
+        "property_type": "industrial",
+        "property_name": null,
+        "address": "6555 Katella Ave., Cypress, CA",
+        "address_sourced_separately": false,
+        "size_sf": 278964.0,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": 115000000.0,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": 25.0,
+        "multi_asset_purchase": true,
+        "notable_features": "Infill industrial-zoned property includes one industrial, one flex, and one office building.",
+        "project_notes": "Yamaha will lease back the property through December 31, 2028, as part of a planned relocation to Kennesaw, GA. The property has served as Yamaha's U.S. headquarters since 1979."
+      },
+      "companies_people": [
+        {
+          "label": "SELLER",
+          "firm_name": "Yamaha Motor Corporation, U.S.A.",
+          "people": []
+        },
+        {
+          "label": "BUYER",
+          "firm_name": "The Walt Disney Co.",
+          "people": []
+        },
+        {
+          "label": "SELLER BROKER",
+          "firm_name": "Avison Young",
+          "people": [
+            {
+              "name": "Patrick Barnes",
+              "title": null
+            },
+            {
+              "name": "Paul Clark",
+              "title": null
+            },
+            {
+              "name": "Nick Slonek",
+              "title": null
+            },
+            {
+              "name": "Jae Estep",
+              "title": null
+            },
+            {
+              "name": "Jeff Estep",
+              "title": "managing principal occupier services"
+            }
+          ]
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Houston Industrial Market Stays Strong",
+      "source": "Connect CRE",
+      "link": "https://www.connectcre.com/stories/houston-industrial-market-stays-strong/",
+      "published": "Mon, 05 Oct 2026 16:46:19 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-10-05-017.html",
+      "transaction_type": null,
+      "article_type": "Market Research / Industrial Report",
+      "market": "Houston, TX",
+      "narrative": "Houston's industrial market experienced a significant surge in the third quarter of 2026, marking its strongest leasing activity in over four years. This acceleration was driven by a notable increase in large transactions, with nineteen leases exceeding 250,000 square feet signed during the quarter. The market also saw robust net absorption, indicating strong demand for industrial space.",
+      "data_points": null,
+      "companies_people": [
+        {
+          "label": "OWNER",
+          "firm_name": "Cushman & Wakefield",
+          "people": []
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Trammell Crow-Led JV Sells Houston Warehouse for $26.8M",
+      "source": "Connect CRE",
+      "link": "https://www.connectcre.com/stories/trammell-crow-led-jv-sells-houston-warehouse-for-26-8m/",
+      "published": "Mon, 05 Oct 2026 16:25:18 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-10-05-018.html",
+      "transaction_type": "Sale",
+      "article_type": null,
+      "market": "Houston, TX",
+      "narrative": "A joint venture led by Trammell Crow Company and Daiwa House Texas Inc. has sold Building 3 of the Blue Ridge Commerce Center in Houston, Texas, to Applied Optoelectronics for $26.8 million. The 153,928-square-foot warehouse was fully leased by the buyer in February 2026, prior to the sale. This transaction marks the fourth building sold to an owner-occupier within the first phase of the commerce center, highlighting strong demand for industrial properties in the area.",
+      "data_points": {
+        "property_type": "industrial",
+        "property_name": "Building 3 at Blue Ridge Commerce Center",
+        "address": "16851 Blue Ridge Commerce Dr, Houston, TX",
+        "address_sourced_separately": false,
+        "size_sf": 153928.0,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": 26800000.0,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": 100.0,
+        "year_built": 2025,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": null,
+        "project_notes": "Building 3 was delivered in Fall 2025 as part of Phase I, which included five warehouse buildings totaling 1.35 million square feet. The buyer had leased 100% of the building in February 2026."
+      },
+      "companies_people": [
+        {
+          "label": "SELLER",
+          "firm_name": "Trammell Crow Company",
+          "people": []
+        },
+        {
+          "label": "SELLER",
+          "firm_name": "Daiwa House Texas Inc.",
+          "people": []
+        },
+        {
+          "label": "BUYER",
+          "firm_name": "Applied Optoelectronics",
+          "people": []
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Agora Starting Last Phase of $375M N. Las Vegas Development",
+      "source": "Connect CRE",
+      "link": "https://www.connectcre.com/stories/agora-starting-last-phase-of-375m-n-las-vegas-development/",
+      "published": "Mon, 05 Oct 2026 16:15:48 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-10-05-019.html",
+      "transaction_type": "Construction",
+      "article_type": null,
+      "market": "North Las Vegas, NV",
+      "narrative": "Agora Realty has commenced construction on the third and final phase of Hylo Park, a 73-acre master-planned mixed-use community in North Las Vegas. This $375 million, 25-acre phase will create a youth sports and sports tourism-focused entertainment district, featuring a multi-sport indoor field house, an existing arena, a sports academy, retail, restaurants, and a 177-key Hilton Embassy Suites. The project is slated for completion in late 2027.",
+      "data_points": {
+        "property_type": "mixed-use",
+        "property_name": "Hylo Park",
+        "address": null,
+        "address_sourced_separately": false,
+        "size_sf": 250000.0,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": 177,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": 375000000.0,
+        "occupancy": null,
+        "year_built": null,
+        "completion": "late 2027",
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": 25.0,
+        "multi_asset_purchase": false,
+        "notable_features": "Professional-level, mixed-use youth sports-and sports tourism-focused walkable entertainment district with complementary amenities.",
+        "project_notes": "This is the third and final phase of a 73-acre master-planned community. Phase two, Hylo Park South, a 90,750-square-foot grocery-anchored retail center, was completed in July 2026. Phase one involved the sale of 36.5 acres to Lennar Corp. for residential development in late 2024."
+      },
+      "companies_people": [
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Agora Realty",
+          "people": []
+        },
+        {
+          "label": "GENERAL CONTRACTOR",
+          "firm_name": "Agora Realty",
+          "people": []
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Arizona Biltmore Owners Buy Wrigley Mansion",
+      "source": "Connect CRE",
+      "link": "https://www.connectcre.com/stories/arizona-biltmore-owners-buy-wrigley-mansion/",
+      "published": "Mon, 05 Oct 2026 16:02:33 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-10-05-020.html",
+      "transaction_type": "Acquisition",
+      "article_type": null,
+      "market": "Phoenix, AZ",
+      "narrative": "A joint venture led by Henderson Park, in partnership with Western & Southern Financial Group, Hamilton Lane, South Street Partners, and Pyramid Global Hospitality, has acquired the historic Wrigley Mansion in Phoenix, AZ, for $17 million. The property was sold by the Hormel family, who had owned it for 34 years. This acquisition brings the Wrigley Mansion under the same ownership as the nearby Arizona Biltmore, which the Henderson Park-led venture purchased in 2024.",
+      "data_points": {
+        "property_type": "hospitality",
+        "property_name": "Wrigley Mansion",
+        "address": "2501 E Telawa Trail, Phoenix, AZ",
+        "address_sourced_separately": false,
+        "size_sf": null,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": 17000000.0,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": 1931,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": "Perched atop a 100-foot knoll, offering sweeping 360-degree views of the Valley.",
+        "project_notes": "Commissioned by William Wrigley Jr. as a 50th wedding anniversary gift for his wife, Ada."
+      },
+      "companies_people": [
+        {
+          "label": "BUYER",
+          "firm_name": "Henderson Park",
+          "people": []
+        },
+        {
+          "label": "BUYER",
+          "firm_name": "Western & Southern Financial Group",
+          "people": []
+        },
+        {
+          "label": "BUYER",
+          "firm_name": "Hamilton Lane",
+          "people": []
+        },
+        {
+          "label": "BUYER",
+          "firm_name": "South Street Partners",
+          "people": []
+        },
+        {
+          "label": "BUYER",
+          "firm_name": "Pyramid Global Hospitality",
+          "people": []
+        },
+        {
+          "label": "SELLER",
+          "firm_name": "Hormel family",
+          "people": []
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Ireland On Course For \u20ac3B Of Real Estate Investment In 2026",
+      "source": "Bisnow Latest News Feed",
+      "link": "https://www.bisnow.com/news/dublin/investment/ireland-on-course-for-euro3b-of-real-estate-investment-in-2026",
+      "published": "Mon, 05 Oct 2026 12:19:43 -0400",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-10-05-021.html",
+      "transaction_type": null,
+      "article_type": "Market Research / Investment Forecast",
+      "market": "Ireland",
+      "narrative": "Ireland's real estate market is projected to attract \u20ac3 billion in investment by the end of 2026, driven by a significant increase in deal activity during the third quarter. This forecast suggests a robust recovery and sustained investor confidence in the Irish property sector.",
+      "data_points": null,
+      "companies_people": [],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "South Fulton Mayor Embraces Data Centers After End Of Moratorium",
+      "source": "Bisnow Latest News Feed",
+      "link": "https://www.bisnow.com/news/atlanta/data-center/south-fulton-mayor-embraces-data-centers-after-end-of-moratorium",
+      "published": "Sun, 04 Oct 2026 19:00:54 -0400",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-10-05-022.html",
+      "transaction_type": null,
+      "article_type": "Opinion / Market Commentary",
+      "market": "South Fulton, GA",
+      "narrative": "The mayor of South Fulton, GA, has publicly endorsed data center development, emphasizing their economic benefits and necessity for the city's growth. This stance comes after the expiration of a moratorium on new data center projects in the area, signaling a shift towards embracing the industry despite broader national concerns.",
+      "data_points": null,
+      "companies_people": [],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Life Insurers Writing Riskier Loans To CRE, Setting Off Alarm Bells",
+      "source": "Bisnow Latest News Feed",
+      "link": "https://www.bisnow.com/news/national/finance/insurance-industry-lending-to-cre-takes-on-more-risks-as-market-reprices",
+      "published": "Sun, 04 Oct 2026 16:32:08 -0400",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-10-05-023.html",
+      "transaction_type": null,
+      "article_type": "Opinion / Market Commentary",
+      "market": null,
+      "narrative": "Life insurance companies significantly increased their leverage on commercial real estate loans during the first half of the year, outpacing all other investor types. This trend is raising concerns among market observers regarding potential risks in the CRE lending landscape.",
+      "data_points": null,
+      "companies_people": [],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Lawmakers Are Canceling Data Center Tax Breaks. Developers Are Learning To Adapt",
+      "source": "Bisnow Latest News Feed",
+      "link": "https://www.bisnow.com/news/national/data-center-development/lawmakers-are-canceling-data-center-tax-breaks-developers-are-learning-to-adapt-",
+      "published": "Sun, 04 Oct 2026 15:24:02 -0400",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-10-05-024.html",
+      "transaction_type": null,
+      "article_type": "Opinion / Market Commentary",
+      "market": null,
+      "narrative": "State and local governments are increasingly rescinding tax breaks for data center developments due to rising public opposition. This trend is forcing developers to adjust their strategies for new projects.",
+      "data_points": null,
+      "companies_people": [],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
     }
   ]
 }
