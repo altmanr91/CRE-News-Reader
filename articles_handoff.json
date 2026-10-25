@@ -1,1194 +1,170 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "articles": [
     {
-      "title": "CP Group Sells Third Boca Raton Office for $79M",
+      "title": "Sunday Summary: Market Slowing Down? Speeding Up? How About Both?",
       "source": "Commercial Observer",
-      "link": "https://commercialobserver.com/2026/10/florida-cp-one-boca-place-golden-east/",
-      "published": "Fri, 23 Oct 2026 19:55:27 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-10-24-001.html",
-      "transaction_type": "Sale",
-      "article_type": null,
-      "market": "Boca Raton, FL",
-      "narrative": "CP Group and Harrison Street Asset Management have sold One Boca Place, a 286,890-square-foot office complex in Boca Raton, FL, for $78.9 million to Golden East Investors. The transaction was financed by City National Bank of Florida with an $82.1 million loan. This sale represents the third office property CP Group has divested in Boca Raton since the summer, following the sales of Two Town Center and the BRiC campus.",
-      "data_points": {
-        "property_type": "office",
-        "property_name": "One Boca Place",
-        "address": "2255 Glades Road, Boca Raton, FL",
-        "address_sourced_separately": false,
-        "size_sf": 286890.0,
-        "size_units": null,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": 78900000.0,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": 1986,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": 7.6,
-        "multi_asset_purchase": false,
-        "notable_features": "Two-building office property located just west of Interstate 95, near the Town Center at Boca Raton indoor mall.",
-        "project_notes": "Sellers acquired the complex for $76.4 million in 2014."
-      },
-      "companies_people": [
-        {
-          "label": "BUYER",
-          "firm_name": "Golden East Investors",
-          "people": []
-        },
-        {
-          "label": "SELLER",
-          "firm_name": "CP Group",
-          "people": []
-        },
-        {
-          "label": "SELLER",
-          "firm_name": "Harrison Street Asset Management",
-          "people": []
-        },
-        {
-          "label": "LENDER",
-          "firm_name": "City National Bank of Florida",
-          "people": []
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "New York City\u2019s Pied-\u00e0-Terre Surcharge Changes the Investment Calculation",
-      "source": "Commercial Observer",
-      "link": "https://commercialobserver.com/2026/10/new-york-city-pied-a-terre-surcharge-changes-investment-calculation/",
-      "published": "Fri, 23 Oct 2026 19:52:05 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-10-24-002.html",
+      "link": "https://commercialobserver.com/2026/10/sunday-summary-market-slowing-down-speeding-up-how-about-both/",
+      "published": "Sun, 25 Oct 2026 13:00:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-10-25-001.html",
       "transaction_type": null,
       "article_type": "Opinion / Market Commentary",
-      "market": "New York City, NY",
-      "narrative": "A new pied-\u00e0-terre surcharge in New York City is significantly altering investment calculations for residential properties, particularly luxury apartments, co-ops, and condos. The surcharge, ranging from 4% to 6.5% of the Department of Finance valuation for the 2026-27 and 2027-28 tax years, applies to second homes and can also impact co-op owners if a neighbor's bill goes unpaid. While commercial office, retail condos, and ordinary Class 2 rental buildings are exempt, some smaller mixed-use Class 1 buildings require individual review. The author suggests that these new costs may make alternative property types, such as rental buildings and commercial condos, more attractive to certain buyers seeking income-generating assets without the surcharge burden.",
-      "data_points": null,
-      "companies_people": [
-        {
-          "label": "OTHER",
-          "firm_name": "Compass Commercial",
-          "people": [
-            {
-              "name": "Trystan Polsinelli",
-              "title": "Senior Executive Director"
-            }
-          ]
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Revamp NYC Wants to Bring 99 Units to the Financial District\u2019s 160 Pearl Street",
-      "source": "Commercial Observer",
-      "link": "https://commercialobserver.com/2026/10/revamp-nyc-housing-160-pearl-street/",
-      "published": "Fri, 23 Oct 2026 19:36:56 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-10-24-003.html",
-      "transaction_type": "Development",
-      "article_type": null,
-      "market": "New York City, NY",
-      "narrative": "Revamp NYC has filed an application with the New York City Department of Buildings to construct a 25-story, 99-unit residential building with ground-floor retail at 160 Pearl Street in Manhattan's Financial District. The project would add to the neighborhood's growing residential community, though it is currently unclear if the developer plans to include affordable housing units to qualify for tax incentives or if the existing commercial building will be demolished.",
-      "data_points": {
-        "property_type": "mixed-use",
-        "property_name": null,
-        "address": "160 Pearl Street, New York City, NY",
-        "address_sourced_separately": false,
-        "size_sf": 2394.0,
-        "size_units": 99,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": null,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": null,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": null,
-        "multi_asset_purchase": false,
-        "notable_features": "Proposed amenities include indoor and outdoor recreation space and a yoga room.",
-        "project_notes": "The project may qualify for New York's 485-x tax incentive for buildings with 99 or fewer units that include affordable housing."
-      },
-      "companies_people": [
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Revamp NYC",
-          "people": [
-            {
-              "name": "Israel Tishler",
-              "title": null
-            }
-          ]
-        },
-        {
-          "label": "ARCHITECT",
-          "firm_name": "KMA Designs",
-          "people": [
-            {
-              "name": "Navkiran Cheema",
-              "title": null
-            }
-          ]
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Rexford Sells $1.3B in SoCal Industrial Assets as Leasing Rebounds",
-      "source": "Commercial Observer",
-      "link": "https://commercialobserver.com/2026/10/rexford-industrial-q3/",
-      "published": "Fri, 23 Oct 2026 19:25:07 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-10-24-004.html",
-      "transaction_type": "Sale",
-      "article_type": null,
-      "market": "Los Angeles, CA",
-      "narrative": "Rexford Industrial Realty, a Los Angeles-based REIT, sold 25 industrial properties totaling 5.5 million square feet for $1.3 billion in Southern California during the third quarter, including a $1.2 billion portfolio sale to EQT Real Estate. This marks a significant step in Rexford's $2 billion portfolio realignment strategy, shifting from buyer to seller. Despite rising Treasury yields impacting buyer capital costs, the company anticipates completing the remaining $500 million in planned sales by year-end. Concurrently, Rexford reported strong leasing activity, executing 116 leases covering 3.74 million square feet, leading to an increase in same-property occupancy to 96.9% and positive net effective rent spreads.",
-      "data_points": {
-        "property_type": "industrial",
-        "property_name": null,
-        "address": null,
-        "address_sourced_separately": false,
-        "size_sf": 5500000.0,
-        "size_units": null,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": 1300000000.0,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": null,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": null,
-        "multi_asset_purchase": true,
-        "notable_features": null,
-        "project_notes": "The portfolio sale to EQT Real Estate had a weighted average remaining lease term of 2.7 years with rents nearly 30% above market rates. Rexford also sold three properties totaling 251,000 square feet to owner-users for $86 million."
-      },
-      "companies_people": [
-        {
-          "label": "SELLER",
-          "firm_name": "Rexford Industrial Realty",
-          "people": [
-            {
-              "name": "Laura Clark",
-              "title": "CEO"
-            },
-            {
-              "name": "John Nahas",
-              "title": "Chief Operating Officer"
-            },
-            {
-              "name": "Michael Fitzmaurice",
-              "title": "Chief Financial Officer"
-            }
-          ]
-        },
-        {
-          "label": "BUYER",
-          "firm_name": "EQT Real Estate",
-          "people": []
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": "Rexford's same-property occupancy rose to 96.9% in Q3 from 94.9% in Q2, though slightly below 97.1% a year earlier. Net effective rent spreads on new leases increased 7.1% in Q3, compared with declines of 2.8% in Q2. Leasing activity was driven most heavily by light manufacturing and advanced manufacturing (about one-third), with another third from logistics, distribution, and warehouse."
-    },
-    {
-      "title": "Roof of Concept: Meet Jeff Thramann, a Data Center Disruptor",
-      "source": "Commercial Observer",
-      "link": "https://commercialobserver.com/2026/10/jeff-thramann-data-centers-roofs/",
-      "published": "Fri, 23 Oct 2026 16:16:31 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-10-24-005.html",
-      "transaction_type": null,
-      "article_type": "Feature / Profile",
-      "market": "Dallas, TX",
-      "narrative": "This article profiles Jeff Thramann, CEO of LT350, a company he co-founded with former U.S. Secretary of Defense Mark Esper. LT350 is developing an innovative data center concept that involves installing mini data centers on the roofs of solar power canopies above parking lots at properties like malls, hospitals, and schools. This approach aims to provide low-latency inference capabilities by integrating solar panels with modular cartridges containing GPUs, battery storage, and inverters, effectively turning parking lot airspace into a data center without consuming additional land. The company is targeting healthcare, financial services, and government sectors due to their need for low latency and high data security, and plans to break ground on its first project at a Dallas hospital early next year.",
-      "data_points": {
-        "property_type": "data center",
-        "property_name": null,
-        "address": null,
-        "address_sourced_separately": false,
-        "size_sf": 2000.0,
-        "size_units": null,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": null,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": null,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": null,
-        "multi_asset_purchase": false,
-        "notable_features": "Modular data centers integrated into solar canopies above parking lots, designed for low-latency inference and data security.",
-        "project_notes": "LT350 is currently involved in a merger with Auddia, an AI audio technology company, and will be owned by Thramann Holdings."
-      },
-      "companies_people": [
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "LT350",
-          "people": []
-        },
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Thramann Holdings",
-          "people": []
-        },
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Auddia",
-          "people": []
-        },
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Jeff Thramann",
-          "people": [
-            {
-              "name": "Jeff Thramann",
-              "title": "CEO"
-            }
-          ]
-        },
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Mark Esper",
-          "people": [
-            {
-              "name": "Mark Esper",
-              "title": "Former U.S. Secretary of Defense"
-            }
-          ]
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Joint Venture Completes 873-Bed Student Housing Project in College Station",
-      "source": "REBusinessOnline",
-      "link": "https://rebusinessonline.com/joint-venture-completes-873-bed-student-housing-project-in-college-station/",
-      "published": "Fri, 23 Oct 2026 14:44:32 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-10-24-006.html",
-      "transaction_type": "Construction",
-      "article_type": null,
-      "market": "College Station, TX",
-      "narrative": "A joint venture comprising The Dinerstein Cos., Up Campus Student Living, and Harrison Street Asset Management has completed Aspire Reserve, an 873-bed student housing development in College Station, TX. The 19-story property is located near the Texas A&M University campus within the Northgate District. It offers a variety of unit types and extensive amenities designed for student residents.",
-      "data_points": {
-        "property_type": "student housing",
-        "property_name": "Aspire Reserve",
-        "address": "100 Church Ave, College Station, TX",
-        "address_sourced_separately": true,
-        "size_sf": null,
-        "size_units": null,
-        "size_beds": 873,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": null,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": null,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": null,
-        "multi_asset_purchase": false,
-        "notable_features": "Located within the Northgate District near Texas A&M University campus; amenities include two pools, study spaces, golf/gaming simulator, resident game lounges, beauty bar, retail market, and indoor/outdoor fitness center with yoga and spin studios.",
-        "project_notes": null
-      },
-      "companies_people": [
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "The Dinerstein Cos.",
-          "people": []
-        },
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Up Campus Student Living",
-          "people": []
-        },
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Harrison Street Asset Management",
-          "people": []
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "McGrath Real Estate Completes Lease-Up of 736-Bed Student Housing Project in Lubbock, Texas",
-      "source": "REBusinessOnline",
-      "link": "https://rebusinessonline.com/mcgrath-real-estate-completes-lease-up-of-736-bed-student-housing-project-in-lubbock-texas/",
-      "published": "Fri, 23 Oct 2026 14:37:06 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-10-24-007.html",
-      "transaction_type": null,
-      "article_type": "Lease",
-      "market": "Lubbock, TX",
-      "narrative": "McGrath Real Estate has successfully completed the lease-up of The Wyatt, a 736-bed student housing community in Lubbock, TX, serving Texas Tech University students. The property achieved approximately 98 percent occupancy shortly after its 2025 completion and was fully preleased for the 2026 academic year by May. Strong leasing momentum continues, with over 30 percent of beds already preleased for the fall 2027 semester.",
-      "data_points": {
-        "property_type": "student housing",
-        "property_name": "The Wyatt",
-        "address": "5010 Auburn St, Lubbock, TX",
-        "address_sourced_separately": true,
-        "size_sf": null,
-        "size_units": null,
-        "size_beds": 736,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": null,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": 98.0,
-        "year_built": null,
-        "completion": "2025",
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": null,
-        "multi_asset_purchase": false,
-        "notable_features": "Serves students at Texas Tech University.",
-        "project_notes": null
-      },
-      "companies_people": [
-        {
-          "label": "OWNER",
-          "firm_name": "McGrath Real Estate",
-          "people": []
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Joint Venture Breaks Ground on Student Housing, Retail Development Near University of Texas at San Antonio",
-      "source": "REBusinessOnline",
-      "link": "https://rebusinessonline.com/joint-venture-breaks-ground-on-student-housing-retail-development-near-university-of-texas-at-san-antonio/",
-      "published": "Fri, 23 Oct 2026 14:27:38 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-10-24-008.html",
-      "transaction_type": "Development",
-      "article_type": null,
-      "market": "San Antonio, TX",
-      "narrative": "A joint venture between Barshop & Oles Co. and Phoenix Property Co. has broken ground on La Cantera Crossing, a 10-acre mixed-use development near the University of Texas at San Antonio. The project will feature a 563-bed student housing community and retail space, with Phoenix Property Co. developing the student housing and Barshop & Oles handling the retail component. The student housing is slated for completion in fall 2028.",
-      "data_points": {
-        "property_type": "mixed-use",
-        "property_name": "La Cantera Crossing",
-        "address": null,
-        "address_sourced_separately": false,
-        "size_sf": null,
-        "size_units": null,
-        "size_beds": 563,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": null,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": null,
-        "completion": "fall 2028",
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": 10.0,
-        "multi_asset_purchase": false,
-        "notable_features": "Located near the University of Texas at San Antonio campus.",
-        "project_notes": null
-      },
-      "companies_people": [
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Barshop & Oles Co.",
-          "people": []
-        },
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Phoenix Property Co.",
-          "people": []
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Virtu Signs 55,000 SF Office Lease at The Republic in Downtown Austin",
-      "source": "REBusinessOnline",
-      "link": "https://rebusinessonline.com/virtu-signs-55000-sf-office-lease-at-the-republic-in-downtown-austin/",
-      "published": "Fri, 23 Oct 2026 14:22:41 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-10-24-009.html",
-      "transaction_type": "Lease",
-      "article_type": null,
-      "market": "Austin, TX",
-      "narrative": "Virtu, a global financial services firm, has signed a 55,000-square-foot office lease at The Republic, a 48-story office tower in downtown Austin. The firm will occupy two high-rise floors in the building. The lease signifies continued demand for prime office space in the Austin market.",
-      "data_points": {
-        "property_type": "office",
-        "property_name": "The Republic",
-        "address": "401 W 4th St, Austin, TX",
-        "address_sourced_separately": true,
-        "size_sf": 55000.0,
-        "size_units": null,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": null,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": null,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": null,
-        "multi_asset_purchase": false,
-        "notable_features": "48-story office building in downtown Austin.",
-        "project_notes": null
-      },
-      "companies_people": [
-        {
-          "label": "TENANT",
-          "firm_name": "Virtu",
-          "people": []
-        },
-        {
-          "label": "TENANT REP",
-          "firm_name": "CBRE",
-          "people": []
-        },
-        {
-          "label": "TENANT REP",
-          "firm_name": "Sage Realty NYC",
-          "people": []
-        },
-        {
-          "label": "OWNER",
-          "firm_name": "DivcoWest",
-          "people": []
-        },
-        {
-          "label": "OWNER",
-          "firm_name": "Phoenix Property Group",
-          "people": []
-        },
-        {
-          "label": "OWNER",
-          "firm_name": "Lincoln Property Co.",
-          "people": []
-        },
-        {
-          "label": "LEASING AGENT",
-          "firm_name": "Lincoln Property Co.",
-          "people": []
-        }
-      ],
-      "tenants": [
-        "Virtu"
-      ],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Marcus & Millichap closes sale of 28,860-square-foot industrial property in Lewis Center",
-      "source": "REJournals",
-      "link": "https://rejournals.com/marcus-millichap-closes-sale-of-28860-square-foot-industrial-property-in-lewis-center/?utm_source=rss&utm_medium=rss&utm_campaign=marcus-millichap-closes-sale-of-28860-square-foot-industrial-property-in-lewis-center",
-      "published": "Fri, 23 Oct 2026 16:22:00 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-10-24-010.html",
-      "transaction_type": "Sale",
-      "article_type": null,
-      "market": "Lewis Center, OH",
-      "narrative": "Marcus & Millichap has brokered the sale of a 28,860-square-foot industrial property in Lewis Center, Ohio. The fully occupied, three-tenant building was sold by The Fergus Companies to a Los Angeles-based real estate investor. The property benefits from its stable tenant base and strategic business location.",
-      "data_points": {
-        "property_type": "industrial",
-        "property_name": null,
-        "address": "8377 Green Meadows Drive, Lewis Center, OH",
-        "address_sourced_separately": false,
-        "size_sf": 28860.0,
-        "size_units": null,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": null,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": 100.0,
-        "year_built": 1989,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": 2.47,
-        "multi_asset_purchase": false,
-        "notable_features": "Three-tenant industrial property with longstanding tenant histories.",
-        "project_notes": null
-      },
-      "companies_people": [
-        {
-          "label": "SELLER",
-          "firm_name": "The Fergus Companies",
-          "people": []
-        },
-        {
-          "label": "BUYER",
-          "firm_name": "Los Angeles real estate investor",
-          "people": []
-        },
-        {
-          "label": "SELLER BROKER",
-          "firm_name": "Marcus & Millichap",
-          "people": [
-            {
-              "name": "Nathan Pealer",
-              "title": "Investment Specialist"
-            }
-          ]
-        },
-        {
-          "label": "BUYER BROKER",
-          "firm_name": "Marcus & Millichap",
-          "people": [
-            {
-              "name": "Nathan Pealer",
-              "title": "Investment Specialist"
-            }
-          ]
-        }
-      ],
-      "tenants": [
-        "Medical Resources"
-      ],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Marcus & Millichap closes sale of 729-unit self-storage portfolio in Rockport, Victoria",
-      "source": "REJournals",
-      "link": "https://rejournals.com/marcus-millichap-closes-sale-of-729-unit-self-storage-portfolio-in-rockport-victoria/?utm_source=rss&utm_medium=rss&utm_campaign=marcus-millichap-closes-sale-of-729-unit-self-storage-portfolio-in-rockport-victoria",
-      "published": "Fri, 23 Oct 2026 15:20:00 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-10-24-011.html",
-      "transaction_type": "Sale",
-      "article_type": null,
-      "market": "Rockport / Victoria, TX",
-      "narrative": "Marcus & Millichap has brokered the sale of the Fortress Storage Center portfolio, comprising two self-storage facilities with a combined 729 units and 85,150 rentable square feet. The properties are located in Rockport and Victoria, Texas. The portfolio offers a mix of climate-controlled and non-climate-controlled units, gated access, video surveillance, and on-site management.",
-      "data_points": {
-        "property_type": "self-storage",
-        "property_name": "Fortress Storage Center",
-        "address": null,
-        "address_sourced_separately": false,
-        "size_sf": 85150.0,
-        "size_units": null,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": null,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": null,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": null,
-        "multi_asset_purchase": true,
-        "notable_features": "Both facilities offer climate-controlled and non-climate-controlled storage, gated access, video surveillance, and on-site management offices. The Victoria property also includes an on-site manager\u2019s residence.",
-        "project_notes": null
-      },
-      "companies_people": [
-        {
-          "label": "SELLER BROKER",
-          "firm_name": "Marcus & Millichap",
-          "people": [
-            {
-              "name": "Mixson Staffel",
-              "title": "Investment Specialist"
-            },
-            {
-              "name": "Dave Knobler",
-              "title": "Investment Specialist"
-            },
-            {
-              "name": "Charles \u201cChico\u201d LeClaire",
-              "title": "Investment Specialist"
-            }
-          ]
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Associated Bank completes $16.5 million loan for 34-unit apartment property in Libertyville",
-      "source": "REJournals",
-      "link": "https://rejournals.com/associated-bank-completes-16-5-million-loan-for-34-unit-apartment-property-in-libertyville/?utm_source=rss&utm_medium=rss&utm_campaign=associated-bank-completes-16-5-million-loan-for-34-unit-apartment-property-in-libertyville",
-      "published": "Fri, 23 Oct 2026 14:17:00 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-10-24-012.html",
-      "transaction_type": "Loan",
-      "article_type": null,
-      "market": "Libertyville, IL",
-      "narrative": "Associated Bank has provided a $16.5 million loan for the acquisition of Eleven5 Lake Apartments, a mixed-use property in Libertyville, Illinois. The property, which sold for $22 million, features 34 apartment units and 25,147 square feet of ground-floor commercial space. The apartments were 97% occupied at the time of acquisition, while the commercial space was fully leased to five tenants.",
-      "data_points": {
-        "property_type": "mixed-use",
-        "property_name": "Eleven5 Lake Apartments",
-        "address": "115 Lake St., Libertyville, IL",
-        "address_sourced_separately": false,
-        "size_sf": null,
-        "size_units": 34,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": 22000000.0,
-        "loan_amount": 16500000.0,
-        "total_project_cost": null,
-        "occupancy": 97.0,
-        "year_built": null,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": null,
-        "multi_asset_purchase": false,
-        "notable_features": "Includes 41 dedicated apartment parking spaces and is located a block south of the Metra Milwaukee District North line.",
-        "project_notes": null
-      },
-      "companies_people": [
-        {
-          "label": "LENDER",
-          "firm_name": "Associated Bank",
-          "people": [
-            {
-              "name": "Daniel Barrins",
-              "title": "Senior Vice President"
-            }
-          ]
-        },
-        {
-          "label": "MORTGAGE BROKER",
-          "firm_name": "JLL Capital Markets",
-          "people": [
-            {
-              "name": "Philip Galligan",
-              "title": null
-            },
-            {
-              "name": "Annie Thomas",
-              "title": null
-            },
-            {
-              "name": "Merrick Evans",
-              "title": null
-            },
-            {
-              "name": "Patricia Heminger",
-              "title": null
-            }
-          ]
-        },
-        {
-          "label": "OWNER",
-          "firm_name": "TLP Management",
-          "people": []
-        }
-      ],
-      "tenants": [
-        "Egg Harbor Caf\u00e9",
-        "Shakou",
-        "The Board Room",
-        "Casa Bonita"
-      ],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Tishman Speyer, American Express Partner to Offer ZO Access to Non-Tenants",
-      "source": "Connect CRE",
-      "link": "https://www.connectcre.com/stories/tishman-speyer-american-express-partner-to-offer-zo-access-to-non-tenants/",
-      "published": "Fri, 23 Oct 2026 21:58:49 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-10-24-013.html",
-      "transaction_type": null,
-      "article_type": "Non-CRE / Business News",
       "market": null,
-      "narrative": "Tishman Speyer has partnered with American Express to extend access to its ZO amenity network to eligible U.S. Business Platinum Card and Corporate Platinum Card holders. This collaboration marks the first time a major commercial real estate landlord has teamed up with a credit card issuer to offer such benefits to non-tenants. Cardholders will gain complimentary access to over 20 ZO Clubhouse and Studio coworking locations across six major cities, along with guest passes and annual statement credits for event space bookings.",
+      "narrative": "This article provides a comprehensive overview of the commercial real estate market, highlighting a mixed environment where significant capital continues to flow into major projects while other segments experience a slowdown. Billionaire Ken Griffin secured $3.3 billion in construction financing for a massive office tower in New York City, and UDR partnered with Apollo Global Management in a $2 billion joint venture for 19 multifamily communities. Despite these large deals, Manhattan's investment sales volume dropped 27% last quarter, though overall dollar volume was up year-over-year. Corporate earnings reports from industry giants like Blackstone showed profit dips, attributed to rising bond yields and higher capital costs, while CBRE reported strong revenue growth. South Florida, however, remains a hotbed of activity, with robust demand for luxury condos and significant office and refinancing deals. The market appears to be navigating a complex landscape of high-value transactions and broader economic headwinds.",
       "data_points": null,
       "companies_people": [
         {
-          "label": "OWNER",
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Vornado Realty Trust",
+          "people": []
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Rudin",
+          "people": []
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "UDR",
+          "people": []
+        },
+        {
+          "label": "EQUITY/FINANCING",
+          "firm_name": "Apollo Global Management",
+          "people": []
+        },
+        {
+          "label": "SELLER BROKER",
+          "firm_name": "Avison Young",
+          "people": [
+            {
+              "name": "Brandon Polakoff",
+              "title": null
+            }
+          ]
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
           "firm_name": "Tishman Speyer",
           "people": []
         },
         {
           "label": "EQUITY/FINANCING",
-          "firm_name": "American Express",
-          "people": []
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Skechers Headquarters in Manhattan Beach Listed for Sale",
-      "source": "Connect CRE",
-      "link": "https://www.connectcre.com/stories/skechers-headquarters-in-manhattan-beach-listed-for-sale/",
-      "published": "Fri, 23 Oct 2026 21:38:42 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-10-24-014.html",
-      "transaction_type": null,
-      "article_type": "Property Listing / For Sale",
-      "market": "Manhattan Beach, CA",
-      "narrative": "The Skechers corporate headquarters, a nearly 30,000-square-foot Class A office building at 228 Manhattan Beach Blvd. in Manhattan Beach, CA, has been listed for sale. The three-story property, which was extensively renovated in 2018 and includes a 69-stall subterranean parking garage, is being offered through a competitive bidding process and will be delivered vacant. This represents a rare opportunity to acquire a high-quality, immediately occupiable office asset in a desirable coastal market.",
-      "data_points": {
-        "property_type": "office",
-        "property_name": "Skechers Headquarters",
-        "address": "228 Manhattan Beach Blvd., Manhattan Beach, CA",
-        "address_sourced_separately": false,
-        "size_sf": 30000.0,
-        "size_units": null,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": null,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": null,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": null,
-        "multi_asset_purchase": false,
-        "notable_features": "Class A building with a 69-stall private, three-level subterranean parking garage and potential for ground-floor retail.",
-        "project_notes": "Property was extensively renovated in 2018 and will be delivered vacant."
-      },
-      "companies_people": [
-        {
-          "label": "OWNER",
-          "firm_name": "Skechers",
+          "firm_name": "Bouwinvest Real Estate Investors",
           "people": []
         },
         {
-          "label": "SELLER BROKER",
+          "label": "OWNER",
+          "firm_name": "Blackstone",
+          "people": [
+            {
+              "name": "Stephen Schwarzman",
+              "title": null
+            }
+          ]
+        },
+        {
+          "label": "OWNER",
           "firm_name": "CBRE",
-          "people": [
-            {
-              "name": "Stephen Somer",
-              "title": "Vice Chairman"
-            },
-            {
-              "name": "Anthony DeLorenzo",
-              "title": "Vice Chairman"
-            },
-            {
-              "name": "Bob Healey",
-              "title": "SVP"
-            },
-            {
-              "name": "John Lane",
-              "title": "SVP"
-            },
-            {
-              "name": "Brooke Silver",
-              "title": "SVP"
-            }
-          ]
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Tech Employment Training Group Signs Headquarters Lease in Long Island City",
-      "source": "Connect CRE",
-      "link": "https://www.connectcre.com/stories/tech-employment-training-group-signs-headquarters-lease-in-long-island-city/",
-      "published": "Fri, 23 Oct 2026 21:23:55 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-10-24-015.html",
-      "transaction_type": "Lease",
-      "article_type": null,
-      "market": "Long Island City, NY",
-      "narrative": "Pursuit Transformation Company Inc., a non-profit focused on tech and AI employment training, has signed a long-term lease for approximately 41,000 square feet at The JACX in Long Island City. This new headquarters will occupy the entire 14th and 15th floors of the Class A office development, allowing Pursuit to expand its operations and continue its mission in a supportive environment.",
-      "data_points": {
-        "property_type": "office",
-        "property_name": "The JACX",
-        "address": "28-07 Jackson Ave, Long Island City, NY",
-        "address_sourced_separately": false,
-        "size_sf": 41000.0,
-        "size_units": null,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": null,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": null,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": null,
-        "multi_asset_purchase": false,
-        "notable_features": "Class A office development.",
-        "project_notes": null
-      },
-      "companies_people": [
-        {
-          "label": "TENANT",
-          "firm_name": "Pursuit Transformation Company Inc.",
           "people": []
         },
-        {
-          "label": "LANDLORD",
-          "firm_name": "Tishman Speyer",
-          "people": [
-            {
-              "name": "Megan Sheehan",
-              "title": null
-            }
-          ]
-        },
-        {
-          "label": "TENANT REP",
-          "firm_name": "Newmark",
-          "people": [
-            {
-              "name": "David Falk",
-              "title": "President, New York Tri-State Region"
-            },
-            {
-              "name": "Daniel Levine",
-              "title": "Executive Managing Director"
-            }
-          ]
-        }
-      ],
-      "tenants": [
-        "Pursuit Transformation Company Inc."
-      ],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Lewis Group Opens Second NorCal Rental-Home Community in West Sacramento",
-      "source": "Connect CRE",
-      "link": "https://www.connectcre.com/stories/lewis-group-opens-second-norcal-rental-home-community-in-west-sacramento/",
-      "published": "Fri, 23 Oct 2026 21:10:34 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-10-24-016.html",
-      "transaction_type": "Development",
-      "article_type": null,
-      "market": "West Sacramento, CA",
-      "narrative": "Lewis Apartments has opened Independence in West Sacramento, a new gated community featuring 208 townhome-style rental homes. This marks the developer's second such community in Northern California, following a successful launch in Dixon. The project aims to provide residents with the spaciousness and privacy of a single-family home, coupled with the flexibility and reduced responsibilities of renting.",
-      "data_points": {
-        "property_type": "multifamily",
-        "property_name": "Independence in West Sacramento",
-        "address": null,
-        "address_sourced_separately": false,
-        "size_sf": null,
-        "size_units": 208,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": null,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": null,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": null,
-        "multi_asset_purchase": false,
-        "notable_features": "Gated community of townhome-style rental homes located in the Southport/Bridgeway Island area.",
-        "project_notes": null
-      },
-      "companies_people": [
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Lewis Apartments",
-          "people": []
-        },
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Lewis Group of Companies",
-          "people": [
-            {
-              "name": "Randall Lewis",
-              "title": null
-            }
-          ]
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Owner-Occupant Pays $25M for East Rutherford Industrial",
-      "source": "Connect CRE",
-      "link": "https://www.connectcre.com/stories/owner-occupant-pays-25m-for-east-rutherford-industrial/",
-      "published": "Fri, 23 Oct 2026 20:57:50 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-10-24-017.html",
-      "transaction_type": "Sale",
-      "article_type": null,
-      "market": "East Rutherford, NJ",
-      "narrative": "An owner-occupant has acquired an 86,000-square-foot industrial warehouse at 180 Manor Rd. in East Rutherford, NJ, for $25 million. The property will serve as the buyer's new headquarters, allowing for expansion while remaining in the area. The transaction highlights the challenges owner-users face in securing quality industrial properties in high-barrier-to-entry markets.",
-      "data_points": {
-        "property_type": "industrial",
-        "property_name": null,
-        "address": "180 Manor Rd, East Rutherford, NJ",
-        "address_sourced_separately": false,
-        "size_sf": 86000.0,
-        "size_units": null,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": 25000000.0,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": null,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": null,
-        "multi_asset_purchase": false,
-        "notable_features": "Convenient access to Routes 17 and 3, I-80, I-280, and the New Jersey Turnpike at Exit 16W.",
-        "project_notes": null
-      },
-      "companies_people": [
-        {
-          "label": "SELLER",
-          "firm_name": "Terreno Realty Corporation",
-          "people": []
-        },
-        {
-          "label": "SELLER BROKER",
-          "firm_name": "Lee & Associates New Jersey Office",
-          "people": [
-            {
-              "name": "Troy Wisse",
-              "title": null
-            },
-            {
-              "name": "Michael Schaible",
-              "title": null
-            },
-            {
-              "name": "Eduardo Lopez",
-              "title": null
-            }
-          ]
-        },
-        {
-          "label": "BUYER BROKER",
-          "firm_name": "Lee & Associates New Jersey Office",
-          "people": [
-            {
-              "name": "Troy Wisse",
-              "title": null
-            },
-            {
-              "name": "Michael Schaible",
-              "title": null
-            },
-            {
-              "name": "Eduardo Lopez",
-              "title": null
-            }
-          ]
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Cushman & Wakefield, NYC Added To Suit Alleging $250K Agency Lease Shakedown",
-      "source": "Bisnow Latest News Feed",
-      "link": "https://www.bisnow.com/news/new-york/commercial-real-estate/cushman-wakefield-nyc-jesse-hamilton-diana-boutross-bribery",
-      "published": "Fri, 23 Oct 2026 19:45:57 -0400",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-10-24-018.html",
-      "transaction_type": null,
-      "article_type": "CRE Legal / Regulatory",
-      "market": "New York City, NY",
-      "narrative": "New York City and Cushman & Wakefield have been added to a lawsuit filed by Mazen Dayem, which alleges a $250,000 shakedown related to an agency lease. The lawsuit seeks up to $52 million in damages, citing alleged bribes and breach of contract.",
-      "data_points": null,
-      "companies_people": [
         {
           "label": "OWNER",
-          "firm_name": "New York City",
+          "firm_name": "SL Green Realty",
+          "people": [
+            {
+              "name": "Marc Holliday",
+              "title": "CEO"
+            }
+          ]
+        },
+        {
+          "label": "BUYER",
+          "firm_name": "Meadow Partners",
+          "people": [
+            {
+              "name": "Jeffrey Kaplan",
+              "title": null
+            }
+          ]
+        },
+        {
+          "label": "BUYER",
+          "firm_name": "Natora Group",
           "people": []
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Dezer Development",
+          "people": [
+            {
+              "name": "Gil Dezer",
+              "title": null
+            }
+          ]
+        },
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Nahla Capital",
+          "people": [
+            {
+              "name": "Genghis Hadi",
+              "title": null
+            }
+          ]
+        },
+        {
+          "label": "BUYER",
+          "firm_name": "Related Ross",
+          "people": [
+            {
+              "name": "Stephen Ross",
+              "title": null
+            }
+          ]
+        },
+        {
+          "label": "BUYER",
+          "firm_name": "Grover Corlew",
+          "people": []
+        },
+        {
+          "label": "SPONSOR",
+          "firm_name": "Genting Americas",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Williams Equities",
+          "people": [
+            {
+              "name": "Michael T. Cohen",
+              "title": null
+            },
+            {
+              "name": "Robert Getreu",
+              "title": null
+            },
+            {
+              "name": "Andrew Roos",
+              "title": null
+            }
+          ]
         },
         {
           "label": "LEASING AGENT",
-          "firm_name": "Cushman & Wakefield",
-          "people": []
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "'Office Is Back' As Corporate Relocations Continue To Fuel Demand In Collin County",
-      "source": "Bisnow Latest News Feed",
-      "link": "https://www.bisnow.com/news/dallas-ft-worth/office/-office-is-back-as-corporate-relocations-continue-to-fuel-demand-in-collin-county",
-      "published": "Fri, 23 Oct 2026 18:32:06 -0400",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-10-24-019.html",
-      "transaction_type": null,
-      "article_type": "Opinion / Market Commentary",
-      "market": "Collin County, TX",
-      "narrative": "Collin County is experiencing a surge in office demand, driven by significant corporate relocations. This trend is expected to continue, with numerous large-scale development projects poised to substantially increase the region's office inventory.",
-      "data_points": null,
-      "companies_people": [],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Hudson Pacific's Historic San Francisco Conversion Project Gets Approval",
-      "source": "Bisnow Latest News Feed",
-      "link": "https://www.bisnow.com/news/san-francisco/multifamily/hpp-advances-office-to-residential-conversion-at-historic-market-street-property",
-      "published": "Fri, 23 Oct 2026 17:41:50 -0400",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-10-24-020.html",
-      "transaction_type": "Development",
-      "article_type": null,
-      "market": "San Francisco, CA",
-      "narrative": "Hudson Pacific Properties has received approval to convert a historic 115-year-old building on Market Street in San Francisco into 136 residential units. This adaptive reuse project aims to contribute to the city's housing supply by transforming an existing structure into new residential inventory.",
-      "data_points": {
-        "property_type": "multifamily",
-        "property_name": null,
-        "address": null,
-        "address_sourced_separately": false,
-        "size_sf": null,
-        "size_units": 136,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": null,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": 1911,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": null,
-        "multi_asset_purchase": false,
-        "notable_features": "Historic 115-year-old building being converted to residential.",
-        "project_notes": null
-      },
-      "companies_people": [
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Hudson Pacific Properties",
-          "people": []
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Hollywood's Yamashiro Complex Gets $25M Refinance: The Los Angeles Deal Sheet",
-      "source": "Bisnow Latest News Feed",
-      "link": "https://www.bisnow.com/news/los-angeles/deal-sheet/hollywood-s-yamashiro-complex-gets-25m-refinance-los-angeles-deal-sheet",
-      "published": "Fri, 23 Oct 2026 17:32:54 -0400",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-10-24-021.html",
-      "transaction_type": "Refinance",
-      "article_type": null,
-      "market": "Los Angeles, CA",
-      "narrative": "PSRS has secured a $25 million refinance loan for the Yamashiro complex in Hollywood, which comprises a restaurant, a hotel, and a multifamily building. This refinancing provides capital for the iconic property, ensuring its continued operation and stability.",
-      "data_points": {
-        "property_type": "mixed-use",
-        "property_name": "Yamashiro complex",
-        "address": null,
-        "address_sourced_separately": false,
-        "size_sf": null,
-        "size_units": null,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": null,
-        "loan_amount": 25000000.0,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": null,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": null,
-        "multi_asset_purchase": true,
-        "notable_features": "Includes a restaurant, hotel, and multifamily building.",
-        "project_notes": null
-      },
-      "companies_people": [
-        {
-          "label": "MORTGAGE BROKER",
-          "firm_name": "PSRS",
-          "people": []
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Why Sun Belt Multifamily Giant Cortland Is Moving Its Money North",
-      "source": "Bisnow Latest News Feed",
-      "link": "https://www.bisnow.com/news/national/multifamily/first-draft-live-why-sun-belt-multifamily-giant-cortland-is-moving-its-money-north",
-      "published": "Fri, 23 Oct 2026 17:21:18 -0400",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-10-24-022.html",
-      "transaction_type": null,
-      "article_type": "Opinion / Market Commentary",
-      "market": "Washington D.C.",
-      "narrative": "Cortland, a prominent multifamily investor, is shifting its investment focus from the Sun Belt to Northern markets, particularly the Washington D.C. area. CEO Steven DeFrancis indicated that the firm was attracted to a D.C.-area multifamily portfolio, signaling a strategic pivot in their acquisition strategy. This move suggests a belief in the long-term value and stability of Northern multifamily assets.",
-      "data_points": null,
-      "companies_people": [
-        {
-          "label": "OWNER",
-          "firm_name": "Cortland",
+          "firm_name": "Rudin",
           "people": [
             {
-              "name": "Steven DeFrancis",
-              "title": "CEO and founder"
+              "name": "Craig Panzirer",
+              "title": "head of leasing"
             }
           ]
         }
       ],
       "tenants": [],
       "financing": null,
-      "market_intelligence": null
+      "market_intelligence": "Manhattan investment sales dropped 27% last quarter, but the dollar volume was 4% higher than the same period last year. Lease sweeteners in the office market are largely in eclipse from their 2024 peak. U.S. Treasury yields hit the highest level in decades in Q3 2026, negatively impacting investor sentiment and transaction activity."
     }
   ]
 }
