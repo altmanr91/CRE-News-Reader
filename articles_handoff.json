@@ -1,324 +1,40 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "articles": [
     {
-      "title": "Gensler\u2019s Adam Griff Joins JLL\u2019s Nonprofit, Education and Government Practice",
+      "title": "Community Benefits Agreements Can Build Trust in Data Center Development",
       "source": "Commercial Observer",
-      "link": "https://commercialobserver.com/2026/11/gensler-adam-griff-hire-jll-nonprofit-education-government/",
-      "published": "Tue, 03 Nov 2026 16:49:59 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-11-03-001.html",
-      "transaction_type": null,
-      "article_type": "Promotion",
-      "market": "New York City, NY",
-      "narrative": "Adam Griff, a veteran in architecture and strategic planning, has joined JLL as a managing director within its nonprofit, education, and government practice. Based in New York, Griff will focus on advising educational institutions and other mission-driven organizations on real estate and institutional strategies. This move comes as higher education faces significant restructuring, prompting institutions to re-evaluate how their campuses align with academic missions and financial sustainability. Griff's expertise is expected to enhance JLL's capacity to guide clients through these complex decisions, helping them identify new opportunities and maximize real estate asset value for long-term success.",
-      "data_points": null,
-      "companies_people": [
-        {
-          "label": "OWNER",
-          "firm_name": "JLL",
-          "people": [
-            {
-              "name": "Adam Griff",
-              "title": "Managing Director"
-            },
-            {
-              "name": "David Carlos",
-              "title": "Head of Nonprofit Practice, Tri-State Area"
-            }
-          ]
-        },
-        {
-          "label": "OWNER",
-          "firm_name": "Gensler",
-          "people": []
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Affinius Capital Provides $226M for Downtown Brooklyn Multifamily Building",
-      "source": "Commercial Observer",
-      "link": "https://commercialobserver.com/2026/11/affinius-capital-brooklyn-multifamily-55-willoughby/",
-      "published": "Tue, 03 Nov 2026 15:54:57 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-11-03-002.html",
-      "transaction_type": "Refinance",
-      "article_type": null,
-      "market": "Brooklyn, NY",
-      "narrative": "A joint venture between Lonicera Partners and Rabina has secured $226 million in bridge debt from Affinius Capital to refinance 55 Willoughby, a 43-story multifamily complex in Downtown Brooklyn. The financing will support the 295-unit property through its lease-up and stabilization phase, which is expected to conclude early next year. The property is described as a high-quality asset in a supply-constrained submarket, benefiting from strong lease-up momentum despite a volatile market.",
-      "data_points": {
-        "property_type": "multifamily",
-        "property_name": "55 Willoughby",
-        "address": "55 Willoughby Street, Brooklyn, NY",
-        "address_sourced_separately": false,
-        "size_sf": null,
-        "size_units": 295,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": null,
-        "loan_amount": 226000000.0,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": null,
-        "completion": "early 2027",
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": null,
-        "multi_asset_purchase": false,
-        "notable_features": "43-story building with ground-floor retail space, offering studios, one-bedrooms, and two-bedrooms.",
-        "project_notes": "Construction began in June 2023. Also known as House 55."
-      },
-      "companies_people": [
-        {
-          "label": "SPONSOR",
-          "firm_name": "Lonicera Partners",
-          "people": [
-            {
-              "name": "Brooke Cianfichi",
-              "title": "head of capital markets"
-            }
-          ]
-        },
-        {
-          "label": "SPONSOR",
-          "firm_name": "Rabina",
-          "people": []
-        },
-        {
-          "label": "LENDER",
-          "firm_name": "Affinius Capital",
-          "people": [
-            {
-              "name": "Perry Katz",
-              "title": "executive director"
-            }
-          ]
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Outpost Acquires Two IOS Facilities Near Shipping Corridors in New Jersey",
-      "source": "Commercial Observer",
-      "link": "https://commercialobserver.com/2026/11/outpost-sale-ios-facilities-new-jersey/",
-      "published": "Tue, 03 Nov 2026 15:29:05 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-11-03-003.html",
-      "transaction_type": "Acquisition",
-      "article_type": null,
-      "market": "Kearny / Newark, NJ",
-      "narrative": "Outpost, an industrial outdoor storage (IOS) firm, has acquired two properties in Kearny and Newark, New Jersey, for $68.5 million. The nearly 15-acre acquisition, financed with a $52.2 million loan from Forbright Bank, expands Outpost's national IOS portfolio and will support nearby maritime ports and Newark Liberty International Airport. The firm noted that these properties are critical logistics assets in a supply-constrained market, with one being a stabilized, fully leased asset and the other offering immediate value-add opportunities.",
-      "data_points": {
-        "property_type": "industrial outdoor storage",
-        "property_name": null,
-        "address": null,
-        "address_sourced_separately": false,
-        "size_sf": null,
-        "size_units": null,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": 68500000.0,
-        "loan_amount": 52200000.0,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": null,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": 15.0,
-        "multi_asset_purchase": true,
-        "notable_features": "The Kearny facility at 76 Central Avenue includes two small office buildings and capacity for 234 shipping containers, 66 trailers, 28 tractors, and 54 cars; the Newark site at 2120 McCarter Highway spans 6.9 acres and can hold 163 55-foot trailers. Both are located near maritime ports and Newark Liberty International Airport.",
-        "project_notes": null
-      },
-      "companies_people": [
-        {
-          "label": "BUYER",
-          "firm_name": "Outpost",
-          "people": [
-            {
-              "name": "Greg Pearson",
-              "title": "Chief Investment Officer"
-            },
-            {
-              "name": "Chenying Zhao",
-              "title": "Managing Director"
-            }
-          ]
-        },
-        {
-          "label": "LENDER",
-          "firm_name": "Forbright Bank",
-          "people": []
-        },
-        {
-          "label": "MORTGAGE BROKER",
-          "firm_name": "JLL Capital Markets",
-          "people": []
-        },
-        {
-          "label": "SELLER BROKER",
-          "firm_name": "JLL",
-          "people": []
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": "Outpost is deploying a $1 billion fund to target investments in cities near major container ports with dense populations, little undeveloped land, and tight policies around new development. Demand for large, functional, properly zoned logistics facilities continues to grow while such sites are increasingly scarce."
-    },
-    {
-      "title": "What Trio of Things Would Our 2026 Lenders Take to a Desert Island?",
-      "source": "Commercial Observer",
-      "link": "https://commercialobserver.com/2026/11/desert-island-musts-lenders-2026/",
-      "published": "Tue, 03 Nov 2026 15:00:37 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-11-03-004.html",
-      "transaction_type": null,
-      "article_type": "Opinion / Editorial",
-      "market": null,
-      "narrative": "This article presents a lighthearted thought experiment, asking several prominent commercial real estate lenders what three items they would bring if stranded on a desert island. The responses range from practical survival tools like a spear, knife, and fire starter, to comfort items such as a lounge chair, sparkling water, and a good book. Some lenders also highlighted their resourcefulness and even their continued focus on real estate, with one joking about financing the island itself and another envisioning building a new home to address the housing shortage.",
-      "data_points": null,
-      "companies_people": [
-        {
-          "label": "LENDER",
-          "firm_name": "3650 Capital",
-          "people": [
-            {
-              "name": "Toby Cobb",
-              "title": "co-founder"
-            }
-          ]
-        },
-        {
-          "label": "LENDER",
-          "firm_name": "Dwight Investment Management",
-          "people": [
-            {
-              "name": "Jai Agarwal",
-              "title": null
-            }
-          ]
-        },
-        {
-          "label": "LENDER",
-          "firm_name": "Brookfield",
-          "people": [
-            {
-              "name": "Nailah Flake",
-              "title": null
-            }
-          ]
-        },
-        {
-          "label": "LENDER",
-          "firm_name": "Wells Fargo",
-          "people": [
-            {
-              "name": "Steven Caldwell",
-              "title": null
-            }
-          ]
-        },
-        {
-          "label": "LENDER",
-          "firm_name": "Blackstone",
-          "people": [
-            {
-              "name": "Tim Johnson",
-              "title": null
-            }
-          ]
-        },
-        {
-          "label": "LENDER",
-          "firm_name": "BDT & MSD",
-          "people": [
-            {
-              "name": "Jason Kollander",
-              "title": "head of real estate credit"
-            }
-          ]
-        },
-        {
-          "label": "LENDER",
-          "firm_name": "Acore Capital",
-          "people": [
-            {
-              "name": "Tony Fineman",
-              "title": null
-            }
-          ]
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Commercial Real Estate Lenders Adapt to Higher-Forever Rates",
-      "source": "Commercial Observer",
-      "link": "https://commercialobserver.com/2026/11/commercial-real-estate-lenders-higher-forever-rates/",
-      "published": "Tue, 03 Nov 2026 15:00:36 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-11-03-005.html",
+      "link": "https://commercialobserver.com/2026/11/community-benefits-agreements-data-centers/",
+      "published": "Wed, 04 Nov 2026 15:26:16 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-11-04-001.html",
       "transaction_type": null,
       "article_type": "Opinion / Market Commentary",
       "market": null,
-      "narrative": "Commercial real estate lenders are adapting to a \"higher-for-longer\" interest rate environment, driven by persistent inflation and the Federal Reserve's hawkish stance. Lenders are becoming more defensive, selective, and focused on credit fundamentals, emphasizing strong cash flow, realistic lease-up assumptions, and clear paths to value creation. This shift involves rigorous underwriting, increased scenario analysis, and a preference for sponsors with proven track records and significant equity contributions, particularly in resilient sectors like industrial, higher-end residential, and hospitality.",
+      "narrative": "This article argues that Community Benefits Agreements (CBAs) are an increasingly vital tool for data center developers to navigate growing community scrutiny and regulatory challenges. The authors contend that traditional outreach is no longer sufficient, as evidenced by recent governmental actions in Texas, New York, and Pennsylvania to assess or regulate data center impacts. CBAs, as voluntary agreements between developers and communities, can foster trust and transparency by outlining specific commitments such as workforce development, infrastructure improvements, or environmental investments. By demonstrating a commitment to local priorities and engaging proactively, developers can mitigate opposition, streamline the entitlement process, and ensure projects are completed on time and within budget, ultimately addressing the exponential demand for data centers.",
       "data_points": null,
       "companies_people": [
         {
-          "label": "LENDER",
-          "firm_name": "Dwight Investment Management",
+          "label": "OWNER",
+          "firm_name": "Greenberg Traurig",
           "people": [
             {
-              "name": "Jai Agarwal",
-              "title": "President and Chief Operating Officer"
+              "name": "Stephen Malito",
+              "title": "Shareholder"
+            },
+            {
+              "name": "Shawn K. Ronda",
+              "title": "Shareholder"
+            },
+            {
+              "name": "Joshua B. Forman",
+              "title": "Shareholder"
             }
           ]
         },
         {
-          "label": "LENDER",
-          "firm_name": "Wells Fargo",
-          "people": [
-            {
-              "name": "Steve Caldwell",
-              "title": "Head of Large Loan CMBS"
-            }
-          ]
-        },
-        {
-          "label": "LENDER",
-          "firm_name": "Principal Asset Management",
-          "people": [
-            {
-              "name": "Chris Duey",
-              "title": "Senior Managing Director"
-            }
-          ]
-        },
-        {
-          "label": "LENDER",
-          "firm_name": "Acore Capital",
-          "people": [
-            {
-              "name": "Tony Fineman",
-              "title": "Head of Originations"
-            }
-          ]
-        },
-        {
-          "label": "LENDER",
-          "firm_name": "BDT & MSD Partners",
-          "people": [
-            {
-              "name": "Jason Kollander",
-              "title": "Head of Real Estate Credit"
-            }
-          ]
+          "label": "OWNER",
+          "firm_name": "Texas Commission on Environmental Quality",
+          "people": []
         }
       ],
       "tenants": [],
@@ -326,100 +42,58 @@
       "market_intelligence": null
     },
     {
-      "title": "Walker & Dunlop Arranges $117.3M Refinancing of Texas Apartment Portfolio",
-      "source": "REBusinessOnline",
-      "link": "https://rebusinessonline.com/walker-dunlop-arranges-117-3m-refinancing-of-texas-apartment-portfolio/",
-      "published": "Tue, 03 Nov 2026 16:42:24 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-11-03-006.html",
-      "transaction_type": "Refinance",
-      "article_type": null,
-      "market": "Texas",
-      "narrative": "Walker & Dunlop has arranged $117.3 million in refinancing for a portfolio of three apartment communities totaling 960 units across Texas. The portfolio includes the 312-unit Austin Avenue in Georgetown, the 312-unit Aven Ridge in Leander, and the 336-unit Latitude Magnolia in Aubrey. The floating-rate, interest-only loans were provided by Benefit Street Partners to an undisclosed institutional investment group.",
-      "data_points": {
-        "property_type": "multifamily",
-        "property_name": null,
-        "address": null,
-        "address_sourced_separately": false,
-        "size_sf": null,
-        "size_units": 960,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": null,
-        "loan_amount": 117300000.0,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": null,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": null,
-        "multi_asset_purchase": true,
-        "notable_features": "The Austin-area communities were built in 2021 and 2022, offering one-, two-, and three-bedroom units, with Austin Avenue also including studio apartments. Latitude Magnolia was completed in 2021 and offers one- and two-bedroom units.",
-        "project_notes": null
-      },
+      "title": "Cushman & Wakefield Fortifies Balance Sheet With Strong Q3 Earnings",
+      "source": "Commercial Observer",
+      "link": "https://commercialobserver.com/2026/11/cushman-wakefield-q3-earnings/",
+      "published": "Wed, 04 Nov 2026 15:21:31 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-11-04-002.html",
+      "transaction_type": null,
+      "article_type": "Market Research / Earnings Report",
+      "market": null,
+      "narrative": "Cushman & Wakefield reported strong third-quarter 2026 earnings, with revenue reaching $2.8 billion and net income at $52.1 million, demonstrating growth across its leasing and capital markets segments. The firm has significantly strengthened its balance sheet by paying off $800 million in debt since 2024, leading to improved credit ratings and increased financial flexibility. Despite macroeconomic headwinds like rising interest rates and construction slowdowns, the company is adapting by expanding in-house services to meet client demand for cost savings.",
+      "data_points": null,
       "companies_people": [
         {
-          "label": "LENDER",
-          "firm_name": "Benefit Street Partners",
+          "label": "OWNER",
+          "firm_name": "Cushman & Wakefield",
+          "people": [
+            {
+              "name": "Michelle MacKay",
+              "title": "Global CEO"
+            }
+          ]
+        },
+        {
+          "label": "OTHER",
+          "firm_name": "Moody's",
           "people": []
         },
         {
-          "label": "MORTGAGE BROKER",
-          "firm_name": "Walker & Dunlop",
-          "people": [
-            {
-              "name": "Jordan Casella",
-              "title": null
-            },
-            {
-              "name": "Aaron Appel",
-              "title": null
-            },
-            {
-              "name": "Adam Schwartz",
-              "title": null
-            },
-            {
-              "name": "Jonathan Schwartz",
-              "title": null
-            },
-            {
-              "name": "Keith Kurland",
-              "title": null
-            },
-            {
-              "name": "Christopher de Raet",
-              "title": null
-            },
-            {
-              "name": "Nicholas Gilhooley",
-              "title": null
-            }
-          ]
+          "label": "OTHER",
+          "firm_name": "S&P Global",
+          "people": []
         }
       ],
       "tenants": [],
-      "financing": "Floating-rate, interest-only loans.",
+      "financing": null,
       "market_intelligence": null
     },
     {
-      "title": "Freehill Breaks Ground on 809,220 SF Build-to-Suit Industrial Project in Northwest Houston",
-      "source": "REBusinessOnline",
-      "link": "https://rebusinessonline.com/freehill-breaks-ground-on-809220-sf-build-to-suit-industrial-project-in-northwest-houston/",
-      "published": "Tue, 03 Nov 2026 16:40:25 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-11-03-007.html",
-      "transaction_type": "Construction",
-      "article_type": null,
-      "market": "Houston, TX",
-      "narrative": "Freehill Co. has commenced construction on an 809,220-square-foot industrial project in northwest Houston, representing Phase I of the larger Fairbanks Landing development. This initial phase is a build-to-suit facility for Power Electronics, a manufacturer of solar inverters and EV chargers, and is expected to be completed in the third quarter of next year. Phase II will add two speculative buildings totaling 834,720 square feet, slated for delivery in late 2027.",
+      "title": "Nate Brzozowski of Savills: 5 Questions",
+      "source": "Commercial Observer",
+      "link": "https://commercialobserver.com/2026/11/nate-brzozowski-savills-5-questions/",
+      "published": "Wed, 04 Nov 2026 13:00:03 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-11-04-003.html",
+      "transaction_type": null,
+      "article_type": "Feature / Profile",
+      "market": "New York City, NY",
+      "narrative": "Nate Brzozowski, who leads Savills' Integrated Consulting Strategies (ICS) team alongside Matthew Barlow and Brad Wolk, discussed the team's role in providing corporate advisory and financial planning for occupier deals. The ICS team focuses on equipping clients with investment-grade financial analysis and strategic insights before a transaction is pitched, aiming to give Savills' brokers a competitive advantage. Brzozowski highlighted the team's work on large headquarters deals across various industries, including a significant expansion and relocation for American Eagle to 63 Madison Avenue. He also noted how Savills' merger with Eastdil Secured has enhanced their capabilities by integrating capital markets expertise, allowing for more sophisticated financial structures in occupier transactions.",
       "data_points": {
-        "property_type": "industrial",
-        "property_name": "Fairbanks Landing",
-        "address": null,
+        "property_type": "office",
+        "property_name": null,
+        "address": "63 Madison Avenue, New York City, NY",
         "address_sourced_separately": false,
-        "size_sf": 809220.0,
+        "size_sf": 340000.0,
         "size_units": null,
         "size_beds": null,
         "size_keys": null,
@@ -429,76 +103,121 @@
         "total_project_cost": null,
         "occupancy": null,
         "year_built": null,
-        "completion": "Q3 2027",
-        "phase_1": "809,220 SF in two buildings",
-        "total_project_all_phases": "1,643,940 SF",
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
         "original_plan": null,
         "land_area_acres": null,
         "multi_asset_purchase": false,
-        "notable_features": "Build-to-suit for a manufacturer of solar inverters and EV chargers.",
-        "project_notes": "Phase I consists of two buildings. Phase II will comprise two additional buildings totaling 834,720 square feet, developed on a speculative basis and slated for Q4 2027 delivery."
+        "notable_features": "Headquarters expansion and relocation.",
+        "project_notes": null
       },
       "companies_people": [
         {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Freehill Co.",
-          "people": []
+          "label": "TENANT REP",
+          "firm_name": "Savills",
+          "people": [
+            {
+              "name": "Nate Brzozowski",
+              "title": null
+            },
+            {
+              "name": "Matthew Barlow",
+              "title": null
+            },
+            {
+              "name": "Brad Wolk",
+              "title": null
+            }
+          ]
         },
         {
           "label": "TENANT",
-          "firm_name": "Power Electronics",
-          "people": []
-        },
-        {
-          "label": "LEASING AGENT",
-          "firm_name": "JLL",
+          "firm_name": "American Eagle",
           "people": []
         }
       ],
       "tenants": [
-        "Power Electronics"
+        "American Eagle"
       ],
       "financing": null,
       "market_intelligence": null
     },
     {
-      "title": "Newmark Arranges $130M Sale of NorthBay Healthcare Portfolio in Northern California",
+      "title": "New York City Apartment Rents Reach Record Highs: Report",
+      "source": "Commercial Observer",
+      "link": "https://commercialobserver.com/2026/11/new-york-city-apartment-rents-record-highs/",
+      "published": "Wed, 04 Nov 2026 12:00:42 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-11-04-004.html",
+      "transaction_type": null,
+      "article_type": "Market Research / Rental Report",
+      "market": "New York City, NY",
+      "narrative": "New data from Realtor.com indicates that New York City apartment rents reached record highs in the third quarter of 2026, with the median asking rent climbing to $3,785 per month, a 4.5% year-over-year increase. This marks the highest rent recorded since data collection began in 2019, surpassing pre-pandemic levels by 27.5%. The report highlights a challenging affordability landscape for renters, particularly for smaller units, as rising rents coincide with significantly higher homeownership costs driven by elevated mortgage rates.",
+      "data_points": null,
+      "companies_people": [
+        {
+          "label": "OWNER",
+          "firm_name": "Realtor.com",
+          "people": []
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": "The average 30-year fixed-rate home mortgage surpassed 7% in September 2026. The cost of buying a typical home in NYC is nearly three times the cost of renting."
+    },
+    {
+      "title": "Newmark Brokers Sale of 1 MSF Colonnade Office Campus in Addison, Texas",
       "source": "REBusinessOnline",
-      "link": "https://rebusinessonline.com/newmark-arranges-130m-sale-of-northbay-healthcare-portfolio-in-northern-california/",
-      "published": "Tue, 03 Nov 2026 16:29:50 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-11-03-008.html",
+      "link": "https://rebusinessonline.com/newmark-brokers-sale-of-1-msf-colonnade-office-campus-in-addison-texas/",
+      "published": "Wed, 04 Nov 2026 16:34:46 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-11-04-005.html",
       "transaction_type": "Sale",
       "article_type": null,
-      "market": "Fairfield / Vacaville, CA",
-      "narrative": "Newmark has brokered the sale of the NorthBay Health Medical Outpatient Building Collection, a portfolio of six fully leased healthcare buildings totaling 222,073 square feet in Fairfield and Vacaville, California. HealthCare Foundation acquired the portfolio for $130 million. The properties are fully occupied by a strong tenant mix, including medical outpatient facilities and office headquarters.",
+      "market": "Addison, TX",
+      "narrative": "Newmark has brokered the sale of The Colonnade, a 1 million-square-foot office campus in Addison, Texas. The property, comprising three buildings on 12.4 acres, was sold through a receivership process. A partnership between Cross Ocean Partners and Lincoln Property Co. acquired the asset and plans to invest $100 million in repositioning the campus, with the first phase of upgrades anticipated to conclude in 2027.",
       "data_points": {
-        "property_type": "medical office",
-        "property_name": "NorthBay Health Medical Outpatient Building Collection",
-        "address": null,
-        "address_sourced_separately": false,
-        "size_sf": 222073.0,
+        "property_type": "office",
+        "property_name": "The Colonnade",
+        "address": "15301 Dallas Pkwy, Addison, TX",
+        "address_sourced_separately": true,
+        "size_sf": 1000000.0,
         "size_units": null,
         "size_beds": null,
         "size_keys": null,
         "rental_rate": null,
-        "sale_price": 130000000.0,
+        "sale_price": null,
         "loan_amount": null,
         "total_project_cost": null,
-        "occupancy": 100.0,
+        "occupancy": null,
         "year_built": null,
-        "completion": null,
-        "phase_1": null,
+        "completion": "2027",
+        "phase_1": "2027",
         "total_project_all_phases": null,
         "original_plan": null,
-        "land_area_acres": null,
+        "land_area_acres": 12.4,
         "multi_asset_purchase": true,
-        "notable_features": "Portfolio includes five medical outpatient facilities and office headquarters.",
-        "project_notes": null
+        "notable_features": "Three buildings connected by an enclosed, four-story atrium.",
+        "project_notes": "Buyer committed to investing $100 million to reposition the campus. Sold through a receivership process."
       },
       "companies_people": [
         {
+          "label": "SELLER",
+          "firm_name": "Trigild",
+          "people": []
+        },
+        {
+          "label": "SELLER",
+          "firm_name": "CWCapital",
+          "people": []
+        },
+        {
           "label": "BUYER",
-          "firm_name": "HealthCare Foundation",
+          "firm_name": "Cross Ocean Partners",
+          "people": []
+        },
+        {
+          "label": "BUYER",
+          "firm_name": "Lincoln Property Co.",
           "people": []
         },
         {
@@ -506,102 +225,23 @@
           "firm_name": "Newmark",
           "people": [
             {
-              "name": "Ben Appel",
+              "name": "Stephen Schwalb",
               "title": null
             },
             {
-              "name": "Justin Shepherd",
+              "name": "Chris Murphy",
               "title": null
             },
             {
-              "name": "Jay Miele",
+              "name": "Robert Hill",
               "title": null
             },
             {
-              "name": "John Naro",
+              "name": "Gary Carr",
               "title": null
             },
             {
-              "name": "Michael Greely",
-              "title": null
-            },
-            {
-              "name": "Ron Ott",
-              "title": null
-            }
-          ]
-        },
-        {
-          "label": "TENANT",
-          "firm_name": "NorthBay Health",
-          "people": []
-        }
-      ],
-      "tenants": [
-        "NorthBay Health"
-      ],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Colliers Secures $8.5M Sale of Industrial Building in Denver",
-      "source": "REBusinessOnline",
-      "link": "https://rebusinessonline.com/colliers-secures-8-5m-sale-of-industrial-building-in-denver/",
-      "published": "Tue, 03 Nov 2026 16:18:13 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-11-03-009.html",
-      "transaction_type": "Sale",
-      "article_type": null,
-      "market": "Denver, CO",
-      "narrative": "Colliers Denver Investment Services Group has facilitated the $8.5 million sale of a multi-tenant industrial building located at 4001 Holly Street in Denver. DMS Real Estate sold the 53,740-square-foot asset to Watumull Properties Corp. The property was fully leased to three tenants at the time of sale, offering a strong income stream to the new owner.",
-      "data_points": {
-        "property_type": "industrial",
-        "property_name": null,
-        "address": "4001 Holly Street, Denver, CO",
-        "address_sourced_separately": false,
-        "size_sf": 53740.0,
-        "size_units": null,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": 8500000.0,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": 100.0,
-        "year_built": null,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": 2.5,
-        "multi_asset_purchase": false,
-        "notable_features": "Multi-tenant building demised into five small-bay units, each with dock-high and drive-in loading, and includes a fenced, paved and lighted outdoor storage yard.",
-        "project_notes": null
-      },
-      "companies_people": [
-        {
-          "label": "SELLER",
-          "firm_name": "DMS Real Estate",
-          "people": []
-        },
-        {
-          "label": "BUYER",
-          "firm_name": "Watumull Properties Corp.",
-          "people": []
-        },
-        {
-          "label": "SELLER BROKER",
-          "firm_name": "Colliers Denver Investment Services Group",
-          "people": [
-            {
-              "name": "T.J. Smith",
-              "title": null
-            },
-            {
-              "name": "Nick Rice",
-              "title": null
-            },
-            {
-              "name": "Brad Calbert",
+              "name": "Austin Sheahan",
               "title": null
             }
           ]
@@ -612,326 +252,38 @@
       "market_intelligence": null
     },
     {
-      "title": "Levey Group to Develop 445,750 SF Industrial Project in Northeast Houston",
+      "title": "Partnership Acquires 828,784 SF Office Campus in Houston\u2019s Energy Corridor",
       "source": "REBusinessOnline",
-      "link": "https://rebusinessonline.com/levey-group-to-develop-445750-sf-industrial-project-in-northeast-houston/",
-      "published": "Tue, 03 Nov 2026 16:16:51 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-11-03-010.html",
-      "transaction_type": "Development",
+      "link": "https://rebusinessonline.com/partnership-acquires-828784-sf-office-campus-in-houstons-energy-corridor/",
+      "published": "Wed, 04 Nov 2026 16:29:13 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-11-04-006.html",
+      "transaction_type": "Acquisition",
       "article_type": null,
       "market": "Houston, TX",
-      "narrative": "Levey Group is developing Levey East Belt, a 445,750-square-foot industrial project in northeast Houston. The development will feature a 270,400-square-foot front-load building and two rear-load buildings of 131,250 and 44,100 square feet. Permitting and approvals are expected to conclude in early 2027, with construction slated for 11 months, targeting an early 2028 delivery. Cushman & Wakefield is handling the leasing efforts for the project.",
-      "data_points": {
-        "property_type": "industrial",
-        "property_name": "Levey East Belt",
-        "address": "9803 Sheldon Rd, Houston, TX",
-        "address_sourced_separately": true,
-        "size_sf": 445750.0,
-        "size_units": null,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": null,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": null,
-        "completion": "early 2028",
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": 30.0,
-        "multi_asset_purchase": false,
-        "notable_features": null,
-        "project_notes": null
-      },
-      "companies_people": [
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Levey Group",
-          "people": []
-        },
-        {
-          "label": "LEASING AGENT",
-          "firm_name": "Cushman & Wakefield",
-          "people": []
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Transwestern to manage more than 3 million-square-foot healthcare portfolio across 16 states",
-      "source": "REJournals",
-      "link": "https://rejournals.com/transwestern-to-manage-more-than-3-million-square-foot-healthcare-portfolio-across-16-states/?utm_source=rss&utm_medium=rss&utm_campaign=transwestern-to-manage-more-than-3-million-square-foot-healthcare-portfolio-across-16-states",
-      "published": "Tue, 03 Nov 2026 16:35:00 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-11-03-011.html",
-      "transaction_type": null,
-      "article_type": "Promotion",
-      "market": null,
-      "narrative": "Transwestern has been appointed by Spring Creek Healthcare Properties to manage a 3.1 million-square-foot healthcare real estate portfolio. The portfolio comprises 47 medical outpatient buildings located across 16 states, including key markets such as Southern California, Phoenix, Denver, Dallas-Fort Worth, Houston, San Antonio, Tampa Bay, and South Florida. Transwestern commenced its management responsibilities on October 1, 2026.",
-      "data_points": {
-        "property_type": "medical office",
-        "property_name": null,
-        "address": null,
-        "address_sourced_separately": false,
-        "size_sf": 3100000.0,
-        "size_units": null,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": null,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": null,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": null,
-        "multi_asset_purchase": true,
-        "notable_features": "Portfolio includes 47 properties across 16 states.",
-        "project_notes": null
-      },
-      "companies_people": [
-        {
-          "label": "LEASING AGENT",
-          "firm_name": "Transwestern",
-          "people": []
-        },
-        {
-          "label": "OWNER",
-          "firm_name": "Spring Creek Healthcare Properties",
-          "people": []
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Kraus-Anderson wraps expansion of health clinic in Pine City",
-      "source": "REJournals",
-      "link": "https://rejournals.com/kraus-anderson-wraps-expansion-of-health-clinic-in-pine-city/?utm_source=rss&utm_medium=rss&utm_campaign=kraus-anderson-wraps-expansion-of-health-clinic-in-pine-city",
-      "published": "Tue, 03 Nov 2026 16:00:00 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-11-03-012.html",
-      "transaction_type": "Construction",
-      "article_type": null,
-      "market": "Pine City, MN",
-      "narrative": "Kraus-Anderson has completed a 36,383-square-foot expansion and renovation of the Welia Health Clinic in Pine City, Minnesota. The project, designed by DSGW Architecture, involved a 14,808-square-foot addition and a 21,485-square-foot renovation of the existing medical facility. Key enhancements include new exam rooms, expanded urgent care and rehabilitation services, an outdoor therapy space, and upgraded laboratory and imaging areas, all aimed at improving patient care and staff well-being.",
-      "data_points": {
-        "property_type": "medical",
-        "property_name": "Welia Health Clinic",
-        "address": "1425 Main St. North, Pine City, MN",
-        "address_sourced_separately": false,
-        "size_sf": 36383.0,
-        "size_units": null,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": null,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": null,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": null,
-        "multi_asset_purchase": false,
-        "notable_features": "Includes 14,808-square-foot addition and 21,485-square-foot renovation; features redesigned floorplan, new exam rooms, expanded urgent care, rehabilitation services, outdoor therapy space, and enlarged parking.",
-        "project_notes": "Construction began in May 2025."
-      },
-      "companies_people": [
-        {
-          "label": "GENERAL CONTRACTOR",
-          "firm_name": "Kraus-Anderson",
-          "people": []
-        },
-        {
-          "label": "ARCHITECT",
-          "firm_name": "DSGW Architecture",
-          "people": []
-        },
-        {
-          "label": "OWNER",
-          "firm_name": "Welia Health",
-          "people": []
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Northmarq negotiates sale of Robert Browning Apartments in Kansas City",
-      "source": "REJournals",
-      "link": "https://rejournals.com/northmarq-negotiates-sale-of-robert-browning-apartments-in-kansas-city/?utm_source=rss&utm_medium=rss&utm_campaign=northmarq-negotiates-sale-of-robert-browning-apartments-in-kansas-city",
-      "published": "Tue, 03 Nov 2026 15:00:00 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-11-03-013.html",
-      "transaction_type": "Acquisition",
-      "article_type": null,
-      "market": "Kansas City, MO",
-      "narrative": "Bird Enterprises LLC has acquired The Robert Browning Apartments, a 64-unit mid-rise multifamily community in Kansas City, Missouri, from Bellada LLC. Northmarq's Kansas City Investment Sales team brokered the transaction for the seller. The property's historic architecture and prime location near the Country Club Plaza's ongoing redevelopment made it an attractive investment.",
-      "data_points": {
-        "property_type": "multifamily",
-        "property_name": "The Robert Browning Apartments",
-        "address": "4809 Roanoke Pkwy, Kansas City, MO",
-        "address_sourced_separately": false,
-        "size_sf": null,
-        "size_units": 64,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": null,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": 1929,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": null,
-        "multi_asset_purchase": false,
-        "notable_features": "Renovated studio apartment homes with historic charm, modern amenities, natural light, and Juliet balconies; designed by Nelle E. Peters; part of the Poet's District.",
-        "project_notes": null
-      },
-      "companies_people": [
-        {
-          "label": "BUYER",
-          "firm_name": "Bird Enterprises LLC",
-          "people": []
-        },
-        {
-          "label": "SELLER",
-          "firm_name": "Bellada LLC",
-          "people": []
-        },
-        {
-          "label": "SELLER BROKER",
-          "firm_name": "Northmarq",
-          "people": [
-            {
-              "name": "David Belpedio",
-              "title": null
-            },
-            {
-              "name": "Jeff Lamott",
-              "title": null
-            },
-            {
-              "name": "Casey Wilhm",
-              "title": null
-            }
-          ]
-        }
-      ],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "The Boulder Group closes sale of Chase Bank location in Louisville",
-      "source": "REJournals",
-      "link": "https://rejournals.com/the-boulder-group-closes-sale-of-chase-bank-location-in-louisville/?utm_source=rss&utm_medium=rss&utm_campaign=the-boulder-group-closes-sale-of-chase-bank-location-in-louisville",
-      "published": "Tue, 03 Nov 2026 14:00:00 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-11-03-014.html",
-      "transaction_type": "Sale",
-      "article_type": null,
-      "market": "Louisville, KY",
-      "narrative": "The Boulder Group facilitated the sale of a single-tenant Chase Bank branch in Louisville, KY, for $2.8 million. The property, operating as a ground lease since 2004, was acquired by a Midwest-based investor from a private seller. The transaction's cap rate was below the retail net lease sector average, reflecting the strength of the investment-grade tenant and the favorable ground lease structure with zero landlord responsibilities and CPI-based rent escalations.",
-      "data_points": {
-        "property_type": "retail",
-        "property_name": "Chase Bank",
-        "address": "2943 Richland Ave., Louisville, KY",
-        "address_sourced_separately": false,
-        "size_sf": null,
-        "size_units": null,
-        "size_beds": null,
-        "size_keys": null,
-        "rental_rate": null,
-        "sale_price": 2800000.0,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": 2004,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": null,
-        "multi_asset_purchase": false,
-        "notable_features": "Located in a dense retail corridor with convenient access to Interstates 264 and 64, and surrounded by national retailers and medical facilities. The lease includes CPI-based rent escalations every five years with no cap.",
-        "project_notes": "The property is secured by a triple net ground lease expiring January 29, 2034, with two 10-year renewal options. The lease carries zero landlord responsibilities."
-      },
-      "companies_people": [
-        {
-          "label": "SELLER BROKER",
-          "firm_name": "The Boulder Group",
-          "people": [
-            {
-              "name": "Randy Blankstein",
-              "title": null
-            },
-            {
-              "name": "Jimmy Goodman",
-              "title": null
-            },
-            {
-              "name": "John Feeney",
-              "title": null
-            }
-          ]
-        },
-        {
-          "label": "TENANT",
-          "firm_name": "Chase Bank",
-          "people": []
-        }
-      ],
-      "tenants": [
-        "Chase Bank"
-      ],
-      "financing": null,
-      "market_intelligence": "The Louisville MSA ranks 43rd in the United States by population size. The retail net lease sector average cap rate for Q2 2026 was 6.60%. Deposits at this Chase Bank branch exceeded $119,000,000 in 2025."
-    },
-    {
-      "title": "Cross Ocean, Lincoln Buy 1M-SF Dallas Offices, Plan $100M Makeover",
-      "source": "Connect CRE",
-      "link": "https://www.connectcre.com/stories/cross-ocean-lincoln-buy-1m-sf-dallas-offices-plan-100m-makeover/",
-      "published": "Tue, 03 Nov 2026 15:57:37 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-11-03-015.html",
-      "transaction_type": "Acquisition",
-      "article_type": null,
-      "market": "Dallas, TX",
-      "narrative": "Cross Ocean Partners and Lincoln have acquired The Colonnade, a three-tower, 1.08 million-square-foot office campus in Dallas, TX. The joint venture plans a $100 million repositioning of the asset, which was previously owned by Fortis Property Group and fell into receivership after a loan default. The renovation will introduce new amenities and upgrade existing facilities, with the first phase of improvements expected by 2027.",
+      "narrative": "A partnership between Cross Ocean Partners and Fuller Realty has acquired Eldridge Place, an 828,784-square-foot office campus located in Houston's Energy Corridor. The campus, which was 94% occupied at the time of sale, is anchored by a major engineering and construction firm and features a strong tenant mix. The property offers various amenities including a fitness center, pickleball courts, a deli, and a conference facility.",
       "data_points": {
         "property_type": "office",
-        "property_name": "The Colonnade",
-        "address": "15301 Dallas Pkwy, Addison, TX",
+        "property_name": "Eldridge Place",
+        "address": "12815 Eldridge Pl Dr, Houston, TX",
         "address_sourced_separately": true,
-        "size_sf": 1080000.0,
+        "size_sf": 828784.0,
         "size_units": null,
         "size_beds": null,
         "size_keys": null,
         "rental_rate": null,
         "sale_price": null,
         "loan_amount": null,
-        "total_project_cost": 100000000.0,
-        "occupancy": null,
+        "total_project_cost": null,
+        "occupancy": 94.0,
         "year_built": null,
-        "completion": "2027",
+        "completion": null,
         "phase_1": null,
         "total_project_all_phases": null,
         "original_plan": null,
-        "land_area_acres": 12.48,
+        "land_area_acres": null,
         "multi_asset_purchase": true,
-        "notable_features": "Three-tower office campus located along the Dallas North Tollway.",
-        "project_notes": "The property was previously owned by Fortis Property Group and entered receivership in 2024 after defaulting on a $223 million loan."
+        "notable_features": "Campus includes a fitness center, pickleball courts, a deli, and a conference facility.",
+        "project_notes": null
       },
       "companies_people": [
         {
@@ -941,28 +293,266 @@
         },
         {
           "label": "BUYER",
-          "firm_name": "Lincoln",
+          "firm_name": "Fuller Realty",
+          "people": []
+        }
+      ],
+      "tenants": [
+        "Fluor Corp.",
+        "SM Energy",
+        "Pemex Procurement International",
+        "BakerRisk",
+        "Certarus",
+        "Petrobras America"
+      ],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Harborcrest Industrial Signs 74,421 SF Lease in East Dallas",
+      "source": "REBusinessOnline",
+      "link": "https://rebusinessonline.com/harborcrest-industrial-signs-74421-sf-lease-in-east-dallas/",
+      "published": "Wed, 04 Nov 2026 16:22:58 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-11-04-007.html",
+      "transaction_type": "Lease",
+      "article_type": null,
+      "market": "Dallas, TX",
+      "narrative": "Harborcrest Industrial has signed a 74,421-square-foot lease for a single-tenant industrial building in East Dallas. The property, owned by Stonelake Capital Partners, offers significant clear heights and multiple loading doors, making it suitable for industrial operations. Brokers from Lee & Associates and Mercer Co. facilitated the transaction.",
+      "data_points": {
+        "property_type": "industrial",
+        "property_name": null,
+        "address": "8721 Forney Road, Dallas, TX",
+        "address_sourced_separately": false,
+        "size_sf": 74421.0,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": 2001,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": 5.8,
+        "multi_asset_purchase": false,
+        "notable_features": "Features 20-foot clear heights, 18 dock-high loading doors, and two grade-level loading doors.",
+        "project_notes": null
+      },
+      "companies_people": [
+        {
+          "label": "TENANT",
+          "firm_name": "Harborcrest Industrial",
           "people": []
         },
         {
-          "label": "SELLER",
-          "firm_name": "Fortis Property Group",
+          "label": "LANDLORD",
+          "firm_name": "Stonelake Capital Partners",
           "people": []
         },
         {
           "label": "LEASING AGENT",
-          "firm_name": "Lincoln",
+          "firm_name": "Lee & Associates",
           "people": [
             {
-              "name": "Jake Young",
+              "name": "Taylor Stell",
               "title": null
             },
             {
-              "name": "Christian Munoz",
+              "name": "Brett Lewis",
+              "title": null
+            }
+          ]
+        },
+        {
+          "label": "TENANT REP",
+          "firm_name": "Mercer Co.",
+          "people": [
+            {
+              "name": "Thomas Mercer",
+              "title": null
+            }
+          ]
+        }
+      ],
+      "tenants": [
+        "Harborcrest Industrial"
+      ],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Weitzman Buys 51,933 SF Shopping Center in Helotes, Texas",
+      "source": "REBusinessOnline",
+      "link": "https://rebusinessonline.com/weitzman-buys-51933-sf-shopping-center-in-helotes-texas/",
+      "published": "Wed, 04 Nov 2026 16:20:49 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-11-04-008.html",
+      "transaction_type": "Acquisition",
+      "article_type": null,
+      "market": "Helotes, TX",
+      "narrative": "A limited partnership managed by Weitzman has acquired Helotes Plaza, a 51,933-square-foot shopping center in Helotes, Texas. The property was fully leased at the time of sale, featuring a strong mix of national and local tenants. Weitzman's acquisition of this fully occupied asset underscores its strategy to invest in well-located, stable retail properties.",
+      "data_points": {
+        "property_type": "retail",
+        "property_name": "Helotes Plaza",
+        "address": "12952 Bandera Rd, Helotes, TX",
+        "address_sourced_separately": true,
+        "size_sf": 51933.0,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": 100.0,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": null,
+        "project_notes": null
+      },
+      "companies_people": [
+        {
+          "label": "BUYER",
+          "firm_name": "Weitzman",
+          "people": []
+        },
+        {
+          "label": "SELLER BROKER",
+          "firm_name": "SRS Real Estate Partners",
+          "people": []
+        },
+        {
+          "label": "BUYER BROKER",
+          "firm_name": "Weitzman",
+          "people": [
+            {
+              "name": "David Nicolson",
               "title": null
             },
             {
-              "name": "Hudson Dozier",
+              "name": "Stephen Schmidt",
+              "title": null
+            }
+          ]
+        }
+      ],
+      "tenants": [
+        "Dollar Tree",
+        "Advance Auto Parts",
+        "Dairy Queen",
+        "Harbor Health",
+        "Subway",
+        "Kumon",
+        "Momentum Physical Therapy"
+      ],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Northwind Group Provides $231M Construction Loan for Office-to-Residential Conversion Project in Manhattan",
+      "source": "REBusinessOnline",
+      "link": "https://rebusinessonline.com/northwind-group-provides-231m-construction-loan-for-office-to-residential-conversion-project-in-manhattan/",
+      "published": "Wed, 04 Nov 2026 16:00:48 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-11-04-009.html",
+      "transaction_type": "Loan",
+      "article_type": null,
+      "market": "New York City, NY",
+      "narrative": "Northwind Group has provided a $231 million construction loan for the office-to-residential conversion of 675 Third Avenue in Manhattan. The project, undertaken by a joint venture between Metro Loft Management and David Werner Real Estate Investments, will transform the 32-story office tower into as many as 450 new apartments, including a 25 percent affordable housing component. This conversion addresses the demand for residential supply in Midtown East.",
+      "data_points": {
+        "property_type": "multifamily",
+        "property_name": "675 Third Avenue",
+        "address": "675 Third Avenue, New York City, NY",
+        "address_sourced_separately": false,
+        "size_sf": null,
+        "size_units": 450,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": 231000000.0,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": "Office-to-residential conversion; includes a 25 percent affordable housing component.",
+        "project_notes": "The joint venture previously acquired the building in spring 2026."
+      },
+      "companies_people": [
+        {
+          "label": "LENDER",
+          "firm_name": "Northwind Group",
+          "people": []
+        },
+        {
+          "label": "SPONSOR",
+          "firm_name": "Metro Loft Management",
+          "people": []
+        },
+        {
+          "label": "SPONSOR",
+          "firm_name": "David Werner Real Estate Investments",
+          "people": []
+        },
+        {
+          "label": "ARCHITECT",
+          "firm_name": "Gensler",
+          "people": []
+        },
+        {
+          "label": "GENERAL CONTRACTOR",
+          "firm_name": "Collaborative Construction Management",
+          "people": []
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Horvath & Tremblay closes sale of two retail properties in Wisconsin",
+      "source": "REJournals",
+      "link": "https://rejournals.com/horvath-tremblay-closes-sale-of-two-retail-properties-in-wisconsin/?utm_source=rss&utm_medium=rss&utm_campaign=horvath-tremblay-closes-sale-of-two-retail-properties-in-wisconsin",
+      "published": "Wed, 04 Nov 2026 16:42:13 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-11-04-010.html",
+      "transaction_type": "Sale",
+      "article_type": null,
+      "market": "Wisconsin",
+      "narrative": "Horvath & Tremblay has facilitated the sale of two retail properties in Wisconsin for a combined total of $9.5 million. The New Berlin City Center, a fully leased 20,286-square-foot, eleven-tenant retail center, sold for $4.2 million. Separately, the Market Place at Sun Prairie, a 14,974-square-foot, seven-tenant retail plaza, was acquired for $5.3 million. Both properties are 100% occupied with strong tenant mixes and benefit from strategic locations within established commercial corridors, offering excellent visibility and regional connectivity.",
+      "data_points": null,
+      "companies_people": [
+        {
+          "label": "SELLER BROKER",
+          "firm_name": "Horvath & Tremblay",
+          "people": [
+            {
+              "name": "Marc Sabai",
+              "title": null
+            },
+            {
+              "name": "Mark Heidecke",
+              "title": null
+            }
+          ]
+        },
+        {
+          "label": "BUYER BROKER",
+          "firm_name": "Horvath & Tremblay",
+          "people": [
+            {
+              "name": "Mark Heidecke",
               "title": null
             }
           ]
@@ -973,109 +563,402 @@
       "market_intelligence": null
     },
     {
-      "title": "Duke Buys Discounted Durham Office Building",
-      "source": "Connect CRE",
-      "link": "https://www.connectcre.com/stories/duke-buys-discounted-durham-office-building/",
-      "published": "Tue, 03 Nov 2026 14:59:27 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-11-03-016.html",
-      "transaction_type": "Acquisition",
+      "title": "Mid-America Real Estate negotiates sale of 50,100-square-foot retail center in Flint",
+      "source": "REJournals",
+      "link": "https://rejournals.com/mid-america-real-estate-negotiates-sale-of-50100-square-foot-retail-center-in-flint/?utm_source=rss&utm_medium=rss&utm_campaign=mid-america-real-estate-negotiates-sale-of-50100-square-foot-retail-center-in-flint",
+      "published": "Wed, 04 Nov 2026 16:17:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-11-04-011.html",
+      "transaction_type": "Sale",
       "article_type": null,
-      "market": "Durham, NC",
-      "narrative": "DUMAC, Duke University's investment arm, acquired Erwin Square Plaza, a 238,792-square-foot office building in Durham, NC, for $30 million. The property, which was last sold in 2015 for $57 million, is fully leased, with Duke University itself serving as the anchor tenant, occupying 80% of the space. The university recently extended its lease for 10 years, with renewal options, for various administrative and health system offices.",
+      "market": "Flint, MI",
+      "narrative": "Mid-America Real Estate-Michigan, Inc. facilitated the sale of Buick City Center, a 50,100-square-foot retail center in Flint, Michigan. The property, which is 78% leased and features a strong tenant mix, is strategically located along Flint's main retail corridor near the I-75 interchange. Mid-America Real Estate represented both the buyer and the seller in this transaction.",
       "data_points": {
-        "property_type": "office",
-        "property_name": "Erwin Square Plaza",
-        "address": "2200 W. Main St, Durham, NC",
+        "property_type": "retail",
+        "property_name": "Buick City Center",
+        "address": "3620\u20133640 Miller Road, Flint, MI",
         "address_sourced_separately": false,
-        "size_sf": 238792.0,
+        "size_sf": 50100.0,
         "size_units": null,
         "size_beds": null,
         "size_keys": null,
         "rental_rate": null,
-        "sale_price": 30000000.0,
+        "sale_price": null,
         "loan_amount": null,
         "total_project_cost": null,
-        "occupancy": 100.0,
-        "year_built": 1989,
+        "occupancy": 78.0,
+        "year_built": null,
         "completion": null,
         "phase_1": null,
         "total_project_all_phases": null,
         "original_plan": null,
-        "land_area_acres": 7.42,
+        "land_area_acres": null,
         "multi_asset_purchase": false,
-        "notable_features": "Features a courtyard, fitness center, and four ground-floor restaurants.",
-        "project_notes": "Seller previously acquired the property for $57 million in 2015."
+        "notable_features": "Located along Flint's primary retail corridor, just west of the I-75 interchange.",
+        "project_notes": null
       },
       "companies_people": [
         {
-          "label": "BUYER",
-          "firm_name": "DUMAC",
-          "people": []
+          "label": "SELLER BROKER",
+          "firm_name": "Mid-America Real Estate-Michigan, Inc.",
+          "people": [
+            {
+              "name": "Andrew Bell",
+              "title": null
+            },
+            {
+              "name": "Eric Birnholtz",
+              "title": null
+            }
+          ]
         },
         {
-          "label": "SELLER",
-          "firm_name": "Lionstone Investments",
-          "people": []
-        },
-        {
-          "label": "TENANT",
-          "firm_name": "Duke University",
-          "people": []
+          "label": "BUYER BROKER",
+          "firm_name": "Mid-America Real Estate-Michigan, Inc.",
+          "people": [
+            {
+              "name": "Eric Unatin",
+              "title": null
+            }
+          ]
         }
       ],
       "tenants": [
-        "Duke University",
-        "Local 22 Kitchen and Bar",
-        "Guasaca South American Grill",
-        "Shuckin Shack",
-        "Parizade"
+        "Guitar Center",
+        "Epic Gymnastics",
+        "Ross Education"
       ],
       "financing": null,
       "market_intelligence": null
     },
     {
-      "title": "Colliers Arranges $71M Sale of Chicago Educational Facility",
-      "source": "Connect CRE",
-      "link": "https://www.connectcre.com/stories/colliers-arranges-71m-sale-of-chicago-educational-facility/",
-      "published": "Tue, 03 Nov 2026 14:58:52 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-11-03-017.html",
-      "transaction_type": "Sale",
+      "title": "ARCO, Woodbine Manufacturing mark groundbreaking of 345,200-square-foot manufacturing facility in Woodbine",
+      "source": "REJournals",
+      "link": "https://rejournals.com/arco-woodbine-manufacturing-mark-groundbreaking-of-345200-square-foot-manufacturing-facility-in-woodbine/?utm_source=rss&utm_medium=rss&utm_campaign=arco-woodbine-manufacturing-mark-groundbreaking-of-345200-square-foot-manufacturing-facility-in-woodbine",
+      "published": "Wed, 04 Nov 2026 15:25:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-11-04-012.html",
+      "transaction_type": "Construction",
       "article_type": null,
-      "market": "Chicago, IL",
-      "narrative": "Colliers facilitated the $70.6 million sale of a 102,000-square-foot educational facility in Chicago's Roosevelt Collection. The property, fully leased to the British International School of Chicago, South Loop, was acquired by W. P. Carey from EPR Properties. The transaction highlights strong investor interest in high-quality, mission-critical real estate with long-term lease structures and reputable operators.",
+      "market": "Woodbine, IA",
+      "narrative": "ARCO National Construction's Omaha division and Woodbine Manufacturing Co. have broken ground on a new 345,200-square-foot build-to-suit manufacturing facility in Woodbine, Iowa. This project represents a significant investment in Woodbine Manufacturing's long-standing operations in the area, designed to expand production and support for its hydraulic liftgate manufacturing.",
       "data_points": {
-        "property_type": "educational",
-        "property_name": "British International School of Chicago, South Loop",
-        "address": "161 W. 9th Street, Chicago, IL",
+        "property_type": "industrial",
+        "property_name": null,
+        "address": null,
         "address_sourced_separately": false,
-        "size_sf": 102000.0,
+        "size_sf": 345200.0,
         "size_units": null,
         "size_beds": null,
         "size_keys": null,
         "rental_rate": null,
-        "sale_price": 70600000.0,
+        "sale_price": null,
         "loan_amount": null,
         "total_project_cost": null,
-        "occupancy": 100.0,
-        "year_built": 2015,
+        "occupancy": null,
+        "year_built": null,
         "completion": null,
         "phase_1": null,
         "total_project_all_phases": null,
         "original_plan": null,
-        "land_area_acres": 2.33,
+        "land_area_acres": null,
         "multi_asset_purchase": false,
-        "notable_features": "Purpose-built facility with modern academic, arts, and athletic facilities.",
-        "project_notes": "Acquired in September 2026. Fully occupied under a long-term absolute net lease."
+        "notable_features": "Includes 40,250 SF of office space, 2,200 SF mezzanine, 24-foot clear height, six dock positions, two drive-thru doors, tilt-up concrete construction, and an insulated metal panel wash bay.",
+        "project_notes": null
+      },
+      "companies_people": [
+        {
+          "label": "GENERAL CONTRACTOR",
+          "firm_name": "ARCO National Construction",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Woodbine Manufacturing Co.",
+          "people": []
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "CBRE closes sale of 4.66-acre parcel in Fitchburg",
+      "source": "REJournals",
+      "link": "https://rejournals.com/cbre-closes-sale-of-4-66-acre-parcel-in-fitchburg/?utm_source=rss&utm_medium=rss&utm_campaign=cbre-closes-sale-of-4-66-acre-parcel-in-fitchburg",
+      "published": "Wed, 04 Nov 2026 15:14:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-11-04-013.html",
+      "transaction_type": "Acquisition",
+      "article_type": null,
+      "market": "Fitchburg, WI",
+      "narrative": "Trilogy Real Estate Fitchburg LLC has acquired a 4.66-acre parcel at the intersection of County Highway MM and U.S. Highway 14 in Fitchburg, Wisconsin, for $2.23 million. This purchase marks Trilogy's third location in the Madison market, expanding its presence beyond Waunakee and Sun Prairie. The site is part of the larger Syncopation mixed-use development, which will include multifamily apartments, commercial space, and a senior living campus.",
+      "data_points": {
+        "property_type": "land",
+        "property_name": null,
+        "address": null,
+        "address_sourced_separately": false,
+        "size_sf": null,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": 2230000.0,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": 4.66,
+        "multi_asset_purchase": false,
+        "notable_features": "Located minutes south of Madison, providing convenient access to parks, retail, and major transportation corridors.",
+        "project_notes": "The parcel is part of the larger planned Syncopation development, a mixed-use neighborhood featuring Class A multifamily apartments, 12,000 square feet of commercial space, various residential housing options, and the Trilogy Senior Living Campus."
       },
       "companies_people": [
         {
           "label": "BUYER",
-          "firm_name": "W. P. Carey",
+          "firm_name": "Trilogy Real Estate Fitchburg LLC",
           "people": []
         },
         {
           "label": "SELLER",
-          "firm_name": "EPR Properties",
+          "firm_name": "Fairchild Development LLC",
+          "people": []
+        },
+        {
+          "label": "BUYER BROKER",
+          "firm_name": "CBRE",
+          "people": [
+            {
+              "name": "Gretchen Richards",
+              "title": null
+            },
+            {
+              "name": "Matson Holbrook",
+              "title": null
+            },
+            {
+              "name": "Sean Beuche",
+              "title": null
+            }
+          ]
+        },
+        {
+          "label": "SELLER BROKER",
+          "firm_name": "Acres Realty",
+          "people": [
+            {
+              "name": "Kevin Visel",
+              "title": null
+            }
+          ]
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Oxford Partners brokers sale of 57,396-square-foot building in Houston",
+      "source": "REJournals",
+      "link": "https://rejournals.com/oxford-partners-brokers-sale-of-57396-square-foot-building-in-houston/?utm_source=rss&utm_medium=rss&utm_campaign=oxford-partners-brokers-sale-of-57396-square-foot-building-in-houston",
+      "published": "Wed, 04 Nov 2026 14:32:00 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-11-04-014.html",
+      "transaction_type": "Sale",
+      "article_type": null,
+      "market": "Houston, TX",
+      "narrative": "Oxford Partners has brokered the sale of a 57,396-square-foot commercial building located at 1751-1765 Stebbins Drive in Houston, Texas. The transaction involved an undisclosed seller and a buyer represented by Outpost Partners and ICO Commercial.",
+      "data_points": {
+        "property_type": "commercial",
+        "property_name": null,
+        "address": "1751-1765 Stebbins Drive, Houston, TX",
+        "address_sourced_separately": false,
+        "size_sf": 57396.0,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": null,
+        "project_notes": null
+      },
+      "companies_people": [
+        {
+          "label": "SELLER BROKER",
+          "firm_name": "Oxford Partners",
+          "people": [
+            {
+              "name": "Kimberly Hillman",
+              "title": null
+            }
+          ]
+        },
+        {
+          "label": "BUYER BROKER",
+          "firm_name": "Outpost Partners",
+          "people": [
+            {
+              "name": "David Durham",
+              "title": null
+            }
+          ]
+        },
+        {
+          "label": "BUYER BROKER",
+          "firm_name": "ICO Commercial",
+          "people": [
+            {
+              "name": "Tawnya Dornak",
+              "title": null
+            }
+          ]
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Industrial Employment Emerges as Key Demand Driver of CRE Demand",
+      "source": "Connect CRE",
+      "link": "https://www.connectcre.com/stories/industrial-employment-emerges-as-key-demand-driver-of-cre-demand/",
+      "published": "Wed, 04 Nov 2026 16:02:07 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-11-04-015.html",
+      "transaction_type": null,
+      "article_type": "Market Research / CRE Demand Index",
+      "market": null,
+      "narrative": "The National Association of Realtors' (NAR) third-quarter 2026 Commercial Real Estate (CRE) Demand Index highlights industrial employment growth as a significant driver of CRE demand in specific markets. While national industrial employment remained stable, robust job creation in manufacturing, transportation, and warehousing sectors boosted demand in cities like San Antonio, Seattle, and Nashville. The index, which tracks 306 metropolitan areas, found 143 markets with demand drivers above the national average, with St. George, UT, Huntsville, AL, and Fayetteville-Springdale-Rogers, AR, leading the rankings. This localized employment growth is reshaping the landscape of commercial real estate demand.",
+      "data_points": null,
+      "companies_people": [
+        {
+          "label": "OWNER",
+          "firm_name": "National Association of Realtors",
+          "people": [
+            {
+              "name": "Nadia Evangelou",
+              "title": "Principal Economist & Director of Real Estate Research"
+            }
+          ]
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": "Industrial employment remained relatively flat nationally in Q3 2026, but stronger job growth in manufacturing, transportation, and warehousing sectors drove CRE demand in specific markets. The CRE Demand Index tracks 306 metropolitan areas, with 143 scoring above 100, indicating stronger demand drivers."
+    },
+    {
+      "title": "AI Credit Hedge Is Flashing Red, but Index Isn\u2019t Listening",
+      "source": "Connect CRE",
+      "link": "https://www.connectcre.com/stories/ai-credit-hedge-is-flashing-red-but-index-isnt-listening/",
+      "published": "Wed, 04 Nov 2026 15:08:56 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-11-04-016.html",
+      "transaction_type": null,
+      "article_type": "Opinion / Market Commentary",
+      "market": null,
+      "narrative": "This article argues that the credit default swap (CDS) market is signaling significant credit risk for major AI-spending technology companies, a warning that is not being reflected in the broader CDX IG credit index. The author highlights record widening in single-name CDS for hyperscalers and chipmakers, driven by massive debt issuance to fund data center buildouts and, in some cases, negative free cash flow. This concentrated pain is diluted in the diversified CDX IG index, leading to a disconnect where the hedge (index) is tightening while the underlying risk (single names) is blowing out. The author advises investors to be aware of their exposure to tech and AI-linked paper within investment-grade funds, suggesting that the index may eventually catch up to the single-name CDS signals.",
+      "data_points": null,
+      "companies_people": [],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Microsoft Pursuing $340M Atlanta-Area Data Center",
+      "source": "Connect CRE",
+      "link": "https://www.connectcre.com/stories/microsoft-pursuing-340m-atlanta-area-data-center/",
+      "published": "Wed, 04 Nov 2026 14:48:14 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-11-04-017.html",
+      "transaction_type": "Development",
+      "article_type": null,
+      "market": "Atlanta, GA",
+      "narrative": "Microsoft is planning a new $340 million data center campus in Floyd County, near Atlanta, comprising three buildings totaling nearly 1.7 million square feet. The project is expected to create 150 jobs and is slated for completion in 2032. This development continues Microsoft's significant investment in Georgia's data center infrastructure.",
+      "data_points": {
+        "property_type": "data center",
+        "property_name": null,
+        "address": null,
+        "address_sourced_separately": false,
+        "size_sf": 1700000.0,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": null,
+        "loan_amount": null,
+        "total_project_cost": 340000000.0,
+        "occupancy": null,
+        "year_built": null,
+        "completion": "2032",
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": "Three-building campus, expected to employ 150 people, will use a maximum of 13,500 gallons of water per day.",
+        "project_notes": null
+      },
+      "companies_people": [
+        {
+          "label": "DEVELOPER/SPONSOR",
+          "firm_name": "Microsoft",
+          "people": []
+        }
+      ],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Dorsey Development Adds Gulf Breeze Retail Center to Gulf Coast Holdings",
+      "source": "Connect CRE",
+      "link": "https://www.connectcre.com/stories/dorsey-development-adds-gulf-breeze-retail-center-to-gulf-coast-holdings/",
+      "published": "Wed, 04 Nov 2026 14:29:11 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-11-04-018.html",
+      "transaction_type": "Acquisition",
+      "article_type": null,
+      "market": "Gulf Breeze, FL",
+      "narrative": "Dorsey Development has acquired the Live Oak Shopping Center in Gulf Breeze, FL, from Exposition Properties for $14 million. The 107,065-square-foot retail center is strategically located near Pensacola Bay and the Live Oak Nature Preserve. The property is anchored by a dual-branded retailer occupying a significant portion of the space at below-market rents, presenting a strong opportunity for future rental growth.",
+      "data_points": {
+        "property_type": "retail",
+        "property_name": "Live Oak Shopping Center",
+        "address": "1151 Gulf Breeze Parkway, Gulf Breeze, FL",
+        "address_sourced_separately": false,
+        "size_sf": 107065.0,
+        "size_units": null,
+        "size_beds": null,
+        "size_keys": null,
+        "rental_rate": null,
+        "sale_price": 14000000.0,
+        "loan_amount": null,
+        "total_project_cost": null,
+        "occupancy": null,
+        "year_built": null,
+        "completion": null,
+        "phase_1": null,
+        "total_project_all_phases": null,
+        "original_plan": null,
+        "land_area_acres": null,
+        "multi_asset_purchase": false,
+        "notable_features": "Anchored by a dual-branded retailer; surrounded by Pensacola Bay and Live Oak Nature Preserve.",
+        "project_notes": null
+      },
+      "companies_people": [
+        {
+          "label": "BUYER",
+          "firm_name": "Dorsey Development",
+          "people": []
+        },
+        {
+          "label": "SELLER",
+          "firm_name": "Exposition Properties",
           "people": []
         },
         {
@@ -1083,105 +966,97 @@
           "firm_name": "Colliers",
           "people": [
             {
-              "name": "Todd Noel",
+              "name": "Brad Peterson",
               "title": null
             },
             {
-              "name": "Mindy Korth",
+              "name": "Whitaker Leonhardt",
               "title": null
-            },
+            }
+          ]
+        },
+        {
+          "label": "BUYER BROKER",
+          "firm_name": "Kuebel Realty Company",
+          "people": [
             {
-              "name": "Kyle Campbell",
+              "name": "Chris Dozier",
               "title": null
-            },
+            }
+          ]
+        },
+        {
+          "label": "LENDER",
+          "firm_name": "United Community Bank",
+          "people": [
             {
-              "name": "David Burden",
-              "title": null
-            },
-            {
-              "name": "Josh McGee",
-              "title": null
-            },
-            {
-              "name": "Austin Little",
-              "title": null
-            },
-            {
-              "name": "Christian Rahe",
-              "title": null
-            },
-            {
-              "name": "Jack Johnson",
+              "name": "Michael Matthis",
               "title": null
             }
           ]
         }
       ],
       "tenants": [
-        "British International School of Chicago, South Loop"
+        "Bealls",
+        "Home Centric"
       ],
       "financing": null,
       "market_intelligence": null
     },
     {
-      "title": "TruAmerica Pays $120M for Perimeter Center Rental Community",
+      "title": "Coral Gables Pays $24M for 53K-SF MOB",
       "source": "Connect CRE",
-      "link": "https://www.connectcre.com/stories/truamerica-pays-120m-for-perimeter-center-rental-community/",
-      "published": "Tue, 03 Nov 2026 14:34:33 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-11-03-018.html",
+      "link": "https://www.connectcre.com/stories/coral-gables-pays-24m-for-53k-sf-mob/",
+      "published": "Wed, 04 Nov 2026 14:12:36 +0000",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-11-04-019.html",
       "transaction_type": "Acquisition",
       "article_type": null,
-      "market": "Atlanta, GA",
-      "narrative": "TruAmerica Multifamily has acquired Bricks at Perimeter Center, a 446-unit garden-style apartment community in Atlanta's Perimeter Center submarket, for $120 million from Clark Ventures. The new owner plans to implement a premium finish package across nearly all units, including quartz countertops, stainless steel appliances, and updated flooring and cabinetry. This acquisition expands TruAmerica's Atlanta portfolio and contributes to the firm's significant acquisition volume for the year.",
+      "market": "Coral Gables, FL",
+      "narrative": "The City of Coral Gables acquired a 53,000-square-foot medical office building at 475\u2013495 Biltmore Way from ShareMD for $24 million. This acquisition gives the City control of the entire block, which is shared with Coral Gables City Hall, providing flexibility for future planning and maximizing site utility for residents. ShareMD's property management affiliate, Medicus Asset Management LLC, will continue to manage the building for an initial one-year term.",
       "data_points": {
-        "property_type": "multifamily",
-        "property_name": "Bricks at Perimeter Center",
-        "address": null,
+        "property_type": "medical office",
+        "property_name": null,
+        "address": "475\u2013495 Biltmore Way, Coral Gables, FL",
         "address_sourced_separately": false,
-        "size_sf": null,
-        "size_units": 446,
+        "size_sf": 53000.0,
+        "size_units": null,
         "size_beds": null,
         "size_keys": null,
         "rental_rate": null,
-        "sale_price": 120000000.0,
+        "sale_price": 24000000.0,
         "loan_amount": null,
         "total_project_cost": null,
-        "occupancy": null,
-        "year_built": 2007,
+        "occupancy": 94.0,
+        "year_built": null,
         "completion": null,
         "phase_1": null,
         "total_project_all_phases": null,
         "original_plan": null,
         "land_area_acres": null,
         "multi_asset_purchase": false,
-        "notable_features": "Garden-style apartment community.",
-        "project_notes": "Seller Clark Ventures previously acquired the property for $69.5 million in 2016."
+        "notable_features": "Property shares its block with Coral Gables City Hall and the City\u2019s Planning and Zoning Department.",
+        "project_notes": "The City now controls the entire block, allowing for future growth planning and maximizing site utility."
       },
       "companies_people": [
         {
           "label": "BUYER",
-          "firm_name": "TruAmerica Multifamily",
-          "people": [
-            {
-              "name": "Wes LaBar",
-              "title": null
-            }
-          ]
+          "firm_name": "City of Coral Gables",
+          "people": []
         },
         {
           "label": "SELLER",
-          "firm_name": "Clark Ventures",
+          "firm_name": "ShareMD",
           "people": []
         },
         {
-          "label": "SELLER BROKER",
-          "firm_name": "CBRE",
-          "people": [
-            {
-              "name": "Kevin Geiger",
-              "title": null
-            }
-          ]
+          "label": "LEASING AGENT",
+          "firm_name": "Blanca Commercial Real Estate",
+          "people": []
+        },
+        {
+          "label": "OWNER",
+          "firm_name": "Medicus Asset Management LLC",
+          "people": []
         }
       ],
       "tenants": [],
@@ -1189,15 +1064,15 @@
       "market_intelligence": null
     },
     {
-      "title": "Former Wells Fargo Center Tower Revamped, Renamed",
-      "source": "Connect CRE",
-      "link": "https://www.connectcre.com/stories/former-wells-fargo-center-tower-revamped-renamed/",
-      "published": "Tue, 03 Nov 2026 14:10:02 +0000",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-11-03-019.html",
-      "transaction_type": "Promotion",
-      "article_type": null,
-      "market": null,
-      "narrative": "",
+      "title": "Texas Flips Blue, Putting Data Center Boom On Notice",
+      "source": "Bisnow Latest News Feed",
+      "link": "https://www.bisnow.com/news/houston/commercial-real-estate/texas-flips-blue-putting-data-center-boom-on-notice",
+      "published": "Wed, 04 Nov 2026 00:40:57 -0500",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-11-04-020.html",
+      "transaction_type": null,
+      "article_type": "Opinion / Market Commentary",
+      "market": "Texas",
+      "narrative": "The election of Democrats to the governorship and a U.S. Senate seat in Texas is expected to introduce new regulatory considerations for the state's burgeoning data center industry. This shift in political leadership could lead to increased scrutiny and potential new regulations affecting data center operations and development within the state.",
       "data_points": null,
       "companies_people": [],
       "tenants": [],
@@ -1205,26 +1080,21 @@
       "market_intelligence": null
     },
     {
-      "title": "Kast Construction Names New CEO: The South Florida Deal Sheet",
+      "title": "Hynes Vows To Bring Property Tax Stability As New Cook County Assessor",
       "source": "Bisnow Latest News Feed",
-      "link": "https://www.bisnow.com/news/south-florida/deal-sheet/kast-construction-names-new-ceo-the-south-florida-deal-sheet",
-      "published": "Mon, 02 Nov 2026 20:23:23 -0500",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-11-03-020.html",
-      "transaction_type": "Promotion",
-      "article_type": null,
-      "market": null,
-      "narrative": "",
+      "link": "https://www.bisnow.com/news/chicago/commercial-real-estate/hynes-vows-property-tax-stability-new-cook-county-assessor",
+      "published": "Wed, 04 Nov 2026 00:04:58 -0500",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-11-04-021.html",
+      "transaction_type": null,
+      "article_type": "Non-CRE / Political & Crime News",
+      "market": "Chicago, IL",
+      "narrative": "Pat Hynes has been elected as the new Cook County Assessor, with a commitment to bringing stability to property taxes. This election was part of a broader political landscape that saw Governor JB Pritzker secure a third term and Juliana Stratton achieve a historic Senate victory.",
       "data_points": null,
       "companies_people": [
         {
-          "label": "PROMOTED",
-          "firm_name": "Kast Construction",
-          "people": [
-            {
-              "name": "Mike Neal",
-              "title": "CEO"
-            }
-          ]
+          "label": "OWNER",
+          "firm_name": "Cook County",
+          "people": []
         }
       ],
       "tenants": [],
@@ -1232,26 +1102,42 @@
       "market_intelligence": null
     },
     {
-      "title": "Golden Apartment Building Sells For $62M To Chicago Company",
+      "title": "Donalds Makes History With Win For Florida Governor, Voters OK Property Tax Amendment",
       "source": "Bisnow Latest News Feed",
-      "link": "https://www.bisnow.com/news/denver/multifamily/golden-apartment-building-sells-for-62m-to-chicago-company",
-      "published": "Mon, 02 Nov 2026 20:17:58 -0500",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-11-03-021.html",
+      "link": "https://www.bisnow.com/news/south-florida/commercial-real-estate/donalds-wins-race-florida-governor-voters-ok-property-tax-amendment",
+      "published": "Tue, 03 Nov 2026 23:28:21 -0500",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-11-04-022.html",
+      "transaction_type": null,
+      "article_type": "Non-CRE / Political & Crime News",
+      "market": "Florida",
+      "narrative": "By focusing on affordability, Donalds made history as Florida's first Black governor. Voters also approved a property tax amendment.",
+      "data_points": null,
+      "companies_people": [],
+      "tenants": [],
+      "financing": null,
+      "market_intelligence": null
+    },
+    {
+      "title": "Developer Picks Up Industrial Site, Plots 1.3M SF Development: The Chicago Deal Sheet",
+      "source": "Bisnow Latest News Feed",
+      "link": "https://www.bisnow.com/news/chicago/deal-sheet/logistics-property-co-plots-1-3m-sf-joliet-development-chicago-deal-sheet",
+      "published": "Tue, 03 Nov 2026 21:59:21 -0500",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-11-04-023.html",
       "transaction_type": "Acquisition",
       "article_type": null,
-      "market": "Golden, CO",
-      "narrative": "Draper and Kramer, a Chicago-based firm, has acquired a 120-unit multifamily complex in Golden, Colorado, for $62 million. This transaction reflects a notable shift in the current multifamily market dynamics.",
+      "market": "Joliet, IL",
+      "narrative": "Logistics Property Co. has acquired a 74-acre industrial development site in Joliet, IL, marking its fourth such acquisition in the Chicago area within the past year. The company plans to develop a substantial 1.3 million-square-foot industrial facility on the newly acquired parcel, indicating continued strong investment in the region's logistics infrastructure.",
       "data_points": {
-        "property_type": "multifamily",
+        "property_type": "industrial",
         "property_name": null,
-        "address": null,
+        "address": "23960 S. Houbolt Road, Joliet, IL",
         "address_sourced_separately": false,
-        "size_sf": null,
-        "size_units": 120,
+        "size_sf": 1300000.0,
+        "size_units": null,
         "size_beds": null,
         "size_keys": null,
         "rental_rate": null,
-        "sale_price": 62000000.0,
+        "sale_price": null,
         "loan_amount": null,
         "total_project_cost": null,
         "occupancy": null,
@@ -1260,7 +1146,7 @@
         "phase_1": null,
         "total_project_all_phases": null,
         "original_plan": null,
-        "land_area_acres": null,
+        "land_area_acres": 74.0,
         "multi_asset_purchase": false,
         "notable_features": null,
         "project_notes": null
@@ -1268,7 +1154,7 @@
       "companies_people": [
         {
           "label": "BUYER",
-          "firm_name": "Draper and Kramer",
+          "firm_name": "Logistics Property Co.",
           "people": []
         }
       ],
@@ -1277,42 +1163,26 @@
       "market_intelligence": null
     },
     {
-      "title": "New Opportunity Zones May Help Finish California Projects, Not Start Them",
+      "title": "BioMed Sells Cambridge Office At A Loss: The Boston Deal Sheet",
       "source": "Bisnow Latest News Feed",
-      "link": "https://www.bisnow.com/news/los-angeles/development/new-opportunity-zones-may-help-california-finish-projects-not-start-them",
-      "published": "Mon, 02 Nov 2026 20:10:11 -0500",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-11-03-022.html",
-      "transaction_type": null,
-      "article_type": "Opinion / Market Commentary",
-      "market": null,
-      "narrative": "This article suggests that Opportunity Zones are more effective in providing the final push for real estate projects nearing completion rather than initiating new developments. The author argues that while Opportunity Zones offer significant tax benefits, they are not sufficient to overcome major obstacles such as high construction costs, which often deter projects from breaking ground in the first place. The core argument is that these zones serve as a valuable accelerant for existing projects but do not fundamentally alter the economic viability of new, speculative ventures facing substantial upfront costs.",
-      "data_points": null,
-      "companies_people": [],
-      "tenants": [],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Ceutical Laboratories To Move HQ To Lewisville: The DFW Deal Sheet",
-      "source": "Bisnow Latest News Feed",
-      "link": "https://www.bisnow.com/news/dallas-ft-worth/deal-sheet/ceutical-laboratories-to-move-hq-to-lewisville-the-dfw-deal-sheet",
-      "published": "Mon, 02 Nov 2026 20:01:12 -0500",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-11-03-023.html",
-      "transaction_type": "Lease",
+      "link": "https://www.bisnow.com/news/boston/deal-sheet/biomed-sells-kendall-square-office-at-loss-boston-deal-sheet",
+      "published": "Tue, 03 Nov 2026 21:36:42 -0500",
+      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-11-04-024.html",
+      "transaction_type": "Sale",
       "article_type": null,
-      "market": "Lewisville, TX",
-      "narrative": "Ceutical Laboratories Inc. has signed a long-term lease for over 33,000 square feet at Waters Ridge Tech Center II in Lewisville, Texas, relocating its headquarters to the new facility. This move signifies the company's strategic decision to establish its main operational base in a larger, dedicated space.",
+      "market": "Cambridge, MA",
+      "narrative": "BioMed Realty Trust has sold an office building in Cambridge, MA, for $22.5 million, representing a loss compared to its 2012 acquisition price. The transaction highlights current market dynamics for office assets in the region. Additionally, a development site in Newton and a hotel in downtown Boston were also reported to have new owners in separate transactions.",
       "data_points": {
-        "property_type": "industrial",
-        "property_name": "Waters Ridge Tech Center II",
-        "address": "2777 Lake Vista Dr, Lewisville, TX",
-        "address_sourced_separately": true,
-        "size_sf": 33000.0,
+        "property_type": "office",
+        "property_name": null,
+        "address": null,
+        "address_sourced_separately": false,
+        "size_sf": null,
         "size_units": null,
         "size_beds": null,
         "size_keys": null,
         "rental_rate": null,
-        "sale_price": null,
+        "sale_price": 22500000.0,
         "loan_amount": null,
         "total_project_cost": null,
         "occupancy": null,
@@ -1324,59 +1194,12 @@
         "land_area_acres": null,
         "multi_asset_purchase": false,
         "notable_features": null,
-        "project_notes": null
+        "project_notes": "Property was previously acquired by BioMed in 2012 for $23.5 million."
       },
       "companies_people": [
         {
-          "label": "TENANT",
-          "firm_name": "Ceutical Laboratories Inc.",
-          "people": []
-        }
-      ],
-      "tenants": [
-        "Ceutical Laboratories Inc."
-      ],
-      "financing": null,
-      "market_intelligence": null
-    },
-    {
-      "title": "Former Randolph Event Venue Planned For 200-Room Hotel, Theater",
-      "source": "Bisnow Latest News Feed",
-      "link": "https://www.bisnow.com/news/boston/hotel/former-randolph-event-space-proposed-200-room-hotel-redevelopment",
-      "published": "Mon, 02 Nov 2026 19:51:21 -0500",
-      "page_url": "https://altmanr91.github.io/CRE-News-Reader/articles/2026-11-03-024.html",
-      "transaction_type": "Development",
-      "article_type": null,
-      "market": "Randolph, MA",
-      "narrative": "Core Investments is planning to develop a 200-room hotel and dinner theater on the former site of Lombardo's function hall in Randolph. This project aims to transform the vacant property into a new hospitality and entertainment venue.",
-      "data_points": {
-        "property_type": "hotel",
-        "property_name": null,
-        "address": null,
-        "address_sourced_separately": false,
-        "size_sf": null,
-        "size_units": null,
-        "size_beds": null,
-        "size_keys": 200,
-        "rental_rate": null,
-        "sale_price": null,
-        "loan_amount": null,
-        "total_project_cost": null,
-        "occupancy": null,
-        "year_built": null,
-        "completion": null,
-        "phase_1": null,
-        "total_project_all_phases": null,
-        "original_plan": null,
-        "land_area_acres": null,
-        "multi_asset_purchase": false,
-        "notable_features": "Includes a dinner theater component.",
-        "project_notes": "Site was formerly home to Lombardo's function hall."
-      },
-      "companies_people": [
-        {
-          "label": "DEVELOPER/SPONSOR",
-          "firm_name": "Core Investments",
+          "label": "SELLER",
+          "firm_name": "BioMed Realty Trust",
           "people": []
         }
       ],
